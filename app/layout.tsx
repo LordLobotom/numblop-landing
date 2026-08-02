@@ -1,15 +1,10 @@
 import type { Metadata, Viewport } from 'next'
-import { Fredoka, Baloo_2 } from 'next/font/google'
+import { Baloo_2 } from 'next/font/google'
 import { ThemeProvider } from '@/components/theme-provider'
 import './globals.css'
 
-const fredoka = Fredoka({
-  subsets: ['latin', 'latin-ext'],
-  variable: '--font-fredoka',
-})
-
-// Google's Fredoka has no č ď ě ň ř ť ů glyphs; Baloo 2 is the closest
-// rounded face with full Czech coverage and fills in per-glyph.
+// Baloo 2 instead of the game's Fredoka: closest rounded match with
+// full Czech glyph coverage (Fredoka lacks č ď ě ň ř ť ů).
 const baloo = Baloo_2({
   subsets: ['latin', 'latin-ext'],
   variable: '--font-baloo',
@@ -30,7 +25,7 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="cs" suppressHydrationWarning>
-      <body className={`${fredoka.variable} ${baloo.variable} font-sans antialiased`}>
+      <body className={`${baloo.variable} font-sans antialiased`}>
         <ThemeProvider
           attribute="class"
           defaultTheme="system"

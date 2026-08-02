@@ -1,0 +1,87 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --background: #fdfef8;
+  --foreground: #1d2513;
+  --card: #ffffff;
+  --card-foreground: #1d2513;
+  --popover: #ffffff;
+  --popover-foreground: #1d2513;
+  --primary: #b9ef45;
+  --primary-foreground: #1a2e05;
+  --secondary: #eef6d8;
+  --secondary-foreground: #2c3a14;
+  --muted: #f2f6e8;
+  --muted-foreground: #5a6547;
+  --accent: #4d7c0f;
+  --accent-foreground: #ffffff;
+  --destructive: #b42318;
+  --destructive-foreground: #ffffff;
+  --border: #dfe7cb;
+  --input: #dfe7cb;
+  --ring: #4d7c0f;
+  --radius: 1rem;
+}
+
+.dark {
+  --background: #12160a;
+  --foreground: #e9eedb;
+  --card: #1a2110;
+  --card-foreground: #e9eedb;
+  --popover: #1a2110;
+  --popover-foreground: #e9eedb;
+  --primary: #b9ef45;
+  --primary-foreground: #1a2e05;
+  --secondary: #232c15;
+  --secondary-foreground: #dce5c6;
+  --muted: #1e2612;
+  --muted-foreground: #a6b08d;
+  --accent: #cdf56f;
+  --accent-foreground: #1a2e05;
+  --destructive: #f97066;
+  --destructive-foreground: #12160a;
+  --border: #2d3719;
+  --input: #2d3719;
+  --ring: #b9ef45;
+}
+
+@theme inline {
+  --font-sans: var(--font-fredoka), "Segoe UI", "Noto Sans", system-ui, sans-serif;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+}

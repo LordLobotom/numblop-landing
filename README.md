@@ -13,7 +13,13 @@ an adaptive multiplication-practice game for children built in Godot
   falling back to Czech.
 - Dark/light mode via `next-themes` (class strategy, system default).
 - All copy lives in `lib/i18n/dictionary.ts` as typed CZ+EN dictionaries —
-  a missing key in either language is a compile error.
+  a missing key in either language is a compile error. The privacy policy is
+  kept separately in `lib/i18n/privacy.ts` (rendered at `/cs/privacy/` and
+  `/en/privacy/`) because it is long and rarely touched.
+- Imagery comes from the game repo via `tools/prepare-assets.mjs`: store
+  posters (`store/posts/`) and in-game screenshots (`store/screenshots/`) both
+  ship per language, so `public/posts/` and `public/screenshots/` hold a
+  `-cs`/`-en` pair per image.
 - Brand: lime `#b9ef45` (solid fills only on light backgrounds — it fails
   contrast as text on white), Fredoka font with `latin-ext` for Czech diacritics.
 

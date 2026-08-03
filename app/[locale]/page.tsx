@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { Hero } from '@/components/landing/hero'
+import { Highlights } from '@/components/landing/highlights'
 import { HowItWorks } from '@/components/landing/how-it-works'
 import { WhyAdaptive } from '@/components/landing/why-adaptive'
 import { Screenshots } from '@/components/landing/screenshots'
@@ -54,9 +55,10 @@ export default async function LocalePage({
   return (
     <main>
       <Hero dict={dict} />
+      <Highlights dict={dict} locale={locale} />
       <HowItWorks dict={dict} />
       <WhyAdaptive dict={dict} />
-      <Screenshots dict={dict} />
+      <Screenshots dict={dict} locale={locale} />
     </main>
   )
 }

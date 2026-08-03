@@ -28,7 +28,7 @@ export default async function LocaleLayout({
       <LocaleLang locale={locale} />
       <SiteHeader locale={locale} dict={dict} />
       {children}
-      <SiteFooter dict={dict} />
+      <SiteFooter dict={dict} locale={locale} />
     </>
   )
 }

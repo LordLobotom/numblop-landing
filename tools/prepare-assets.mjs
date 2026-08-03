@@ -8,10 +8,12 @@ const numblopRepo = process.argv[2] ?? path.resolve(import.meta.dirname, '../../
 const root = path.resolve(import.meta.dirname, '..')
 
 const branding = (f) => path.join(numblopRepo, 'ui/branding', f)
-const mockup = (f) => path.join(numblopRepo, 'docs', f)
+const shot = (f) => path.join(numblopRepo, 'store/screenshots', f)
+const post = (f) => path.join(numblopRepo, 'store/posts', f)
 const pub = (f) => path.join(root, 'public', f)
 
 await mkdir(pub('screenshots'), { recursive: true })
+await mkdir(pub('posts'), { recursive: true })
 
 const wordmark = sharp(branding('numblop_wordmark.png')).trim()
 
@@ -52,16 +54,50 @@ await sharp({
   .png({ compressionLevel: 9 })
   .toFile(pub('og-image.png'))
 
+// Real in-game captures (store/screenshots), one set per language. The order
+// here defines the order of `dict.screenshots.captions`.
 const screenshots = [
-  ['mockup_main_screen.png', 'main-screen.png'],
-  ['mockup_map.png', 'map.png'],
-  ['mockup_arena.png', 'arena.png'],
+  ['home_accessories', 'home'],
+  ['map', 'map'],
+  ['choice', 'choice'],
+  ['keypad', 'keypad'],
+  ['reward', 'reward'],
+  ['cosmetics', 'cosmetics'],
 ]
 for (const [src, dest] of screenshots) {
-  await sharp(mockup(src))
-    .resize({ width: 480 })
-    .png({ compressionLevel: 9, palette: true })
-    .toFile(pub(path.join('screenshots', dest)))
+  for (const locale of ['cs', 'en']) {
+    await sharp(shot(path.join(locale, `${src}.png`)))
+      .resize({ width: 540 })
+      .webp({ quality: 82 })
+      .toFile(pub(path.join('screenshots', `${dest}-${locale}.webp`)))
+  }
 }
+
+// Store posters (store/posts) carry baked-in copy, so each one ships per locale.
+// The game repo suffixes Czech assets with `_cz`; the site uses the `cs` locale code.
+const posters = [
+  ['multiplic_play', 'multiplication-fun'],
+  ['learn_progress', 'step-by-step'],
+  ['mistake_helps', 'mistakes-help'],
+  ['mottivation_fun', 'rewards'],
+]
+for (const [src, dest] of posters) {
+  for (const [repoLang, locale] of [
+    ['cz', 'cs'],
+    ['en', 'en'],
+  ]) {
+    await sharp(post(`${src}_${repoLang}.png`))
+      .resize({ width: 720 })
+      .webp({ quality: 82 })
+      .toFile(pub(path.join('posts', `${dest}-${locale}.webp`)))
+  }
+}
+
+// Transparent mascot cutout used as the hero companion.
+await sharp(post('numblop.png'))
+  .trim()
+  .resize({ width: 440, fit: 'inside' })
+  .png({ compressionLevel: 9 })
+  .toFile(pub('numblop-mascot.png'))
 
 console.log('Assets regenerated.')

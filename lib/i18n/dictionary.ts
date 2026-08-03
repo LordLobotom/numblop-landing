@@ -17,6 +17,14 @@ export interface Dictionary {
     play: string
     privacy: string
   }
+  highlights: {
+    heading: string
+    subheading: string
+    // Alt text for the four store posters, in the order declared in the
+    // Highlights component. Each poster has its copy baked into the artwork,
+    // so the alt text has to carry it for screen readers and search engines.
+    posters: string[]
+  }
   steps: {
     heading: string
     subheading: string
@@ -41,6 +49,7 @@ export interface Dictionary {
   }
   footer: {
     privacy: string
+    privacyLink: string
     instagram: string
     madeIn: string
   }
@@ -62,6 +71,17 @@ const cs: Dictionary = {
       'Adaptivní hra pro procvičování a automatizaci násobilky. Přizpůsobuje se pokroku dítěte a vede k jistému vybavování násobilkových spojů.',
     play: 'Hrát',
     privacy: 'Pokrok zůstává v tomto zařízení.',
+  },
+  highlights: {
+    heading: 'Násobilka, která baví',
+    subheading:
+      'Kamarád Numblop, mapa plná ostrovů a krátká kola, ve kterých se pokrok počítá.',
+    posters: [
+      'Numblop – Násobilka hrou: roztomilý kamarád, kosmetické doplňky a hravé prostředí udrží děti u učení. Hraj a uč se vlastním tempem.',
+      'Uč se krok za krokem: Numblop opakuje obtížnější spoje častěji a vede tě k jistotě. Mapa ukazuje pokrok každou násobilkou zvlášť.',
+      'Každá chyba pomáhá učit: po chybě dostaneš vysvětlení, ne jen opravu. Numblop ukáže 3 × 5 = 15 na tečkách, které si můžeš spočítat.',
+      'Motivace, která baví: s každým krokem sbíráš odměny, mince a nové části mapy. Za dokončené kolo čeká truhla s poklady a nové ostrovy.',
+    ],
   },
   steps: {
     heading: 'Objevuj → Procvičuj → Upevňuj → Mám jistotu',
@@ -110,10 +130,18 @@ const cs: Dictionary = {
   screenshots: {
     heading: 'Podívej se do hry',
     subheading: 'Přátelský průvodce, mapa pokroku a krátká procvičovací kola.',
-    captions: ['Domovská obrazovka', 'Mapa pokroku', 'Procvičovací aréna'],
+    captions: [
+      'Domovská obrazovka',
+      'Mapa pokroku',
+      'Výběr odpovědi',
+      'Zápis odpovědi',
+      'Truhla s odměnou',
+      'Kosmetické doplňky',
+    ],
   },
   footer: {
     privacy: 'Pokrok zůstává v tomto zařízení. Žádné účty, žádná reklama, žádné sledování.',
+    privacyLink: 'Zásady ochrany soukromí',
     instagram: 'Sledujte nás na Instagramu',
     madeIn: 'Numblop – Násobilka hrou',
   },
@@ -135,6 +163,17 @@ const en: Dictionary = {
       'An adaptive game for practising and automatising the times tables. It adapts to each child’s progress and leads to confident, instant recall.',
     play: 'Play',
     privacy: 'Progress stays on this device.',
+  },
+  highlights: {
+    heading: 'Times tables made fun',
+    subheading:
+      'A friendly buddy, a map full of islands, and short rounds where every step counts.',
+    posters: [
+      'Numblop – Multiplication made fun: a cute buddy, cool cosmetics and a playful environment keep kids engaged in learning. Play and learn at your own pace.',
+      'Learn step by step: Numblop repeats harder facts more often and guides you to mastery. The map tracks progress through every times table.',
+      'Every mistake helps you learn: after a mistake you get the answer, not just the fix. Numblop shows 3 × 5 = 15 as dots you can count yourself.',
+      'Motivation that excites: with every step you earn rewards, coins and new parts of the map. Finished rounds open a treasure chest and unlock new islands.',
+    ],
   },
   steps: {
     heading: 'Discover → Practise → Reinforce → I’ve got it',
@@ -183,10 +222,18 @@ const en: Dictionary = {
   screenshots: {
     heading: 'A look inside the game',
     subheading: 'A friendly companion, a progress map, and short practice rounds.',
-    captions: ['Home screen', 'Progress map', 'Practice arena'],
+    captions: [
+      'Home screen',
+      'Progress map',
+      'Choose the answer',
+      'Enter the answer',
+      'Reward chest',
+      'Cosmetic items',
+    ],
   },
   footer: {
     privacy: 'Progress stays on this device. No accounts, no ads, no tracking.',
+    privacyLink: 'Privacy Policy',
     instagram: 'Follow us on Instagram',
     madeIn: 'Numblop – Times tables through play',
   },

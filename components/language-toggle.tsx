@@ -1,16 +1,29 @@
 'use client'
 
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 import { cn } from '@/lib/utils'
 import { LOCALE_STORAGE_KEY } from '@/lib/i18n/detect-locale'
-import { locales, type Locale } from '@/lib/i18n/dictionary'
+import { isLocale, locales, type Locale } from '@/lib/i18n/dictionary'
 
 const labels: Record<Locale, string> = {
   cs: 'CZ',
   en: 'EN',
 }
 
+// Swaps the locale segment so switching language keeps the reader on the same
+// page (/cs/privacy/ -> /en/privacy/) instead of bouncing to the home page.
+function localisedPath(pathname: string | null, locale: Locale) {
+  const segments = pathname?.split('/').filter(Boolean) ?? []
+  if (!isLocale(segments[0])) {
+    return `/${locale}/`
+  }
+  return `/${[locale, ...segments.slice(1)].join('/')}/`
+}
+
 export function LanguageToggle({ current }: { current: Locale }) {
+  const pathname = usePathname()
+
   return (
     <nav
       aria-label="Language"
@@ -19,7 +32,7 @@ export function LanguageToggle({ current }: { current: Locale }) {
       {locales.map((locale) => (
         <Link
           key={locale}
-          href={`/${locale}/`}
+          href={localisedPath(pathname, locale)}
           hrefLang={locale}
           aria-current={locale === current ? 'page' : undefined}
           onClick={() => {

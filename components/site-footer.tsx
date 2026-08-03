@@ -1,7 +1,13 @@
 import { Instagram, ShieldCheck } from 'lucide-react'
-import type { Dictionary } from '@/lib/i18n/dictionary'
+import type { Dictionary, Locale } from '@/lib/i18n/dictionary'
 
-export function SiteFooter({ dict }: { dict: Dictionary }) {
+export function SiteFooter({
+  dict,
+  locale,
+}: {
+  dict: Dictionary
+  locale: Locale
+}) {
   return (
     <footer className="border-t border-border/60 bg-muted/40">
       <div className="mx-auto flex max-w-5xl flex-col items-center gap-4 px-4 py-10 text-center">
@@ -17,6 +23,12 @@ export function SiteFooter({ dict }: { dict: Dictionary }) {
         >
           <Instagram className="h-5 w-5" aria-hidden="true" />
           {dict.footer.instagram}
+        </a>
+        <a
+          href={`/${locale}/privacy/`}
+          className="text-sm font-medium text-muted-foreground hover:text-accent hover:underline"
+        >
+          {dict.footer.privacyLink}
         </a>
         <p className="text-sm text-muted-foreground">
           © {new Date().getFullYear()} {dict.footer.madeIn}

@@ -12,6 +12,14 @@ export function Hero({ dict }: { dict: Dictionary }) {
       />
       <div className="relative mx-auto flex max-w-5xl flex-col items-center gap-6 px-4 py-20 text-center sm:py-28">
         <Image
+          src="/numblop-mascot.png"
+          alt=""
+          width={440}
+          height={463}
+          priority
+          className="-mb-2 h-auto w-32 drop-shadow-xl sm:w-40"
+        />
+        <Image
           src="/numblop-wordmark.png"
           alt="Numblop"
           width={320}

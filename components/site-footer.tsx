@@ -1,4 +1,5 @@
-import { Instagram, ShieldCheck } from 'lucide-react'
+import { Instagram, ShieldCheck, Youtube } from 'lucide-react'
+import { INSTAGRAM_URL, YOUTUBE_CHANNEL_URL } from '@/lib/links'
 import type { Dictionary, Locale } from '@/lib/i18n/dictionary'
 
 export function SiteFooter({
@@ -15,21 +16,40 @@ export function SiteFooter({
           <ShieldCheck className="h-4 w-4 shrink-0" aria-hidden="true" />
           {dict.footer.privacy}
         </p>
-        <a
-          href="https://www.instagram.com/numblopgame"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="flex items-center gap-2 font-medium text-accent hover:underline"
-        >
-          <Instagram className="h-5 w-5" aria-hidden="true" />
-          {dict.footer.instagram}
-        </a>
-        <a
-          href={`/${locale}/privacy/`}
-          className="text-sm font-medium text-muted-foreground hover:text-accent hover:underline"
-        >
-          {dict.footer.privacyLink}
-        </a>
+        <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
+          <a
+            href={INSTAGRAM_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 font-medium text-accent hover:underline"
+          >
+            <Instagram className="h-5 w-5" aria-hidden="true" />
+            {dict.footer.instagram}
+          </a>
+          <a
+            href={YOUTUBE_CHANNEL_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 font-medium text-accent hover:underline"
+          >
+            <Youtube className="h-5 w-5" aria-hidden="true" />
+            {dict.footer.youtube}
+          </a>
+        </div>
+        <div className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2">
+          <a
+            href={`/${locale}/privacy/`}
+            className="text-sm font-medium text-muted-foreground hover:text-accent hover:underline"
+          >
+            {dict.footer.privacyLink}
+          </a>
+          <a
+            href={`/${locale}/contact/`}
+            className="text-sm font-medium text-muted-foreground hover:text-accent hover:underline"
+          >
+            {dict.footer.contactLink}
+          </a>
+        </div>
         <p className="text-sm text-muted-foreground">
           © {new Date().getFullYear()} {dict.footer.madeIn}
         </p>

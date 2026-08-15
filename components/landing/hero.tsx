@@ -1,6 +1,7 @@
 import Image from 'next/image'
-import { Play, ShieldCheck } from 'lucide-react'
+import { Globe, ShieldCheck, Smartphone } from 'lucide-react'
 import { Button } from '@/components/ui/button'
+import { GOOGLE_PLAY_URL, WEB_BUILD_URL } from '@/lib/links'
 import type { Dictionary } from '@/lib/i18n/dictionary'
 
 export function Hero({ dict }: { dict: Dictionary }) {
@@ -30,22 +31,40 @@ export function Hero({ dict }: { dict: Dictionary }) {
         <p className="text-sm font-medium uppercase tracking-widest text-accent">
           {dict.hero.slogan}
         </p>
+        <p className="rounded-full border border-accent/40 bg-secondary px-4 py-1 text-sm font-semibold text-secondary-foreground">
+          {dict.hero.badge}
+        </p>
         <h1 className="max-w-2xl text-4xl font-semibold leading-tight sm:text-5xl">
           {dict.hero.tagline}
         </h1>
         <p className="max-w-xl text-lg text-muted-foreground">
           {dict.hero.shortDescription}
         </p>
-        <Button
-          asChild
-          size="lg"
-          className="h-14 rounded-full px-10 text-lg font-semibold shadow-lg shadow-primary/30"
-        >
-          <a href="/play/">
-            <Play className="size-5" aria-hidden="true" />
-            {dict.hero.play}
-          </a>
-        </Button>
+        {/* Both platforms up front: Google Play for Android, the web build for
+            iOS and desktop, where there is no native app to send people to. */}
+        <div className="flex flex-col items-stretch gap-3 sm:flex-row sm:items-center">
+          <Button
+            asChild
+            size="lg"
+            className="h-14 rounded-full px-10 text-lg font-semibold shadow-lg shadow-primary/30"
+          >
+            <a href={GOOGLE_PLAY_URL} target="_blank" rel="noopener noreferrer">
+              <Smartphone className="size-5" aria-hidden="true" />
+              {dict.hero.googlePlay}
+            </a>
+          </Button>
+          <Button
+            asChild
+            size="lg"
+            variant="outline"
+            className="h-14 rounded-full px-10 text-lg font-semibold"
+          >
+            <a href={WEB_BUILD_URL}>
+              <Globe className="size-5" aria-hidden="true" />
+              {dict.hero.playWeb}
+            </a>
+          </Button>
+        </div>
         <p className="flex items-center gap-2 text-sm text-muted-foreground">
           <ShieldCheck className="h-4 w-4 shrink-0" aria-hidden="true" />
           {dict.hero.privacy}

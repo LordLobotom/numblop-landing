@@ -7,15 +7,62 @@ export interface Dictionary {
     description: string
   }
   header: {
-    play: string
+    getIt: string
   }
   hero: {
     name: string
     tagline: string
     slogan: string
     shortDescription: string
-    play: string
+    badge: string
+    googlePlay: string
+    playWeb: string
     privacy: string
+  }
+  download: {
+    heading: string
+    subheading: string
+    androidTitle: string
+    androidBody: string
+    androidCta: string
+    webTitle: string
+    webBody: string
+    webCta: string
+    iosNote: string
+    bottomHeading: string
+    bottomSubheading: string
+  }
+  trailer: {
+    heading: string
+    subheading: string
+    play: string
+    posterAlt: string
+    privacyNote: string
+    watchOnYoutube: string
+  }
+  contact: {
+    heading: string
+    subheading: string
+    nameLabel: string
+    namePlaceholder: string
+    emailLabel: string
+    emailPlaceholder: string
+    messageLabel: string
+    messagePlaceholder: string
+    consent: string
+    consentLink: string
+    submit: string
+    sending: string
+    successTitle: string
+    successBody: string
+    error: string
+    errorMailto: string
+    directEmail: string
+    backToHome: string
+    meta: {
+      title: string
+      description: string
+    }
   }
   highlights: {
     heading: string
@@ -50,7 +97,9 @@ export interface Dictionary {
   footer: {
     privacy: string
     privacyLink: string
+    contactLink: string
     instagram: string
+    youtube: string
     madeIn: string
   }
 }
@@ -61,7 +110,7 @@ const cs: Dictionary = {
     description: 'Adaptivní hra pro procvičování a automatizaci násobilky.',
   },
   header: {
-    play: 'Hrát',
+    getIt: 'Získat Numblop',
   },
   hero: {
     name: 'Numblop',
@@ -69,8 +118,66 @@ const cs: Dictionary = {
     slogan: 'Učení je cesta – sleduj svůj pokrok',
     shortDescription:
       'Adaptivní hra pro procvičování a automatizaci násobilky. Přizpůsobuje se pokroku dítěte a vede k jistému vybavování násobilkových spojů.',
-    play: 'Hrát',
+    badge: 'Nově na Google Play',
+    googlePlay: 'Stáhnout na Google Play',
+    playWeb: 'Hrát v prohlížeči',
     privacy: 'Pokrok zůstává v tomto zařízení.',
+  },
+  download: {
+    heading: 'Kde si Numblop zahrajete',
+    subheading:
+      'Na Androidu si hru stáhnete z Google Play. Na iPhonu, iPadu i počítači ji spustíte rovnou v prohlížeči – zdarma, bez instalace a bez registrace.',
+    androidTitle: 'Android',
+    androidBody:
+      'Plná verze z obchodu Google Play. Zdarma, bez reklam a bez nákupů v aplikaci.',
+    androidCta: 'Stáhnout na Google Play',
+    webTitle: 'iPhone, iPad a počítač',
+    webBody:
+      'Numblop běží přímo v prohlížeči. Stačí kliknout a hrát – nic se nestahuje ani nezakládá.',
+    webCta: 'Hrát v prohlížeči',
+    iosNote:
+      'Samostatná aplikace pro iOS zatím není. Verze v prohlížeči je plnohodnotná náhrada.',
+    bottomHeading: 'Pusťte se do násobilky ještě dnes',
+    bottomSubheading:
+      'Stáhněte si Numblop na Google Play, nebo si ho hned vyzkoušejte v prohlížeči.',
+  },
+  trailer: {
+    heading: 'Podívejte se na trailer',
+    subheading:
+      'Krátká ukázka toho, co na děti v Numblopu čeká – kamarád, mapa ostrovů a odměny za každý krok.',
+    play: 'Přehrát trailer',
+    posterAlt: 'Numblop u truhly s pokladem – záběr z traileru',
+    privacyNote:
+      'Video se z YouTube načte až po kliknutí. Do té doby stránka na YouTube nic neodesílá.',
+    watchOnYoutube: 'Otevřít na YouTube',
+  },
+  contact: {
+    heading: 'Napište nám',
+    subheading:
+      'Máte dotaz, nápad na vylepšení, nebo jste narazili na chybu? Ozvěte se – čteme každou zprávu.',
+    nameLabel: 'Jméno (nepovinné)',
+    namePlaceholder: 'Jak vás máme oslovit?',
+    emailLabel: 'Váš e-mail',
+    emailPlaceholder: 'vas.email@example.com',
+    messageLabel: 'Zpráva',
+    messagePlaceholder: 'S čím vám můžeme pomoct?',
+    consent:
+      'Souhlasím, aby byla moje adresa a zpráva použity k vyřízení tohoto dotazu. Více v ',
+    consentLink: 'zásadách ochrany soukromí',
+    submit: 'Odeslat zprávu',
+    sending: 'Odesílám…',
+    successTitle: 'Zpráva odeslána!',
+    successBody:
+      'Díky, že jste se ozvali. Odpovíme vám na uvedený e-mail, jakmile to bude možné.',
+    error: 'Zprávu se nepodařilo odeslat. Zkuste to prosím znovu, nebo nám napište přímo:',
+    errorMailto: 'Napsat e-mail',
+    directEmail: 'Radši píšete z vlastního e-mailu?',
+    backToHome: 'Zpět na úvodní stránku',
+    meta: {
+      title: 'Kontakt – Numblop',
+      description:
+        'Napište nám dotaz, nápad nebo hlášení chyby ke hře Numblop – Násobilka hrou.',
+    },
   },
   highlights: {
     heading: 'Násobilka, která baví',
@@ -142,7 +249,9 @@ const cs: Dictionary = {
   footer: {
     privacy: 'Pokrok zůstává v tomto zařízení. Žádné účty, žádná reklama, žádné sledování.',
     privacyLink: 'Zásady ochrany soukromí',
-    instagram: 'Sledujte nás na Instagramu',
+    contactLink: 'Kontakt',
+    instagram: 'Instagram',
+    youtube: 'YouTube',
     madeIn: 'Numblop – Násobilka hrou',
   },
 }
@@ -153,7 +262,7 @@ const en: Dictionary = {
     description: 'An adaptive game for practising and mastering the times tables.',
   },
   header: {
-    play: 'Play',
+    getIt: 'Get Numblop',
   },
   hero: {
     name: 'Numblop',
@@ -161,8 +270,66 @@ const en: Dictionary = {
     slogan: 'Learning is a journey – watch your progress',
     shortDescription:
       'An adaptive game for practising and automatising the times tables. It adapts to each child’s progress and leads to confident, instant recall.',
-    play: 'Play',
+    badge: 'Now on Google Play',
+    googlePlay: 'Get it on Google Play',
+    playWeb: 'Play in your browser',
     privacy: 'Progress stays on this device.',
+  },
+  download: {
+    heading: 'Where to play Numblop',
+    subheading:
+      'On Android, download it from Google Play. On iPhone, iPad and desktop, start it straight in the browser – free, no install, no sign-up.',
+    androidTitle: 'Android',
+    androidBody:
+      'The full version from the Google Play store. Free, with no ads and no in-app purchases.',
+    androidCta: 'Get it on Google Play',
+    webTitle: 'iPhone, iPad and desktop',
+    webBody:
+      'Numblop runs right in the browser. Click and play – nothing to download, nothing to sign up for.',
+    webCta: 'Play in your browser',
+    iosNote:
+      'There is no separate iOS app yet. The browser version is the full game.',
+    bottomHeading: 'Start practising today',
+    bottomSubheading:
+      'Download Numblop from Google Play, or try it right now in your browser.',
+  },
+  trailer: {
+    heading: 'Watch the trailer',
+    subheading:
+      'A short look at what waits for kids in Numblop – a friendly buddy, a map of islands, and a reward for every step.',
+    play: 'Play the trailer',
+    posterAlt: 'Numblop beside a treasure chest – a still from the trailer',
+    privacyNote:
+      'The video loads from YouTube only after you click. Until then, this page sends nothing to YouTube.',
+    watchOnYoutube: 'Watch on YouTube',
+  },
+  contact: {
+    heading: 'Get in touch',
+    subheading:
+      'A question, an idea for the game, or a bug you ran into? Write to us – every message gets read.',
+    nameLabel: 'Name (optional)',
+    namePlaceholder: 'What should we call you?',
+    emailLabel: 'Your email',
+    emailPlaceholder: 'your.email@example.com',
+    messageLabel: 'Message',
+    messagePlaceholder: 'How can we help?',
+    consent:
+      'I agree that my address and message may be used to answer this enquiry. More in the ',
+    consentLink: 'privacy policy',
+    submit: 'Send message',
+    sending: 'Sending…',
+    successTitle: 'Message sent!',
+    successBody:
+      'Thanks for reaching out. We’ll reply to the address you gave us as soon as we can.',
+    error: 'We couldn’t send your message. Please try again, or email us directly:',
+    errorMailto: 'Send an email',
+    directEmail: 'Prefer writing from your own mail app?',
+    backToHome: 'Back to the home page',
+    meta: {
+      title: 'Contact – Numblop',
+      description:
+        'Send us a question, an idea, or a bug report about Numblop – times tables through play.',
+    },
   },
   highlights: {
     heading: 'Times tables made fun',
@@ -234,7 +401,9 @@ const en: Dictionary = {
   footer: {
     privacy: 'Progress stays on this device. No accounts, no ads, no tracking.',
     privacyLink: 'Privacy Policy',
-    instagram: 'Follow us on Instagram',
+    contactLink: 'Contact',
+    instagram: 'Instagram',
+    youtube: 'YouTube',
     madeIn: 'Numblop – Times tables through play',
   },
 }

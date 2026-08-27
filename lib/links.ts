@@ -19,7 +19,7 @@ export const YOUTUBE_CHANNEL_URL = 'https://www.youtube.com/@Numblop'
 // of the video thumbnail (public/trailer-poster.webp) and the embed is only
 // inserted after a click — see components/landing/trailer.tsx and section 3 of
 // the privacy policy, which says exactly that.
-export const TRAILER_VIDEO_ID = '5bEQm_6nTKg'
+export const TRAILER_VIDEO_ID = 'vcndnEocFzM'
 
 export const TRAILER_WATCH_URL = `https://youtu.be/${TRAILER_VIDEO_ID}`
 

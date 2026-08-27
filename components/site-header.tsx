@@ -17,7 +17,7 @@ export function SiteHeader({
       <div className="mx-auto flex h-16 max-w-5xl items-center justify-between gap-4 px-4">
         <a href={`/${locale}/`} className="flex items-center gap-2">
           <Image
-            src="/numblop-logo.png"
+            src="/icon.png"
             alt="Numblop"
             width={36}
             height={36}

@@ -1,25 +1,27 @@
 # numblop-landing
 
-Bilingual (CZ/EN) marketing landing page for [Numblop](https://numblop.gutcloud.cz/) —
+Ten-language marketing landing page for [Numblop](https://numblop.gutcloud.cz/) —
 an adaptive multiplication-practice game for children built in Godot
 (sibling repo `../Numblop`).
 
 ## Architecture
 
 - Next.js App Router, **static export** (`output: 'export'`) — no server runtime.
-- `/cs/` and `/en/` are prebuilt locale routes (`app/[locale]/`); the root `/`
-  is a client-side redirector that honours a stored language choice
-  (`localStorage['numblop-locale']`), then browser language (cs/sk → Czech),
-  falling back to Czech.
+- English, Czech, Slovak, German, Spanish, Finnish, French, Norwegian Bokmål,
+  Polish, and Swedish are prebuilt locale routes (`app/[locale]/`). The root
+  `/` is a client-side redirector that honours a stored language choice
+  (`localStorage['numblop-locale']`), then the browser language, falling back
+  to English. `lib/i18n/locales.ts` is the shared locale/SEO catalog.
 - Dark/light mode via `next-themes` (class strategy, system default).
-- All copy lives in `lib/i18n/dictionary.ts` as typed CZ+EN dictionaries —
-  a missing key in either language is a compile error. The privacy policy is
-  kept separately in `lib/i18n/privacy.ts` (rendered at `/cs/privacy/` and
-  `/en/privacy/`) because it is long and rarely touched.
-- Imagery comes from the game repo via `tools/prepare-assets.mjs`: store
-  posters (`store/posts/`) and in-game screenshots (`store/screenshots/`) both
-  ship per language, so `public/posts/` and `public/screenshots/` hold a
-  `-cs`/`-en` pair per image.
+- Czech and English source copy lives in `lib/i18n/dictionary.ts`; the other
+  complete dictionaries live in `lib/i18n/generated/dictionaries.json`. The
+  privacy policy is kept separately in `lib/i18n/privacy.ts` plus
+  `lib/i18n/generated/privacy.json` because it is long and rarely touched.
+- Imagery comes from the game repo via `tools/prepare-assets.mjs`: the language
+  picker reuses all ten game flags. Store posters (`store/posts/`) and in-game
+  screenshots (`store/screenshots/`) currently ship with baked-in copy only in
+  Czech and English, so the other locale pages use English artwork with fully
+  localized surrounding copy and alt text.
 - Brand: lime `#b9ef45` (solid fills only on light backgrounds — it fails
   contrast as text on white), Fredoka font with `latin-ext` for Czech diacritics.
 - **Getting people into the game** is what the page is for. Two destinations,

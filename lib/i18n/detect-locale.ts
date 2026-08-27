@@ -1,13 +1,13 @@
-import { type Locale } from './dictionary'
+import { isLocale, type Locale } from './locales'
 
 export const LOCALE_STORAGE_KEY = 'numblop-locale'
 
-// Czech and Slovak browsers get the Czech page; everyone else English.
-// An explicit choice stored by the language toggle always wins.
+// An explicit choice stored by the language picker always wins. Norwegian
+// device locales (`no` and `nn`) fold into the shipped Bokmål locale (`nb`).
 export function detectLocale(): Locale {
   try {
     const stored = window.localStorage.getItem(LOCALE_STORAGE_KEY)
-    if (stored === 'cs' || stored === 'en') {
+    if (stored && isLocale(stored)) {
       return stored
     }
   } catch {
@@ -20,8 +20,8 @@ export function detectLocale(): Locale {
   for (const tag of candidates) {
     if (!tag) continue
     const lang = tag.toLowerCase().split('-')[0]
-    if (lang === 'cs' || lang === 'sk') return 'cs'
-    if (lang === 'en') return 'en'
+    if (lang === 'no' || lang === 'nn') return 'nb'
+    if (isLocale(lang)) return lang
   }
-  return 'cs'
+  return 'en'
 }

@@ -23,7 +23,7 @@ export function SiteHeader({
             height={36}
             className="rounded-lg"
           />
-          <span className="text-lg font-semibold">Numblop</span>
+          <span className="hidden text-lg font-semibold sm:inline">Numblop</span>
         </a>
         <div className="flex items-center gap-2 sm:gap-3">
           <LanguageToggle current={locale} />
@@ -36,7 +36,7 @@ export function SiteHeader({
                 fragment would go nowhere. */}
             <a href={`/${locale}/#get`}>
               <Download aria-hidden="true" />
-              {dict.header.getIt}
+              <span className="hidden sm:inline">{dict.header.getIt}</span>
             </a>
           </Button>
         </div>

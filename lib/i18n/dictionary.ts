@@ -1,5 +1,8 @@
-export const locales = ['cs', 'en'] as const
-export type Locale = (typeof locales)[number]
+import generatedDictionaries from './generated/dictionaries.json'
+import { isLocale, locales, type Locale } from './locales'
+
+export { isLocale, locales }
+export type { Locale }
 
 export interface Dictionary {
   meta: {
@@ -408,12 +411,17 @@ const en: Dictionary = {
   },
 }
 
-const dictionaries: Record<Locale, Dictionary> = { cs, en }
+const additionalDictionaries: Record<
+  Exclude<Locale, 'cs' | 'en'>,
+  Dictionary
+> = generatedDictionaries
+
+const dictionaries: Record<Locale, Dictionary> = {
+  cs,
+  en,
+  ...additionalDictionaries,
+}
 
 export function getDictionary(locale: Locale): Dictionary {
   return dictionaries[locale]
-}
-
-export function isLocale(value: string): value is Locale {
-  return (locales as readonly string[]).includes(value)
 }

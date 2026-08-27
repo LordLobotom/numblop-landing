@@ -1,0 +1,2970 @@
+{
+  "sk": {
+    "title": "Zásady ochrany osobných údajov pre Numblop",
+    "effectiveDateLabel": "Dátum účinnosti",
+    "effectiveDate": "13. augusta 2026",
+    "intro": [
+      "Numblop je vzdelávacia matematická hra navrhnutá tak, aby pomohla deťom precvičiť si násobenie v bezpečnom a hravom prostredí.",
+      "Tieto zásady ochrany osobných údajov vysvetľujú, aké informácie Numblop spracúva, ako sa používajú a aké možnosti majú používatelia a ich rodičia alebo zákonní zástupcovia.",
+      "Stručne povedané: celá hra funguje offline, bez prihlásenia a bez účtu Numblop. Neexistujú žiadne reklamy ani nákupy v aplikácii a nespúšťame žiadne vlastné analýzy.",
+      "Dve veci sú voliteľné a máte ich pod kontrolou: ukladanie do cloudu, ktoré odošle jednu zašifrovanú kópiu priebehu hry do Hier Google Play (časť 2) a čokoľvek, čo sa rozhodnete urobiť na tejto webovej lokalite – napíšte nám cez kontaktný formulár alebo kliknutím spustíte upútavku YouTube (časť 3).",
+      "Jedna vec nie je. Verzia pre Android obsahuje komponent Google Play Games, ktorý začína hrou bez ohľadu na to, či je alebo nie je zapnuté ukladanie do cloudu, a môže odosielať diagnostické informácie a informácie o výkone spoločnosti Google, ktoré spoločnosť Google používa aj na analýzu. Časť 2 vysvetľuje, na čo sa vzťahuje."
+    ],
+    "meta": {
+      "title": "Zásady ochrany osobných údajov – Numblop",
+      "description": "Numblop je detská hra bez reklám a bez nákupov v aplikácii, ktorú možno hrať úplne offline. Prečítajte si celé pravidlá ochrany osobných údajov."
+    },
+    "backToHome": "Späť na domovskú stránku",
+    "sections": [
+      {
+        "heading": "1. Vývojár a kontaktné informácie",
+        "blocks": [
+          {
+            "p": "Numblop vyvíja a prevádzkuje:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Vývojár",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "Krajina",
+                "value": "Česká republika"
+              },
+              {
+                "label": "Kontaktný email",
+                "value": "lordlobotom@gmail.com"
+              }
+            ]
+          },
+          {
+            "p": "V prípade akýchkoľvek otázok alebo žiadostí týkajúcich sa ochrany osobných údajov nás kontaktujte pomocou e-mailovej adresy uvedenej vyššie."
+          }
+        ]
+      },
+      {
+        "heading": "2. Informácie, ktoré spracúvame",
+        "blocks": [
+          {
+            "p": "Numblop nepredáva používateľské údaje, nepoužíva ich na reklamu a nevykonáva žiadnu analýzu správania. Táto časť popisuje samotnú hru; informácie odoslané prostredníctvom kontaktného formulára na tejto webovej stránke sú uvedené v časti 3."
+          },
+          {
+            "h": "Herné údaje na vašom zariadení"
+          },
+          {
+            "p": "Hra ukladá informácie o hre iba v súkromnom úložisku aplikácie vo vašom zariadení. To zahŕňa:"
+          },
+          {
+            "list": [
+              "postup v hre,",
+              "odomknuté násobilky,",
+              "úrovne zvládnutia jednotlivých faktov,",
+              "získané skúsenostné body,",
+              "mince a odmeny,",
+              "úspechy a trofeje,",
+              "vybrané kozmetické výrobky,",
+              "nastavenia aplikácie (jazyk, zvuk, vibrácie, ukladanie do cloudu),",
+              "voliteľná prezývka zadaná hráčom,",
+              "náhodný pseudonymný profilový identifikátor vygenerovaný hrou."
+            ]
+          },
+          {
+            "p": "Keď je ukladanie do cloudu vypnuté, tieto informácie zostanú v zariadení, okrem štandardného zálohovania zariadenia Android alebo prenosu zo zariadenia do zariadenia, ktorý je plne riadený nastaveniami vášho vlastného účtu Google."
+          },
+          {
+            "p": "Prezývka sa používa výhradne na oslovenie hráča v hre a nikdy sa nezverejňuje ani nezobrazuje iným hráčom. Napriek tomu odporúčame nepoužívať ako prezývku skutočné meno, e-mailovú adresu, telefónne číslo, názov školy alebo adresu."
+          },
+          {
+            "h": "Hry Google Play a ukladanie do cloudu"
+          },
+          {
+            "p": "V systéme Android zahŕňa Numblop herné služby Google Play. Ukladanie do cloudu je predvolene zapnuté, ale funguje iba vtedy, keď sa Hry Google Play prihlásia do zariadenia. Google a v prípade dieťaťa pod dohľadom aj Family Link ovládajú, či profil Hier Play existuje a možno ho použiť. Ukladanie do cloudu je možné vypnúť v nastaveniach Numblop; hra potom pokračuje iba pomocou svojho lokálneho uloženia."
+          },
+          {
+            "p": "Keď sa prihlásite s povoleným ukladaním do cloudu, Numblop odošle Googlu jednu zašifrovanú snímku uložených hier. Snímka obsahuje vyššie uvedený priebeh vrátane voliteľnej prezývky a náhodného identifikátora profilu, takže pokrok možno obnoviť alebo bezpečne kombinovať naprieč zariadeniami. Numblop tiež získa identifikátor hráča Hier Play, ktorý je potrebný na oddelenie snímky jedného účtu od druhého. Numblop nedostáva e-mailovú adresu hráča a nemá žiadny vlastný server účtu."
+          },
+          {
+            "p": "Hry Google Play môžu samotné spracovávať identifikátory účtu a profilu, adresu IP a približnú krajinu alebo región, hernú aktivitu a uložený postup, identifikátory zariadení a diagnostické informácie s cieľom poskytovať, zabezpečovať, odstraňovať problémy a zlepšovať Hry Play. Spoločnosť Google narába s týmito informáciami v súlade s pravidlami ochrany osobných údajov Google a používateľskými nastaveniami ochrany osobných údajov Hier Play. Tieto údaje nepredávame ani ich nepoužívame na reklamy."
+          },
+          {
+            "h": "Technické a diagnostické údaje"
+          },
+          {
+            "p": "Numblop neobsahuje žiadnu reklamnú súpravu SDK, žiadnu vlastnú analytickú súpravu SDK, žiadne vlastné hlásenie o zlyhaní ani žiadnu vzdialenú konfiguráciu. Nedostávame žiadne diagnostické informácie o vašom zariadení a žiadne štatistiky o tom, ako sa hra hrá."
+          },
+          {
+            "p": "Výnimkou je komponent Hry Google Play, na ktorý sa nevzťahuje prepínač ukladania do cloudu. V systéme Android sa spúšťa spolu s hrou bez ohľadu na to, či je alebo nie je povolené ukladanie do cloudu, a môže odosielať identifikátory zariadení Google spolu s diagnostickými a výkonnostnými informáciami, ktoré spoločnosť Google používa aj na analýzu a zlepšovanie Hier Play. Vypnutie ukladania v cloude zastaví Numblop v prihlásení a v odosielaní akejkoľvek snímky; samotným Hrám Play to nebráni v podávaní správ spoločnosti Google. Ovládajú to vlastné nastavenia Hier Play spoločnosti Google a dostupnosť Hier Play na zariadení."
+          },
+          {
+            "h": "Online rebríčky"
+          },
+          {
+            "p": "Aktuálna verzia hry nemá žiadny online rebríček ani verejný profil. Ukladanie do cloudu je jediná sieťová funkcia. Ak sa niekedy pridá výsledková tabuľka alebo podobná funkcia, tieto pravidlá ochrany osobných údajov a vyhlásenie o bezpečnosti údajov služby Google Play budú aktualizované pred vydaním tejto verzie."
+          }
+        ]
+      },
+      {
+        "heading": "3. Táto webová stránka (kontaktný formulár a video)",
+        "blocks": [
+          {
+            "p": "Samotná webová stránka nepoužíva žiadne súbory cookie, nespúšťa žiadnu analýzu a nesleduje žiadne ďalšie stránky. Ponúka kontaktný formulár na zaslanie otázky, nápadu alebo hlásenia chyby – tento formulár je jediným miestom, kde od vás získame akékoľvek informácie."
+          },
+          {
+            "h": "Čo spracovávame"
+          },
+          {
+            "p": "Iba to, čo sami napíšete: nepovinné meno, e-mailovú adresu, na ktorú máme odpovedať, text vašej správy a jazyk stránky, z ktorej ste ju odoslali. Nič iné – žiadne súbory cookie, žiadna analytika, žiadne sledovanie medzi stránkami."
+          },
+          {
+            "h": "Prečo to spracovávame"
+          },
+          {
+            "p": "Iba preto, aby sme si mohli prečítať vašu správu a odpovedať na ňu. Vašu adresu nepoužívame na marketing, nepridávame ju do žiadneho zoznamu adries a neposielame ju nikomu inému."
+          },
+          {
+            "h": "Právny základ"
+          },
+          {
+            "p": "Súhlas podľa článku 6 ods. 1 písm. a) GDPR udelený zaškrtnutím políčka vo formulári. Môžete ho kedykoľvek odvolať napísaním na adresu lordlobotom@gmail.com a korešpondenciu vymažeme."
+          },
+          {
+            "h": "Kto prijíma informácie"
+          },
+          {
+            "p": "Formulár doručuje Web3Forms (služba prenosu z formulára na e-mail), ktorá odošle správu do poštovej schránky Gmail prevádzkovanej spoločnosťou Google. Nie sú žiadni ďalší príjemcovia."
+          },
+          {
+            "h": "Ako dlho to držíme"
+          },
+          {
+            "p": "Len tak dlho, ako bude potrebné odpovedať na vašu otázku a vybaviť prípadné následné kroky. Potom správu vymažeme z poštovej schránky — alebo skôr, na vašu žiadosť."
+          },
+          {
+            "h": "Vek"
+          },
+          {
+            "p": "Formulár je určený pre rodičov, učiteľov a dospelých používateľov. Píšte prosím len z vlastnej e-mailovej adresy a do formulára nezadávajte adresu dieťaťa ani osobné údaje."
+          },
+          {
+            "h": "YouTube video"
+          },
+          {
+            "p": "Na domovskej stránke sa nachádza upútavka na hru. Ukážkový obrázok je uložený na našom vlastnom serveri, takže stránka sa nepripojí k službe YouTube, kým sami nespustíte video. Až po kliknutí sa prehrávač načíta z youtube-nocookie.com; od tohto momentu môže Google spracovávať vašu IP adresu a informácie o prehrávaní podľa vlastných pravidiel ochrany osobných údajov. Odkazy na Instagram a YouTube v päte sú obyčajné odkazy – nič sa z nich nenačíta, pokiaľ ich nebudete sledovať."
+          },
+          {
+            "p": "Písanie a prehrávanie videa sú úplne voliteľné. Hru si môžete stiahnuť z Google Play alebo si ju zahrať vo svojom prehliadači bez toho, aby ste čokoľvek odosielali."
+          }
+        ]
+      },
+      {
+        "heading": "4. Ako používame informácie",
+        "blocks": [
+          {
+            "p": "Herné dáta uložené vo vašom zariadení používa aplikácia iba na:"
+          },
+          {
+            "list": [
+              "poskytovať a udržiavať hru,",
+              "uložiť a obnoviť priebeh hry,",
+              "obnoviť alebo bezpečne skombinovať tento pokrok naprieč zariadeniami, keď je zapnuté ukladanie do cloudu,",
+              "vypočítať skúsenosti, odmeny a úspechy,",
+              "prispôsobiť cvičenie pokroku dieťaťa,",
+              "zachovať zvolené nastavenia a kozmetické položky."
+            ]
+          },
+          {
+            "p": "Žiadne informácie nepoužívame na cielenú reklamu, priamy marketing, ani na vytváranie reklamných profilov."
+          }
+        ]
+      },
+      {
+        "heading": "5. Súkromie detí",
+        "blocks": [
+          {
+            "p": "Numblop je určený pre deti a rodiny, a preto je navrhnutý tak, aby sa nezhromažďovali žiadne osobné údaje."
+          },
+          {
+            "p": "Hra nikdy nežiada deti, aby poskytli:"
+          },
+          {
+            "list": [
+              "ich skutočné meno,",
+              "adresa bydliska,",
+              "emailová adresa,",
+              "telefónne číslo,",
+              "názov školy,",
+              "presné umiestnenie,",
+              "fotografie,",
+              "kontakty,",
+              "súkromné ​​správy."
+            ]
+          },
+          {
+            "p": "Hra neposkytuje žiadny chat, súkromné ​​správy, zdieľanie obrázkov ani inú komunikáciu medzi používateľmi."
+          },
+          {
+            "p": "Neprevádzkujeme žiadny účtovný systém a nemáme žiadnu databázu obsahujúcu kópiu pokroku vášho dieťaťa. Údaje, s ktorými hra pracuje, sú zámerne minimalizované: žiadne reklamy, žiadne sledovanie, žiadna komunikácia vo voľnom formáte a žiadne verejne viditeľné meno zadané dieťaťom."
+          }
+        ]
+      },
+      {
+        "heading": "6. Reklama a nákupy",
+        "blocks": [
+          {
+            "p": "Numblop:"
+          },
+          {
+            "list": [
+              "nezobrazuje reklamy tretích strán,",
+              "nepoužíva používateľské údaje na reklamu,",
+              "je k dispozícii bezplatne,",
+              "neobsahuje žiadne predplatné ani nákupy v aplikácii."
+            ]
+          },
+          {
+            "p": "Ak sa tieto postupy v budúcnosti zmenia, tieto pravidlá ochrany osobných údajov a vyhlásenie o bezpečnosti údajov služby Google Play budú aktualizované pred zavedením príslušnej funkcie."
+          }
+        ]
+      },
+      {
+        "heading": "7. Služby tretích strán",
+        "blocks": [
+          {
+            "p": "Jediným komponentom tretej strany v rámci aplikácie, ktorý spracováva používateľské údaje, sú herné služby Google Play, ktoré sa používajú na voliteľné ukladanie do cloudu opísané v časti 2. Neobsahuje súpravu SDK pre reklamy ani analýzy."
+          },
+          {
+            "p": "Na distribúciu aplikácie sa používa Google Play. Spoločnosť Google ako prevádzkovateľ obchodu spracúva informácie o sťahovaní a inštalácii podľa vlastných podmienok a zásad ochrany osobných údajov; tieto informácie nedostávame vo forme, ktorá by nám umožnila identifikovať jednotlivých hráčov."
+          },
+          {
+            "p": "Aktuálny zoznam služieb tretích strán:"
+          },
+          {
+            "list": [
+              "Herné služby Google Play (voliteľné ukladanie do cloudu, pozri časť 2),",
+              "Google Play (distribúcia aplikácií),",
+              "Web3Forms (doručenie kontaktného formulára webovej stránky na e-mail, pozri časť 3),",
+              "Google Gmail (schránka, do ktorej prichádzajú správy),",
+              "YouTube / Google (prehrávač upútavok, ktorý sa načíta iba po kliknutí, pozri časť 3)."
+            ]
+          },
+          {
+            "p": "Numblop nepredáva osobné údaje tretím stranám. V súčasnosti sa nevyužívajú žiadne iné služby; tento zoznam bude priebežne aktualizovaný v týchto Zásadách ochrany osobných údajov."
+          }
+        ]
+      },
+      {
+        "heading": "8. Zdieľanie údajov",
+        "blocks": [
+          {
+            "p": "Nepredávame, neprenajímame ani neobchodujeme s informáciami o používateľoch."
+          },
+          {
+            "p": "Hra nám nič neposiela, takže z nej nemáme čo zdieľať s poskytovateľmi služieb alebo akoukoľvek inou treťou stranou. Jediným prenosom z hry je snímka uloženia v cloude, ktorá sa presunie do služby Hry Google Play na vlastnom prihlásenom účte hráča (pozri časť 2). Správy z kontaktného formulára sa posielajú iba službám potrebným na ich doručenie do našej poštovej schránky (pozri časti 3 a 7) a nikomu inému. Okrem toho by sa informácie zverejňovali len v rozsahu, ktorý vyžadujú platné zákony."
+          }
+        ]
+      },
+      {
+        "heading": "9. Uchovávanie údajov",
+        "blocks": [
+          {
+            "p": "Herné údaje zostanú uložené vo vašom zariadení, kým sa údaje aplikácie nevymažú alebo kým sa aplikácia neodinštaluje. Odinštalovaním aplikácie sa tieto údaje vymažú."
+          },
+          {
+            "p": "Neprevádzkujeme žiadne servery, na ktorých by sa uchovávali herné údaje. Údaje uložené vo vašom zariadení môžete kedykoľvek vymazať sami, prostredníctvom nastavení systému Android alebo odinštalovaním aplikácie."
+          },
+          {
+            "p": "Snímka z cloudu zostane v údajoch Hier Play prihláseného hráča, kým nebude nahradená alebo kým hráč neodstráni údaje alebo profil Hier Play prostredníctvom vlastných ovládacích prvkov Hier Play od Googlu. Vypnutím cloudového ukladania v Numblop zastavíte akýkoľvek ďalší prístup k hrám Play, ale neodstráni sa tým už uložená snímka."
+          },
+          {
+            "p": "Správy z kontaktného formulára sa uchovávajú len tak dlho, ako je potrebné na ne odpovedať, ako je popísané v časti 3."
+          }
+        ]
+      },
+      {
+        "heading": "10. Bezpečnosť údajov",
+        "blocks": [
+          {
+            "p": "Herné dáta sa uchovávajú v súkromnom úložisku aplikácie, ktoré Android chráni pred prístupom iných aplikácií."
+          },
+          {
+            "p": "Snímka uloženia v cloude sa prenáša do Hier Google Play cez šifrované pripojenie. Žiadny spôsob elektronického uchovávania alebo prenosu nie je úplne bezpečný a nemožno zaručiť absolútnu bezpečnosť."
+          }
+        ]
+      },
+      {
+        "heading": "11. Užívateľské a rodičovské práva",
+        "blocks": [
+          {
+            "p": "V závislosti od platných zákonov môžu mať používatelia alebo ich rodičia alebo zákonní zástupcovia právo na:"
+          },
+          {
+            "list": [
+              "požadovať prístup k uloženým osobným údajom,",
+              "požadovať opravu nepresných údajov,",
+              "požiadať o vymazanie informácií,",
+              "namietať alebo obmedziť určité spracúvanie,",
+              "odvolať súhlas, ak je spracovanie založené na súhlase,",
+              "podať sťažnosť príslušnému orgánu na ochranu osobných údajov (v Českej republike Úrad na ochranu osobných údajov)."
+            ]
+          },
+          {
+            "p": "O hráčoch nevedieme žiadne záznamy, takže z našej strany nie je čo zverejňovať, opravovať alebo mazať. Herné údaje v zariadení máte pod kontrolou prostredníctvom nastavení systému Android a snímku z cloudu má hráč pod kontrolou prostredníctvom ovládacích prvkov údajov Hier Google Play (pozrite si časti 2 a 9). Správy odoslané prostredníctvom kontaktného formulára sú jedinou vecou, ​​ktorú sami držíme; pre uplatnenie svojich práv napíšte na kontaktnú adresu a korešpondenciu vymažeme."
+          },
+          {
+            "p": "V prípade akýchkoľvek otázok nás môžete kontaktovať na adrese lordlobotom@gmail.com."
+          }
+        ]
+      },
+      {
+        "heading": "12. Medzinárodné spracovanie údajov",
+        "blocks": [
+          {
+            "p": "Z hry nedostávame nič, takže z našej strany nedochádza k žiadnemu medzinárodnému prenosu osobných údajov. Ak je povolené ukladanie do cloudu, snímka sa prenesie do spoločnosti Google a spracuje sa v infraštruktúre spoločnosti Google, ktorá sa môže nachádzať mimo Európskeho hospodárskeho priestoru, podľa vlastných podmienok a záruk spoločnosti Google."
+          },
+          {
+            "p": "Správa odoslaná prostredníctvom kontaktného formulára prechádza cez Web3Forms a Google, ktorých servery môžu byť umiestnené mimo Európskeho hospodárskeho priestoru. To isté platí pre prehrávač YouTube, ak sa rozhodnete spustiť upútavku. Tieto prevody sa riadia podmienkami a zárukami týchto poskytovateľov."
+          },
+          {
+            "p": "Distribúcia prostredníctvom služby Google Play sa riadi vlastnými zmluvnými podmienkami a zásadami spoločnosti Google vrátane jej pravidiel o medzinárodných prevodoch."
+          }
+        ]
+      },
+      {
+        "heading": "13. Zmeny týchto zásad ochrany osobných údajov",
+        "blocks": [
+          {
+            "p": "Tieto Zásady ochrany osobných údajov môžeme aktualizovať, keď sa zmenia aplikácia, jej funkcie alebo právne požiadavky."
+          },
+          {
+            "p": "Aktualizovaná verzia bude zverejnená na tejto stránke s upraveným dátumom účinnosti."
+          },
+          {
+            "p": "Podstatné zmeny ovplyvňujúce údaje detí alebo spôsob používania informácií tu budú zverejnené skôr, ako nadobudnú účinnosť, a vyhlásenie o bezpečnosti údajov v obchode sa aktualizuje, aby sa zhodovalo."
+          }
+        ]
+      },
+      {
+        "heading": "14. Kontakt",
+        "blocks": [
+          {
+            "p": "V prípade otázok, žiadostí alebo obáv týkajúcich sa týchto zásad ochrany osobných údajov kontaktujte:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Vývojár",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "Email",
+                "value": "lordlobotom@gmail.com"
+              },
+              {
+                "label": "Krajina",
+                "value": "Česká republika"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "de": {
+    "title": "Datenschutzrichtlinie für Numblop",
+    "effectiveDateLabel": "Datum des Inkrafttretens",
+    "effectiveDate": "13. August 2026",
+    "intro": [
+      "Numblop ist ein mathematisches Lernspiel, das Kindern dabei helfen soll, die Multiplikation in einer sicheren und spielerischen Umgebung zu üben.",
+      "In dieser Datenschutzrichtlinie wird erläutert, welche Informationen Numblop verarbeitet, wie sie verwendet werden und welche Wahlmöglichkeiten Benutzer und ihre Eltern oder Erziehungsberechtigten haben.",
+      "Kurz gesagt: Das komplette Spiel funktioniert offline, ohne Anmeldung und ohne Numblop-Konto. Es gibt keine Werbung und keine In-App-Käufe und wir führen keine eigenen Analysen durch.",
+      "Zwei Dinge sind optional und unterliegen Ihrer Kontrolle: Cloud-Speicherung, bei der eine verschlüsselte Kopie des Spielfortschritts an Google Play Games gesendet wird (Abschnitt 2), und was auch immer Sie auf dieser Website tun möchten – schreiben Sie uns über das Kontaktformular oder klicken Sie, um den YouTube-Trailer zu starten (Abschnitt 3).",
+      "Eines ist nicht der Fall. Die Android-Version enthält die Play Games-Komponente von Google, die mit dem Spiel startet, unabhängig davon, ob die Cloud-Speicherung aktiviert ist oder nicht, und möglicherweise Diagnose- und Leistungsinformationen an Google sendet, die Google auch für Analysen verwendet. Abschnitt 2 erklärt, was das umfasst."
+    ],
+    "meta": {
+      "title": "Datenschutzrichtlinie – Numblop",
+      "description": "Numblop ist ein Kinderspiel ohne Werbung und ohne In-App-Käufe, das vollständig offline spielbar ist. Lesen Sie die vollständige Datenschutzerklärung."
+    },
+    "backToHome": "Zurück zur Startseite",
+    "sections": [
+      {
+        "heading": "1. Entwickler- und Kontaktinformationen",
+        "blocks": [
+          {
+            "p": "Numblop wird entwickelt und betrieben von:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Entwickler",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "Land",
+                "value": "Tschechische Republik"
+              },
+              {
+                "label": "Kontakt-E-Mail",
+                "value": "lordlobotom@gmail.com"
+              }
+            ]
+          },
+          {
+            "p": "Bei datenschutzbezogenen Fragen oder Wünschen kontaktieren Sie uns bitte über die oben angegebene E-Mail-Adresse."
+          }
+        ]
+      },
+      {
+        "heading": "2. Informationen, die wir verarbeiten",
+        "blocks": [
+          {
+            "p": "Numblop verkauft keine Benutzerdaten, nutzt sie nicht für Werbung und führt keine Verhaltensanalysen durch. In diesem Abschnitt wird das Spiel selbst beschrieben. Informationen, die über das Kontaktformular auf dieser Website übermittelt werden, werden in Abschnitt 3 behandelt."
+          },
+          {
+            "h": "Spieldaten auf Ihrem Gerät"
+          },
+          {
+            "p": "Das Spiel speichert Spielinformationen nur im privaten Speicher der Anwendung auf Ihrem Gerät. Dazu gehört:"
+          },
+          {
+            "list": [
+              "Spielfortschritt,",
+              "freigeschaltete Einmaleins,",
+              "Beherrschungsstufen für einzelne Sachverhalte,",
+              "gesammelte Erfahrungspunkte,",
+              "Münzen und Belohnungen,",
+              "Erfolge und Trophäen,",
+              "ausgewählte Kosmetikartikel,",
+              "Anwendungseinstellungen (Sprache, Audio, Vibration, Cloud-Speicherung),",
+              "ein optionaler vom Spieler eingegebener Spitzname,",
+              "eine zufällige pseudonyme Profilkennung, die vom Spiel generiert wird."
+            ]
+          },
+          {
+            "p": "Wenn die Cloud-Speicherung deaktiviert ist, bleiben diese Informationen auf dem Gerät, mit Ausnahme der standardmäßigen Android-Gerätesicherung oder der Übertragung von Gerät zu Gerät, die vollständig durch Ihre eigenen Google-Kontoeinstellungen gesteuert wird."
+          },
+          {
+            "p": "Der Spitzname dient ausschließlich der Ansprache des Spielers im Spiel und wird niemals veröffentlicht oder anderen Spielern angezeigt. Dennoch empfehlen wir, keinen echten Namen, keine E-Mail-Adresse, keine Telefonnummer, keinen Schulnamen oder keine Adresse als Spitznamen zu verwenden."
+          },
+          {
+            "h": "Google Play Games und Cloud-Speicherung"
+          },
+          {
+            "p": "Auf Android umfasst Numblop Google Play Games Services. Die Cloud-Speicherung ist standardmäßig aktiviert, funktioniert jedoch nur, wenn das Gerät bei Google Play Games angemeldet ist. Google und bei einem beaufsichtigten Kind Family Link steuern, ob ein Play Games-Profil vorhanden ist und verwendet werden darf. Die Cloud-Speicherung kann in den Einstellungen von Numblop ausgeschaltet werden; Das Spiel verwendet dann nur noch seinen lokalen Speicherstand."
+          },
+          {
+            "p": "Wenn Sie sich mit aktivierter Cloud-Speicherung anmelden, sendet Numblop einen verschlüsselten Schnappschuss gespeicherter Spiele an Google. Der Snapshot enthält den oben aufgeführten Fortschritt, einschließlich des optionalen Spitznamens und der zufälligen Profilkennung, sodass der Fortschritt geräteübergreifend wiederhergestellt oder sicher kombiniert werden kann. Numblop erhält außerdem die Play Games-Spieler-ID, die erforderlich ist, um den Snapshot eines Kontos vom anderen zu trennen. Numblop erhält die E-Mail-Adresse des Spielers nicht und betreibt keinen eigenen Kontoserver."
+          },
+          {
+            "p": "Google Play Games kann selbst Konto- und Profilkennungen, IP-Adresse und ungefähres Land oder Region, Spielaktivität und gespeicherten Fortschritt, Gerätekennungen und Diagnoseinformationen verarbeiten, um Play Games bereitzustellen, zu sichern, Fehler zu beheben und zu verbessern. Google verarbeitet diese Informationen gemäß der Google-Datenschutzrichtlinie und den Play Games-Datenschutzeinstellungen des Nutzers. Wir verkaufen diese Daten nicht und nutzen sie nicht für Werbung."
+          },
+          {
+            "h": "Technische und diagnostische Daten"
+          },
+          {
+            "p": "Numblop enthält kein Werbe-SDK, kein eigenes Analyse-SDK, keine eigenen Absturzberichte und keine Remote-Konfiguration. Wir erhalten keine Diagnoseinformationen über Ihr Gerät und keine Statistiken darüber, wie das Spiel gespielt wird."
+          },
+          {
+            "p": "Eine Ausnahme bildet die Play Games-Komponente von Google, die nicht vom Cloud-Save-Schalter abgedeckt wird. Unter Android startet es zusammen mit dem Spiel, unabhängig davon, ob die Cloud-Speicherung aktiviert ist oder nicht, und sendet möglicherweise Google-Gerätekennungen zusammen mit Diagnose- und Leistungsinformationen, die Google auch zur Analyse und Verbesserung von Play Games verwendet. Wenn Sie die Cloud-Speicherung deaktivieren, kann sich Numblop nicht mehr anmelden und keine Snapshots senden. Dies hindert Play Games selbst nicht daran, Google Bericht zu erstatten. Dies wird durch Googles eigene Play Games-Einstellungen und die Verfügbarkeit von Play Games auf dem Gerät gesteuert."
+          },
+          {
+            "h": "Online-Bestenlisten"
+          },
+          {
+            "p": "Die aktuelle Version des Spiels verfügt über keine Online-Bestenliste und kein öffentliches Profil. Cloud-Speicherung ist die einzige Netzwerkfunktion. Sollte jemals eine Bestenliste oder eine ähnliche Funktion hinzugefügt werden, werden diese Datenschutzrichtlinie und die Google Play-Datensicherheitserklärung vor der Veröffentlichung dieser Version aktualisiert."
+          }
+        ]
+      },
+      {
+        "heading": "3. Diese Website (Kontaktformular und Video)",
+        "blocks": [
+          {
+            "p": "Die Website selbst verwendet keine Cookies, führt keine Analysen durch und führt kein Cross-Site-Tracking durch. Es bietet ein Kontaktformular, über das Sie uns eine Frage, eine Idee oder einen Fehlerbericht senden können – dieses Formular ist der einzige Ort, an dem wir Informationen von Ihnen erhalten."
+          },
+          {
+            "h": "Was wir verarbeiten"
+          },
+          {
+            "p": "Nur das, was Sie selbst schreiben: ein optionaler Name, die E-Mail-Adresse, an die wir antworten sollen, der Text Ihrer Nachricht und die Sprache der Seite, von der Sie sie gesendet haben. Sonst nichts – keine Cookies, keine Analysen, kein Cross-Site-Tracking."
+          },
+          {
+            "h": "Warum wir es verarbeiten"
+          },
+          {
+            "p": "Einzig und allein, damit wir Ihre Nachricht lesen und darauf antworten können. Wir verwenden Ihre Adresse nicht für Marketingzwecke, nehmen sie nicht in eine Mailingliste auf und geben sie nicht an Dritte weiter."
+          },
+          {
+            "h": "Rechtsgrundlage"
+          },
+          {
+            "p": "Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO, erteilt durch Ankreuzen der Checkbox im Formular. Sie können es jederzeit widerrufen, indem Sie an lordlobotom@gmail.com schreiben, und wir werden die Korrespondenz löschen."
+          },
+          {
+            "h": "Wer erhält die Informationen?"
+          },
+          {
+            "p": "Das Formular wird von Web3Forms (einem Formular-zu-E-Mail-Relay-Dienst) zugestellt, der die Nachricht an ein von Google betriebenes Gmail-Postfach sendet. Es gibt keine weiteren Empfänger."
+          },
+          {
+            "h": "Wie lange behalten wir es?"
+          },
+          {
+            "p": "Nur so lange, wie es für die Beantwortung Ihrer Anfrage und die Bearbeitung etwaiger Folgemaßnahmen erforderlich ist. Danach löschen wir die Nachricht aus dem Postfach – oder auf Ihren Wunsch auch früher."
+          },
+          {
+            "h": "Alter"
+          },
+          {
+            "p": "Das Formular richtet sich an Eltern, Lehrer und erwachsene Benutzer. Bitte schreiben Sie nur von Ihrer eigenen E-Mail-Adresse und geben Sie nicht die Adresse oder persönliche Daten eines Kindes in das Formular ein."
+          },
+          {
+            "h": "YouTube-Video"
+          },
+          {
+            "p": "Auf der Homepage gibt es einen Trailer zum Spiel. Das Vorschaubild wird auf unserem eigenen Server gespeichert, sodass die Seite keine Verbindung zu YouTube herstellt, bis Sie das Video selbst starten. Erst nach einem Klick wird der Player von youtube-nocookie.com geladen; Ab diesem Zeitpunkt kann Google Ihre IP-Adresse und Wiedergabeinformationen im Rahmen seiner eigenen Datenschutzrichtlinie verarbeiten. Bei den Instagram- und YouTube-Links in der Fußzeile handelt es sich um normale Links – von ihnen wird nichts geladen, es sei denn, Sie folgen ihnen."
+          },
+          {
+            "p": "Sowohl das Schreiben an uns als auch das Abspielen des Videos sind völlig optional. Sie können das Spiel von Google Play herunterladen oder in Ihrem Browser spielen, ohne etwas einzureichen."
+          }
+        ]
+      },
+      {
+        "heading": "4. Wie wir Informationen verwenden",
+        "blocks": [
+          {
+            "p": "Die auf Ihrem Gerät gespeicherten Spieldaten werden von der Anwendung nur verwendet, um:"
+          },
+          {
+            "list": [
+              "Bereitstellung und Wartung des Spiels,",
+              "Spielfortschritt speichern und wiederherstellen,",
+              "diesen Fortschritt geräteübergreifend wiederherstellen oder sicher kombinieren, wenn die Cloud-Speicherung aktiviert ist,",
+              "Berechnen Sie Erfahrungen, Belohnungen und Erfolge,",
+              "die Übung an die Fortschritte des Kindes anpassen,",
+              "Behalten Sie die gewählten Einstellungen und Kosmetikartikel bei."
+            ]
+          },
+          {
+            "p": "Wir verwenden keine Informationen für gezielte Werbung, Direktmarketing oder die Erstellung von Werbeprofilen."
+          }
+        ]
+      },
+      {
+        "heading": "5. Privatsphäre von Kindern",
+        "blocks": [
+          {
+            "p": "Numblop richtet sich an Kinder und Familien und ist daher so konzipiert, dass keinerlei personenbezogene Daten erfasst werden."
+          },
+          {
+            "p": "Das Spiel verlangt von Kindern niemals Folgendes:"
+          },
+          {
+            "list": [
+              "ihr richtiger Name,",
+              "Heimatadresse,",
+              "E-Mail-Adresse,",
+              "Telefonnummer,",
+              "Schulname,",
+              "genauer Standort,",
+              "Fotos,",
+              "Kontakte,",
+              "private Nachrichten."
+            ]
+          },
+          {
+            "p": "Das Spiel bietet keinen Chat, keine privaten Nachrichten, keine Bildfreigabe oder sonstige Kommunikation zwischen Benutzern."
+          },
+          {
+            "p": "Wir betreiben kein Kontosystem und verfügen über keine Datenbank, die eine Kopie der Fortschritte Ihres Kindes enthält. Die vom Spiel verarbeiteten Daten werden bewusst minimiert: keine Werbung, kein Tracking, keine freie Kommunikation und kein öffentlich sichtbarer, von einem Kind eingegebener Name."
+          }
+        ]
+      },
+      {
+        "heading": "6. Werbung und Einkäufe",
+        "blocks": [
+          {
+            "p": "Numblop:"
+          },
+          {
+            "list": [
+              "keine Werbung Dritter anzeigt,",
+              "nutzt Nutzerdaten nicht für Werbung,",
+              "ist kostenlos erhältlich,",
+              "enthält keine Abonnements und keine In-App-Käufe."
+            ]
+          },
+          {
+            "p": "Sollten sich diese Praktiken in Zukunft ändern, werden diese Datenschutzrichtlinie und die Datensicherheitserklärung von Google Play aktualisiert, bevor die entsprechende Funktionalität eingeführt wird."
+          }
+        ]
+      },
+      {
+        "heading": "7. Dienste Dritter",
+        "blocks": [
+          {
+            "p": "Die einzige Drittanbieterkomponente innerhalb der Anwendung, die Benutzerdaten verarbeitet, sind Google Play Games Services, die für die in Abschnitt 2 beschriebene optionale Cloud-Speicherung verwendet werden. Es gibt kein Werbe- oder Analyse-SDK."
+          },
+          {
+            "p": "Zur Verbreitung der Anwendung wird Google Play verwendet. Als Store-Betreiber verarbeitet Google Download- und Installationsinformationen gemäß seinen eigenen Bedingungen und Datenschutzrichtlinien; Wir erhalten diese Informationen nicht in einer Form, die es uns ermöglichen würde, einzelne Spieler zu identifizieren."
+          },
+          {
+            "p": "Eine aktuelle Liste der Drittanbieterdienste:"
+          },
+          {
+            "list": [
+              "Google Play Games Services (optionale Cloud-Speicherung, siehe Abschnitt 2),",
+              "Google Play (Anwendungsverteilung),",
+              "Web3Forms (Zustellung des Website-Kontaktformulars per E-Mail, siehe Abschnitt 3),",
+              "Google Gmail (das Postfach, in dem die Nachrichten eingehen),",
+              "YouTube / Google (der Trailer-Player, der nur bei Ihrem Klick geladen wird, siehe Abschnitt 3)."
+            ]
+          },
+          {
+            "p": "Numblop verkauft keine personenbezogenen Daten an Dritte. Derzeit werden keine anderen Dienste genutzt; Diese Liste wird in dieser Datenschutzerklärung auf dem neuesten Stand gehalten."
+          }
+        ]
+      },
+      {
+        "heading": "8. Datenaustausch",
+        "blocks": [
+          {
+            "p": "Wir verkaufen, vermieten oder handeln nicht mit Benutzerinformationen."
+          },
+          {
+            "p": "Das Spiel sendet nichts an uns, daher haben wir nichts davon, was wir mit Dienstanbietern oder anderen Dritten teilen könnten. Die einzige Übertragung aus dem Spiel ist der in der Cloud gespeicherte Schnappschuss, der auf dem eigenen angemeldeten Konto des Spielers an Google Play Games geht (siehe Abschnitt 2). Nachrichten aus dem Kontaktformular werden nur an die Dienste weitergeleitet, die für die Zustellung an unser Postfach erforderlich sind (siehe Abschnitte 3 und 7), und an niemanden sonst. Darüber hinaus werden Informationen nur im gesetzlich vorgeschriebenen Umfang weitergegeben."
+          }
+        ]
+      },
+      {
+        "heading": "9. Datenaufbewahrung",
+        "blocks": [
+          {
+            "p": "Spieldaten bleiben auf Ihrem Gerät gespeichert, bis die Anwendungsdaten gelöscht oder die Anwendung deinstalliert wird. Durch die Deinstallation der Anwendung werden diese Daten gelöscht."
+          },
+          {
+            "p": "Wir betreiben keine Server, auf denen Spieldaten gespeichert würden. Sie können die auf Ihrem Gerät gespeicherten Daten jederzeit selbst löschen, über die Android-Systemeinstellungen oder durch Deinstallation der Anwendung."
+          },
+          {
+            "p": "Ein Cloud-Snapshot verbleibt in den Play Games-Daten des angemeldeten Spielers, bis er ersetzt wird oder bis der Spieler die Play Games-Daten oder das Profil des Spiels über die Play Games-Steuerelemente von Google löscht. Durch das Deaktivieren der Cloud-Speicherung in Numblop wird jeder weitere Play Games-Zugriff gestoppt, ein bereits gespeicherter Snapshot wird dadurch jedoch nicht automatisch gelöscht."
+          },
+          {
+            "p": "Nachrichten aus dem Kontaktformular werden nur so lange gespeichert, wie es für die Beantwortung erforderlich ist, wie in Abschnitt 3 beschrieben."
+          }
+        ]
+      },
+      {
+        "heading": "10. Datensicherheit",
+        "blocks": [
+          {
+            "p": "Spieldaten werden im privaten Speicher der Anwendung gespeichert, den Android vor dem Zugriff anderer Anwendungen schützt."
+          },
+          {
+            "p": "Der in der Cloud gespeicherte Snapshot wird über eine verschlüsselte Verbindung an Google Play Games übertragen. Keine Methode der elektronischen Speicherung oder Übertragung ist absolut sicher und eine absolute Sicherheit kann nicht garantiert werden."
+          }
+        ]
+      },
+      {
+        "heading": "11. Benutzer- und Elternrechte",
+        "blocks": [
+          {
+            "p": "Je nach geltendem Recht haben Benutzer oder ihre Eltern oder Erziehungsberechtigten möglicherweise das Recht auf:"
+          },
+          {
+            "list": [
+              "Zugriff auf gespeicherte personenbezogene Daten anfordern,",
+              "die Korrektur unrichtiger Informationen verlangen,",
+              "die Löschung von Informationen beantragen,",
+              "einer bestimmten Verarbeitung zu widersprechen oder diese einzuschränken,",
+              "Widerruf der Einwilligung, wenn die Verarbeitung auf einer Einwilligung beruht,",
+              "eine Beschwerde bei einer zuständigen Datenschutzbehörde einreichen (in der Tschechischen Republik das Amt für den Schutz personenbezogener Daten)."
+            ]
+          },
+          {
+            "p": "Wir führen keine Aufzeichnungen über Spieler, daher gibt es auf unserer Seite nichts, was wir offenlegen, korrigieren oder löschen könnten. Die Spieldaten auf dem Gerät unterliegen Ihrer Kontrolle über die Android-Einstellungen, und ein Cloud-Snapshot unterliegt der Kontrolle des Spielers über die Play Games-Datenkontrollen von Google (siehe Abschnitte 2 und 9). Über das Kontaktformular gesendete Nachrichten sind das Einzige, was wir für uns behalten; Um Ihre diesbezüglichen Rechte auszuüben, schreiben Sie an die Kontaktadresse und wir werden die Korrespondenz löschen."
+          },
+          {
+            "p": "Bei Fragen können Sie uns gerne unter lordlobotom@gmail.com kontaktieren."
+          }
+        ]
+      },
+      {
+        "heading": "12. Internationale Datenverarbeitung",
+        "blocks": [
+          {
+            "p": "Wir erhalten nichts vom Spiel, daher erfolgt keine internationale Übermittlung personenbezogener Daten unsererseits. Wenn die Cloud-Speicherung aktiviert ist, wird der Schnappschuss an Google übertragen und auf der Infrastruktur von Google, die sich möglicherweise außerhalb des Europäischen Wirtschaftsraums befindet, gemäß den eigenen Bedingungen und Schutzmaßnahmen von Google verarbeitet."
+          },
+          {
+            "p": "Eine über das Kontaktformular übermittelte Nachricht wird über Web3Forms und Google weitergeleitet, deren Server sich möglicherweise außerhalb des Europäischen Wirtschaftsraums befinden. Das Gleiche gilt für den YouTube-Player, wenn Sie den Trailer starten möchten. Diese Übertragungen unterliegen den Bedingungen und Garantien dieser Anbieter."
+          },
+          {
+            "p": "Die Verbreitung über Google Play unterliegt den eigenen Geschäftsbedingungen und Richtlinien von Google, einschließlich der Regeln für internationale Übertragungen."
+          }
+        ]
+      },
+      {
+        "heading": "13. Änderungen dieser Datenschutzrichtlinie",
+        "blocks": [
+          {
+            "p": "Wir können diese Datenschutzrichtlinie aktualisieren, wenn sich die Anwendung, ihre Funktionen oder rechtliche Anforderungen ändern."
+          },
+          {
+            "p": "Die aktualisierte Version wird auf dieser Seite mit einem geänderten Datum des Inkrafttretens veröffentlicht."
+          },
+          {
+            "p": "Wesentliche Änderungen, die sich auf die Daten von Kindern oder die Art und Weise der Verwendung von Informationen auswirken, werden hier veröffentlicht, bevor sie in Kraft treten, und die Datensicherheitserklärung im Geschäft wird entsprechend aktualisiert."
+          }
+        ]
+      },
+      {
+        "heading": "14. Kontakt",
+        "blocks": [
+          {
+            "p": "Bei Fragen, Wünschen oder Bedenken bezüglich dieser Datenschutzrichtlinie wenden Sie sich an:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Entwickler",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "E-Mail",
+                "value": "lordlobotom@gmail.com"
+              },
+              {
+                "label": "Land",
+                "value": "Tschechische Republik"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "es": {
+    "title": "Política de privacidad para Numblop",
+    "effectiveDateLabel": "Fecha de vigencia",
+    "effectiveDate": "13 de agosto de 2026",
+    "intro": [
+      "Numblop es un juego educativo de matemáticas diseñado para ayudar a los niños a practicar la multiplicación en un entorno seguro y lúdico.",
+      "Esta Política de Privacidad explica qué información procesa Numblop, cómo se utiliza y qué opciones tienen los usuarios y sus padres o tutores legales.",
+      "En resumen: el juego completo funciona sin conexión, sin iniciar sesión y sin una cuenta Numblop. No hay anuncios ni compras dentro de la aplicación, y no realizamos análisis propios.",
+      "Dos cosas son opcionales y están bajo tu control: guardar en la nube, que envía una copia cifrada del progreso del juego a Google Play Games (sección 2), y cualquier cosa que elijas hacer en este sitio web: escribirnos a través del formulario de contacto o hacer clic para iniciar el avance de YouTube (sección 3).",
+      "Una cosa no lo es. La versión de Android incluye el componente Play Games de Google, que comienza con el juego, esté o no activado el guardado en la nube, y puede enviar información de rendimiento y diagnóstico de Google que Google también utiliza para análisis. La sección 2 explica lo que eso cubre."
+    ],
+    "meta": {
+      "title": "Política de privacidad – Numblop",
+      "description": "Numblop es un juego para niños sin anuncios ni compras dentro de la aplicación, que se puede jugar completamente sin conexión. Lea la política de privacidad completa."
+    },
+    "backToHome": "Volver a la página de inicio",
+    "sections": [
+      {
+        "heading": "1. Desarrollador e información de contacto",
+        "blocks": [
+          {
+            "p": "Numblop es desarrollado y operado por:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Revelador",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "País",
+                "value": "República Checa"
+              },
+              {
+                "label": "Correo electrónico de contacto",
+                "value": "lordlobotom@gmail.com"
+              }
+            ]
+          },
+          {
+            "p": "Para cualquier pregunta o solicitud relacionada con la privacidad, comuníquese con nosotros utilizando la dirección de correo electrónico anterior."
+          }
+        ]
+      },
+      {
+        "heading": "2. Información que procesamos",
+        "blocks": [
+          {
+            "p": "Numblop no vende datos de usuarios, no los utiliza para publicidad y no realiza análisis de comportamiento. Esta sección describe el juego en sí; La información enviada a través del formulario de contacto de este sitio web se trata en la sección 3."
+          },
+          {
+            "h": "Datos del juego en tu dispositivo"
+          },
+          {
+            "p": "El juego almacena información del juego solo en el almacenamiento privado de la aplicación en tu dispositivo. Esto incluye:"
+          },
+          {
+            "list": [
+              "progreso del juego,",
+              "tablas de multiplicar desbloqueadas,",
+              "niveles de dominio de hechos individuales,",
+              "puntos de experiencia obtenidos,",
+              "monedas y recompensas,",
+              "logros y trofeos,",
+              "artículos cosméticos seleccionados,",
+              "configuración de la aplicación (idioma, audio, vibración, guardado en la nube),",
+              "un apodo opcional escrito por el jugador,",
+              "un identificador de perfil seudónimo aleatorio generado por el juego."
+            ]
+          },
+          {
+            "p": "Con el guardado en la nube desactivado, esta información permanece en el dispositivo, aparte de la copia de seguridad estándar del dispositivo Android o la transferencia de dispositivo a dispositivo, que está controlada completamente por la configuración de su propia cuenta de Google."
+          },
+          {
+            "p": "El apodo se utiliza únicamente para dirigirse al jugador dentro del juego y nunca se publica ni se muestra a otros jugadores. Aun así, recomendamos no utilizar un nombre real, dirección de correo electrónico, número de teléfono, nombre de la escuela o dirección como apodo."
+          },
+          {
+            "h": "Google Play Juegos y guardado en la nube"
+          },
+          {
+            "p": "En Android, Numblop incluye los servicios de juegos de Google Play. El guardado en la nube está activado de forma predeterminada, pero funciona solo cuando Google Play Games inicia sesión en el dispositivo. Google y, para un niño supervisado, Family Link controlan si existe un perfil de Play Games y si se puede usar. El guardado en la nube se puede desactivar en la Configuración de Numblop; Luego, el juego continúa usando solo su guardado local."
+          },
+          {
+            "p": "Cuando inicia sesión con el guardado en la nube habilitado, Numblop envía una instantánea cifrada de los juegos guardados a Google. La instantánea contiene el progreso enumerado anteriormente, incluido el apodo opcional y el identificador de perfil aleatorio, para que el progreso se pueda restaurar o combinar de forma segura en todos los dispositivos. Numblop también recibe el identificador de jugador de Play Games necesario para mantener la instantánea de una cuenta separada de otra. Numblop no recibe la dirección de correo electrónico del jugador y no ejecuta ningún servidor de cuenta propio."
+          },
+          {
+            "p": "Google Play Games puede procesar por sí mismo identificadores de cuenta y perfil, dirección IP y país o región aproximada, actividad del juego y progreso guardado, identificadores de dispositivo e información de diagnóstico para proporcionar, proteger, solucionar problemas y mejorar Play Games. Google maneja esa información según la Política de privacidad de Google y la configuración de privacidad de Play Games del usuario. No vendemos estos datos ni los utilizamos para anuncios."
+          },
+          {
+            "h": "Datos técnicos y de diagnóstico."
+          },
+          {
+            "p": "Numblop no contiene SDK de publicidad, ni SDK de análisis propio, ni informes de fallos propios ni configuración remota. No recibimos información de diagnóstico sobre su dispositivo ni estadísticas sobre cómo se juega el juego."
+          },
+          {
+            "p": "El componente Play Games de Google es la excepción y no está cubierto por el interruptor de guardado en la nube. En Android, se inicia junto con el juego, esté o no habilitado el guardado en la nube, y puede enviar identificadores de dispositivos de Google junto con información de diagnóstico y rendimiento, que Google también utiliza para analizar y mejorar Play Games. Desactivar el guardado en la nube impide que Numblop inicie sesión y envíe cualquier instantánea; no impide que Play Games informe a Google. La propia configuración de Play Games de Google y la disponibilidad de Play Games en el dispositivo controlan eso."
+          },
+          {
+            "h": "Tablas de clasificación en línea"
+          },
+          {
+            "p": "La versión actual del juego no tiene clasificación en línea ni perfil público. El guardado en la nube es la única función en red. Si alguna vez se agrega una tabla de clasificación o una característica similar, esta Política de privacidad y la declaración de seguridad de datos de Google Play se actualizarán antes del lanzamiento de esa versión."
+          }
+        ]
+      },
+      {
+        "heading": "3. Este sitio web (formulario de contacto y vídeo)",
+        "blocks": [
+          {
+            "p": "El sitio web en sí no utiliza cookies, no ejecuta análisis ni realiza seguimiento entre sitios. Ofrece un formulario de contacto para enviarnos una pregunta, una idea o un informe de error; ese formulario es el único lugar donde obtenemos información suya."
+          },
+          {
+            "h": "lo que procesamos"
+          },
+          {
+            "p": "Solo lo que tú mismo escribas: un nombre opcional, la dirección de correo electrónico a la que debemos responder, el texto de tu mensaje y el idioma de la página desde donde lo enviaste. Nada más: sin cookies, sin análisis, sin seguimiento entre sitios."
+          },
+          {
+            "h": "Por qué lo procesamos"
+          },
+          {
+            "p": "Únicamente para que podamos leer tu mensaje y responderle. No utilizamos su dirección para marketing, no la agregamos a ninguna lista de correo y no la transmitimos a nadie más."
+          },
+          {
+            "h": "Base jurídica"
+          },
+          {
+            "p": "Consentimiento en virtud del artículo 6, apartado 1, letra a) del RGPD, otorgado marcando la casilla de verificación en el formulario. Podrás retirarla en cualquier momento escribiendo a lordlobotom@gmail.com y eliminaremos la correspondencia."
+          },
+          {
+            "h": "¿Quién recibe la información?"
+          },
+          {
+            "p": "El formulario lo entrega Web3Forms (un servicio de retransmisión de formulario a correo electrónico), que envía el mensaje a un buzón de Gmail operado por Google. No hay otros destinatarios."
+          },
+          {
+            "h": "¿Cuánto tiempo lo mantendremos?"
+          },
+          {
+            "p": "Sólo el tiempo necesario para responder a su consulta y gestionar cualquier seguimiento. Después de eso, eliminamos el mensaje del buzón, o antes, si usted lo solicita."
+          },
+          {
+            "h": "Edad"
+          },
+          {
+            "p": "El formulario está destinado a padres, profesores y usuarios adultos. Escriba únicamente desde su propia dirección de correo electrónico y no ingrese la dirección ni los datos personales de un niño en el formulario."
+          },
+          {
+            "h": "vídeo de youtube"
+          },
+          {
+            "p": "La página de inicio incluye un avance del juego. La imagen de vista previa se almacena en nuestro propio servidor, por lo que la página no establece conexión con YouTube hasta que usted mismo inicie el vídeo. Sólo después de un clic se carga el reproductor desde youtube-nocookie.com; A partir de ese momento, Google puede procesar su dirección IP y la información de reproducción según su propia política de privacidad. Los enlaces de Instagram y YouTube en el pie de página son enlaces normales: no se carga nada desde ellos a menos que los sigas."
+          },
+          {
+            "p": "Tanto escribirnos como reproducir el vídeo son totalmente opcionales. Puedes descargar el juego desde Google Play o jugarlo en tu navegador sin enviar nada."
+          }
+        ]
+      },
+      {
+        "heading": "4. Cómo utilizamos la información",
+        "blocks": [
+          {
+            "p": "La aplicación utiliza los datos del juego almacenados en su dispositivo solo para:"
+          },
+          {
+            "list": [
+              "proporcionar y mantener el juego,",
+              "guardar y restaurar el progreso del juego,",
+              "restaurar o combinar de forma segura ese progreso en todos los dispositivos cuando el guardado en la nube está activado,",
+              "calcular experiencia, recompensas y logros,",
+              "adaptar la práctica al progreso del niño,",
+              "Conserve los ajustes y elementos cosméticos elegidos."
+            ]
+          },
+          {
+            "p": "No utilizamos ninguna información para publicidad dirigida, marketing directo o la creación de perfiles publicitarios."
+          }
+        ]
+      },
+      {
+        "heading": "5. Privacidad de los niños",
+        "blocks": [
+          {
+            "p": "Numblop está destinado a niños y familias y, por lo tanto, está diseñado para que no se recopile ningún tipo de información personal."
+          },
+          {
+            "p": "El juego nunca pide a los niños que proporcionen:"
+          },
+          {
+            "list": [
+              "su verdadero nombre,",
+              "dirección de casa,",
+              "dirección de correo electrónico,",
+              "número de teléfono,",
+              "nombre de la escuela,",
+              "ubicación precisa,",
+              "fotografías,",
+              "contactos,",
+              "mensajes privados."
+            ]
+          },
+          {
+            "p": "El juego no proporciona chat, mensajería privada, intercambio de imágenes ni ningún otro tipo de comunicación entre usuarios."
+          },
+          {
+            "p": "No operamos ningún sistema de cuentas y no mantenemos ninguna base de datos que contenga una copia del progreso de su hijo. Los datos que maneja el juego se minimizan deliberadamente: no hay anuncios, no hay seguimiento, no hay comunicación de forma libre y ningún nombre visible públicamente ingresado por un niño."
+          }
+        ]
+      },
+      {
+        "heading": "6. Publicidad y Compras",
+        "blocks": [
+          {
+            "p": "Numblop:"
+          },
+          {
+            "list": [
+              "no muestra publicidad de terceros,",
+              "no utiliza los datos del usuario para publicidad,",
+              "está disponible de forma gratuita,",
+              "no contiene suscripciones ni compras dentro de la aplicación."
+            ]
+          },
+          {
+            "p": "Si estas prácticas cambian en el futuro, esta Política de Privacidad y la declaración de seguridad de Datos de Google Play se actualizarán antes de que se introduzca la funcionalidad relevante."
+          }
+        ]
+      },
+      {
+        "heading": "7. Servicios de terceros",
+        "blocks": [
+          {
+            "p": "El único componente de terceros dentro de la aplicación que procesa los datos del usuario son los servicios de juegos de Google Play, que se utilizan para el guardado opcional en la nube descrito en la sección 2. No hay publicidad ni SDK de análisis."
+          },
+          {
+            "p": "Google Play se utiliza para distribuir la aplicación. Como operador de la tienda, Google procesa la información de descarga e instalación según sus propios términos y política de privacidad; No recibimos esa información en una forma que nos permita identificar a los jugadores individuales."
+          },
+          {
+            "p": "Una lista actual de servicios de terceros:"
+          },
+          {
+            "list": [
+              "Servicios de juegos de Google Play (guardado en la nube opcional, consulte la sección 2),",
+              "Google Play (distribución de aplicaciones),",
+              "Web3Forms (envío del formulario de contacto del sitio web por correo electrónico, consulte la sección 3),",
+              "Google Gmail (el buzón al que llegan los mensajes),",
+              "YouTube / Google (el reproductor de tráiler, que se carga solo con su clic, consulte la sección 3)."
+            ]
+          },
+          {
+            "p": "Numblop no vende información personal a terceros. No se utilizan otros servicios en este momento; esta lista se mantendrá actualizada en esta Política de Privacidad."
+          }
+        ]
+      },
+      {
+        "heading": "8. Intercambio de datos",
+        "blocks": [
+          {
+            "p": "No vendemos, alquilamos ni intercambiamos información del usuario."
+          },
+          {
+            "p": "El juego no nos envía nada, por lo que no tenemos nada que compartir con los proveedores de servicios ni con ningún otro tercero. La única transferencia fuera del juego es la instantánea guardada en la nube, que va a Google Play Games en la cuenta del jugador que ha iniciado sesión (consulte la sección 2). Los mensajes del formulario de contacto se pasan únicamente a los servicios necesarios para entregarlos a nuestro buzón (ver secciones 3 y 7), y a nadie más. Más allá de eso, la información solo se divulgaría en la medida requerida por la ley aplicable."
+          }
+        ]
+      },
+      {
+        "heading": "9. Retención de datos",
+        "blocks": [
+          {
+            "p": "Los datos del juego permanecen almacenados en su dispositivo hasta que se borran los datos de la aplicación o se desinstala la aplicación. La desinstalación de la aplicación elimina estos datos."
+          },
+          {
+            "p": "No operamos servidores en los que se retengan datos del juego. Puedes eliminar los datos almacenados en tu dispositivo en cualquier momento tú mismo, a través de la configuración del sistema Android o desinstalando la aplicación."
+          },
+          {
+            "p": "Una instantánea de la nube permanece en los datos de Play Games del jugador que ha iniciado sesión hasta que se reemplaza o hasta que el jugador elimina los datos o el perfil de Play Games del juego a través de los controles de Play Games de Google. Desactivar el guardado en la nube en Numblop detiene cualquier acceso adicional a Play Games, pero no elimina por sí solo una instantánea que ya está almacenada."
+          },
+          {
+            "p": "Los mensajes del formulario de contacto se conservan únicamente durante el tiempo necesario para responderlos, tal y como se describe en el apartado 3."
+          }
+        ]
+      },
+      {
+        "heading": "10. Seguridad de los datos",
+        "blocks": [
+          {
+            "p": "Los datos del juego se guardan en el almacenamiento privado de la aplicación, que Android protege del acceso de otras aplicaciones."
+          },
+          {
+            "p": "La instantánea guardada en la nube se transmite a Google Play Games a través de una conexión cifrada. Ningún método de almacenamiento o transmisión electrónica es completamente seguro y no se puede garantizar una seguridad absoluta."
+          }
+        ]
+      },
+      {
+        "heading": "11. Derechos del usuario y de los padres",
+        "blocks": [
+          {
+            "p": "Dependiendo de la legislación aplicable, los usuarios o sus padres o tutores legales podrán tener derecho a:"
+          },
+          {
+            "list": [
+              "solicitar acceso a la información personal almacenada,",
+              "solicitar la corrección de información inexacta,",
+              "solicitar la eliminación de información,",
+              "oponerse o restringir cierto procesamiento,",
+              "retirar el consentimiento cuando el procesamiento se base en el consentimiento,",
+              "presentar una queja ante una autoridad de protección de datos competente (en la República Checa, la Oficina de Protección de Datos Personales)."
+            ]
+          },
+          {
+            "p": "No mantenemos registros sobre los jugadores, por lo que no hay nada de nuestra parte que revelar, corregir o eliminar. Los datos del juego en el dispositivo están bajo su control a través de la configuración de Android, y una instantánea en la nube está bajo el control del jugador a través de los controles de datos de Play Games de Google (consulte las secciones 2 y 9). Los mensajes enviados a través del formulario de contacto son lo único que guardamos nosotros mismos; para ejercer sus derechos sobre aquellos, escriba a la dirección de contacto y eliminaremos la correspondencia."
+          },
+          {
+            "p": "Le invitamos a contactarnos en lordlobotom@gmail.com si tiene alguna pregunta."
+          }
+        ]
+      },
+      {
+        "heading": "12. Procesamiento de datos internacionales",
+        "blocks": [
+          {
+            "p": "No recibimos nada del juego, por lo que no existe ninguna transferencia internacional de información personal de nuestra parte. Cuando está habilitado el guardado en la nube, la instantánea se transfiere a Google y se procesa en la infraestructura de Google, que puede estar ubicada fuera del Espacio Económico Europeo, según los términos y salvaguardias propios de Google."
+          },
+          {
+            "p": "Un mensaje enviado a través del formulario de contacto pasa por Web3Forms y Google, cuyos servidores pueden estar ubicados fuera del Espacio Económico Europeo. Lo mismo se aplica al reproductor de YouTube si elige iniciar el avance. Esas transferencias se rigen por los términos y garantías de esos proveedores."
+          },
+          {
+            "p": "La distribución a través de Google Play se rige por los términos y políticas propios de Google, incluidas sus normas sobre transferencias internacionales."
+          }
+        ]
+      },
+      {
+        "heading": "13. Cambios a esta Política de Privacidad",
+        "blocks": [
+          {
+            "p": "Podemos actualizar esta Política de Privacidad cuando cambien la aplicación, sus características o requisitos legales."
+          },
+          {
+            "p": "La versión actualizada se publicará en esta página con una fecha de vigencia revisada."
+          },
+          {
+            "p": "Los cambios materiales que afecten a los datos de los niños o a la forma en que se utiliza la información se publicarán aquí antes de que entren en vigor, y la declaración de seguridad de datos de la tienda se actualizará para que coincida."
+          }
+        ]
+      },
+      {
+        "heading": "14. Contacto",
+        "blocks": [
+          {
+            "p": "Para preguntas, solicitudes o inquietudes con respecto a esta Política de Privacidad, comuníquese con:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Revelador",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "Correo electrónico",
+                "value": "lordlobotom@gmail.com"
+              },
+              {
+                "label": "País",
+                "value": "República Checa"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "fi": {
+    "title": "Numblop:n tietosuojakäytäntö",
+    "effectiveDateLabel": "Voimaantulopäivä",
+    "effectiveDate": "13 elokuuta 2026",
+    "intro": [
+      "Numblop on opettavainen matematiikkapeli, joka on suunniteltu auttamaan lapsia harjoittelemaan kertolaskua turvallisessa ja leikkisässä ympäristössä.",
+      "Tämä tietosuojakäytäntö selittää, mitä tietoja Numblop käsittelee, miten niitä käytetään ja mitä valintoja käyttäjillä ja heidän vanhemmillaan tai laillisilla huoltajilla on.",
+      "Lyhyesti: koko peli toimii offline-tilassa ilman sisäänkirjautumista ja ilman Numblop-tiliä. Ei mainoksia eikä sovelluksen sisäisiä ostoksia, emmekä suorita omaa analytiikkaa.",
+      "Kaksi asiaa ovat valinnaisia ​​ja sinun hallinnassasi: pilvitallennus, joka lähettää yhden salatun kopion pelin edistymisestä Google Play Peleihin (osio 2), ja mitä tahansa valitset tällä verkkosivustolla – kirjoittamalla meille yhteydenottolomakkeen kautta tai napsauttamalla aloittaaksesi YouTube-trailerin (osio 3).",
+      "Yksi asia ei ole. Android-versio sisältää Googlen Play Pelit -komponentin, joka alkaa pelistä riippumatta siitä, onko pilvitallennus päällä vai ei, ja voi lähettää Googlelle diagnostiikka- ja suorituskykytietoja, joita Google käyttää myös analytiikkaan. Kohdassa 2 selitetään, mitä se kattaa."
+    ],
+    "meta": {
+      "title": "Tietosuojakäytäntö – Numblop",
+      "description": "Numblop on täysin offline-tilassa pelattava lasten peli, jossa ei ole mainoksia eikä sovelluksen sisäisiä ostoksia. Lue koko tietosuojakäytäntö."
+    },
+    "backToHome": "Takaisin etusivulle",
+    "sections": [
+      {
+        "heading": "1. Kehittäjä- ja yhteystiedot",
+        "blocks": [
+          {
+            "p": "Numblop:n kehittäjä ja operaattori:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Kehittäjä",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "Maa",
+                "value": "Tšekin tasavalta"
+              },
+              {
+                "label": "Yhteydenotto sähköposti",
+                "value": "lordlobotom@gmail.com"
+              }
+            ]
+          },
+          {
+            "p": "Jos sinulla on tietosuojaan liittyviä kysymyksiä tai pyyntöjä, ota meihin yhteyttä käyttämällä yllä olevaa sähköpostiosoitetta."
+          }
+        ]
+      },
+      {
+        "heading": "2. Käsittelemämme tiedot",
+        "blocks": [
+          {
+            "p": "Numblop ei myy käyttäjätietoja, ei käytä niitä mainontaan eikä käytä käyttäytymisanalytiikkaa. Tämä osa kuvaa itse peliä; Tämän sivuston yhteydenottolomakkeen kautta lähetetyt tiedot käsitellään kohdassa 3."
+          },
+          {
+            "h": "Pelitiedot laitteellasi"
+          },
+          {
+            "p": "Peli tallentaa pelitiedot vain sovelluksen yksityiseen tallennustilaan laitteellesi. Tämä sisältää:"
+          },
+          {
+            "list": [
+              "pelin edistyminen,",
+              "lukitsemattomat kertotaulukot,",
+              "yksittäisten tosiasioiden hallintatasot,",
+              "ansaitut kokemuspisteet,",
+              "kolikot ja palkinnot,",
+              "saavutuksia ja palkintoja,",
+              "valikoidut kosmeettiset tuotteet,",
+              "sovellusasetukset (kieli, ääni, värinä, pilvitallennus),",
+              "valinnainen lempinimi, jonka pelaaja on kirjoittanut,",
+              "pelin luoma satunnainen pseudonyymi profiilin tunniste."
+            ]
+          },
+          {
+            "p": "Kun pilvitallennus on pois päältä, nämä tiedot pysyvät laitteella, lukuun ottamatta Android-laitteen normaalia varmuuskopiointia tai laitteiden välistä siirtoa, jota ohjataan kokonaan omilla Google-tilisi asetuksilla."
+          },
+          {
+            "p": "Lempinimeä käytetään vain puhuttelemaan pelaajaa pelissä, eikä sitä koskaan julkaista tai näytetä muille pelaajille. Tästä huolimatta emme suosittele oikean nimen, sähköpostiosoitteen, puhelinnumeron, koulun nimen tai osoitteen käyttämistä lempinimenä."
+          },
+          {
+            "h": "Google Play Pelit ja pilvitallennus"
+          },
+          {
+            "p": "Androidissa Numblop sisältää Google Play -pelipalvelut. Pilvitallennus on oletuksena käytössä, mutta se toimii vain, kun Google Play Pelit kirjaa laitteen sisään. Google ja valvotun lapsen osalta Family Link määräävät, onko Play Pelit -profiili olemassa ja voidaanko sitä käyttää. Pilvitallennus voidaan kytkeä pois päältä Numblop:n asetuksista; peli jatkaa sitten vain paikallisen tallennusnsa käyttöä."
+          },
+          {
+            "p": "Kun olet kirjautunut sisään ja pilvitallennus on käytössä, Numblop lähettää yhden salatun tallennettujen pelien tilannevedoksen Googlelle. Tilannekuva sisältää yllä luetellut edistymiset, mukaan lukien valinnaisen lempinimen ja satunnaisen profiilin tunnisteen, jotta edistyminen voidaan palauttaa tai yhdistää turvallisesti eri laitteissa. Numblop saa myös Play Pelit -pelaajatunnuksen, jota tarvitaan pitämään yhden tilin tilannekuva erillään toisesta. Numblop ei saa pelaajan sähköpostiosoitetta, eikä sillä ole omaa tilipalvelinta."
+          },
+          {
+            "p": "Google Play Pelit voi itse käsitellä tili- ja profiilitunnisteita, IP-osoitetta ja likimääräistä maata tai aluetta, pelitoimintaa ja tallennettua edistymistä, laitetunnisteita ja diagnostiikkatietoja tarjotakseen, suojatakseen, vianetsinnässä ja parantaakseen Play-pelejä. Google käsittelee näitä tietoja Googlen tietosuojakäytännön ja käyttäjän Play Pelien tietosuoja-asetusten mukaisesti. Emme myy näitä tietoja tai käytä niitä mainoksiin."
+          },
+          {
+            "h": "Tekniset ja diagnostiset tiedot"
+          },
+          {
+            "p": "Numblop ei sisällä mainonnan SDK:ta, ei omaa analytiikka-SDK:ta, ei omaa kaatumisraportointiamme eikä etämäärityksiä. Emme saa diagnostiikkatietoja laitteestasi emmekä tilastoja pelin pelaamisesta."
+          },
+          {
+            "p": "Googlen Play Pelit -komponentti on poikkeus, eikä pilvitallennuskytkin kata sitä. Androidissa se käynnistyy yhdessä pelin kanssa riippumatta siitä, onko pilvitallennus käytössä vai ei, ja se voi lähettää Googlelle laitetunnisteita sekä diagnostiikka- ja suorituskykytietoja, joita Google käyttää myös Play Pelien analysointiin ja parantamiseen. Pilvitallennuksen kytkeminen pois päältä estää Numblop:ta kirjautumasta sisään ja lähettämästä tilannekuvaa; se ei estä Play Peliä itseään ilmoittamasta Googlelle. Googlen omat Play Pelien asetukset ja Play Pelien saatavuus laitteessa hallitsevat sitä."
+          },
+          {
+            "h": "Online-tulostaulukot"
+          },
+          {
+            "p": "Pelin nykyisessä versiossa ei ole online-tulostaulukkoa eikä julkista profiilia. Pilvitallennus on ainoa verkkoominaisuus. Jos tulostaulukko tai vastaava ominaisuus joskus lisätään, tämä tietosuojakäytäntö ja Google Play -tietoturvailmoitus päivitetään ennen kyseisen version julkaisua."
+          }
+        ]
+      },
+      {
+        "heading": "3. Tämä verkkosivusto (yhteyslomake ja video)",
+        "blocks": [
+          {
+            "p": "Sivusto itsessään ei käytä evästeitä, analytiikkaa eikä sivustojen välistä seurantaa. Se tarjoaa yhteydenottolomakkeen, jolla voit lähettää meille kysymyksen, idean tai virheilmoituksen – tämä lomake on ainoa paikka, josta saamme tietoja sinulta."
+          },
+          {
+            "h": "Mitä käsittelemme"
+          },
+          {
+            "p": "Vain se, mitä kirjoitat itse: valinnainen nimi, sähköpostiosoite, johon meidän tulee vastata, viestisi teksti ja sen sivun kieli, jolta lähetit sen. Ei mitään muuta – ei evästeitä, ei analytiikkaa, ei sivustojen välistä seurantaa."
+          },
+          {
+            "h": "Miksi käsittelemme sitä"
+          },
+          {
+            "p": "Vain siksi, että voimme lukea viestisi ja vastata siihen. Emme käytä osoitettasi markkinointiin, emme lisää sitä millekään postituslistalle emmekä välitä sitä muille."
+          },
+          {
+            "h": "Oikeusperusta"
+          },
+          {
+            "p": "GDPR:n artiklan 6(1) a alakohdan mukainen suostumus, joka annetaan rastittamalla lomakkeen valintaruutu. Voit peruuttaa sen milloin tahansa kirjoittamalla osoitteeseen lordlobotom@gmail.com, niin poistamme kirjeenvaihdon."
+          },
+          {
+            "h": "Kuka vastaanottaa tiedot"
+          },
+          {
+            "p": "Lomakkeen toimittaa Web3Forms (lomakkeesta sähköpostiin välityspalvelu), joka lähettää viestin Googlen ylläpitämään Gmail-postilaatikkoon. Muita vastaanottajia ei ole."
+          },
+          {
+            "h": "Kuinka kauan säilytämme sitä"
+          },
+          {
+            "p": "Vain niin kauan kuin kyselyyn vastaaminen ja mahdollisten jatkotoimien hoitaminen kestää. Tämän jälkeen poistamme viestin postilaatikosta – tai aiemmin pyynnöstäsi."
+          },
+          {
+            "h": "Ikä"
+          },
+          {
+            "p": "Lomake on tarkoitettu vanhemmille, opettajille ja aikuisille käyttäjille. Kirjoita vain omasta sähköpostiosoitteesta, äläkä kirjoita lomakkeeseen lapsen osoitetta tai henkilötietoja."
+          },
+          {
+            "h": "YouTube-video"
+          },
+          {
+            "p": "Kotisivulla on pelin traileri. Esikatselukuva on tallennettu omalle palvelimellemme, joten sivu ei muodosta yhteyttä YouTubeen ennen kuin käynnistät videon itse. Vasta napsautuksen jälkeen soitin ladataan osoitteesta youtube-nocookie.com; siitä lähtien Google voi käsitellä IP-osoitettasi ja toistotietojasi oman tietosuojakäytäntönsä mukaisesti. Alatunnisteen Instagram- ja YouTube-linkit ovat tavallisia linkkejä – niistä ei ladata mitään, ellet seuraa niitä."
+          },
+          {
+            "p": "Sekä kirjoittaminen meille että videon toistaminen ovat täysin valinnaisia. Voit ladata pelin Google Playsta tai pelata sitä selaimessasi lähettämättä mitään."
+          }
+        ]
+      },
+      {
+        "heading": "4. Kuinka käytämme tietoja",
+        "blocks": [
+          {
+            "p": "Sovellus käyttää laitteellesi tallennettuja pelitietoja vain:"
+          },
+          {
+            "list": [
+              "tarjota ja ylläpitää peliä,",
+              "tallenna ja palauta pelin edistyminen,",
+              "palauttaa tai yhdistää turvallisesti edistyminen eri laitteissa, kun pilvitallennus on päällä,",
+              "laskea kokemusta, palkintoja ja saavutuksia,",
+              "mukauttaa harjoitus lapsen edistymiseen,",
+              "säilytä valitut asetukset ja kosmeettiset tuotteet."
+            ]
+          },
+          {
+            "p": "Emme käytä tietoja kohdennettuun mainontaan, suoramarkkinointiin tai mainosprofiilien luomiseen."
+          }
+        ]
+      },
+      {
+        "heading": "5. Lasten yksityisyys",
+        "blocks": [
+          {
+            "p": "Numblop on tarkoitettu lapsille ja perheille, ja siksi se on suunniteltu siten, että henkilökohtaisia ​​tietoja ei kerätä ollenkaan."
+          },
+          {
+            "p": "Peli ei koskaan pyydä lapsia tarjoamaan:"
+          },
+          {
+            "list": [
+              "heidän oikea nimensä,",
+              "kotiosoite,",
+              "sähköpostiosoite,",
+              "puhelinnumero,",
+              "koulun nimi,",
+              "tarkka sijainti,",
+              "valokuvat,",
+              "yhteystiedot,",
+              "yksityisiä viestejä."
+            ]
+          },
+          {
+            "p": "Peli ei tarjoa chattia, yksityisviestejä, kuvien jakamista tai muuta kommunikaatiota käyttäjien välillä."
+          },
+          {
+            "p": "Meillä ei ole tilijärjestelmää, eikä meillä ole tietokantaa, joka sisältää kopiota lapsesi edistymisestä. Pelin käsittelemät tiedot on minimoitu tarkoituksella: ei mainoksia, ei seurantaa, ei vapaamuotoista viestintää eikä lapsen antamaa julkisesti näkyvää nimeä."
+          }
+        ]
+      },
+      {
+        "heading": "6. Mainonta ja ostot",
+        "blocks": [
+          {
+            "p": "Numblop:"
+          },
+          {
+            "list": [
+              "ei näytä kolmannen osapuolen mainoksia,",
+              "ei käytä käyttäjätietoja mainontaan,",
+              "on saatavilla ilmaiseksi,",
+              "ei sisällä tilauksia eikä sovelluksen sisäisiä ostoksia."
+            ]
+          },
+          {
+            "p": "Jos nämä käytännöt muuttuvat tulevaisuudessa, tämä tietosuojakäytäntö ja Google Play -tietoturvailmoitus päivitetään ennen asianmukaisten toimintojen käyttöönottoa."
+          }
+        ]
+      },
+      {
+        "heading": "7. Kolmannen osapuolen palvelut",
+        "blocks": [
+          {
+            "p": "Ainoa kolmannen osapuolen komponentti sovelluksessa, joka käsittelee käyttäjätietoja, on Google Play -pelipalvelut, joita käytetään osiossa 2 kuvattuun valinnaiseen pilvitallennustilaan. Mainos- tai analytiikka-SDK:ta ei ole."
+          },
+          {
+            "p": "Sovelluksen jakeluun käytetään Google Playta. Kaupan ylläpitäjänä Google käsittelee lataus- ja asennustiedot omien ehtojensa ja tietosuojakäytäntönsä mukaisesti. emme saa näitä tietoja muodossa, josta voisimme tunnistaa yksittäiset pelaajat."
+          },
+          {
+            "p": "Nykyinen luettelo kolmannen osapuolen palveluista:"
+          },
+          {
+            "list": [
+              "Google Play -pelipalvelut (valinnainen pilvitallennus, katso kohta 2),",
+              "Google Play (sovellusten jakelu),",
+              "Web3Forms (verkkosivuston yhteydenottolomakkeen toimittaminen sähköpostitse, katso kohta 3),",
+              "Google Gmail (postilaatikko, johon viestit saapuvat),",
+              "YouTube / Google (trailerisoitin, latautuu vain napsautuksellasi, katso kohta 3)."
+            ]
+          },
+          {
+            "p": "Numblop ei myy henkilötietoja kolmansille osapuolille. No other services are used at this time; tämä luettelo pidetään ajan tasalla tässä tietosuojakäytännössä."
+          }
+        ]
+      },
+      {
+        "heading": "8. Tietojen jakaminen",
+        "blocks": [
+          {
+            "p": "Emme myy, vuokraa tai vaihda käyttäjätietoja."
+          },
+          {
+            "p": "Peli ei lähetä meille mitään, joten meillä ei ole siitä mitään jaettavaa palveluntarjoajille tai muille kolmansille osapuolille. Ainoa siirto pelistä on pilvitallennuksen tilannekuva, joka menee Google Play Peleihin pelaajan omalla sisäänkirjautuneella tilillä (katso osa 2). Yhteydenottolomakkeen viestit välitetään vain niille palveluille, joita tarvitaan niiden toimittamiseen postilaatikkoomme (katso kohdat 3 ja 7), ei kenellekään muulle. Tämän lisäksi tietoja luovutetaan vain sovellettavan lain edellyttämässä laajuudessa."
+          }
+        ]
+      },
+      {
+        "heading": "9. Tietojen säilyttäminen",
+        "blocks": [
+          {
+            "p": "Pelitiedot säilyvät laitteessasi, kunnes sovellustiedot tyhjennetään tai sovellus poistetaan. Uninstalling the application deletes this data."
+          },
+          {
+            "p": "Meillä ei ole palvelimia, joilla pelitietoja säilytettäisiin. Voit poistaa laitteellesi tallennetut tiedot milloin tahansa itse, Android-järjestelmäasetusten kautta tai poistamalla sovelluksen."
+          },
+          {
+            "p": "Pilvikuva säilyy kirjautuneen pelaajan Play Pelit -datassa, kunnes se korvataan tai kunnes pelaaja poistaa pelin Play Pelit -datan tai -profiilin Googlen omilla Play Pelit -säätimillä. Pilvitallennuksen poistaminen käytöstä Numblop:ssa estää kaikki Play Pelit -käyttöoikeudet, mutta se ei itsessään poista jo tallennettua tilannekuvaa."
+          },
+          {
+            "p": "Yhteydenottolomakkeen viestejä säilytetään vain niin kauan kuin niihin vastaaminen kestää kohdassa 3 kuvatulla tavalla."
+          }
+        ]
+      },
+      {
+        "heading": "10. Tietoturva",
+        "blocks": [
+          {
+            "p": "Pelitiedot säilytetään sovelluksen yksityisessä tallennustilassa, jonka Android suojaa muiden sovellusten pääsyltä."
+          },
+          {
+            "p": "Pilveen tallennettu tilannekuva välitetään Google Play -peleihin salatun yhteyden kautta. Mikään sähköinen tallennus- tai siirtotapa ei ole täysin turvallinen, eikä ehdotonta turvallisuutta voida taata."
+          }
+        ]
+      },
+      {
+        "heading": "11. Käyttäjän ja vanhempien oikeudet",
+        "blocks": [
+          {
+            "p": "Sovellettavasta laista riippuen käyttäjillä tai heidän vanhemmillaan tai laillisilla huoltajilla voi olla oikeus:"
+          },
+          {
+            "list": [
+              "pyytää pääsyä tallennettuihin henkilötietoihin,",
+              "pyytää virheellisten tietojen korjaamista,",
+              "pyytää tietojen poistamista,",
+              "vastustaa tai rajoittaa tiettyä käsittelyä,",
+              "peruuttaa suostumuksen, jos käsittely perustuu suostumukseen,",
+              "tehdä valitus toimivaltaiselle tietosuojaviranomaiselle (Tšekin tasavallassa henkilötietosuojavirasto)."
+            ]
+          },
+          {
+            "p": "Emme pidä kirjaa pelaajista, joten puolellamme ei ole mitään paljastettavaa, korjattavaa tai poistettavaa. Laitteen pelitiedot ovat sinun hallinnassasi Android-asetusten kautta, ja pilvikuva on pelaajan hallinnassa Google Play Pelien datasäätimien kautta (katso kohdat 2 ja 9). Yhteydenottolomakkeen kautta lähetetyt viestit ovat yksi asia, jota pidämme itsellämme; käyttääksesi niihin liittyviä oikeuksiasi, kirjoita yhteystietoon, niin poistamme kirjeenvaihdon."
+          },
+          {
+            "p": "Voit ottaa meihin yhteyttä osoitteeseen lordlobotom@gmail.com kaikissa kysymyksissä."
+          }
+        ]
+      },
+      {
+        "heading": "12. Kansainvälinen tietojenkäsittely",
+        "blocks": [
+          {
+            "p": "Emme saa pelistä mitään tietoja, joten emme omalta osaltamme siirrä henkilötietoja kansainvälisesti. Kun pilvitallennus on käytössä, tilannekuva siirretään Googlelle ja käsitellään Googlen infrastruktuurissa, joka saattaa sijaita Euroopan talousalueen ulkopuolella, Googlen omien ehtojen ja suojatoimien mukaisesti."
+          },
+          {
+            "p": "Yhteydenottolomakkeen kautta lähetetty viesti kulkee Web3Formsin ja Googlen kautta, joiden palvelimet voivat sijaita Euroopan talousalueen ulkopuolella. Sama koskee YouTube-soitinta, jos päätät käynnistää trailerin. Näihin siirtoihin sovelletaan kyseisten palveluntarjoajien ehtoja ja suojatoimia."
+          },
+          {
+            "p": "Google Playn kautta tapahtuvaa jakelua säätelevät Googlen omat ehdot ja käytännöt, mukaan lukien sen kansainvälisiä siirtoja koskevat säännöt."
+          }
+        ]
+      },
+      {
+        "heading": "13. Muutokset tähän tietosuojakäytäntöön",
+        "blocks": [
+          {
+            "p": "Saatamme päivittää tätä tietosuojakäytäntöä, kun sovellus, sen ominaisuudet tai lailliset vaatimukset muuttuvat."
+          },
+          {
+            "p": "Päivitetty versio julkaistaan ​​tällä sivulla tarkistetulla voimaantulopäivämäärällä."
+          },
+          {
+            "p": "Lasten tietoihin tai tietojen käyttötapaan vaikuttavat olennaiset muutokset julkaistaan ​​täällä ennen niiden voimaantuloa, ja myymälän tietoturvailmoitus päivitetään vastaamaan niitä."
+          }
+        ]
+      },
+      {
+        "heading": "14. Ota yhteyttä",
+        "blocks": [
+          {
+            "p": "Jos sinulla on kysymyksiä, pyyntöjä tai huolenaiheita liittyen tähän tietosuojakäytäntöön, ota yhteyttä:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Kehittäjä",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "Sähköposti",
+                "value": "lordlobotom@gmail.com"
+              },
+              {
+                "label": "Maa",
+                "value": "Tšekin tasavalta"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "fr": {
+    "title": "Politique de confidentialité pour Numblop",
+    "effectiveDateLabel": "Date d'entrée en vigueur",
+    "effectiveDate": "13 août 2026",
+    "intro": [
+      "Numblop est un jeu éducatif de mathématiques conçu pour aider les enfants à pratiquer la multiplication dans un environnement sûr et ludique.",
+      "Cette politique de confidentialité explique quelles informations Numblop traite, comment elles sont utilisées et quels sont les choix dont disposent les utilisateurs et leurs parents ou tuteurs légaux.",
+      "En bref : le jeu complet fonctionne hors ligne, sans connexion et sans compte Numblop. Il n'y a pas de publicités ni d'achats intégrés, et nous n'exécutons aucune analyse de notre part.",
+      "Deux choses sont facultatives et sous votre contrôle : la sauvegarde dans le cloud, qui envoie une copie cryptée de la progression du jeu à Google Play Games (section 2), et tout ce que vous choisissez de faire sur ce site Web : nous écrire via le formulaire de contact ou cliquer pour démarrer la bande-annonce YouTube (section 3).",
+      "Une chose ne l’est pas. La version Android inclut le composant Play Games de Google, qui démarre avec le jeu, que la sauvegarde dans le cloud soit activée ou non, et peut envoyer à Google des informations de diagnostic et de performances que Google utilise également à des fins d'analyse. La section 2 explique ce que cela couvre."
+    ],
+    "meta": {
+      "title": "Politique de confidentialité – Numblop",
+      "description": "Numblop est un jeu pour enfants sans publicité ni achat intégré, jouable entièrement hors ligne. Lisez la politique de confidentialité complète."
+    },
+    "backToHome": "Retour à la page d'accueil",
+    "sections": [
+      {
+        "heading": "1. Informations sur le développeur et les contacts",
+        "blocks": [
+          {
+            "p": "Numblop est développé et exploité par :"
+          },
+          {
+            "fields": [
+              {
+                "label": "Promoteur",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "Pays",
+                "value": "République tchèque"
+              },
+              {
+                "label": "E-mail de contact",
+                "value": "lordlobotom@gmail.com"
+              }
+            ]
+          },
+          {
+            "p": "Pour toute question ou demande relative à la confidentialité, veuillez nous contacter en utilisant l'adresse e-mail ci-dessus."
+          }
+        ]
+      },
+      {
+        "heading": "2. Informations que nous traitons",
+        "blocks": [
+          {
+            "p": "Numblop ne vend pas de données utilisateur, ne les utilise pas à des fins publicitaires et n'exécute aucune analyse comportementale. Cette section décrit le jeu lui-même ; les informations soumises via le formulaire de contact de ce site Web sont couvertes dans la section 3."
+          },
+          {
+            "h": "Données de jeu sur votre appareil"
+          },
+          {
+            "p": "Le jeu stocke les informations de jeu uniquement dans le stockage privé de l'application sur votre appareil. Cela comprend :"
+          },
+          {
+            "list": [
+              "progression du jeu,",
+              "tables de multiplication débloquées,",
+              "niveaux de maîtrise des faits individuels,",
+              "points d'expérience gagnés,",
+              "des pièces et des récompenses,",
+              "réalisations et trophées,",
+              "articles cosmétiques sélectionnés,",
+              "paramètres de l'application (langue, audio, vibration, sauvegarde cloud),",
+              "un pseudo facultatif saisi par le joueur,",
+              "un identifiant de profil pseudonyme aléatoire généré par le jeu."
+            ]
+          },
+          {
+            "p": "Lorsque la sauvegarde dans le cloud est désactivée, ces informations restent sur l'appareil, à l'exception de la sauvegarde standard de l'appareil Android ou du transfert d'appareil à appareil, qui est entièrement contrôlé par les paramètres de votre propre compte Google."
+          },
+          {
+            "p": "Le surnom est utilisé uniquement pour s'adresser au joueur dans le jeu et n'est jamais publié ni montré aux autres joueurs. Néanmoins, nous vous recommandons de ne pas utiliser un vrai nom, une adresse e-mail, un numéro de téléphone, le nom de l'école ou une adresse comme surnom."
+          },
+          {
+            "h": "Google Play Games et sauvegarde dans le cloud"
+          },
+          {
+            "p": "Sur Android, Numblop inclut les services de jeux Google Play. La sauvegarde dans le cloud est activée par défaut, mais elle ne fonctionne que lorsque Google Play Games connecte l'appareil. Google et, pour un enfant supervisé, Family Link contrôlent si un profil Play Games existe et peut être utilisé. La sauvegarde dans le cloud peut être désactivée dans les paramètres de Numblop ; le jeu continue ensuite en utilisant uniquement sa sauvegarde locale."
+          },
+          {
+            "p": "Une fois connecté avec la sauvegarde dans le cloud activée, Numblop envoie un instantané de jeux sauvegardés crypté à Google. L'instantané contient la progression répertoriée ci-dessus, y compris le surnom facultatif et l'identifiant de profil aléatoire, afin que la progression puisse être restaurée ou combinée en toute sécurité sur tous les appareils. Numblop reçoit également l'identifiant du joueur Play Games nécessaire pour séparer l'instantané d'un compte d'un autre. Numblop ne reçoit pas l’adresse e-mail du joueur et ne gère aucun serveur de compte qui lui est propre."
+          },
+          {
+            "p": "Google Play Games peut traiter lui-même les identifiants de compte et de profil, l'adresse IP et le pays ou la région approximatif, l'activité de jeu et la progression enregistrée, les identifiants d'appareil et les informations de diagnostic afin de fournir, sécuriser, dépanner et améliorer Play Games. Google traite ces informations dans le cadre de la politique de confidentialité de Google et des paramètres de confidentialité de Play Games de l'utilisateur. Nous ne vendons pas ces données et ne les utilisons pas à des fins publicitaires."
+          },
+          {
+            "h": "Données techniques et de diagnostic"
+          },
+          {
+            "p": "Numblop ne contient aucun SDK publicitaire, aucun SDK d'analyse de notre part, aucun rapport d'erreur de notre part et aucune configuration à distance. Nous ne recevons aucune information de diagnostic sur votre appareil ni aucune statistique sur la façon dont le jeu est joué."
+          },
+          {
+            "p": "Le composant Play Games de Google est l’exception et il n’est pas couvert par le commutateur de sauvegarde dans le cloud. Sur Android, il démarre avec le jeu, que la sauvegarde dans le cloud soit activée ou non, et peut envoyer des identifiants d'appareil Google ainsi que des informations de diagnostic et de performances, que Google utilise également pour analyser et améliorer Play Games. La désactivation de la sauvegarde dans le cloud empêche Numblop de se connecter et d'envoyer des instantanés ; cela n'empêche pas Play Games lui-même de faire rapport à Google. Les paramètres Play Games de Google et la disponibilité de Play Games sur l’appareil contrôlent cela."
+          },
+          {
+            "h": "Classements en ligne"
+          },
+          {
+            "p": "La version actuelle du jeu n'a pas de classement en ligne ni de profil public. La sauvegarde dans le cloud est la seule fonctionnalité en réseau. Si un classement ou une fonctionnalité similaire est ajouté, cette politique de confidentialité et la déclaration de sécurité des données de Google Play seront mises à jour avant la publication de cette version."
+          }
+        ]
+      },
+      {
+        "heading": "3. Ce site Web (formulaire de contact et vidéo)",
+        "blocks": [
+          {
+            "p": "Le site Web lui-même n'utilise aucun cookie, n'exécute aucune analyse et n'effectue aucun suivi intersites. Il propose un formulaire de contact pour nous envoyer une question, une idée ou un rapport de bug – ce formulaire est le seul endroit où nous obtenons des informations de votre part."
+          },
+          {
+            "h": "Ce que nous traitons"
+          },
+          {
+            "p": "Uniquement ce que vous écrivez vous-même : un nom facultatif, l'adresse e-mail à laquelle nous devons répondre, le texte de votre message et la langue de la page à partir de laquelle vous l'avez envoyé. Rien d'autre : pas de cookies, pas d'analyse, pas de suivi intersites."
+          },
+          {
+            "h": "Pourquoi nous le traitons"
+          },
+          {
+            "p": "Uniquement pour que nous puissions lire votre message et y répondre. Nous n'utilisons pas votre adresse à des fins de marketing, ne l'ajoutons à aucune liste de diffusion et ne la transmettons à personne d'autre."
+          },
+          {
+            "h": "Base juridique"
+          },
+          {
+            "p": "Consentement au titre de l'article 6, paragraphe 1, point a) du RGPD, donné en cochant la case du formulaire. Vous pouvez le retirer à tout moment en écrivant à lordlobotom@gmail.com, et nous supprimerons la correspondance."
+          },
+          {
+            "h": "Qui reçoit les informations"
+          },
+          {
+            "p": "Le formulaire est délivré par Web3Forms (un service de relais de formulaire vers e-mail), qui envoie le message à une boîte aux lettres Gmail exploitée par Google. Il n'y a pas d'autres destinataires."
+          },
+          {
+            "h": "Combien de temps on le garde"
+          },
+          {
+            "p": "Seulement le temps nécessaire pour répondre à votre demande et gérer tout suivi. Après cela, nous supprimons le message de la boîte aux lettres – ou plus tôt, à votre demande."
+          },
+          {
+            "h": "Âge"
+          },
+          {
+            "p": "Le formulaire est destiné aux parents, aux enseignants et aux utilisateurs adultes. Veuillez écrire uniquement à partir de votre propre adresse e-mail et ne saisissez pas l’adresse ou les informations personnelles d’un enfant dans le formulaire."
+          },
+          {
+            "h": "Vidéo YouTube"
+          },
+          {
+            "p": "La page d'accueil contient une bande-annonce du jeu. L'image d'aperçu est stockée sur notre propre serveur, de sorte que la page n'établit aucune connexion avec YouTube jusqu'à ce que vous démarriez vous-même la vidéo. Ce n'est qu'après un clic que le lecteur est chargé depuis youtube-nocookie.com ; à partir de ce moment, Google peut traiter votre adresse IP et vos informations de lecture conformément à sa propre politique de confidentialité. Les liens Instagram et YouTube dans le pied de page sont des liens ordinaires : rien n'est chargé à partir d'eux à moins que vous ne les suiviez."
+          },
+          {
+            "p": "Nous écrire et lire la vidéo sont entièrement facultatifs. Vous pouvez télécharger le jeu depuis Google Play ou y jouer dans votre navigateur sans rien soumettre."
+          }
+        ]
+      },
+      {
+        "heading": "4. Comment nous utilisons les informations",
+        "blocks": [
+          {
+            "p": "Les données de jeu stockées sur votre appareil sont utilisées par l'application uniquement pour :"
+          },
+          {
+            "list": [
+              "fournir et entretenir le jeu,",
+              "sauvegarder et restaurer la progression du jeu,",
+              "restaurer ou combiner en toute sécurité cette progression sur tous les appareils lorsque la sauvegarde dans le cloud est activée,",
+              "calculer l'expérience, les récompenses et les réalisations,",
+              "adapter la pratique aux progrès de l'enfant,",
+              "conserver les décors et les éléments cosmétiques choisis."
+            ]
+          },
+          {
+            "p": "Nous n'utilisons aucune information à des fins de publicité ciblée, de marketing direct ou de création de profils publicitaires."
+          }
+        ]
+      },
+      {
+        "heading": "5. Confidentialité des enfants",
+        "blocks": [
+          {
+            "p": "Numblop est destiné aux enfants et aux familles et est donc conçu de manière à ce qu'aucune information personnelle ne soit collectée."
+          },
+          {
+            "p": "Le jeu ne demande jamais aux enfants de fournir :"
+          },
+          {
+            "list": [
+              "leur vrai nom,",
+              "adresse du domicile,",
+              "adresse email,",
+              "numéro de téléphone,",
+              "nom de l'école,",
+              "localisation précise,",
+              "des photographies,",
+              "contacts,",
+              "messages privés."
+            ]
+          },
+          {
+            "p": "Le jeu ne propose aucun chat, messagerie privée, partage d'images ou toute autre communication entre les utilisateurs."
+          },
+          {
+            "p": "Nous n’exploitons aucun système de compte et ne détenons aucune base de données contenant une copie des progrès de votre enfant. Les données traitées par le jeu sont délibérément minimisées : pas de publicité, pas de suivi, pas de communication libre et aucun nom publiquement visible saisi par un enfant."
+          }
+        ]
+      },
+      {
+        "heading": "6. Publicité et achats",
+        "blocks": [
+          {
+            "p": "Numblop :"
+          },
+          {
+            "list": [
+              "n'affiche pas de publicité de tiers,",
+              "n'utilise pas les données des utilisateurs à des fins publicitaires,",
+              "est disponible gratuitement,",
+              "ne contient aucun abonnement ni aucun achat intégré."
+            ]
+          },
+          {
+            "p": "Si ces pratiques changent à l'avenir, cette politique de confidentialité et la déclaration de sécurité des données de Google Play seront mises à jour avant l'introduction de la fonctionnalité correspondante."
+          }
+        ]
+      },
+      {
+        "heading": "7. Services tiers",
+        "blocks": [
+          {
+            "p": "Le seul composant tiers de l'application qui traite les données utilisateur est les services de jeux Google Play, utilisés pour la sauvegarde facultative dans le cloud décrite dans la section 2. Il n'y a pas de SDK de publicité ou d'analyse."
+          },
+          {
+            "p": "Google Play est utilisé pour distribuer l'application. En tant qu'exploitant du magasin, Google traite les informations de téléchargement et d'installation selon ses propres conditions et règles de confidentialité ; nous ne recevons pas ces informations sous une forme qui nous permettrait d'identifier des joueurs individuels."
+          },
+          {
+            "p": "Une liste actuelle des services tiers :"
+          },
+          {
+            "list": [
+              "Services de jeux Google Play (sauvegarde cloud facultative, voir section 2),",
+              "Google Play (distribution d'applications),",
+              "Web3Forms (livraison du formulaire de contact du site Web par courrier électronique, voir section 3),",
+              "Google Gmail (la boîte mail dans laquelle les messages arrivent),",
+              "YouTube / Google (le lecteur de bande-annonce, chargé uniquement sur votre clic, voir section 3)."
+            ]
+          },
+          {
+            "p": "Numblop ne vend pas d’informations personnelles à des tiers. Aucun autre service n'est utilisé pour le moment ; cette liste sera tenue à jour dans la présente Politique de Confidentialité."
+          }
+        ]
+      },
+      {
+        "heading": "8. Partage de données",
+        "blocks": [
+          {
+            "p": "Nous ne vendons, ne louons ni n’échangeons les informations des utilisateurs."
+          },
+          {
+            "p": "Le jeu ne nous envoie rien, nous n’avons donc rien à partager avec les fournisseurs de services ou tout autre tiers. Le seul transfert hors du jeu est l’instantané sauvegardé dans le cloud, qui est transféré vers Google Play Games sur le compte connecté du joueur (voir section 2). Les messages du formulaire de contact sont transmis uniquement aux services nécessaires à leur acheminement vers notre boîte mail (voir sections 3 et 7), et à personne d'autre. Au-delà de cela, les informations ne seraient divulguées que dans la mesure requise par la loi applicable."
+          }
+        ]
+      },
+      {
+        "heading": "9. Conservation des données",
+        "blocks": [
+          {
+            "p": "Les données du jeu restent stockées sur votre appareil jusqu'à ce que les données de l'application soient effacées ou que l'application soit désinstallée. La désinstallation de l'application supprime ces données."
+          },
+          {
+            "p": "Nous n'exploitons aucun serveur sur lequel les données de jeu seraient conservées. Vous pouvez supprimer vous-même à tout moment les données stockées sur votre appareil, via les paramètres du système Android ou en désinstallant l'application."
+          },
+          {
+            "p": "Un instantané du cloud reste dans les données Play Games du joueur connecté jusqu'à ce qu'il soit remplacé ou jusqu'à ce que le joueur supprime les données ou le profil Play Games du jeu via les propres commandes Play Games de Google. La désactivation de la sauvegarde dans le cloud dans Numblop arrête tout accès ultérieur à Play Games, mais elle ne supprime pas en soi un instantané déjà stocké."
+          },
+          {
+            "p": "Les messages du formulaire de contact ne sont conservés que le temps nécessaire pour y répondre, comme décrit à la section 3."
+          }
+        ]
+      },
+      {
+        "heading": "10. Sécurité des données",
+        "blocks": [
+          {
+            "p": "Les données du jeu sont conservées dans le stockage privé de l'application, qu'Android protège contre l'accès par d'autres applications."
+          },
+          {
+            "p": "L'instantané enregistré dans le cloud est transmis à Google Play Games via une connexion cryptée. Aucune méthode de stockage ou de transmission électronique n’est totalement sécurisée et une sécurité absolue ne peut être garantie."
+          }
+        ]
+      },
+      {
+        "heading": "11. Droits des utilisateurs et des parents",
+        "blocks": [
+          {
+            "p": "Selon la loi applicable, les utilisateurs ou leurs parents ou tuteurs légaux peuvent avoir le droit de :"
+          },
+          {
+            "list": [
+              "demander l'accès aux informations personnelles stockées,",
+              "demander la correction d'informations inexactes,",
+              "demander la suppression d'informations,",
+              "vous opposer ou restreindre certains traitements,",
+              "retirer le consentement lorsque le traitement est basé sur le consentement,",
+              "déposer une plainte auprès d'une autorité compétente en matière de protection des données (en République tchèque, l'Office pour la protection des données personnelles)."
+            ]
+          },
+          {
+            "p": "Nous ne conservons aucune trace des joueurs, nous n'avons donc rien à divulguer, à corriger ou à supprimer. Les données de jeu sur l'appareil sont sous votre contrôle via les paramètres Android, et un instantané du cloud est sous le contrôle du joueur via les contrôles de données Play Games de Google (voir sections 2 et 9). Les messages envoyés via le formulaire de contact sont la seule chose à laquelle nous tenons ; pour exercer vos droits sur ceux-ci, écrivez à l'adresse de contact et nous supprimerons la correspondance."
+          },
+          {
+            "p": "N'hésitez pas à nous contacter à lordlobotom@gmail.com pour toute question."
+          }
+        ]
+      },
+      {
+        "heading": "12. Traitement international des données",
+        "blocks": [
+          {
+            "p": "Nous ne recevons rien du jeu, il n’y a donc aucun transfert international d’informations personnelles de notre part. Lorsque la sauvegarde dans le cloud est activée, l'instantané est transféré à Google et traité sur l'infrastructure de Google, qui peut être située en dehors de l'Espace économique européen, selon les conditions et garanties de Google."
+          },
+          {
+            "p": "Un message soumis via le formulaire de contact transite par Web3Forms et Google, dont les serveurs peuvent être situés en dehors de l'Espace économique européen. Il en va de même pour le lecteur YouTube si vous choisissez de démarrer la bande-annonce. Ces transferts sont régis par les conditions et garanties de ces fournisseurs."
+          },
+          {
+            "p": "La distribution via Google Play est régie par les propres conditions et politiques de Google, y compris ses règles sur les transferts internationaux."
+          }
+        ]
+      },
+      {
+        "heading": "13. Modifications de cette politique de confidentialité",
+        "blocks": [
+          {
+            "p": "Nous pouvons mettre à jour cette politique de confidentialité lorsque l'application, ses fonctionnalités ou les exigences légales changent."
+          },
+          {
+            "p": "La version mise à jour sera publiée sur cette page avec une date d'entrée en vigueur révisée."
+          },
+          {
+            "p": "Les modifications importantes affectant les données des enfants ou la manière dont les informations sont utilisées seront publiées ici avant d'entrer en vigueur, et la déclaration de sécurité des données en magasin sera mise à jour en conséquence."
+          }
+        ]
+      },
+      {
+        "heading": "14. Contacter",
+        "blocks": [
+          {
+            "p": "Pour toute question, demande ou préoccupation concernant cette politique de confidentialité, contactez :"
+          },
+          {
+            "fields": [
+              {
+                "label": "Promoteur",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "E-mail",
+                "value": "lordlobotom@gmail.com"
+              },
+              {
+                "label": "Pays",
+                "value": "République tchèque"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "nb": {
+    "title": "Personvernerklæring for Numblop",
+    "effectiveDateLabel": "Ikrafttredelsesdato",
+    "effectiveDate": "13. august 2026",
+    "intro": [
+      "Numblop er et pedagogisk matematikkspill designet for å hjelpe barn med å øve multiplikasjon i et trygt og lekent miljø.",
+      "Denne personvernerklæringen forklarer hvilken informasjon Numblop behandler, hvordan den brukes, og hvilke valg brukere og deres foreldre eller foresatte har.",
+      "Kort sagt: hele spillet fungerer offline, uten å logge på og uten en Numblop-konto. Det er ingen annonser og ingen kjøp i appen, og vi kjører ingen egne analyser.",
+      "To ting er valgfrie og under din kontroll: skylagring, som sender én kryptert kopi av spillets fremdrift til Google Play Games (del 2), og hva du enn velger å gjøre på denne nettsiden – skrive til oss via kontaktskjemaet, eller klikke for å starte YouTube-traileren (del 3).",
+      "En ting er det ikke. Android-versjonen inkluderer Googles Play Games-komponent, som starter med spillet uansett om skylagring er slått på eller ikke, og kan sende Google diagnose- og ytelsesinformasjon som Google også bruker til analyser. Del 2 forklarer hva det dekker."
+    ],
+    "meta": {
+      "title": "Personvernerklæring – Numblop",
+      "description": "Numblop er et barnespill uten annonser og ingen kjøp i appen, som kan spilles helt offline. Les hele personvernreglene."
+    },
+    "backToHome": "Tilbake til startsiden",
+    "sections": [
+      {
+        "heading": "1. Utvikler- og kontaktinformasjon",
+        "blocks": [
+          {
+            "p": "Numblop er utviklet og drevet av:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Utvikler",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "Land",
+                "value": "Tsjekkia"
+              },
+              {
+                "label": "Kontakt e-post",
+                "value": "lordlobotom@gmail.com"
+              }
+            ]
+          },
+          {
+            "p": "For eventuelle personvernrelaterte spørsmål eller forespørsler, vennligst kontakt oss ved å bruke e-postadressen ovenfor."
+          }
+        ]
+      },
+      {
+        "heading": "2. Informasjon vi behandler",
+        "blocks": [
+          {
+            "p": "Numblop selger ikke brukerdata, bruker den ikke til annonsering og kjører ingen atferdsanalyse. Denne delen beskriver selve spillet; informasjon som sendes inn via kontaktskjemaet på denne nettsiden er dekket i seksjon 3."
+          },
+          {
+            "h": "Spilldata på enheten din"
+          },
+          {
+            "p": "Spillet lagrer spillinformasjon kun i applikasjonens private lagring på enheten din. Dette inkluderer:"
+          },
+          {
+            "list": [
+              "spillets fremgang,",
+              "ulåste multiplikasjonstabeller,",
+              "mestringsnivåer for individuelle fakta,",
+              "opptjente erfaringspoeng,",
+              "mynter og belønninger,",
+              "prestasjoner og trofeer,",
+              "utvalgte kosmetiske artikler,",
+              "applikasjonsinnstillinger (språk, lyd, vibrasjon, skylagring),",
+              "et valgfritt kallenavn skrevet inn av spilleren,",
+              "en tilfeldig pseudonym profilidentifikator generert av spillet."
+            ]
+          },
+          {
+            "p": "Når skylagring er slått av, forblir denne informasjonen på enheten, bortsett fra standard sikkerhetskopiering av Android-enheter eller enhet-til-enhet-overføring, som styres helt av dine egne Google-kontoinnstillinger."
+          },
+          {
+            "p": "Kallenavnet brukes utelukkende for å henvende seg til spilleren inne i spillet og blir aldri publisert eller vist til andre spillere. Likevel anbefaler vi at du ikke bruker et ekte navn, e-postadresse, telefonnummer, skolenavn eller adresse som kallenavn."
+          },
+          {
+            "h": "Google Play Spill og skylagring"
+          },
+          {
+            "p": "På Android inkluderer Numblop Google Play Spilltjenester. Skylagring er på som standard, men det fungerer bare når Google Play Spill logger enheten på. Google og, for et overvåket barn, Family Link kontrollerer om en Play Spill-profil finnes og kan brukes. Skylagring kan slås av i Numblops innstillinger; spillet fortsetter så å bruke bare den lokale lagringen."
+          },
+          {
+            "p": "Når du er logget på med skylagring aktivert, sender Numblop ett kryptert øyeblikksbilde av lagrede spill til Google. Øyeblikksbildet inneholder fremdriften som er oppført ovenfor, inkludert det valgfrie kallenavnet og den tilfeldige profilidentifikatoren, slik at fremdriften kan gjenopprettes eller trygt kombineres på tvers av enheter. Numblop mottar også Play Spill-spilleridentifikatoren som er nødvendig for å holde en kontos øyeblikksbilde atskilt fra en annen. Numblop mottar ikke spillerens e-postadresse og kjører ingen egen kontoserver."
+          },
+          {
+            "p": "Google Play Spill kan selv behandle konto- og profilidentifikatorer, IP-adresse og omtrentlig land eller region, spillaktivitet og lagret fremdrift, enhetsidentifikatorer og diagnostikkinformasjon for å gi, sikre, feilsøke og forbedre Play Spill. Google håndterer denne informasjonen under Googles personvernregler og brukerens personverninnstillinger for Play Spill. Vi selger ikke disse dataene eller bruker dem til annonser."
+          },
+          {
+            "h": "Tekniske og diagnostiske data"
+          },
+          {
+            "p": "Numblop inneholder ingen annonserings-SDK, ingen egen analyse-SDK, ingen egen krasjrapportering og ingen ekstern konfigurasjon. Vi mottar ingen diagnostisk informasjon om enheten din og ingen statistikk om hvordan spillet spilles."
+          },
+          {
+            "p": "Googles Play Games-komponent er unntaket, og den dekkes ikke av skylagringsbryteren. På Android starter det sammen med spillet uansett om skylagring er aktivert eller ikke, og det kan sende Google-enhetsidentifikatorer sammen med diagnose- og ytelsesinformasjon, som Google også bruker til å analysere og forbedre Play Spill. Ved å slå av skylagring stopper Numblop fra å logge på og fra å sende et øyeblikksbilde; det hindrer ikke Play Games selv fra å rapportere til Google. Googles egne Play Spill-innstillinger og tilgjengeligheten av Play Spill på enheten styrer det."
+          },
+          {
+            "h": "Leaderboards på nett"
+          },
+          {
+            "p": "Den nåværende versjonen av spillet har ingen online leaderboard og ingen offentlig profil. Skylagring er den eneste nettverksfunksjonen. Hvis en ledertavle eller en lignende funksjon noen gang legges til, vil disse personvernreglene og Google Play-datasikkerhetserklæringen bli oppdatert før den versjonen utgis."
+          }
+        ]
+      },
+      {
+        "heading": "3. Dette nettstedet (kontaktskjema og video)",
+        "blocks": [
+          {
+            "p": "Nettstedet selv bruker ingen informasjonskapsler, kjører ingen analyser og sporer ikke på tvers av nettsteder. Den tilbyr et kontaktskjema for å sende oss et spørsmål, en idé eller en feilrapport – dette skjemaet er det eneste stedet vi får informasjon fra deg."
+          },
+          {
+            "h": "Hva vi behandler"
+          },
+          {
+            "p": "Bare det du skriver selv: et valgfritt navn, e-postadressen vi skal svare på, teksten i meldingen og språket på siden du sendte den fra. Ingenting annet – ingen informasjonskapsler, ingen analyser, ingen sporing på tvers av nettsteder."
+          },
+          {
+            "h": "Hvorfor vi behandler det"
+          },
+          {
+            "p": "Kun slik at vi kan lese meldingen din og svare på den. Vi bruker ikke adressen din til markedsføring, legger den ikke til på noen e-postliste og gir den ikke videre til noen andre."
+          },
+          {
+            "h": "Rettslig grunnlag"
+          },
+          {
+            "p": "Samtykke i henhold til artikkel 6(1)(a) GDPR, gitt ved å krysse av i boksen i skjemaet. Du kan når som helst trekke den tilbake ved å skrive til lordlobotom@gmail.com, så sletter vi korrespondansen."
+          },
+          {
+            "h": "Hvem mottar informasjonen"
+          },
+          {
+            "p": "Skjemaet leveres av Web3Forms (en skjema-til-e-post-relétjeneste), som sender meldingen til en Gmail-postkasse som drives av Google. Det er ingen andre mottakere."
+          },
+          {
+            "h": "Hvor lenge vi holder det"
+          },
+          {
+            "p": "Bare så lang tid det tar å svare på din henvendelse og håndtere eventuell oppfølging. Etter det sletter vi meldingen fra postkassen - eller tidligere, på din forespørsel."
+          },
+          {
+            "h": "Alder"
+          },
+          {
+            "p": "Skjemaet er ment for foreldre, lærere og voksne brukere. Vennligst skriv kun fra din egen e-postadresse, og ikke skriv inn et barns adresse eller personlige opplysninger i skjemaet."
+          },
+          {
+            "h": "YouTube-video"
+          },
+          {
+            "p": "Hjemmesiden har en trailer for spillet. Forhåndsvisningsbildet lagres på vår egen server, så siden kobles ikke til YouTube før du starter videoen selv. Først etter et klikk lastes spilleren fra youtube-nocookie.com; fra det tidspunktet kan Google behandle din IP-adresse og avspillingsinformasjon i henhold til sine egne personvernregler. Instagram- og YouTube-lenkene i bunnteksten er vanlige linker - ingenting lastes fra dem med mindre du følger dem."
+          },
+          {
+            "p": "Både å skrive til oss og spille av videoen er helt valgfritt. Du kan laste ned spillet fra Google Play eller spille det i nettleseren din uten å sende inn noe."
+          }
+        ]
+      },
+      {
+        "heading": "4. Hvordan vi bruker informasjon",
+        "blocks": [
+          {
+            "p": "Spilldataene som er lagret på enheten din brukes kun av applikasjonen til å:"
+          },
+          {
+            "list": [
+              "sørge for og vedlikeholde spillet,",
+              "lagre og gjenopprette spillfremdriften,",
+              "gjenopprette eller trygt kombinere fremgangen på tvers av enheter når skylagring er på,",
+              "beregne erfaring, belønninger og prestasjoner,",
+              "tilpasse praksisen til barnets fremgang,",
+              "behold de valgte innstillingene og kosmetiske artikler."
+            ]
+          },
+          {
+            "p": "Vi bruker ingen informasjon til målrettet annonsering, direkte markedsføring eller opprettelse av reklameprofiler."
+          }
+        ]
+      },
+      {
+        "heading": "5. Barns personvern",
+        "blocks": [
+          {
+            "p": "Numblop er beregnet på barn og familier, og er derfor utformet slik at det ikke samles inn personlig informasjon i det hele tatt."
+          },
+          {
+            "p": "Spillet ber aldri barn om å gi:"
+          },
+          {
+            "list": [
+              "deres virkelige navn,",
+              "hjemmeadresse,",
+              "e-postadresse,",
+              "telefonnummer,",
+              "skolenavn,",
+              "nøyaktig plassering,",
+              "fotografier,",
+              "kontakter,",
+              "private meldinger."
+            ]
+          },
+          {
+            "p": "Spillet gir ingen chat, private meldinger, bildedeling eller annen kommunikasjon mellom brukere."
+          },
+          {
+            "p": "Vi driver ikke noe kontosystem og har ingen database som inneholder en kopi av barnets fremgang. Dataene spillet håndterer minimeres med vilje: ingen annonser, ingen sporing, ingen kommunikasjon i fri form og ikke noe offentlig synlig navn angitt av et barn."
+          }
+        ]
+      },
+      {
+        "heading": "6. Reklame og kjøp",
+        "blocks": [
+          {
+            "p": "Numblop:"
+          },
+          {
+            "list": [
+              "viser ikke tredjepartsannonsering,",
+              "bruker ikke brukerdata til annonsering,",
+              "er tilgjengelig gratis,",
+              "inneholder ingen abonnementer og ingen kjøp i appen."
+            ]
+          },
+          {
+            "p": "Hvis denne praksisen endres i fremtiden, vil disse personvernreglene og Google Plays datasikkerhetserklæring oppdateres før den relevante funksjonaliteten introduseres."
+          }
+        ]
+      },
+      {
+        "heading": "7. Tredjepartstjenester",
+        "blocks": [
+          {
+            "p": "Den eneste tredjepartskomponenten i applikasjonen som behandler brukerdata er Google Play Spilltjenester, som brukes for den valgfrie skylagringen som er beskrevet i del 2. Det er ingen annonserings- eller analyse-SDK."
+          },
+          {
+            "p": "Google Play brukes til å distribuere applikasjonen. Som butikkoperatør behandler Google nedlastings- og installasjonsinformasjon i henhold til sine egne vilkår og personvernregler; vi mottar ikke den informasjonen i en form som lar oss identifisere individuelle spillere."
+          },
+          {
+            "p": "En gjeldende liste over tredjepartstjenester:"
+          },
+          {
+            "list": [
+              "Google Play Spilltjenester (valgfri skylagring, se avsnitt 2),",
+              "Google Play (applikasjonsdistribusjon),",
+              "Web3Forms (levere nettstedets kontaktskjema til e-post, se avsnitt 3),",
+              "Google Gmail (postkassen meldingene kommer i),",
+              "YouTube / Google (trailerspilleren, lastet kun ved klikk, se avsnitt 3)."
+            ]
+          },
+          {
+            "p": "Numblop selger ikke personlig informasjon til tredjeparter. Ingen andre tjenester brukes på dette tidspunktet; denne listen vil holdes oppdatert i denne personvernerklæringen."
+          }
+        ]
+      },
+      {
+        "heading": "8. Datadeling",
+        "blocks": [
+          {
+            "p": "Vi selger, leier eller bytter ikke brukerinformasjon."
+          },
+          {
+            "p": "Spillet sender ingenting til oss, så vi har ingenting fra det å dele med tjenesteleverandører eller andre tredjeparter. Den eneste overføringen ut av spillet er det sky-lagrede øyeblikksbildet, som går til Google Play Spill på spillerens egen påloggede konto (se avsnitt 2). Meldinger fra kontaktskjemaet sendes kun til tjenestene som er nødvendige for å levere dem til vår postkasse (se avsnitt 3 og 7), og til ingen andre. Utover det vil informasjon bare bli utlevert i den grad det kreves av gjeldende lov."
+          }
+        ]
+      },
+      {
+        "heading": "9. Oppbevaring av data",
+        "blocks": [
+          {
+            "p": "Spilldata forblir lagret på enheten din til applikasjonsdataene slettes eller applikasjonen avinstalleres. Avinstallering av programmet sletter disse dataene."
+          },
+          {
+            "p": "Vi driver ingen servere der spilldata vil bli oppbevart. Du kan slette dataene som er lagret på enheten din når som helst selv, gjennom Android-systeminnstillingene eller ved å avinstallere applikasjonen."
+          },
+          {
+            "p": "Et sky-øyeblikksbilde forblir i den påloggede spillerens Play Spill-data til den erstattes, eller til spilleren sletter spillets Play Spill-data eller -profil gjennom Googles egne Play Spill-kontroller. Å slå av skylagring i Numblop stopper ytterligere Play Spill-tilgang, men det sletter ikke i seg selv et øyeblikksbilde som allerede er lagret."
+          },
+          {
+            "p": "Meldinger fra kontaktskjemaet oppbevares kun så lenge det tar å besvare dem, som beskrevet i punkt 3."
+          }
+        ]
+      },
+      {
+        "heading": "10. Datasikkerhet",
+        "blocks": [
+          {
+            "p": "Spilldata lagres i applikasjonens private lagring, som Android beskytter mot tilgang fra andre applikasjoner."
+          },
+          {
+            "p": "Det skylagrede øyeblikksbildet overføres til Google Play Spill over en kryptert tilkobling. Ingen metode for elektronisk lagring eller overføring er helt sikker, og absolutt sikkerhet kan ikke garanteres."
+          }
+        ]
+      },
+      {
+        "heading": "11. Bruker- og foreldrerettigheter",
+        "blocks": [
+          {
+            "p": "Avhengig av gjeldende lov, kan brukere eller deres foreldre eller foresatte ha rett til:"
+          },
+          {
+            "list": [
+              "be om tilgang til lagret personopplysninger,",
+              "be om korrigering av unøyaktig informasjon,",
+              "be om sletting av informasjon,",
+              "protestere mot eller begrense viss behandling,",
+              "trekke tilbake samtykke der behandlingen er basert på samtykke,",
+              "sende inn en klage til en kompetent databeskyttelsesmyndighet (i Tsjekkia, kontoret for beskyttelse av personopplysninger)."
+            ]
+          },
+          {
+            "p": "Vi fører ingen registreringer om spillere, så det er ingenting på vår side å avsløre, korrigere eller slette. Spilldata på enheten er under din kontroll gjennom Android-innstillingene, og et sky-øyeblikksbilde er under spillerens kontroll gjennom Googles Play Games-datakontroller (se avsnitt 2 og 9). Meldinger sendt gjennom kontaktskjemaet er det vi holder selv; for å utøve dine rettigheter over disse, skriv til kontaktadressen, så sletter vi korrespondansen."
+          },
+          {
+            "p": "Du er velkommen til å kontakte oss på lordlobotom@gmail.com hvis du har spørsmål."
+          }
+        ]
+      },
+      {
+        "heading": "12. Internasjonal databehandling",
+        "blocks": [
+          {
+            "p": "Vi mottar ingenting fra spillet, så det er ingen internasjonal overføring av personlig informasjon fra vår side. Der skylagring er aktivert, overføres øyeblikksbildet til Google og behandles på Googles infrastruktur, som kan være plassert utenfor det europeiske økonomiske samarbeidsområdet, under Googles egne vilkår og sikkerhetstiltak."
+          },
+          {
+            "p": "En melding sendt via kontaktskjemaet går gjennom Web3Forms og Google, hvis servere kan være plassert utenfor det europeiske økonomiske samarbeidsområdet. Det samme gjelder YouTube-spilleren hvis du velger å starte traileren. Disse overføringene er styrt av vilkårene og sikkerhetstiltakene til disse leverandørene."
+          },
+          {
+            "p": "Distribusjon gjennom Google Play er underlagt Googles egne vilkår og retningslinjer, inkludert reglene for internasjonale overføringer."
+          }
+        ]
+      },
+      {
+        "heading": "13. Endringer i denne personvernerklæringen",
+        "blocks": [
+          {
+            "p": "Vi kan oppdatere denne personvernerklæringen når applikasjonen, dens funksjoner eller juridiske krav endres."
+          },
+          {
+            "p": "Den oppdaterte versjonen vil bli publisert på denne siden med en revidert ikrafttredelsesdato."
+          },
+          {
+            "p": "Vesentlige endringer som påvirker barns data eller måten informasjon brukes på, vil bli publisert her før de trer i kraft, og datasikkerhetserklæringen i butikken vil bli oppdatert for å matche."
+          }
+        ]
+      },
+      {
+        "heading": "14. Kontakt",
+        "blocks": [
+          {
+            "p": "For spørsmål, forespørsler eller bekymringer angående denne personvernerklæringen, kontakt:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Utvikler",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "E-post",
+                "value": "lordlobotom@gmail.com"
+              },
+              {
+                "label": "Land",
+                "value": "Tsjekkia"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pl": {
+    "title": "Polityka prywatności dla Numblop",
+    "effectiveDateLabel": "Data wejścia w życie",
+    "effectiveDate": "13 sierpnia 2026 r",
+    "intro": [
+      "Numblop to edukacyjna gra matematyczna zaprojektowana, aby pomóc dzieciom ćwiczyć mnożenie w bezpiecznym i zabawnym środowisku.",
+      "Niniejsza Polityka prywatności wyjaśnia, jakie informacje przetwarza Numblop, w jaki sposób je wykorzystuje oraz jakie możliwości wyboru mają użytkownicy oraz ich rodzice lub opiekunowie prawni.",
+      "W skrócie: cała gra działa w trybie offline, bez logowania i bez konta Numblop. Nie ma reklam ani zakupów w aplikacji i nie prowadzimy własnych analiz.",
+      "Dwie rzeczy są opcjonalne i pod twoją kontrolą: zapisywanie w chmurze, które wysyła jedną zaszyfrowaną kopię postępu gry do Gier Google Play (sekcja 2) oraz cokolwiek zdecydujesz się zrobić na tej stronie — napisanie do nas za pośrednictwem formularza kontaktowego lub kliknięcie, aby uruchomić zwiastun YouTube (sekcja 3).",
+      "Jedna rzecz nie jest. Wersja na Androida zawiera komponent Gry Google Play, który uruchamia się wraz z grą, niezależnie od tego, czy włączone jest zapisywanie w chmurze, i może wysyłać do Google informacje diagnostyczne i dotyczące wydajności, których Google używa również do celów analitycznych. Sekcja 2 wyjaśnia, co to obejmuje."
+    ],
+    "meta": {
+      "title": "Polityka prywatności – Numblop",
+      "description": "Numblop to gra dla dzieci bez reklam i zakupów w aplikacji, w którą można grać całkowicie offline. Przeczytaj pełną politykę prywatności."
+    },
+    "backToHome": "Powrót do strony głównej",
+    "sections": [
+      {
+        "heading": "1. Dane programisty i kontaktowe",
+        "blocks": [
+          {
+            "p": "Numblop został opracowany i obsługiwany przez:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Wywoływacz",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "Kraj",
+                "value": "Czechy"
+              },
+              {
+                "label": "Adres e-mail do kontaktu",
+                "value": "lordlobotom@gmail.com"
+              }
+            ]
+          },
+          {
+            "p": "W przypadku jakichkolwiek pytań lub próśb związanych z prywatnością prosimy o kontakt za pomocą powyższego adresu e-mail."
+          }
+        ]
+      },
+      {
+        "heading": "2. Informacje, które przetwarzamy",
+        "blocks": [
+          {
+            "p": "Numblop nie sprzedaje danych użytkowników, nie wykorzystuje ich do celów reklamowych i nie prowadzi analiz behawioralnych. Ta sekcja opisuje samą grę; Informacje przekazane za pośrednictwem formularza kontaktowego znajdującego się na tej stronie zostały omówione w punkcie 3."
+          },
+          {
+            "h": "Dane gry na Twoim urządzeniu"
+          },
+          {
+            "p": "Gra przechowuje informacje o rozgrywce wyłącznie w prywatnej pamięci aplikacji na Twoim urządzeniu. Obejmuje to:"
+          },
+          {
+            "list": [
+              "postęp gry,",
+              "odblokowana tabliczka mnożenia,",
+              "poziomy opanowania poszczególnych faktów,",
+              "zdobyte punkty doświadczenia,",
+              "monety i nagrody,",
+              "osiągnięcia i trofea,",
+              "wybrane artykuły kosmetyczne,",
+              "ustawienia aplikacji (język, dźwięk, wibracje, zapis w chmurze),",
+              "opcjonalny nick wpisywany przez gracza,",
+              "losowy pseudonimowy identyfikator profilu generowany przez grę."
+            ]
+          },
+          {
+            "p": "Po wyłączeniu zapisywania w chmurze informacje te pozostają na urządzeniu, z wyjątkiem standardowej kopii zapasowej urządzenia z Androidem lub przesyłania z urządzenia na urządzenie, co jest całkowicie kontrolowane przez ustawienia Twojego konta Google."
+          },
+          {
+            "p": "Pseudonim służy wyłącznie do zwracania się do gracza w grze i nigdy nie jest publikowany ani pokazywany innym graczom. Mimo to zalecamy, aby nie używać prawdziwego imienia i nazwiska, adresu e-mail, numeru telefonu, nazwy szkoły ani adresu jako pseudonimu."
+          },
+          {
+            "h": "Gry Google Play i zapisywanie w chmurze"
+          },
+          {
+            "p": "Na Androidzie Numblop zawiera usługi gier Google Play. Zapisywanie w chmurze jest domyślnie włączone, ale działa tylko wtedy, gdy Gry Google Play zalogują się na urządzeniu. Google i, w przypadku nadzorowanego dziecka, Family Link kontrolują, czy istnieje profil Gier Play i czy można z niego korzystać. Zapisywanie w chmurze można wyłączyć w ustawieniach Numblop; gra następnie kontynuuje korzystanie wyłącznie z lokalnego zapisu."
+          },
+          {
+            "p": "Po zalogowaniu się i włączeniu zapisywania w chmurze Numblop wysyła do Google jedną zaszyfrowaną migawkę zapisanych gier. Migawka zawiera postęp wymieniony powyżej, w tym opcjonalny pseudonim i losowy identyfikator profilu, dzięki czemu postęp można przywrócić lub bezpiecznie połączyć na różnych urządzeniach. Numblop otrzymuje także identyfikator gracza w Grach Play potrzebny do oddzielenia migawki jednego konta od innego. Numblop nie otrzymuje adresu e-mail gracza i nie uruchamia własnego serwera kont."
+          },
+          {
+            "p": "Gry Google Play mogą same przetwarzać identyfikatory kont i profili, adresy IP oraz przybliżony kraj lub region, aktywność w grach i zapisany postęp, identyfikatory urządzeń oraz informacje diagnostyczne w celu udostępniania, zabezpieczania, rozwiązywania problemów i ulepszania Gier Play. Google obsługuje te informacje zgodnie z Polityką prywatności Google i ustawieniami prywatności Gier Play użytkownika. Nie sprzedajemy tych danych ani nie wykorzystujemy ich do celów reklamowych."
+          },
+          {
+            "h": "Dane techniczne i diagnostyczne"
+          },
+          {
+            "p": "Numblop nie zawiera reklamowego SDK, żadnego własnego SDK analitycznego, żadnych własnych raportów o awariach ani zdalnej konfiguracji. Nie otrzymujemy żadnych informacji diagnostycznych na temat Twojego urządzenia ani statystyk dotyczących sposobu grania w grę."
+          },
+          {
+            "p": "Wyjątkiem jest komponent Gry Google Play, który nie jest objęty przełącznikiem zapisywania w chmurze. Na Androidzie uruchamia się wraz z grą, niezależnie od tego, czy jest włączony zapis w chmurze, i może wysyłać identyfikatory urządzeń Google wraz z informacjami diagnostycznymi i wydajnościowymi, których Google używa również do analizowania i ulepszania Gier Play. Wyłączenie zapisywania w chmurze uniemożliwia Numblop logowanie się i wysyłanie jakichkolwiek migawek; nie powstrzymuje to Gier Play od raportowania do Google. Kontrolują to własne ustawienia Gier Play Google i dostępność Gier Play na urządzeniu."
+          },
+          {
+            "h": "Tabele liderów w Internecie"
+          },
+          {
+            "p": "Obecna wersja gry nie ma tabeli liderów online ani profilu publicznego. Zapisywanie w chmurze to jedyna funkcja sieciowa. Jeśli kiedykolwiek zostanie dodana tabela wyników lub podobna funkcja, niniejsza Polityka prywatności i Deklaracja bezpieczeństwa danych Google Play zostaną zaktualizowane przed wydaniem tej wersji."
+          }
+        ]
+      },
+      {
+        "heading": "3. Niniejsza witryna internetowa (formularz kontaktowy i wideo)",
+        "blocks": [
+          {
+            "p": "Sama witryna nie korzysta z plików cookie, nie prowadzi analiz ani nie umożliwia śledzenia między witrynami. Oferuje formularz kontaktowy umożliwiający przesłanie nam pytania, pomysłu lub zgłoszenia błędu — ten formularz jest jedynym miejscem, w którym uzyskujemy od Ciebie jakiekolwiek informacje."
+          },
+          {
+            "h": "Co przetwarzamy"
+          },
+          {
+            "p": "Tylko to, co sam napiszesz: opcjonalne imię i nazwisko, adres e-mail, na który mamy odpowiedzieć, treść Twojej wiadomości oraz język strony, z której ją wysłałeś. Nic więcej — żadnych plików cookie, żadnych analiz, żadnego śledzenia w różnych witrynach."
+          },
+          {
+            "h": "Dlaczego to przetwarzamy"
+          },
+          {
+            "p": "Wyłącznie abyśmy mogli przeczytać Twoją wiadomość i odpowiedzieć na nią. Nie wykorzystujemy Twojego adresu w celach marketingowych, nie dodajemy go do żadnej listy mailingowej i nie przekazujemy go nikomu innemu."
+          },
+          {
+            "h": "Podstawa prawna"
+          },
+          {
+            "p": "Zgoda na podstawie art. 6 ust. 1 lit. a RODO wyrażona poprzez zaznaczenie checkboxa w formularzu. Możesz ją wycofać w każdej chwili pisząc na adres lordlobotom@gmail.com, a korespondencję usuniemy."
+          },
+          {
+            "h": "Kto otrzymuje informacje"
+          },
+          {
+            "p": "Formularz jest dostarczany przez usługę Web3Forms (usługę przekazywania wiadomości e-mail), która wysyła wiadomość do skrzynki pocztowej Gmail obsługiwanej przez Google. Nie ma innych odbiorców."
+          },
+          {
+            "h": "Jak długo to przechowujemy"
+          },
+          {
+            "p": "Tylko tak długo, jak potrzeba odpowiedzi na Twoje zapytanie i podjęcia wszelkich działań następczych. Następnie usuwamy wiadomość ze skrzynki pocztowej — lub wcześniej, na Twoją prośbę."
+          },
+          {
+            "h": "Wiek"
+          },
+          {
+            "p": "Formularz przeznaczony jest dla rodziców, nauczycieli i dorosłych użytkowników. Prosimy o pisanie wyłącznie z własnego adresu e-mail, w formularzu nie należy podawać adresu ani danych osobowych dziecka."
+          },
+          {
+            "h": "Film z YouTube'a"
+          },
+          {
+            "p": "Na stronie głównej znajduje się zwiastun gry. Obraz podglądu jest przechowywany na naszym własnym serwerze, więc strona nie łączy się z YouTube, dopóki sam nie uruchomisz filmu. Dopiero po kliknięciu następuje załadowanie odtwarzacza z youtube-nocookie.com; od tego momentu Google może przetwarzać Twój adres IP i informacje o odtwarzaniu zgodnie z własną polityką prywatności. Linki do Instagrama i YouTube w stopce są zwykłymi linkami — nic się z nich nie ładuje, chyba że je zastosujesz."
+          },
+          {
+            "p": "Zarówno napisanie do nas, jak i odtworzenie filmu jest całkowicie opcjonalne. Możesz pobrać grę z Google Play lub zagrać w nią w przeglądarce, nie przesyłając niczego."
+          }
+        ]
+      },
+      {
+        "heading": "4. Jak wykorzystujemy informacje",
+        "blocks": [
+          {
+            "p": "Dane gry zapisane na Twoim urządzeniu są wykorzystywane przez aplikację wyłącznie w celu:"
+          },
+          {
+            "list": [
+              "zapewnić i utrzymać grę,",
+              "zapisywanie i przywracanie postępu gry,",
+              "przywróć lub bezpiecznie połącz ten postęp na różnych urządzeniach, gdy włączony jest zapis w chmurze,",
+              "obliczaj doświadczenie, nagrody i osiągnięcia,",
+              "dostosować praktykę do postępów dziecka,",
+              "zachowaj wybrane ustawienia i przedmioty kosmetyczne."
+            ]
+          },
+          {
+            "p": "Nie wykorzystujemy żadnych informacji do celów reklamy ukierunkowanej, marketingu bezpośredniego ani tworzenia profili reklamowych."
+          }
+        ]
+      },
+      {
+        "heading": "5. Prywatność dzieci",
+        "blocks": [
+          {
+            "p": "Numblop jest przeznaczony dla dzieci i rodzin i dlatego został zaprojektowany w taki sposób, aby w ogóle nie były gromadzone żadne dane osobowe."
+          },
+          {
+            "p": "Gra nigdy nie wymaga od dzieci podania:"
+          },
+          {
+            "list": [
+              "ich prawdziwe imię,",
+              "adres domowy,",
+              "adres e-mail,",
+              "numer telefonu,",
+              "nazwa szkoły,",
+              "precyzyjna lokalizacja,",
+              "fotografie,",
+              "łączność,",
+              "prywatne wiadomości."
+            ]
+          },
+          {
+            "p": "Gra nie zapewnia czatu, prywatnych wiadomości, udostępniania zdjęć ani żadnej innej komunikacji między użytkownikami."
+          },
+          {
+            "p": "Nie obsługujemy żadnego systemu kont i nie posiadamy bazy danych zawierającej kopię postępów Twojego dziecka. Dane przetwarzane przez grę są celowo minimalizowane: bez reklam, bez śledzenia, bez swobodnej komunikacji i bez publicznie widocznego imienia i nazwiska wpisanego przez dziecko."
+          }
+        ]
+      },
+      {
+        "heading": "6. Reklama i zakupy",
+        "blocks": [
+          {
+            "p": "Numblop:"
+          },
+          {
+            "list": [
+              "nie wyświetla reklam podmiotów zewnętrznych,",
+              "nie wykorzystuje danych użytkownika w celach reklamowych,",
+              "jest dostępny bezpłatnie,",
+              "nie zawiera żadnych subskrypcji ani zakupów w aplikacji."
+            ]
+          },
+          {
+            "p": "Jeśli w przyszłości te praktyki ulegną zmianie, niniejsza Polityka prywatności i Oświadczenie o bezpieczeństwie danych Google Play zostaną zaktualizowane przed wprowadzeniem odpowiednich funkcji."
+          }
+        ]
+      },
+      {
+        "heading": "7. Usługi stron trzecich",
+        "blocks": [
+          {
+            "p": "Jedynym komponentem strony trzeciej w aplikacji, który przetwarza dane użytkownika, są Usługi gier Google Play, używane do opcjonalnego zapisywania w chmurze opisanego w sekcji 2. Nie ma pakietu SDK do reklam ani analiz."
+          },
+          {
+            "p": "Do dystrybucji aplikacji wykorzystywany jest Google Play. Jako operator sklepu Google przetwarza informacje dotyczące pobierania i instalacji zgodnie z własnymi warunkami i polityką prywatności; nie otrzymujemy tych informacji w formie umożliwiającej identyfikację poszczególnych graczy."
+          },
+          {
+            "p": "Aktualna lista usług podmiotów zewnętrznych:"
+          },
+          {
+            "list": [
+              "Usługi gier Google Play (opcjonalny zapis w chmurze, patrz sekcja 2),",
+              "Google Play (dystrybucja aplikacji),",
+              "Web3Forms (przesłanie formularza kontaktowego serwisu na adres e-mail, patrz pkt. 3),",
+              "Google Gmail (skrzynka pocztowa, do której przychodzą wiadomości),",
+              "YouTube / Google (odtwarzacz zwiastuna, ładowany tylko po kliknięciu, patrz sekcja 3)."
+            ]
+          },
+          {
+            "p": "Numblop nie sprzedaje danych osobowych osobom trzecim. W tej chwili nie są używane żadne inne usługi; lista ta będzie na bieżąco aktualizowana w niniejszej Polityce Prywatności."
+          }
+        ]
+      },
+      {
+        "heading": "8. Udostępnianie danych",
+        "blocks": [
+          {
+            "p": "Nie sprzedajemy, nie wypożyczamy ani nie handlujemy informacjami o użytkownikach."
+          },
+          {
+            "p": "Gra nie wysyła do nas żadnych treści, więc nie mamy z niej nic, czym moglibyśmy się podzielić z dostawcami usług lub jakąkolwiek inną stroną trzecią. Jedynym transferem poza grę jest migawka zapisana w chmurze, która trafia do Gier Google Play na zalogowanym koncie gracza (patrz sekcja 2). Wiadomości z formularza kontaktowego przekazywane są wyłącznie służbom niezbędnym do dostarczenia ich do naszej skrzynki pocztowej (patrz pkt. 3 i 7) i nikomu innemu. Poza tym informacje będą ujawniane wyłącznie w zakresie wymaganym przez obowiązujące prawo."
+          }
+        ]
+      },
+      {
+        "heading": "9. Przechowywanie danych",
+        "blocks": [
+          {
+            "p": "Dane gry pozostają zapisane na Twoim urządzeniu do czasu wyczyszczenia danych aplikacji lub odinstalowania aplikacji. Odinstalowanie aplikacji usuwa te dane."
+          },
+          {
+            "p": "Nie obsługujemy serwerów, na których przechowywane byłyby dane gier. Dane zapisane na Twoim urządzeniu możesz w każdej chwili samodzielnie usunąć poprzez ustawienia systemu Android lub poprzez odinstalowanie aplikacji."
+          },
+          {
+            "p": "Migawka w chmurze pozostaje w danych Gier Play zalogowanego gracza, dopóki nie zostanie zastąpiona lub dopóki gracz nie usunie danych lub profilu Gry Play za pomocą narzędzi Google Play Games. Wyłączenie zapisywania w chmurze w Numblop zatrzymuje dalszy dostęp do Gier Play, ale samo w sobie nie powoduje usunięcia zapisanej już migawki."
+          },
+          {
+            "p": "Wiadomości z formularza kontaktowego przechowywane są jedynie tak długo, jak jest to konieczne do udzielenia na nie odpowiedzi, zgodnie z opisem w punkcie 3."
+          }
+        ]
+      },
+      {
+        "heading": "10. Bezpieczeństwo danych",
+        "blocks": [
+          {
+            "p": "Dane gier są przechowywane w prywatnej pamięci aplikacji, którą Android chroni przed dostępem innych aplikacji."
+          },
+          {
+            "p": "Migawka zapisana w chmurze jest przesyłana do Gier Google Play za pośrednictwem szyfrowanego połączenia. Żadna metoda elektronicznego przechowywania lub przesyłania nie jest całkowicie bezpieczna i nie można zagwarantować całkowitego bezpieczeństwa."
+          }
+        ]
+      },
+      {
+        "heading": "11. Prawa Użytkownika i Rodzica",
+        "blocks": [
+          {
+            "p": "W zależności od obowiązującego prawa użytkownicy lub ich rodzice lub opiekunowie prawni mogą mieć prawo do:"
+          },
+          {
+            "list": [
+              "żądania dostępu do przechowywanych danych osobowych,",
+              "zażądać sprostowania nieprawidłowych informacji,",
+              "zażądać usunięcia informacji,",
+              "sprzeciwić się lub ograniczyć określone przetwarzanie,",
+              "cofnięcia zgody, jeżeli przetwarzanie odbywa się na podstawie zgody,",
+              "wnieść skargę do właściwego organu ochrony danych (w Czechach Urzędu Ochrony Danych Osobowych)."
+            ]
+          },
+          {
+            "p": "Nie prowadzimy żadnych rejestrów dotyczących graczy, więc z naszej strony nie ma nic do ujawnienia, poprawienia lub usunięcia. Dane gry na urządzeniu są pod Twoją kontrolą za pomocą ustawień Androida, a migawka w chmurze jest pod kontrolą gracza za pomocą kontroli danych Gier Google Play (patrz sekcje 2 i 9). Wiadomości wysyłane za pośrednictwem formularza kontaktowego to jedyna rzecz, której się trzymamy; aby skorzystać z przysługujących Ci praw, napisz na adres kontaktowy, a korespondencję usuniemy."
+          },
+          {
+            "p": "W razie jakichkolwiek pytań możesz się z nami skontaktować pod adresem lordlobotom@gmail.com."
+          }
+        ]
+      },
+      {
+        "heading": "12. Międzynarodowe przetwarzanie danych",
+        "blocks": [
+          {
+            "p": "Nie otrzymujemy nic z gry, więc nie ma z naszej strony międzynarodowego przekazywania danych osobowych. Jeśli włączone jest zapisywanie w chmurze, migawka jest przesyłana do Google i przetwarzana w infrastrukturze Google, która może znajdować się poza Europejskim Obszarem Gospodarczym, zgodnie z własnymi warunkami i zabezpieczeniami Google."
+          },
+          {
+            "p": "Wiadomość przesłana poprzez formularz kontaktowy przechodzi przez Web3Forms oraz Google, których serwery mogą znajdować się poza Europejskim Obszarem Gospodarczym. To samo dotyczy odtwarzacza YouTube, jeśli zdecydujesz się uruchomić zwiastun. Transfery te podlegają warunkom i gwarancjom tych dostawców."
+          },
+          {
+            "p": "Dystrybucja za pośrednictwem Google Play podlega własnym warunkom i zasadom Google, w tym zasadom dotyczącym transferu międzynarodowego."
+          }
+        ]
+      },
+      {
+        "heading": "13. Zmiany w niniejszej Polityce Prywatności",
+        "blocks": [
+          {
+            "p": "Możemy zaktualizować niniejszą Politykę prywatności, gdy zmieni się aplikacja, jej funkcje lub wymagania prawne."
+          },
+          {
+            "p": "Zaktualizowana wersja zostanie opublikowana na tej stronie ze zmienioną datą wejścia w życie."
+          },
+          {
+            "p": "Istotne zmiany mające wpływ na dane dzieci lub sposób wykorzystania informacji zostaną opublikowane tutaj, zanim zaczną obowiązywać, a deklaracja bezpieczeństwa danych w sklepie zostanie odpowiednio zaktualizowana."
+          }
+        ]
+      },
+      {
+        "heading": "14. Kontakt",
+        "blocks": [
+          {
+            "p": "W przypadku pytań, próśb lub wątpliwości dotyczących niniejszej Polityki prywatności należy skontaktować się z:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Wywoływacz",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "E-mail",
+                "value": "lordlobotom@gmail.com"
+              },
+              {
+                "label": "Kraj",
+                "value": "Czechy"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "title": "Sekretesspolicy för Numblop",
+    "effectiveDateLabel": "Ikraftträdande datum",
+    "effectiveDate": "13 augusti 2026",
+    "intro": [
+      "Numblop är ett pedagogiskt matematikspel utformat för att hjälpa barn att träna multiplikation i en säker och lekfull miljö.",
+      "Denna integritetspolicy förklarar vilken information Numblop behandlar, hur den används och vilka val användare och deras föräldrar eller vårdnadshavare har.",
+      "Kort sagt: hela spelet fungerar offline, utan att logga in och utan ett Numblop-konto. Det finns inga annonser och inga köp i appen, och vi kör ingen egen analys.",
+      "Två saker är valfria och under din kontroll: molnlagring, som skickar en krypterad kopia av spelförloppet till Google Play Spel (avsnitt 2), och vad du än väljer att göra på den här webbplatsen – att skriva till oss via kontaktformuläret eller klicka för att starta YouTube-trailern (avsnitt 3).",
+      "En sak är det inte. Android-versionen inkluderar Googles Play Games-komponent, som börjar med spelet oavsett om molnlagring är aktiverat eller inte, och kan skicka diagnostik och prestandainformation till Google som Google också använder för analys. Avsnitt 2 förklarar vad det omfattar."
+    ],
+    "meta": {
+      "title": "Sekretesspolicy – ​​Numblop",
+      "description": "Numblop är ett barnspel utan annonser och inga köp i appar, spelbart helt offline. Läs hela integritetspolicyn."
+    },
+    "backToHome": "Tillbaka till startsidan",
+    "sections": [
+      {
+        "heading": "1. Utvecklare och kontaktinformation",
+        "blocks": [
+          {
+            "p": "Numblop utvecklas och drivs av:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Framkallare",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "Land",
+                "value": "Tjeckien"
+              },
+              {
+                "label": "Kontakt e-post",
+                "value": "lordlobotom@gmail.com"
+              }
+            ]
+          },
+          {
+            "p": "För eventuella integritetsrelaterade frågor eller förfrågningar, vänligen kontakta oss med e-postadressen ovan."
+          }
+        ]
+      },
+      {
+        "heading": "2. Information vi behandlar",
+        "blocks": [
+          {
+            "p": "Numblop säljer inte användardata, använder den inte för reklam och kör ingen beteendeanalys. Det här avsnittet beskriver själva spelet; information som lämnas via kontaktformuläret på denna webbplats behandlas i avsnitt 3."
+          },
+          {
+            "h": "Speldata på din enhet"
+          },
+          {
+            "p": "Spelet lagrar spelinformation endast i programmets privata lagringsutrymme på din enhet. Detta inkluderar:"
+          },
+          {
+            "list": [
+              "spelets framsteg,",
+              "olåsta multiplikationstabeller,",
+              "behärskningsnivåer för individuella fakta,",
+              "intjänade erfarenhetspoäng,",
+              "mynt och belöningar,",
+              "prestationer och troféer,",
+              "utvalda kosmetiska föremål,",
+              "applikationsinställningar (språk, ljud, vibration, molnlagring),",
+              "ett valfritt smeknamn som skrivits in av spelaren,",
+              "en slumpmässig pseudonym profilidentifierare som genereras av spelet."
+            ]
+          },
+          {
+            "p": "När molnlagring är avstängt, stannar denna information på enheten, förutom den vanliga säkerhetskopieringen av Android-enheter eller enhet-till-enhet-överföring, som styrs helt av dina egna Google-kontoinställningar."
+          },
+          {
+            "p": "Smeknamnet används enbart för att tilltala spelaren i spelet och publiceras eller visas aldrig för andra spelare. Trots det rekommenderar vi att du inte använder ett riktigt namn, e-postadress, telefonnummer, skolnamn eller adress som smeknamn."
+          },
+          {
+            "h": "Google Play Spel och molnspar"
+          },
+          {
+            "p": "På Android inkluderar Numblop Google Plays speltjänster. Cloud Save är aktiverat som standard, men det fungerar bara när Google Play Spel loggar in enheten. Google och, för ett övervakat barn, Family Link styr om en Play Spel-profil finns och får användas. Cloud save kan stängas av i Numblops inställningar; spelet fortsätter sedan att endast använda sin lokala räddning."
+          },
+          {
+            "p": "När du är inloggad med molnlagring aktiverat skickar Numblop en krypterad ögonblicksbild av Sparade spel till Google. Ögonblicksbilden innehåller förloppet som anges ovan, inklusive det valfria smeknamnet och den slumpmässiga profilidentifieraren, så att framsteg kan återställas eller säkert kombineras mellan enheter. Numblop får också Play Games-spelarens identifierare som behövs för att hålla ett kontos ögonblicksbild åtskild från ett annat. Numblop tar inte emot spelarens e-postadress och driver ingen egen kontoserver."
+          },
+          {
+            "p": "Google Play Spel kan själv bearbeta konto- och profilidentifierare, IP-adress och ungefärlig land eller region, spelaktivitet och sparade framsteg, enhetsidentifierare och diagnostisk information för att tillhandahålla, säkra, felsöka och förbättra Play Spel. Google hanterar den informationen under Googles sekretesspolicy och användarens sekretessinställningar för Play Spel. Vi säljer inte denna data eller använder den för annonser."
+          },
+          {
+            "h": "Tekniska och diagnostiska data"
+          },
+          {
+            "p": "Numblop innehåller ingen reklam-SDK, ingen egen analys-SDK, ingen egen kraschrapportering och ingen fjärrkonfiguration. Vi får ingen diagnostisk information om din enhet och ingen statistik om hur spelet spelas."
+          },
+          {
+            "p": "Googles Play Games-komponent är undantaget, och den täcks inte av omkopplaren för molnspar. På Android startar det tillsammans med spelet oavsett om molnlagring är aktiverat eller inte, och det kan skicka Google enhetsidentifierare tillsammans med diagnostik och prestandainformation, som Google också använder för att analysera och förbättra Play Spel. Om du stänger av molnlagring stoppar Numblop från att logga in och från att skicka någon ögonblicksbild; det hindrar inte själva Play Games från att rapportera till Google. Googles egna Play Spel-inställningar och tillgängligheten för Play Spel på enheten styr det."
+          },
+          {
+            "h": "Topplistor online"
+          },
+          {
+            "p": "Den nuvarande versionen av spelet har ingen online-poängtavla och ingen offentlig profil. Cloud save är den enda nätverksfunktionen. Om en leaderboard eller liknande funktion någonsin läggs till kommer denna sekretesspolicy och Google Plays datasäkerhetsdeklaration att uppdateras innan den versionen släpps."
+          }
+        ]
+      },
+      {
+        "heading": "3. Denna webbplats (kontaktformulär och video)",
+        "blocks": [
+          {
+            "p": "Webbplatsen själv använder inga cookies, kör ingen analys och spårar inte över flera webbplatser. Det erbjuder ett kontaktformulär för att skicka oss en fråga, en idé eller en felrapport – det formuläret är det enda stället där vi får information från dig."
+          },
+          {
+            "h": "Vad vi bearbetar"
+          },
+          {
+            "p": "Bara det du skriver själv: ett valfritt namn, e-postadressen vi ska svara på, texten i ditt meddelande och språket på sidan du skickade det från. Inget annat — inga cookies, inga analyser, ingen spårning över flera webbplatser."
+          },
+          {
+            "h": "Varför vi bearbetar det"
+          },
+          {
+            "p": "Enbart för att vi ska kunna läsa ditt meddelande och svara på det. Vi använder inte din adress för marknadsföring, lägger inte till den i någon e-postlista och skickar den inte vidare till någon annan."
+          },
+          {
+            "h": "Rättslig grund"
+          },
+          {
+            "p": "Samtycke enligt artikel 6.1(a) GDPR, ges genom att kryssa i kryssrutan i formuläret. Du kan när som helst dra tillbaka den genom att skriva till lordlobotom@gmail.com, så tar vi bort korrespondensen."
+          },
+          {
+            "h": "Vem tar emot informationen"
+          },
+          {
+            "p": "Formuläret levereras av Web3Forms (en formulär-till-e-postförmedlingstjänst), som skickar meddelandet till en Gmail-postlåda som drivs av Google. Det finns inga andra mottagare."
+          },
+          {
+            "h": "Hur länge vi behåller det"
+          },
+          {
+            "p": "Bara så lång tid det tar att svara på din förfrågan och sköta eventuell uppföljning. Efter det tar vi bort meddelandet från brevlådan - eller tidigare, på din begäran."
+          },
+          {
+            "h": "Åldras"
+          },
+          {
+            "p": "Formuläret är avsett för föräldrar, lärare och vuxna användare. Vänligen skriv endast från din egen e-postadress och skriv inte in ett barns adress eller personliga uppgifter i formuläret."
+          },
+          {
+            "h": "YouTube-video"
+          },
+          {
+            "p": "Hemsidan har en trailer för spelet. Förhandsgranskningsbilden lagras på vår egen server, så sidan gör ingen koppling till YouTube förrän du startar videon själv. Först efter ett klick laddas spelaren från youtube-nocookie.com; från den punkten kan Google behandla din IP-adress och uppspelningsinformation enligt sin egen sekretesspolicy. Instagram- och YouTube-länkarna i sidfoten är vanliga länkar - ingenting laddas från dem om du inte följer dem."
+          },
+          {
+            "p": "Både att skriva till oss och spela upp videon är helt valfritt. Du kan ladda ner spelet från Google Play eller spela det i din webbläsare utan att skicka in något."
+          }
+        ]
+      },
+      {
+        "heading": "4. Hur vi använder information",
+        "blocks": [
+          {
+            "p": "Speldata som lagras på din enhet används av appen endast för att:"
+          },
+          {
+            "list": [
+              "tillhandahålla och underhålla spelet,",
+              "spara och återställa spelförlopp,",
+              "återställa eller på ett säkert sätt kombinera dessa framsteg mellan enheter när molnlagring är på,",
+              "beräkna erfarenhet, belöningar och prestationer,",
+              "anpassa praktiken till barnets framsteg,",
+              "behålla de valda inställningarna och kosmetiska föremål."
+            ]
+          },
+          {
+            "p": "Vi använder ingen information för riktad reklam, direktmarknadsföring eller skapande av reklamprofiler."
+          }
+        ]
+      },
+      {
+        "heading": "5. Barns integritet",
+        "blocks": [
+          {
+            "p": "Numblop är avsedd för barn och familjer, och är därför utformad så att ingen personlig information samlas in alls."
+          },
+          {
+            "p": "Spelet ber aldrig barn att ge:"
+          },
+          {
+            "list": [
+              "deras riktiga namn,",
+              "hemadress,",
+              "e-postadress,",
+              "telefonnummer,",
+              "skolans namn,",
+              "exakt plats,",
+              "fotografier,",
+              "kontakter,",
+              "privata meddelanden."
+            ]
+          },
+          {
+            "p": "Spelet ger ingen chatt, privata meddelanden, bilddelning eller annan kommunikation mellan användare."
+          },
+          {
+            "p": "Vi driver inget kontosystem och har ingen databas som innehåller en kopia av ditt barns framsteg. Datan som spelet hanterar minimeras avsiktligt: ​​inga annonser, ingen spårning, ingen friformskommunikation och inget offentligt synligt namn som angetts av ett barn."
+          }
+        ]
+      },
+      {
+        "heading": "6. Reklam och inköp",
+        "blocks": [
+          {
+            "p": "Numblop:"
+          },
+          {
+            "list": [
+              "visar inte tredjepartsreklam,",
+              "använder inte användardata för reklam,",
+              "är tillgänglig gratis,",
+              "innehåller inga prenumerationer och inga köp i appen."
+            ]
+          },
+          {
+            "p": "Om dessa metoder ändras i framtiden kommer denna sekretesspolicy och Google Plays datasäkerhetsdeklaration att uppdateras innan den relevanta funktionen introduceras."
+          }
+        ]
+      },
+      {
+        "heading": "7. Tredjepartstjänster",
+        "blocks": [
+          {
+            "p": "Den enda tredjepartskomponenten i applikationen som behandlar användardata är Google Plays speltjänster, som används för den valfria molnlagringen som beskrivs i avsnitt 2. Det finns ingen reklam- eller analys-SDK."
+          },
+          {
+            "p": "Google Play används för att distribuera applikationen. Som butiksoperatör behandlar Google nedladdnings- och installationsinformation enligt sina egna villkor och integritetspolicy; vi får inte den informationen i en form som gör att vi kan identifiera enskilda spelare."
+          },
+          {
+            "p": "En aktuell lista över tredjepartstjänster:"
+          },
+          {
+            "list": [
+              "Google Plays speltjänster (valfritt molnlagring, se avsnitt 2),",
+              "Google Play (applikationsdistribution),",
+              "Web3Forms (leverera webbplatsens kontaktformulär till e-post, se avsnitt 3),",
+              "Google Gmail (brevlådan som meddelandena kommer i),",
+              "YouTube / Google (trailerspelaren, laddas endast vid ditt klick, se avsnitt 3)."
+            ]
+          },
+          {
+            "p": "Numblop säljer inte personlig information till tredje part. Inga andra tjänster används för närvarande; denna lista kommer att hållas uppdaterad i denna sekretesspolicy."
+          }
+        ]
+      },
+      {
+        "heading": "8. Datadelning",
+        "blocks": [
+          {
+            "p": "Vi säljer, hyr ut eller handlar inte med användarinformation."
+          },
+          {
+            "p": "Spelet skickar ingenting till oss, så vi har inget från det att dela med tjänsteleverantörer eller någon annan tredje part. Den enda överföringen från spelet är den molnsparande ögonblicksbilden, som går till Google Play Spel på spelarens eget inloggade konto (se avsnitt 2). Meddelanden från kontaktformuläret skickas endast till de tjänster som behövs för att leverera dem till vår brevlåda (se avsnitt 3 och 7), och till ingen annan. Utöver detta skulle information endast lämnas ut i den utsträckning som krävs enligt tillämplig lag."
+          }
+        ]
+      },
+      {
+        "heading": "9. Datalagring",
+        "blocks": [
+          {
+            "p": "Speldata förblir lagrad på din enhet tills applikationsdata rensas eller applikationen avinstalleras. Om du avinstallerar programmet raderas denna data."
+          },
+          {
+            "p": "Vi driver inga servrar där speldata kommer att lagras. Du kan när som helst själv radera data som lagras på din enhet, via Android-systeminställningarna eller genom att avinstallera applikationen."
+          },
+          {
+            "p": "En ögonblicksbild av molnet finns kvar i den inloggade spelarens Play Spel-data tills den ersätts, eller tills spelaren tar bort spelets Play Spel-data eller profil via Googles egna Play Spel-kontroller. Om du stänger av molnlagring i Numblop stoppas ytterligare åtkomst till Play Spel, men det raderar inte i sig en ögonblicksbild som redan är lagrad."
+          },
+          {
+            "p": "Meddelanden från kontaktformuläret sparas bara så länge det tar att besvara dem, enligt beskrivning i avsnitt 3."
+          }
+        ]
+      },
+      {
+        "heading": "10. Datasäkerhet",
+        "blocks": [
+          {
+            "p": "Speldata förvaras i applikationens privata lagring, som Android skyddar från åtkomst av andra applikationer."
+          },
+          {
+            "p": "Den molnsparande ögonblicksbilden överförs till Google Play Spel via en krypterad anslutning. Ingen metod för elektronisk lagring eller överföring är helt säker, och absolut säkerhet kan inte garanteras."
+          }
+        ]
+      },
+      {
+        "heading": "11. Användar- och föräldrarättigheter",
+        "blocks": [
+          {
+            "p": "Beroende på tillämplig lag kan användare eller deras föräldrar eller vårdnadshavare ha rätt att:"
+          },
+          {
+            "list": [
+              "begära tillgång till lagrad personlig information,",
+              "begära rättelse av felaktig information,",
+              "begära radering av information,",
+              "invända mot eller begränsa viss behandling,",
+              "återkalla samtycke där behandlingen baseras på samtycke,",
+              "lämna in ett klagomål till en behörig dataskyddsmyndighet (i Tjeckien, byrån för skydd av personuppgifter)."
+            ]
+          },
+          {
+            "p": "Vi för inga register om spelare, så det finns inget på vår sida att avslöja, korrigera eller radera. Speldata på enheten är under din kontroll genom Android-inställningarna, och en molnögonblicksbild är under spelarens kontroll via Googles Play Spel-datakontroller (se avsnitt 2 och 9). Meddelanden som skickas via kontaktformuläret är det vi själva håller; för att utöva dina rättigheter över dessa, skriv till kontaktadressen så raderar vi korrespondensen."
+          },
+          {
+            "p": "Du är välkommen att kontakta oss på lordlobotom@gmail.com med alla frågor."
+          }
+        ]
+      },
+      {
+        "heading": "12. Internationell databehandling",
+        "blocks": [
+          {
+            "p": "Vi får ingenting från spelet, så det sker ingen internationell överföring av personlig information från vår sida. Där molnlagring är aktiverat överförs ögonblicksbilden till Google och bearbetas på Googles infrastruktur, som kan vara belägen utanför Europeiska ekonomiska samarbetsområdet, under Googles egna villkor och skydd."
+          },
+          {
+            "p": "Ett meddelande som skickas via kontaktformuläret går via Web3Forms och Google, vars servrar kan finnas utanför Europeiska ekonomiska samarbetsområdet. Detsamma gäller för YouTube-spelaren om du väljer att starta trailern. Dessa överföringar styrs av dessa leverantörers villkor och garantier."
+          },
+          {
+            "p": "Distribution via Google Play styrs av Googles egna villkor och policyer, inklusive dess regler för internationella överföringar."
+          }
+        ]
+      },
+      {
+        "heading": "13. Ändringar av denna integritetspolicy",
+        "blocks": [
+          {
+            "p": "Vi kan uppdatera denna integritetspolicy när applikationen, dess funktioner eller juridiska krav ändras."
+          },
+          {
+            "p": "Den uppdaterade versionen kommer att publiceras på denna sida med ett reviderat ikraftträdandedatum."
+          },
+          {
+            "p": "Väsentliga ändringar som påverkar barns data eller hur information används kommer att publiceras här innan de träder i kraft, och datasäkerhetsdeklarationen i butik kommer att uppdateras för att matcha."
+          }
+        ]
+      },
+      {
+        "heading": "14. Kontakt",
+        "blocks": [
+          {
+            "p": "För frågor, förfrågningar eller funderingar angående denna integritetspolicy, kontakta:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Framkallare",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "E-post",
+                "value": "lordlobotom@gmail.com"
+              },
+              {
+                "label": "Land",
+                "value": "Tjeckien"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

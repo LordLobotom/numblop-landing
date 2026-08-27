@@ -3,7 +3,9 @@ import { notFound } from 'next/navigation'
 import { ArrowLeft, Mail } from 'lucide-react'
 import { ContactForm } from '@/components/contact-form'
 import { getDictionary, isLocale } from '@/lib/i18n/dictionary'
+import { localeAlternates } from '@/lib/i18n/locales'
 import { CONTACT_EMAIL, CONTACT_SUBJECT } from '@/lib/contact'
+import { alternateOpenGraphLocales, openGraphLocale } from '@/lib/seo'
 
 export async function generateMetadata({
   params,
@@ -21,19 +23,22 @@ export async function generateMetadata({
     description: dict.contact.meta.description,
     alternates: {
       canonical: `/${locale}/contact/`,
-      languages: {
-        cs: '/cs/contact/',
-        en: '/en/contact/',
-        'x-default': '/cs/contact/',
-      },
+      languages: localeAlternates('contact'),
     },
     openGraph: {
       title: dict.contact.meta.title,
       description: dict.contact.meta.description,
       url: `/${locale}/contact/`,
       siteName: 'Numblop',
-      locale: locale === 'cs' ? 'cs_CZ' : 'en_US',
+      locale: openGraphLocale(locale),
+      alternateLocale: alternateOpenGraphLocales(locale),
       type: 'website',
+      images: ['/og-image.png'],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: dict.contact.meta.title,
+      description: dict.contact.meta.description,
       images: ['/og-image.png'],
     },
   }

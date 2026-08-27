@@ -14,6 +14,29 @@ const pub = (f) => path.join(root, 'public', f)
 
 await mkdir(pub('screenshots'), { recursive: true })
 await mkdir(pub('posts'), { recursive: true })
+await mkdir(pub('languages'), { recursive: true })
+
+// Keep the website language picker visually identical to the game. Norwegian
+// uses the Bokmål locale code (`nb`), matching the game's locale catalog.
+const languageFlags = {
+  en: 'english',
+  cs: 'czech',
+  sk: 'slovakia',
+  de: 'germany',
+  es: 'spain',
+  fi: 'finland',
+  fr: 'france',
+  nb: 'norway',
+  pl: 'poland',
+  sv: 'sweden',
+}
+
+for (const [locale, source] of Object.entries(languageFlags)) {
+  await sharp(path.join(numblopRepo, 'ui/buttons', `button_language_${source}.png`))
+    .resize({ width: 96, height: 96 })
+    .png({ compressionLevel: 9 })
+    .toFile(pub(path.join('languages', `${locale}.png`)))
+}
 
 const wordmark = sharp(branding('numblop_wordmark.png')).trim()
 

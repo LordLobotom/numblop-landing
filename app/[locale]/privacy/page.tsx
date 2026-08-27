@@ -2,6 +2,8 @@ import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { ArrowLeft } from 'lucide-react'
 import { isLocale } from '@/lib/i18n/dictionary'
+import { localeAlternates } from '@/lib/i18n/locales'
+import { alternateOpenGraphLocales, openGraphLocale } from '@/lib/seo'
 import {
   getPrivacyContent,
   privacyContact,
@@ -24,19 +26,22 @@ export async function generateMetadata({
     description: content.meta.description,
     alternates: {
       canonical: `/${locale}/privacy/`,
-      languages: {
-        cs: '/cs/privacy/',
-        en: '/en/privacy/',
-        'x-default': '/cs/privacy/',
-      },
+      languages: localeAlternates('privacy'),
     },
     openGraph: {
       title: content.meta.title,
       description: content.meta.description,
       url: `/${locale}/privacy/`,
       siteName: 'Numblop',
-      locale: locale === 'cs' ? 'cs_CZ' : 'en_US',
+      locale: openGraphLocale(locale),
+      alternateLocale: alternateOpenGraphLocales(locale),
       type: 'article',
+      images: ['/og-image.png'],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: content.meta.title,
+      description: content.meta.description,
       images: ['/og-image.png'],
     },
   }

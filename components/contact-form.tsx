@@ -147,7 +147,7 @@ export function ContactForm({
           className="mt-1 size-4 shrink-0 accent-accent"
         />
         <span>
-          {t.consent}
+          {t.consent}{' '}
           <a
             href={`/${locale}/privacy/`}
             className="font-medium text-accent underline-offset-4 hover:underline"

@@ -1,7 +1,9 @@
-import type { Locale } from './dictionary'
+import generatedPrivacy from './generated/privacy.json'
+import type { Locale } from './locales'
 
-// The privacy policy is kept apart from the main dictionary: it is long, rarely
-// touched, and needs to stay verbatim in both languages.
+// The privacy policy is kept apart from the main dictionary because it is long
+// and rarely touched. Czech and English are maintained below; the other eight
+// complete locale versions live in generated/privacy.json.
 //
 // Scope note: the whole game is playable offline, signed out, with no Numblop
 // account, and it carries no analytics, advertising or in-app purchases. On
@@ -17,7 +19,8 @@ import type { Locale } from './dictionary'
 // message, and the landing page carries a click-to-load YouTube trailer that
 // contacts Google only once someone presses play. Any change to what the form
 // asks for, or to anything the page loads from a third party, has to be
-// reflected there first.
+// reflected there first. Legal translations should receive native-speaker
+// review whenever the English policy changes.
 
 export const privacyContact = {
   name: 'Michal Gut (LordLobotom)',
@@ -691,7 +694,16 @@ const en: PrivacyContent = {
   ],
 }
 
-const privacyPolicies: Record<Locale, PrivacyContent> = { cs, en }
+const additionalPrivacyPolicies: Record<
+  Exclude<Locale, 'cs' | 'en'>,
+  PrivacyContent
+> = generatedPrivacy
+
+const privacyPolicies: Record<Locale, PrivacyContent> = {
+  cs,
+  en,
+  ...additionalPrivacyPolicies,
+}
 
 export function getPrivacyContent(locale: Locale): PrivacyContent {
   return privacyPolicies[locale]

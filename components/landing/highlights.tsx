@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import type { Dictionary, Locale } from '@/lib/i18n/dictionary'
+import { marketingAssetLocale } from '@/lib/i18n/locales'
 
 // Store posters from the game repo (store/posts). The order here defines the
 // order of `dict.highlights.posters`.
@@ -17,6 +18,8 @@ export function Highlights({
   dict: Dictionary
   locale: Locale
 }) {
+  const assetLocale = marketingAssetLocale(locale)
+
   return (
     <section className="bg-secondary/40 py-16 sm:py-20">
       <div className="mx-auto max-w-5xl px-4">
@@ -32,7 +35,7 @@ export function Highlights({
           {posters.map((slug, index) => (
             <li key={slug}>
               <Image
-                src={`/posts/${slug}-${locale}.webp`}
+                src={`/posts/${slug}-${assetLocale}.webp`}
                 alt={dict.highlights.posters[index]}
                 width={720}
                 height={899}

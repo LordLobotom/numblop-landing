@@ -1,4 +1,5 @@
 import type { MetadataRoute } from 'next'
+import numblopIcon from './numblop_icon.png'
 
 export const dynamic = 'force-static'
 
@@ -13,8 +14,7 @@ export default function manifest(): MetadataRoute.Manifest {
     background_color: '#fdfef8',
     theme_color: '#b9ef45',
     icons: [
-      { src: '/icon.png', sizes: '512x512', type: 'image/png' },
-      { src: '/apple-icon.png', sizes: '180x180', type: 'image/png' },
+      { src: numblopIcon.src, sizes: '512x512', type: 'image/png' },
     ],
   }
 }

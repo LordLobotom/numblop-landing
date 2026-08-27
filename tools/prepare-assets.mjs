@@ -11,6 +11,7 @@ const branding = (f) => path.join(numblopRepo, 'ui/branding', f)
 const shot = (f) => path.join(numblopRepo, 'store/screenshots', f)
 const post = (f) => path.join(numblopRepo, 'store/posts', f)
 const pub = (f) => path.join(root, 'public', f)
+const siteIcon = path.join(root, 'app/numblop_icon.png')
 
 await mkdir(pub('screenshots'), { recursive: true })
 await mkdir(pub('posts'), { recursive: true })
@@ -46,23 +47,11 @@ await wordmark
   .png({ compressionLevel: 9, palette: true })
   .toFile(pub('numblop-wordmark.png'))
 
-await sharp(branding('numblop_ico.png'))
+await sharp(siteIcon)
   .trim()
   .resize({ width: 72, height: 72, fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } })
   .png({ compressionLevel: 9 })
   .toFile(pub('numblop-logo.png'))
-
-await sharp(branding('numblop_ico.png'))
-  .resize({ width: 512, height: 512 })
-  .png({ compressionLevel: 9 })
-  .toFile(path.join(root, 'app/icon.png'))
-
-// Apple touch icons are shown on an opaque tile; flatten onto the brand lime.
-await sharp(branding('numblop_ico.png'))
-  .flatten({ background: '#b9ef45' })
-  .resize({ width: 180, height: 180 })
-  .png({ compressionLevel: 9 })
-  .toFile(path.join(root, 'app/apple-icon.png'))
 
 // 1200x630 OpenGraph banner: wordmark centered on the dark brand background.
 const ogWordmark = await wordmark

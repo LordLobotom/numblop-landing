@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from 'next'
 import { Baloo_2 } from 'next/font/google'
+import numblopIcon from '@/app/numblop_icon.png'
 import { SITE_URL } from './seo'
 
 export const baloo = Baloo_2({
@@ -13,6 +14,10 @@ export const siteMetadata: Metadata = {
   title: 'Numblop – Multiplication through play',
   description: 'An adaptive game for practising and mastering multiplication tables.',
   manifest: '/manifest.webmanifest',
+  icons: {
+    icon: [{ url: numblopIcon.src, sizes: '512x512', type: 'image/png' }],
+    apple: [{ url: numblopIcon.src, sizes: '512x512', type: 'image/png' }],
+  },
   authors: [{ name: 'Michal Gut (LordLobotom)' }],
   creator: 'Michal Gut (LordLobotom)',
   publisher: 'Michal Gut (LordLobotom)',

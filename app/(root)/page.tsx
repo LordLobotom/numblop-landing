@@ -7,7 +7,6 @@ export const metadata: Metadata = {
     canonical: '/en/',
     languages: localeAlternates(),
   },
-  robots: { index: false, follow: true },
 }
 
 export default function RootPage() {

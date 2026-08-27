@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import { Download } from 'lucide-react'
+import numblopIcon from '@/app/numblop_icon.png'
 import { Button } from '@/components/ui/button'
 import { ThemeToggle } from '@/components/theme-toggle'
 import { LanguageToggle } from '@/components/language-toggle'
@@ -17,7 +18,7 @@ export function SiteHeader({
       <div className="mx-auto flex h-16 max-w-5xl items-center justify-between gap-4 px-4">
         <a href={`/${locale}/`} className="flex items-center gap-2">
           <Image
-            src="/icon.png"
+            src={numblopIcon}
             alt="Numblop"
             width={36}
             height={36}

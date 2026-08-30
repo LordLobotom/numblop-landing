@@ -99,11 +99,21 @@ unit `numblop-nginx.service`) serves this repo's `out/` directory at
 `numblop.gutcloud.cz/` and the Godot web export at `numblop.gutcloud.cz/play/`.
 A system-wide Cloudflare Tunnel forwards the public hostname to that nginx.
 
-`deploy/nginx-locale-redirect.conf` adds the 302 on `/`. It is a **one-time
-manual install** into that nginx config (the `map` goes in `http { }`, the
-`location = /` in the `server { }`) and is not touched by
-`deploy/update-landing.sh`. Without it the site still works; `/` just falls back
-to the static language picker.
+`deploy/nginx-locale-redirect.conf` adds the 302 on `/`. **It is already
+installed** in `../Numblop/deploy/nginx.conf` (the `map` in `http { }`, the
+`location = /` in the `server { }`) — the file here is the source of truth to
+copy from if that config is ever rebuilt. It is *not* touched by
+`deploy/update-landing.sh`, so a redeploy never reapplies it; changing the
+locale list means editing the live nginx config by hand and reloading:
+
+```bash
+~/.local/opt/nginx-1.24.0/usr/sbin/nginx -p ~/src/Numblop/ -c deploy/nginx.conf -t
+systemctl --user reload numblop-nginx
+```
+
+Note that `../Numblop/deploy/` is untracked, so that config is not in version
+control — take a copy before editing it. Without the block the site still
+works; `/` just falls back to the static language picker.
 
 ## Commands
 

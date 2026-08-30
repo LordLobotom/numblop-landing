@@ -47,13 +47,34 @@ await wordmark
   .png({ compressionLevel: 9, palette: true })
   .toFile(pub('numblop-wordmark.png'))
 
+// The hero renders the WebP copies (components/landing/hero.tsx). They are the
+// largest above-the-fold images and `images.unoptimized` is on for the static
+// export, so whatever ships here is exactly what the browser downloads.
+await wordmark
+  .clone()
+  .resize({ width: 640 })
+  .webp({ quality: 85, effort: 6 })
+  .toFile(pub('numblop-wordmark.webp'))
+
 await sharp(siteIcon)
   .trim()
   .resize({ width: 72, height: 72, fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } })
   .png({ compressionLevel: 9 })
   .toFile(pub('numblop-logo.png'))
 
+// Favicon, apple-touch icon, manifest icons and the header mark. The 512px
+// source is a full-colour PNG; quantising it costs nothing visible and takes it
+// from ~117 kB to ~25 kB on a file every page requests.
+for (const size of [512, 192, 72]) {
+  await sharp(siteIcon)
+    .resize({ width: size, height: size })
+    .png({ compressionLevel: 9, palette: true })
+    .toFile(pub(`numblop-icon-${size}.png`))
+}
+
 // 1200x630 OpenGraph banner: wordmark centered on the dark brand background.
+// Two flat colours and a gradient, so a palette encode is ~10x smaller with no
+// visible difference.
 const ogWordmark = await wordmark
   .clone()
   .resize({ width: 900 })
@@ -63,7 +84,7 @@ await sharp({
   create: { width: 1200, height: 630, channels: 4, background: '#12160a' },
 })
   .composite([{ input: ogWordmark, gravity: 'center' }])
-  .png({ compressionLevel: 9 })
+  .png({ compressionLevel: 9, palette: true, colours: 128 })
   .toFile(pub('og-image.png'))
 
 // Real in-game captures (store/screenshots), one set per language. The order
@@ -106,10 +127,12 @@ for (const [src, dest] of posters) {
 }
 
 // Transparent mascot cutout used as the hero companion.
-await sharp(post('numblop.png'))
-  .trim()
-  .resize({ width: 440, fit: 'inside' })
-  .png({ compressionLevel: 9 })
-  .toFile(pub('numblop-mascot.png'))
+const mascot = sharp(post('numblop.png')).trim().resize({ width: 440, fit: 'inside' })
+
+await mascot.clone().png({ compressionLevel: 9 }).toFile(pub('numblop-mascot.png'))
+await mascot
+  .clone()
+  .webp({ quality: 85, effort: 6 })
+  .toFile(pub('numblop-mascot.webp'))
 
 console.log('Assets regenerated.')

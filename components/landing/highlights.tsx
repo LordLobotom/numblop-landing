@@ -38,7 +38,7 @@ export function Highlights({
                 src={`/posts/${slug}-${assetLocale}.webp`}
                 alt={dict.highlights.posters[index]}
                 width={720}
-                height={899}
+                height={900}
                 loading="lazy"
                 className="w-full rounded-2xl border border-border shadow-md transition-transform duration-300 hover:-translate-y-1"
               />

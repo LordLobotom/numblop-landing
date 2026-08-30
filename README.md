@@ -8,10 +8,14 @@ an adaptive multiplication-practice game for children built in Godot
 
 - Next.js App Router, **static export** (`output: 'export'`) — no server runtime.
 - English, Czech, Slovak, German, Spanish, Finnish, French, Norwegian Bokmål,
-  Polish, and Swedish are prebuilt locale routes (`app/[locale]/`). The root
-  `/` is a client-side redirector that honours a stored language choice
-  (`localStorage['numblop-locale']`), then the browser language, falling back
-  to English. `lib/i18n/locales.ts` is the shared locale/SEO catalog.
+  Polish, and Swedish are prebuilt locale routes (`app/[locale]/`).
+  `lib/i18n/locales.ts` is the shared locale/SEO catalog.
+- The root `/` is redirected **server-side**: nginx answers it with a 302 to the
+  Accept-Language match (`deploy/nginx-locale-redirect.conf` — install it once,
+  it is not part of the build). The static `/index.html` remains the fallback
+  for no-JS clients and for hosts without the snippet: a crawlable language
+  picker that honours a stored choice (`localStorage['numblop-locale']`), then
+  the browser language, falling back to English, with `rel=canonical` to `/en/`.
 - Dark/light mode via `next-themes` (class strategy, system default).
 - Czech and English source copy lives in `lib/i18n/dictionary.ts`; the other
   complete dictionaries live in `lib/i18n/generated/dictionaries.json`. The
@@ -49,12 +53,57 @@ an adaptive multiplication-practice game for children built in Godot
   what this form collects — any change to the form's fields has to be reflected
   there first.**
 
+## Editorial content and SEO
+
+Everything beyond the landing page lives in `lib/content/`, deliberately apart
+from `lib/i18n/` — `Dictionary` is mirrored by the generated
+`dictionaries.json`, and prose-sized fields would fight the generator on every
+regeneration.
+
+- `lib/content/locales/<locale>.ts` — per locale: the landing FAQ, three
+  evergreen guides, and the blog articles. `lib/content/types.ts` defines the
+  block idiom (`{p} | {list} | {h3}`), the same one the privacy policy uses, and
+  one renderer (`components/content/prose.tsx`) covers every long-form page.
+- `lib/content/index.ts` is the registry and the single source of URLs.
+  **Slugs are localized** (`/cs/procvicovani-nasobilky/` vs
+  `/en/times-tables-practice/`), so pages are paired across languages by a
+  stable `id`, never by path. `seoPagePaths(id)` / `articlePaths(id)` build the
+  hreflang map; `localeAlternatesFromPaths` in `lib/seo.ts` turns it into
+  metadata. `localeAlternates` in `lib/i18n/locales.ts` still covers the routes
+  that do share one path across locales (home, contact, privacy, blog index).
+- Three guides per locale, each targeting one search intent, framed for the
+  local market rather than translated: practice, learning through play, and a
+  third that is homeschooling where that is a real intent (cs, sk, en, pl) and
+  formative assessment / progress tracking where it is not (de, es, fi, fr, nb,
+  sv). Adding a fourth means adding an id to `seoPageIds` and an entry to all
+  ten locale files — the type will tell you which are missing.
+- Blog at `/<locale>/blog/`, articles at `/<locale>/blog/<localized-slug>/`,
+  with `BlogPosting` markup, breadcrumbs and publication dates. Add a post by
+  extending `articleIds` and every locale file; routes, sitemap, hreflang and
+  related-links all follow automatically.
+- Cross-links are generated (`relatedLinks`, `guideLinks`), never authored, so a
+  new page is linked from its siblings the moment it exists.
+- Structured data is centralised in `components/structured-data.tsx` and shares
+  one `@id` graph (`#organization`, `#website`, `#app`). **It must never carry
+  ratings or review counts** — there is no verifiable source for them and
+  fabricated review markup is a manual-action offence.
+- `lastModified` in `app/sitemap.ts` comes from `updated` fields in the content
+  and from `lib/content/revisions.ts`. Do **not** reintroduce `new Date()`:
+  stamping every URL with the build time claims the whole site changed on every
+  deploy, which crawlers learn to ignore. Bump the date when the copy changes.
+
 ## Serving
 
 The shared user-level nginx (config in `../Numblop/deploy/nginx.conf`, systemd
 unit `numblop-nginx.service`) serves this repo's `out/` directory at
 `numblop.gutcloud.cz/` and the Godot web export at `numblop.gutcloud.cz/play/`.
 A system-wide Cloudflare Tunnel forwards the public hostname to that nginx.
+
+`deploy/nginx-locale-redirect.conf` adds the 302 on `/`. It is a **one-time
+manual install** into that nginx config (the `map` goes in `http { }`, the
+`location = /` in the `server { }`) and is not touched by
+`deploy/update-landing.sh`. Without it the site still works; `/` just falls back
+to the static language picker.
 
 ## Commands
 

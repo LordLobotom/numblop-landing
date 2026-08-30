@@ -1,9 +1,9 @@
 import Image from 'next/image'
 import { Download } from 'lucide-react'
-import numblopIcon from '@/app/numblop_icon.png'
 import { Button } from '@/components/ui/button'
 import { ThemeToggle } from '@/components/theme-toggle'
 import { LanguageToggle } from '@/components/language-toggle'
+import { blogPath, getLocaleContent } from '@/lib/content'
 import type { Dictionary, Locale } from '@/lib/i18n/dictionary'
 
 export function SiteHeader({
@@ -13,20 +13,34 @@ export function SiteHeader({
   locale: Locale
   dict: Dictionary
 }) {
+  const { ui } = getLocaleContent(locale)
+
   return (
     <header className="sticky top-0 z-40 border-b border-border/60 bg-background/80 backdrop-blur">
       <div className="mx-auto flex h-16 max-w-5xl items-center justify-between gap-4 px-4">
         <a href={`/${locale}/`} className="flex items-center gap-2">
+          {/* 72px source for a 36px mark. The 512px original was ~117 kB on
+              every page for a thumbnail. */}
           <Image
-            src={numblopIcon}
+            src="/numblop-icon-72.png"
             alt="Numblop"
-            width={36}
-            height={36}
-            className="rounded-lg"
+            width={72}
+            height={72}
+            priority
+            className="size-9 rounded-lg"
           />
           <span className="hidden text-lg font-semibold sm:inline">Numblop</span>
         </a>
         <div className="flex items-center gap-2 sm:gap-3">
+          {/* One persistent link into the editorial content, so the blog and
+              the guides are reachable from every page rather than only from
+              the home page. */}
+          <a
+            href={blogPath(locale)}
+            className="hidden text-sm font-medium text-muted-foreground hover:text-accent hover:underline sm:inline"
+          >
+            {ui.blog}
+          </a>
           <LanguageToggle current={locale} />
           <ThemeToggle />
           <Button asChild size="lg" className="rounded-full font-semibold">

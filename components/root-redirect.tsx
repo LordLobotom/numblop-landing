@@ -6,6 +6,13 @@ import { useRouter } from 'next/navigation'
 import { detectLocale, LOCALE_STORAGE_KEY } from '@/lib/i18n/detect-locale'
 import { localeCatalog } from '@/lib/i18n/locales'
 
+/**
+ * Fallback for `/`. In production nginx answers `/` with a 302 straight to the
+ * detected locale (deploy/nginx-locale-redirect.conf), so this rarely renders.
+ * When it does — no JS, snippet not installed, `next dev` — it is still a real
+ * server-rendered page: every locale is a plain <a> a crawler can follow, and
+ * the route's metadata canonicalises to /en/.
+ */
 export function RootRedirect() {
   const router = useRouter()
 

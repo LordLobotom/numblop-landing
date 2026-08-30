@@ -12,20 +12,25 @@ export function Hero({ dict }: { dict: Dictionary }) {
         className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_top,_color-mix(in_srgb,var(--primary)_18%,transparent),transparent_60%)]"
       />
       <div className="relative mx-auto flex max-w-5xl flex-col items-center gap-6 px-4 py-20 text-center sm:py-28">
+        {/* WebP, and the width/height are the real intrinsic sizes: the
+            wordmark used to declare 320x213 against a 640x158 file, so the
+            browser reserved the wrong box and the hero shifted on load. */}
         <Image
-          src="/numblop-mascot.png"
+          src="/numblop-mascot.webp"
           alt=""
           width={440}
           height={463}
           priority
+          sizes="(min-width: 640px) 10rem, 8rem"
           className="-mb-2 h-auto w-32 drop-shadow-xl sm:w-40"
         />
         <Image
-          src="/numblop-wordmark.png"
+          src="/numblop-wordmark.webp"
           alt="Numblop"
-          width={320}
-          height={213}
+          width={640}
+          height={158}
           priority
+          sizes="(min-width: 640px) 18rem, 14rem"
           className="h-auto w-56 sm:w-72"
         />
         <p className="text-sm font-medium uppercase tracking-widest text-accent">

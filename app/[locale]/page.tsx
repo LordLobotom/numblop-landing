@@ -8,7 +8,10 @@ import { Screenshots } from '@/components/landing/screenshots'
 import { Download } from '@/components/landing/download'
 import { Trailer } from '@/components/landing/trailer'
 import { ClosingCta } from '@/components/landing/closing-cta'
-import { SoftwareApplicationJsonLd } from '@/components/software-application-json-ld'
+import { Faq } from '@/components/landing/faq'
+import { Explore } from '@/components/landing/explore'
+import { FaqJsonLd, GameApplicationJsonLd } from '@/components/structured-data'
+import { getLocaleContent } from '@/lib/content'
 import { getDictionary, isLocale } from '@/lib/i18n/dictionary'
 import { localeAlternates } from '@/lib/i18n/locales'
 import { alternateOpenGraphLocales, openGraphLocale } from '@/lib/seo'
@@ -60,10 +63,12 @@ export default async function LocalePage({
     notFound()
   }
   const dict = getDictionary(locale)
+  const content = getLocaleContent(locale)
 
   return (
     <>
-      <SoftwareApplicationJsonLd locale={locale} dict={dict} />
+      <GameApplicationJsonLd locale={locale} dict={dict} />
+      <FaqJsonLd items={content.faq.items} />
       <main>
         <Hero dict={dict} />
         {/* Getting people into the game is the point of the page, so the store
@@ -74,6 +79,10 @@ export default async function LocalePage({
         <HowItWorks dict={dict} />
         <WhyAdaptive dict={dict} />
         <Screenshots dict={dict} locale={locale} />
+        {/* FAQ before the closing CTA: it answers the last objections (iOS,
+            price, "is this just a quiz") right where people decide. */}
+        <Faq content={content} />
+        <Explore locale={locale} />
         <ClosingCta dict={dict} />
       </main>
     </>

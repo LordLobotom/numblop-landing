@@ -1,6 +1,5 @@
 import type { Metadata, Viewport } from 'next'
 import { Baloo_2 } from 'next/font/google'
-import numblopIcon from '@/app/numblop_icon.png'
 import { SITE_URL } from './seo'
 
 export const baloo = Baloo_2({
@@ -14,9 +13,14 @@ export const siteMetadata: Metadata = {
   title: 'Numblop – Multiplication through play',
   description: 'An adaptive game for practising and mastering multiplication tables.',
   manifest: '/manifest.webmanifest',
+  // The quantised copies from tools/prepare-assets.mjs, not the 512px source in
+  // app/: the favicon is requested by every page and the source is ~117 kB.
   icons: {
-    icon: [{ url: numblopIcon.src, sizes: '512x512', type: 'image/png' }],
-    apple: [{ url: numblopIcon.src, sizes: '512x512', type: 'image/png' }],
+    icon: [
+      { url: '/numblop-icon-192.png', sizes: '192x192', type: 'image/png' },
+      { url: '/numblop-icon-512.png', sizes: '512x512', type: 'image/png' },
+    ],
+    apple: [{ url: '/numblop-icon-192.png', sizes: '192x192', type: 'image/png' }],
   },
   authors: [{ name: 'Michal Gut (LordLobotom)' }],
   creator: 'Michal Gut (LordLobotom)',

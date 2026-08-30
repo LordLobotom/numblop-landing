@@ -1,5 +1,6 @@
 import { Instagram, ShieldCheck, Youtube } from 'lucide-react'
 import { INSTAGRAM_URL, YOUTUBE_CHANNEL_URL } from '@/lib/links'
+import { blogPath, getLocaleContent, guideLinks } from '@/lib/content'
 import type { Dictionary, Locale } from '@/lib/i18n/dictionary'
 
 export function SiteFooter({
@@ -9,6 +10,8 @@ export function SiteFooter({
   dict: Dictionary
   locale: Locale
 }) {
+  const { ui } = getLocaleContent(locale)
+
   return (
     <footer className="border-t border-border/60 bg-muted/40">
       <div className="mx-auto flex max-w-5xl flex-col items-center gap-4 px-4 py-10 text-center">
@@ -36,6 +39,29 @@ export function SiteFooter({
             {dict.footer.youtube}
           </a>
         </div>
+        {/* Kept to the three guides plus the blog. Enough for a crawler to
+            reach every content page from anywhere on the site, short enough
+            not to become a keyword dump. */}
+        <nav
+          aria-label={ui.guides}
+          className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2"
+        >
+          {guideLinks(locale).map((link) => (
+            <a
+              key={link.href}
+              href={link.href}
+              className="text-sm font-medium text-muted-foreground hover:text-accent hover:underline"
+            >
+              {link.label}
+            </a>
+          ))}
+          <a
+            href={blogPath(locale)}
+            className="text-sm font-medium text-muted-foreground hover:text-accent hover:underline"
+          >
+            {ui.blog}
+          </a>
+        </nav>
         <div className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2">
           <a
             href={`/${locale}/privacy/`}

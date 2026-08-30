@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation'
 import { SiteHeader } from '@/components/site-header'
 import { SiteFooter } from '@/components/site-footer'
 import { ThemeProvider } from '@/components/theme-provider'
+import { SiteJsonLd } from '@/components/structured-data'
 import { getDictionary, isLocale, locales } from '@/lib/i18n/dictionary'
 import { baloo, siteMetadata, siteViewport } from '@/lib/site-shell'
 import '../globals.css'
@@ -31,6 +32,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} suppressHydrationWarning>
       <body className={`${baloo.variable} font-sans antialiased`}>
+        <SiteJsonLd locale={locale} />
         <ThemeProvider
           attribute="class"
           defaultTheme="system"

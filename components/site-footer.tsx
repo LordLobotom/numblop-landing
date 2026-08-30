@@ -1,5 +1,9 @@
-import { Instagram, ShieldCheck, Youtube } from 'lucide-react'
-import { INSTAGRAM_URL, YOUTUBE_CHANNEL_URL } from '@/lib/links'
+import { Facebook, Instagram, ShieldCheck, Youtube } from 'lucide-react'
+import {
+  FACEBOOK_URL,
+  INSTAGRAM_URL,
+  YOUTUBE_CHANNEL_URL,
+} from '@/lib/links'
 import { blogPath, getLocaleContent, guideLinks } from '@/lib/content'
 import type { Dictionary, Locale } from '@/lib/i18n/dictionary'
 
@@ -28,6 +32,15 @@ export function SiteFooter({
           >
             <Instagram className="h-5 w-5" aria-hidden="true" />
             {dict.footer.instagram}
+          </a>
+          <a
+            href={FACEBOOK_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 font-medium text-accent hover:underline"
+          >
+            <Facebook className="h-5 w-5" aria-hidden="true" />
+            Facebook
           </a>
           <a
             href={YOUTUBE_CHANNEL_URL}

@@ -13,6 +13,9 @@ export const WEB_BUILD_URL = '/play/'
 
 export const INSTAGRAM_URL = 'https://www.instagram.com/numblopgame'
 
+export const FACEBOOK_URL =
+  'https://www.facebook.com/profile.php?id=61594047597289'
+
 export const YOUTUBE_CHANNEL_URL = 'https://www.youtube.com/@Numblop'
 
 // Trailer. The page never contacts YouTube on load: the poster is a local copy

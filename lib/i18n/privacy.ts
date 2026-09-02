@@ -2,7 +2,7 @@ import generatedPrivacy from './generated/privacy.json'
 import type { Locale } from './locales'
 
 // The privacy policy is kept apart from the main dictionary because it is long
-// and rarely touched. Czech and English are maintained below; the other eight
+// and rarely touched. Czech and English are maintained below; the other eighteen
 // complete locale versions live in generated/privacy.json.
 //
 // Scope note: the whole game is playable offline, signed out, with no Numblop
@@ -24,7 +24,7 @@ import type { Locale } from './locales'
 
 export const privacyContact = {
   name: 'Michal Gut (LordLobotom)',
-  email: 'lordlobotom@gmail.com',
+  email: 'numblop@gutcloud.cz',
   effectiveDate: '2026-08-13',
 } as const
 
@@ -70,7 +70,7 @@ const cs: PrivacyContent = {
           fields: [
             { label: 'Vývojář', value: 'Michal Gut (LordLobotom)' },
             { label: 'Země', value: 'Česká republika' },
-            { label: 'Kontaktní e-mail', value: 'lordlobotom@gmail.com' },
+            { label: 'Kontaktní e-mail', value: 'numblop@gutcloud.cz' },
           ],
         },
         {
@@ -147,7 +147,7 @@ const cs: PrivacyContent = {
         },
         { h: 'Právní základ' },
         {
-          p: 'Souhlas podle čl. 6 odst. 1 písm. a) GDPR, který udělujete zaškrtnutím políčka ve formuláři. Souhlas můžete kdykoli odvolat e-mailem na adresu lordlobotom@gmail.com; korespondenci poté smažeme.',
+          p: 'Souhlas podle čl. 6 odst. 1 písm. a) GDPR, který udělujete zaškrtnutím políčka ve formuláři. Souhlas můžete kdykoli odvolat e-mailem na adresu numblop@gutcloud.cz; korespondenci poté smažeme.',
         },
         { h: 'Komu se údaje dostanou' },
         {
@@ -163,7 +163,7 @@ const cs: PrivacyContent = {
         },
         { h: 'Video z YouTube' },
         {
-          p: 'Na úvodní stránce je trailer ke hře. Náhledový obrázek je uložený na našem serveru, takže se stránka na YouTube nepřipojí, dokud video sami nespustíte. Teprve po kliknutí se načte přehrávač z domény youtube-nocookie.com; od té chvíle může Google zpracovávat vaši IP adresu a údaje o přehrávání podle vlastních zásad ochrany soukromí. Odkazy na náš profil na Instagramu a kanál na YouTube v patičce jsou obyčejné odkazy – nic se z nich nenačítá, dokud na ně nekliknete.',
+          p: 'Na úvodní stránce je trailer ke hře. Náhledový obrázek je uložený na našem serveru, takže se stránka na YouTube nepřipojí, dokud video sami nespustíte. Teprve po kliknutí se načte přehrávač z domény youtube-nocookie.com; od té chvíle může Google zpracovávat vaši IP adresu a údaje o přehrávání podle vlastních zásad ochrany soukromí. Odkazy na Instagram, Facebook, TikTok a YouTube v patičce jsou obyčejné odkazy – nic se z nich nenačítá, dokud na ně nekliknete.',
         },
         {
           p: 'Napsat nám i spustit video je zcela dobrovolné. Hru si můžete stáhnout z Google Play nebo zahrát v prohlížeči bez zadání jakýchkoli údajů.',
@@ -319,7 +319,7 @@ const cs: PrivacyContent = {
           p: 'O hráčích nevedeme žádné záznamy, a nemáme tedy na své straně co zpřístupnit, opravit ani vymazat. Data hry v zařízení jsou pod vaší kontrolou v nastavení systému Android a cloudová záloha je pod kontrolou hráče v ovládacích prvcích dat Her Google Play (viz části 2 a 9). Jediné, co držíme sami, jsou zprávy odeslané kontaktním formulářem; u nich svá práva uplatníte e-mailem na uvedené adrese a my korespondenci smažeme.',
         },
         {
-          p: 'S dotazy se můžete kdykoli obrátit na lordlobotom@gmail.com.',
+          p: 'S dotazy se můžete kdykoli obrátit na numblop@gutcloud.cz.',
         },
       ],
     },
@@ -360,7 +360,7 @@ const cs: PrivacyContent = {
         {
           fields: [
             { label: 'Vývojář', value: 'Michal Gut (LordLobotom)' },
-            { label: 'E-mail', value: 'lordlobotom@gmail.com' },
+            { label: 'E-mail', value: 'numblop@gutcloud.cz' },
             { label: 'Země', value: 'Česká republika' },
           ],
         },
@@ -395,7 +395,7 @@ const en: PrivacyContent = {
           fields: [
             { label: 'Developer', value: 'Michal Gut (LordLobotom)' },
             { label: 'Country', value: 'Czech Republic' },
-            { label: 'Contact email', value: 'lordlobotom@gmail.com' },
+            { label: 'Contact email', value: 'numblop@gutcloud.cz' },
           ],
         },
         {
@@ -472,7 +472,7 @@ const en: PrivacyContent = {
         },
         { h: 'Legal basis' },
         {
-          p: 'Consent under Article 6(1)(a) GDPR, given by ticking the checkbox in the form. You may withdraw it at any time by writing to lordlobotom@gmail.com, and we will delete the correspondence.',
+          p: 'Consent under Article 6(1)(a) GDPR, given by ticking the checkbox in the form. You may withdraw it at any time by writing to numblop@gutcloud.cz, and we will delete the correspondence.',
         },
         { h: 'Who receives the information' },
         {
@@ -488,7 +488,7 @@ const en: PrivacyContent = {
         },
         { h: 'YouTube video' },
         {
-          p: 'The home page carries a trailer for the game. The preview image is stored on our own server, so the page makes no connection to YouTube until you start the video yourself. Only after a click is the player loaded from youtube-nocookie.com; from that point Google may process your IP address and playback information under its own privacy policy. The Instagram and YouTube links in the footer are ordinary links — nothing is loaded from them unless you follow them.',
+          p: 'The home page carries a trailer for the game. The preview image is stored on our own server, so the page makes no connection to YouTube until you start the video yourself. Only after a click is the player loaded from youtube-nocookie.com; from that point Google may process your IP address and playback information under its own privacy policy. The Instagram, Facebook, TikTok and YouTube links in the footer are ordinary links — nothing is loaded from them unless you follow them.',
         },
         {
           p: 'Both writing to us and playing the video are entirely optional. You can download the game from Google Play or play it in your browser without submitting anything.',
@@ -644,7 +644,7 @@ const en: PrivacyContent = {
           p: 'We keep no records about players, so there is nothing on our side to disclose, correct, or delete. Game data on the device is under your control through the Android settings, and a cloud snapshot is under the player’s control through Google’s Play Games data controls (see sections 2 and 9). Messages sent through the contact form are the one thing we hold ourselves; to exercise your rights over those, write to the contact address and we will delete the correspondence.',
         },
         {
-          p: 'You are welcome to contact us at lordlobotom@gmail.com with any question.',
+          p: 'You are welcome to contact us at numblop@gutcloud.cz with any question.',
         },
       ],
     },
@@ -685,7 +685,7 @@ const en: PrivacyContent = {
         {
           fields: [
             { label: 'Developer', value: 'Michal Gut (LordLobotom)' },
-            { label: 'Email', value: 'lordlobotom@gmail.com' },
+            { label: 'Email', value: 'numblop@gutcloud.cz' },
             { label: 'Country', value: 'Czech Republic' },
           ],
         },

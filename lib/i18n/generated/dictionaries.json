@@ -1126,5 +1126,1415 @@
       "youtube": "YouTube",
       "madeIn": "Numblop – multiplikationstabeller genom spel"
     }
+  },
+  "pt-BR": {
+    "meta": {
+      "title": "Numblop – tabuada através do jogo",
+      "description": "Um jogo adaptativo para praticar e dominar a tabuada."
+    },
+    "header": {
+      "getIt": "Obter Numblop"
+    },
+    "hero": {
+      "name": "Numblop",
+      "tagline": "Aprenda multiplicação brincando",
+      "slogan": "Aprender é uma jornada – observe seu progresso",
+      "shortDescription": "Um jogo adaptativo para praticar e automatizar a tabuada. Ele se adapta ao progresso de cada criança e leva a uma recordação instantânea e confiante.",
+      "badge": "Agora no Google Play",
+      "googlePlay": "Obtenha no Google Play",
+      "playWeb": "Jogue no seu navegador",
+      "privacy": "O progresso permanece neste dispositivo."
+    },
+    "download": {
+      "heading": "Onde jogar Numblop",
+      "subheading": "No Android, baixe-o no Google Play. No iPhone, iPad e desktop, inicie-o diretamente no navegador – grátis, sem instalação, sem inscrição.",
+      "androidTitle": "Android",
+      "androidBody": "A versão completa da loja Google Play. Gratuito, sem anúncios e sem compras no aplicativo.",
+      "androidCta": "Obtenha no Google Play",
+      "webTitle": "iPhone, iPad e desktop",
+      "webBody": "Numblop é executado diretamente no navegador. Clique e jogue – nada para baixar, nada para se inscrever.",
+      "webCta": "Jogue no seu navegador",
+      "iosNote": "Ainda não existe um aplicativo iOS separado. A versão do navegador é o jogo completo.",
+      "bottomHeading": "Comece a praticar hoje",
+      "bottomSubheading": "Baixe o Numblop do Google Play ou experimente agora mesmo em seu navegador."
+    },
+    "trailer": {
+      "heading": "Assista ao trailer",
+      "subheading": "Uma breve olhada no que espera pelas crianças em Numblop – um amigo amigável, um mapa de ilhas e uma recompensa por cada passo.",
+      "play": "Reproduza o trailer",
+      "posterAlt": "Numblop ao lado de um baú de tesouro – foto do trailer",
+      "privacyNote": "O vídeo carrega do YouTube somente depois que você clica. Até então, esta página não envia nada para o YouTube.",
+      "watchOnYoutube": "Assista no YouTube"
+    },
+    "contact": {
+      "heading": "Entre em contato",
+      "subheading": "Uma pergunta, uma ideia para o jogo ou um bug que você encontrou? Escreva para nós – todas as mensagens são lidas.",
+      "nameLabel": "Nome (opcional)",
+      "namePlaceholder": "Como devemos chamá-lo?",
+      "emailLabel": "Seu e-mail",
+      "emailPlaceholder": "your.email@example.com",
+      "messageLabel": "Mensagem",
+      "messagePlaceholder": "Como podemos ajudar?",
+      "consent": "Concordo que meu endereço e mensagem possam ser usados ​​para responder a esta pergunta. Mais no",
+      "consentLink": "política de Privacidade",
+      "submit": "Enviar mensagem",
+      "sending": "Enviando…",
+      "successTitle": "Mensagem enviada!",
+      "successBody": "Obrigado por entrar em contato. Responderemos para o endereço que você nos forneceu assim que possível.",
+      "error": "Não foi possível enviar sua mensagem. Por favor, tente novamente ou envie-nos um e-mail diretamente:",
+      "errorMailto": "Envie um e-mail",
+      "directEmail": "Prefere escrever em seu próprio aplicativo de e-mail?",
+      "backToHome": "Voltar para a página inicial",
+      "meta": {
+        "title": "Contato – Numblop",
+        "description": "Envie-nos uma pergunta, uma ideia ou um relatório de bug sobre Numblop – tabuada através do jogo."
+      }
+    },
+    "highlights": {
+      "heading": "tabuada divertida",
+      "subheading": "Um amigo amigável, um mapa cheio de ilhas e rodadas curtas onde cada passo conta.",
+      "posters": [
+        "Numblop – Multiplicação divertida: um amigo fofo, cosméticos legais e um ambiente lúdico mantêm as crianças envolvidas no aprendizado. Jogue e aprenda no seu próprio ritmo.",
+        "Aprenda passo a passo: Numblop repete fatos mais difíceis com mais frequência e orienta você ao domínio. O mapa acompanha o progresso em cada tabuada.",
+        "Cada erro ajuda você a aprender: depois de um erro você obtém a resposta, não apenas a solução. Numblop mostra 3 × 5 = 15 como pontos que você mesmo pode contar.",
+        "Motivação que emociona: a cada passo você ganha recompensas, moedas e novas partes do mapa. As rodadas concluídas abrem um baú do tesouro e desbloqueiam novas ilhas."
+      ]
+    },
+    "steps": {
+      "heading": "Descobrir → Praticar → Reforçar → Já entendi",
+      "subheading": "Quatro etapas Numblop analisa todos os fatos de multiplicação.",
+      "items": [
+        {
+          "title": "Descobrir",
+          "description": "Conheça novos fatos passo a passo e dentro do contexto – sem pular para o desconhecido."
+        },
+        {
+          "title": "Prática",
+          "description": "Rodadas curtas e divertidas prendem a atenção e criam confiança inicial."
+        },
+        {
+          "title": "Reforçar",
+          "description": "Fatos mais complicados voltam exatamente na hora de revisá-los."
+        },
+        {
+          "title": "eu entendi",
+          "description": "A recuperação torna-se instantânea e sem esforço – a multiplicação torna-se automática."
+        }
+      ]
+    },
+    "why": {
+      "heading": "Prática mais inteligente focada no progresso",
+      "paragraphs": [
+        "Numblop é um jogo de aprendizagem adaptativo que ajuda as crianças a praticar, reforçar e automatizar a tabuada. O jogo adapta-se ao progresso de cada criança, revisita regularmente os factos mais difíceis e leva gradualmente à recordação confiante de cada facto de multiplicação.",
+        "As crianças permanecem motivadas através da brincadeira – coletando recompensas, descobrindo novas partes do mapa e aprendendo em seu próprio ritmo. Sessões curtas e amigáveis ​​respondem aos erros sem punição: cada erro é apenas mais uma chance de praticar."
+      ],
+      "quotes": [
+        "Cada erro ajuda você a aprender.",
+        "Aprender é uma jornada – observe seu progresso."
+      ],
+      "features": [
+        {
+          "title": "Adapta-se à criança",
+          "description": "O jogo rastreia quais fatos a criança já conhece e foca naqueles que precisam de prática."
+        },
+        {
+          "title": "Recompensas e descoberta",
+          "description": "Cada sessão finalizada ganha uma recompensa e revela novas partes do mapa para explorar."
+        },
+        {
+          "title": "Ritmo próprio, sem estresse",
+          "description": "Sem contagens regressivas, sem punição por erros – apenas uma construção de confiança calma e constante."
+        }
+      ]
+    },
+    "screenshots": {
+      "heading": "Uma olhada por dentro do jogo",
+      "subheading": "Um companheiro amigável, um mapa de progresso e rodadas curtas de prática.",
+      "captions": [
+        "Tela inicial",
+        "Mapa de progresso",
+        "Escolha a resposta",
+        "Digite a resposta",
+        "Baú de recompensa",
+        "Itens cosméticos"
+      ]
+    },
+    "footer": {
+      "privacy": "O progresso permanece neste dispositivo. Sem contas, sem anúncios, sem rastreamento.",
+      "privacyLink": "política de Privacidade",
+      "contactLink": "Contato",
+      "instagram": "Instagram",
+      "youtube": "YouTube",
+      "madeIn": "Numblop – tabuada através do jogo"
+    }
+  },
+  "pt-PT": {
+    "meta": {
+      "title": "Numblop – tabuada através do jogo",
+      "description": "Um jogo adaptativo para praticar e dominar a tabuada."
+    },
+    "header": {
+      "getIt": "Obter Numblop"
+    },
+    "hero": {
+      "name": "Numblop",
+      "tagline": "Aprenda a multiplicação brincando",
+      "slogan": "Aprender é uma viagem – observe o seu progresso",
+      "shortDescription": "Um jogo adaptativo para praticar e automatizar a tabuada. Adapta-se ao progresso de cada criança e leva a uma recordação instantânea e confiante.",
+      "badge": "Agora no Google Play",
+      "googlePlay": "Obter no Google Play",
+      "playWeb": "Jogue no seu browser",
+      "privacy": "O progresso permanece neste dispositivo."
+    },
+    "download": {
+      "heading": "Onde jogar Numblop",
+      "subheading": "No Android, descarregue-o no Google Play. No iPhone, iPad e desktop, inicie-o diretamente no browser – grátis, sem instalação, sem registo.",
+      "androidTitle": "Android",
+      "androidBody": "A versão completa da loja Google Play. Gratuito, sem anúncios e sem compras na aplicação.",
+      "androidCta": "Obter no Google Play",
+      "webTitle": "iPhone, iPad e desktop",
+      "webBody": "O Numblop é executado diretamente no browser. Clique e jogue – nada para descarregar, nada para se inscrever.",
+      "webCta": "Jogue no seu browser",
+      "iosNote": "Ainda não existe uma aplicação iOS separada. A versão para browser é o jogo completo.",
+      "bottomHeading": "Comece a praticar hoje",
+      "bottomSubheading": "Descarregue o Numblop do Google Play ou experimente-o agora mesmo no seu browser."
+    },
+    "trailer": {
+      "heading": "Assista ao trailer",
+      "subheading": "Um breve olhar sobre o que espera pelas crianças em Numblop – um amigo amigável, um mapa de ilhas e uma recompensa por cada passo.",
+      "play": "Reproduza o trailer",
+      "posterAlt": "Numblop ao lado de um baú de tesouro – foto do trailer",
+      "privacyNote": "O vídeo carrega do YouTube apenas depois de clicar. Até então, esta página não envia nada para o YouTube.",
+      "watchOnYoutube": "Assista no YouTube"
+    },
+    "contact": {
+      "heading": "Entre em contacto",
+      "subheading": "Uma pergunta, uma ideia para o jogo ou um bug que tenha encontrado? Escreva-nos – todas as mensagens são lidas.",
+      "nameLabel": "Nome (opcional)",
+      "namePlaceholder": "Como devemos chamá-lo?",
+      "emailLabel": "O seu e-mail",
+      "emailPlaceholder": "your.email@example.com",
+      "messageLabel": "Mensagem",
+      "messagePlaceholder": "Como podemos ajudar?",
+      "consent": "Concordo que o meu endereço e mensagem possam ser utilizados para responder a esta questão. Mais no",
+      "consentLink": "política de Privacidade",
+      "submit": "Enviar mensagem",
+      "sending": "Enviando…",
+      "successTitle": "Mensagem enviada!",
+      "successBody": "Obrigado por entrar em contacto. Responderemos para o endereço que nos forneceu assim que possível.",
+      "error": "Não foi possível enviar a sua mensagem. Por favor, tente novamente ou envie-nos um e-mail diretamente:",
+      "errorMailto": "Envie um e-mail",
+      "directEmail": "Prefere escrever na sua própria aplicação de e-mail?",
+      "backToHome": "Voltar à página inicial",
+      "meta": {
+        "title": "Contacto – Numblop",
+        "description": "Envie-nos uma pergunta, uma ideia ou um relatório de bug sobre Numblop – tabuada através do jogo."
+      }
+    },
+    "highlights": {
+      "heading": "tabuada divertida",
+      "subheading": "Um amigo amigável, um mapa cheio de ilhas e curtas rondas onde cada passo conta.",
+      "posters": [
+        "Numblop – Multiplicação divertida: um amigo fofinho, cosméticos giros e um ambiente lúdico mantêm as crianças envolvidas na aprendizagem. Jogue e aprenda ao seu próprio ritmo.",
+        "Aprenda passo a passo: Numblop repete factos mais difíceis com mais frequência e orienta-o para o domínio. O mapa acompanha o progresso em cada tabuada.",
+        "Cada erro ajuda-o a aprender: depois de um erro obtém a resposta, e não apenas a solução. Numblop mostra 3 × 5 = 15 como pontos que podes contar tu próprio.",
+        "Motivação que entusiasma: a cada passo ganha recompensas, moedas e novas partes do mapa. As rondas concluídas abrem um baú do tesouro e desbloqueiam novas ilhas."
+      ]
+    },
+    "steps": {
+      "heading": "Descobrir → Praticar → Reforçar → Já percebi",
+      "subheading": "Quatro passos Numblop analisa todos os factos de multiplicação.",
+      "items": [
+        {
+          "title": "Descobrir",
+          "description": "Conheça novos factos passo a passo e dentro do contexto – sem saltar para o desconhecido."
+        },
+        {
+          "title": "Prática",
+          "description": "Rondas curtas e divertidas captam a atenção e criam confiança inicial."
+        },
+        {
+          "title": "Reforçar",
+          "description": "Factos mais complicados voltam exatamente na hora de os rever."
+        },
+        {
+          "title": "eu entendi",
+          "description": "A recuperação torna-se instantânea e sem esforço – a multiplicação torna-se automática."
+        }
+      ]
+    },
+    "why": {
+      "heading": "Prática mais inteligente focada no progresso",
+      "paragraphs": [
+        "O Numblop é um jogo de aprendizagem adaptativa que ajuda as crianças a praticar, reforçar e automatizar a tabuada. O jogo adapta-se ao progresso de cada criança, revisita regularmente os factos mais difíceis e leva gradualmente à recordação confiante de cada facto de multiplicação.",
+        "As crianças mantêm-se motivadas através da brincadeira – recolhendo recompensas, descobrindo novas partes do mapa e aprendendo ao seu próprio ritmo. Sessões curtas e amigáveis ​​respondem aos erros sem punição: cada erro é apenas mais uma hipótese de praticar."
+      ],
+      "quotes": [
+        "Cada erro ajuda-o a aprender.",
+        "Aprender é uma viagem – observe o seu progresso."
+      ],
+      "features": [
+        {
+          "title": "Adapta-se à criança",
+          "description": "O jogo rastreia quais os factos que a criança já conhece e foca-se naqueles que precisam de prática."
+        },
+        {
+          "title": "Recompensas e descoberta",
+          "description": "Cada sessão finalizada ganha uma recompensa e revela novas partes do mapa para explorar."
+        },
+        {
+          "title": "Ritmo próprio, sem stress",
+          "description": "Sem contagens decrescentes, sem punição por erros – apenas uma construção de confiança calma e constante."
+        }
+      ]
+    },
+    "screenshots": {
+      "heading": "Uma vista por dentro do jogo",
+      "subheading": "Um companheiro amigável, um mapa de progresso e rondas curtas de prática.",
+      "captions": [
+        "Tela inicial",
+        "Mapa de progresso",
+        "Escolha a resposta",
+        "Introduza a resposta",
+        "Baú de recompensas",
+        "Itens cosméticos"
+      ]
+    },
+    "footer": {
+      "privacy": "O progresso permanece neste dispositivo. Sem contas, sem anúncios, sem rastreio.",
+      "privacyLink": "política de Privacidade",
+      "contactLink": "Contacto",
+      "instagram": "Instagram",
+      "youtube": "YouTube",
+      "madeIn": "Numblop – tabuada através do jogo"
+    }
+  },
+  "it": {
+    "meta": {
+      "title": "Numblop – tabelline attraverso il gioco",
+      "description": "Un gioco adattivo per esercitarsi e padroneggiare le tabelline."
+    },
+    "header": {
+      "getIt": "Ottieni Numblop"
+    },
+    "hero": {
+      "name": "Numblop",
+      "tagline": "Impara la moltiplicazione attraverso il gioco",
+      "slogan": "L'apprendimento è un viaggio: osserva i tuoi progressi",
+      "shortDescription": "Un gioco adattivo per esercitarsi e automatizzare le tabelline. Si adatta ai progressi di ogni bambino e porta a un ricordo sicuro e immediato.",
+      "badge": "Ora su Google Play",
+      "googlePlay": "Scaricalo su Google Play",
+      "playWeb": "Gioca nel tuo browser",
+      "privacy": "I progressi rimangono su questo dispositivo."
+    },
+    "download": {
+      "heading": "Dove giocare a Numblop",
+      "subheading": "Su Android, scaricalo da Google Play. Su iPhone, iPad e desktop, avvialo direttamente nel browser: gratis, senza installazione né registrazione.",
+      "androidTitle": "Androide",
+      "androidBody": "La versione completa dal Google Play Store. Gratuito, senza pubblicità e senza acquisti in-app.",
+      "androidCta": "Scaricalo su Google Play",
+      "webTitle": "iPhone, iPad e desktop",
+      "webBody": "Numblop funziona direttamente nel browser. Clicca e gioca: niente da scaricare, niente a cui iscriversi.",
+      "webCta": "Gioca nel tuo browser",
+      "iosNote": "Non esiste ancora un'app iOS separata. La versione browser è il gioco completo.",
+      "bottomHeading": "Inizia a praticare oggi",
+      "bottomSubheading": "Scarica Numblop da Google Play o provalo subito nel tuo browser."
+    },
+    "trailer": {
+      "heading": "Guarda il trailer",
+      "subheading": "Un breve sguardo a cosa attende i bambini a Numblop: un amico amichevole, una mappa delle isole e una ricompensa per ogni passo.",
+      "play": "Riproduci il trailer",
+      "posterAlt": "Numblop accanto a uno scrigno del tesoro: un'immagine dal trailer",
+      "privacyNote": "Il video viene caricato da YouTube solo dopo aver fatto clic. Fino ad allora, questa pagina non invia nulla a YouTube.",
+      "watchOnYoutube": "Guarda su YouTube"
+    },
+    "contact": {
+      "heading": "Mettiti in contatto",
+      "subheading": "Una domanda, un'idea per il gioco o un bug in cui ti sei imbattuto? Scrivici: ogni messaggio viene letto.",
+      "nameLabel": "Nome (facoltativo)",
+      "namePlaceholder": "Come dovremmo chiamarti?",
+      "emailLabel": "La tua email",
+      "emailPlaceholder": "your.email@example.com",
+      "messageLabel": "Messaggio",
+      "messagePlaceholder": "Come possiamo aiutare?",
+      "consent": "Accetto che il mio indirizzo e il mio messaggio possano essere utilizzati per rispondere a questa richiesta. Di più nel",
+      "consentLink": "politica sulla riservatezza",
+      "submit": "Invia messaggio",
+      "sending": "Invio…",
+      "successTitle": "Messaggio inviato!",
+      "successBody": "Grazie per avermi contattato. Risponderemo all'indirizzo che ci hai fornito il prima possibile.",
+      "error": "Non è stato possibile inviare il tuo messaggio. Riprova o inviaci direttamente un'e-mail:",
+      "errorMailto": "Invia un'e-mail",
+      "directEmail": "Preferisci scrivere dalla tua app di posta?",
+      "backToHome": "Torna alla home page",
+      "meta": {
+        "title": "Contatto – Numblop",
+        "description": "Inviaci una domanda, un'idea o una segnalazione di bug su Numblop – tabelline attraverso il gioco."
+      }
+    },
+    "highlights": {
+      "heading": "le tabelline diventavano divertenti",
+      "subheading": "Un amico amichevole, una mappa piena di isole e brevi giri in cui ogni passo conta.",
+      "posters": [
+        "Numblop – La moltiplicazione diventa divertente: un simpatico amico, fantastici cosmetici e un ambiente giocoso mantengono i bambini impegnati nell'apprendimento. Gioca e impara al tuo ritmo.",
+        "Impara passo dopo passo: Numblop ripete i fatti più difficili più spesso e ti guida alla padronanza. La mappa tiene traccia dei progressi attraverso ogni tabella di moltiplicazione.",
+        "Ogni errore ti aiuta a imparare: dopo un errore ottieni la risposta, non solo la soluzione. Numblop mostra 3 × 5 = 15 come punti che puoi contare da solo.",
+        "Motivazione che entusiasma: ad ogni passo guadagni ricompense, monete e nuove parti della mappa. I round finiti aprono uno scrigno del tesoro e sbloccano nuove isole."
+      ]
+    },
+    "steps": {
+      "heading": "Scopri → Pratica → Rinforza → Ho capito",
+      "subheading": "Quattro passaggi Numblop esegue ogni fatto di moltiplicazione.",
+      "items": [
+        {
+          "title": "Scoprire",
+          "description": "Scopri i nuovi fatti passo dopo passo e nel contesto, senza saltare nell'ignoto."
+        },
+        {
+          "title": "Pratica",
+          "description": "Round brevi e giocosi attirano l'attenzione e creano la prima fiducia."
+        },
+        {
+          "title": "Rafforzare",
+          "description": "I fatti più complicati ritornano esattamente quando è il momento di rivisitarli."
+        },
+        {
+          "title": "Ho capito",
+          "description": "Il ricordo diventa istantaneo e senza sforzo – la moltiplicazione diventa automatica."
+        }
+      ]
+    },
+    "why": {
+      "heading": "Pratiche più intelligenti focalizzate sul progresso",
+      "paragraphs": [
+        "Numblop è un gioco di apprendimento adattivo che aiuta i bambini a esercitarsi, rinforzare e automatizzare le tabelline. Il gioco si adatta ai progressi di ogni bambino, rivisita regolarmente i fatti più difficili e porta gradualmente a ricordare con sicurezza ogni fatto di moltiplicazione.",
+        "I bambini rimangono motivati ​​attraverso il gioco, raccogliendo ricompense, scoprendo nuove parti della mappa e imparando al proprio ritmo. Sessioni brevi e amichevoli rispondono agli errori senza punizione: ogni errore è solo un'altra possibilità di esercitarsi."
+      ],
+      "quotes": [
+        "Ogni errore ti aiuta a imparare.",
+        "L'apprendimento è un viaggio: osserva i tuoi progressi."
+      ],
+      "features": [
+        {
+          "title": "Si adatta al bambino",
+          "description": "Il gioco tiene traccia dei fatti che un bambino già conosce e si concentra su quelli che necessitano di pratica."
+        },
+        {
+          "title": "Premi e scoperta",
+          "description": "Ogni sessione completata guadagna una ricompensa e rivela nuove parti della mappa da esplorare."
+        },
+        {
+          "title": "Proprio ritmo, senza stress",
+          "description": "Nessun conto alla rovescia, nessuna punizione per gli errori: solo calma e stabilità per rafforzare la fiducia."
+        }
+      ]
+    },
+    "screenshots": {
+      "heading": "Uno sguardo all'interno del gioco",
+      "subheading": "Un compagno amichevole, una mappa dei progressi e brevi turni di pratica.",
+      "captions": [
+        "Schermata iniziale",
+        "Mappa dei progressi",
+        "Scegli la risposta",
+        "Inserisci la risposta",
+        "Forziere della ricompensa",
+        "Articoli cosmetici"
+      ]
+    },
+    "footer": {
+      "privacy": "I progressi rimangono su questo dispositivo. Nessun account, nessuna pubblicità, nessun monitoraggio.",
+      "privacyLink": "politica sulla riservatezza",
+      "contactLink": "Contatto",
+      "instagram": "Instagram",
+      "youtube": "YouTube",
+      "madeIn": "Numblop – tabelline attraverso il gioco"
+    }
+  },
+  "da": {
+    "meta": {
+      "title": "Numblop – multiplikationstabeller gennem spil",
+      "description": "Et adaptivt spil til at øve og mestre multiplikationstabellerne."
+    },
+    "header": {
+      "getIt": "Hent Numblop"
+    },
+    "hero": {
+      "name": "Numblop",
+      "tagline": "Lær multiplikation gennem leg",
+      "slogan": "Læring er en rejse – se dine fremskridt",
+      "shortDescription": "Et adaptivt spil til at øve og automatisere multiplikationstabellerne. Det tilpasser sig hvert barns fremskridt og fører til selvsikker, øjeblikkelig genkaldelse.",
+      "badge": "Nu på Google Play",
+      "googlePlay": "Få det på Google Play",
+      "playWeb": "Spil i din browser",
+      "privacy": "Fremskridt forbliver på denne enhed."
+    },
+    "download": {
+      "heading": "Hvor skal man spille Numblop",
+      "subheading": "På Android skal du downloade det fra Google Play. På iPhone, iPad og desktop skal du starte det direkte i browseren – gratis, ingen installation, ingen tilmelding.",
+      "androidTitle": "Android",
+      "androidBody": "Den fulde version fra Google Play Butik. Gratis, uden annoncer og uden køb i appen.",
+      "androidCta": "Få det på Google Play",
+      "webTitle": "iPhone, iPad og desktop",
+      "webBody": "Numblop kører lige i browseren. Klik og spil – intet at downloade, intet at tilmelde sig.",
+      "webCta": "Spil i din browser",
+      "iosNote": "Der er endnu ingen separat iOS-app. Browserversionen er det fulde spil.",
+      "bottomHeading": "Begynd at øve i dag",
+      "bottomSubheading": "Download Numblop fra Google Play, eller prøv det lige nu i din browser."
+    },
+    "trailer": {
+      "heading": "Se traileren",
+      "subheading": "Et kort kig på, hvad der venter på børn i Numblop – en venlig ven, et kort over øer og en belønning for hvert skridt.",
+      "play": "Spil traileren",
+      "posterAlt": "Numblop ved siden af ​​en skattekiste – et stillbillede fra traileren",
+      "privacyNote": "Videoen indlæses først fra YouTube, når du klikker. Indtil da sender denne side intet til YouTube.",
+      "watchOnYoutube": "Se på YouTube"
+    },
+    "contact": {
+      "heading": "Tag kontakt",
+      "subheading": "Et spørgsmål, en idé til spillet eller en fejl, du stødte på? Skriv til os – hver besked bliver læst.",
+      "nameLabel": "Navn (valgfrit)",
+      "namePlaceholder": "Hvad skal vi kalde dig?",
+      "emailLabel": "Din e-mail",
+      "emailPlaceholder": "your.email@example.com",
+      "messageLabel": "Besked",
+      "messagePlaceholder": "Hvordan kan vi hjælpe?",
+      "consent": "Jeg accepterer, at min adresse og besked kan bruges til at besvare denne forespørgsel. Mere i",
+      "consentLink": "privatlivspolitik",
+      "submit": "Send besked",
+      "sending": "Sender...",
+      "successTitle": "Besked sendt!",
+      "successBody": "Tak for at kontakte os. Vi svarer på den adresse, du har givet os, så snart vi kan.",
+      "error": "Vi kunne ikke sende din besked. Prøv venligst igen, eller send os en e-mail direkte:",
+      "errorMailto": "Send en e-mail",
+      "directEmail": "Foretrækker du at skrive fra din egen mail-app?",
+      "backToHome": "Tilbage til startsiden",
+      "meta": {
+        "title": "Kontakt – Numblop",
+        "description": "Send os et spørgsmål, en idé eller en fejlrapport om Numblop – multiplikationstabeller gennem leg."
+      }
+    },
+    "highlights": {
+      "heading": "multiplikationstabeller gjort sjov",
+      "subheading": "En venlig kammerat, et kort fyldt med øer og korte runder, hvor hvert skridt tæller.",
+      "posters": [
+        "Numblop – Multiplikation gjorde det sjovt: En sød kammerat, seje kosmetik og et legende miljø holder børn engageret i at lære. Spil og lær i dit eget tempo.",
+        "Lær trin for trin: Numblop gentager sværere fakta oftere og guider dig til beherskelse. Kortet sporer fremskridt gennem hver multiplikationstabel.",
+        "Hver fejl hjælper dig med at lære: efter en fejl får du svaret, ikke kun rettelsen. Numblop viser 3 × 5 = 15 som prikker, du selv kan tælle.",
+        "Motivation, der begejstrer: Med hvert skridt optjener du belønninger, mønter og nye dele af kortet. Færdige runder åbner en skattekiste og låser op for nye øer."
+      ]
+    },
+    "steps": {
+      "heading": "Opdag → Øv → Forstærk → Jeg har det",
+      "subheading": "Fire trin Numblop tager alle multiplikationsfakta igennem.",
+      "items": [
+        {
+          "title": "Opdage",
+          "description": "Mød nye fakta trin for trin og i kontekst – ingen hop ud i det ukendte."
+        },
+        {
+          "title": "Praksis",
+          "description": "Korte, legende runder fastholder opmærksomheden og opbygger den første selvtillid."
+        },
+        {
+          "title": "Forstærke",
+          "description": "Besværligere fakta kommer tilbage, præcis når det er tid til at gense dem."
+        },
+        {
+          "title": "Jeg har det",
+          "description": "Genkaldet bliver øjeblikkeligt og ubesværet – multiplikation bliver automatisk."
+        }
+      ]
+    },
+    "why": {
+      "heading": "Smartere praksis fokuseret på fremskridt",
+      "paragraphs": [
+        "Numblop er et adaptivt læringsspil, der hjælper børn med at øve, forstærke og automatisere multiplikationstabellerne. Spillet tilpasser sig hvert barns fremskridt, gennemgår regelmæssigt de sværere fakta og fører gradvist til sikker tilbagekaldelse af hver multiplikationsfakta.",
+        "Børn forbliver motiverede gennem leg - samler belønninger, afdækker nye dele af kortet og lærer i deres eget tempo. Korte, venlige sessioner reagerer på fejl uden straf: hver fejl er blot endnu en chance for at øve sig."
+      ],
+      "quotes": [
+        "Hver fejl hjælper dig med at lære.",
+        "Læring er en rejse – se dine fremskridt."
+      ],
+      "features": [
+        {
+          "title": "Tilpasser sig barnet",
+          "description": "Spillet sporer, hvilke fakta et barn allerede kender og fokuserer på dem, der har brug for øvelse."
+        },
+        {
+          "title": "Belønninger og opdagelse",
+          "description": "Hver afsluttet session optjener en belønning og afslører nye dele af kortet at udforske."
+        },
+        {
+          "title": "Eget tempo, ingen stress",
+          "description": "Ingen nedtællinger, ingen straf for fejltagelser – bare rolig, stabil opbygning af selvtillid."
+        }
+      ]
+    },
+    "screenshots": {
+      "heading": "Et kig ind i spillet",
+      "subheading": "En venlig ledsager, et fremskridtskort og korte træningsrunder.",
+      "captions": [
+        "Startskærm",
+        "Fremskridtskort",
+        "Vælg svaret",
+        "Indtast svaret",
+        "Belønningskiste",
+        "Kosmetiske genstande"
+      ]
+    },
+    "footer": {
+      "privacy": "Fremskridt forbliver på denne enhed. Ingen konti, ingen annoncer, ingen sporing.",
+      "privacyLink": "Privatlivspolitik",
+      "contactLink": "Kontakte",
+      "instagram": "Instagram",
+      "youtube": "YouTube",
+      "madeIn": "Numblop – multiplikationstabeller gennem spil"
+    }
+  },
+  "nl": {
+    "meta": {
+      "title": "Numblop – tafels van vermenigvuldiging door te spelen",
+      "description": "Een adaptief spel voor het oefenen en beheersen van de tafels van vermenigvuldiging."
+    },
+    "header": {
+      "getIt": "Koop Numblop"
+    },
+    "hero": {
+      "name": "Numblop",
+      "tagline": "Leer vermenigvuldigen door te spelen",
+      "slogan": "Leren is een reis – bekijk uw voortgang",
+      "shortDescription": "Een adaptief spel voor het oefenen en automatiseren van de tafels van vermenigvuldiging. Het past zich aan de voortgang van elk kind aan en leidt tot zelfverzekerde, onmiddellijke herinnering.",
+      "badge": "Nu op Google Play",
+      "googlePlay": "Download het op Google Play",
+      "playWeb": "Speel in je browser",
+      "privacy": "De voortgang blijft op dit apparaat staan."
+    },
+    "download": {
+      "heading": "Waar Numblop te spelen",
+      "subheading": "Op Android downloadt u het van Google Play. Op iPhone, iPad en desktop kunt u het rechtstreeks in de browser starten: gratis, zonder installatie en zonder aanmelding.",
+      "androidTitle": "Android",
+      "androidBody": "De volledige versie uit de Google Play Store. Gratis, zonder advertenties en zonder in-app-aankopen.",
+      "androidCta": "Download het op Google Play",
+      "webTitle": "iPhone, iPad en desktop",
+      "webBody": "Numblop werkt rechtstreeks in de browser. Klik en speel – niets om te downloaden, niets om je voor aan te melden.",
+      "webCta": "Speel in je browser",
+      "iosNote": "Er is nog geen aparte iOS-app. De browserversie is het volledige spel.",
+      "bottomHeading": "Begin vandaag nog met oefenen",
+      "bottomSubheading": "Download Numblop van Google Play of probeer het nu in uw browser."
+    },
+    "trailer": {
+      "heading": "Bekijk de trailer",
+      "subheading": "Een korte blik op wat kinderen te wachten staat in Numblop: een vriendelijk vriendje, een kaart met eilanden en een beloning voor elke stap.",
+      "play": "Speel de trailer",
+      "posterAlt": "Numblop naast een schatkist – een still uit de trailer",
+      "privacyNote": "De video wordt pas van YouTube geladen nadat je erop hebt geklikt. Tot die tijd stuurt deze pagina niets naar YouTube.",
+      "watchOnYoutube": "Kijk op YouTube"
+    },
+    "contact": {
+      "heading": "Neem contact op",
+      "subheading": "Een vraag, een idee voor het spel of een bug waar je tegenaan liep? Schrijf ons – elk bericht wordt gelezen.",
+      "nameLabel": "Naam (optioneel)",
+      "namePlaceholder": "Hoe moeten we je noemen?",
+      "emailLabel": "Uw e-mail",
+      "emailPlaceholder": "your.email@example.com",
+      "messageLabel": "Bericht",
+      "messagePlaceholder": "Hoe kunnen wij helpen?",
+      "consent": "Ik ga ermee akkoord dat mijn adres en bericht mogen worden gebruikt om deze vraag te beantwoorden. Meer in de",
+      "consentLink": "privacybeleid",
+      "submit": "Bericht verzenden",
+      "sending": "Verzenden…",
+      "successTitle": "Bericht verzonden!",
+      "successBody": "Bedankt dat u contact heeft opgenomen. We zullen zo snel mogelijk antwoorden op het adres dat u ons heeft gegeven.",
+      "error": "We konden uw bericht niet verzenden. Probeer het opnieuw of stuur ons rechtstreeks een e-mail:",
+      "errorMailto": "Stuur een e-mail",
+      "directEmail": "Schrijf je liever vanuit je eigen mailapp?",
+      "backToHome": "Terug naar de startpagina",
+      "meta": {
+        "title": "Contact – Numblop",
+        "description": "Stuur ons een vraag, een idee of een bugrapport over Numblop – tafels van vermenigvuldiging door te spelen."
+      }
+    },
+    "highlights": {
+      "heading": "Tafels van vermenigvuldiging leuk gemaakt",
+      "subheading": "Een vriendelijk maatje, een kaart vol eilanden en korte rondjes waarbij elke stap telt.",
+      "posters": [
+        "Numblop – Vermenigvuldigen is leuk: een schattig maatje, coole cosmetica en een speelse omgeving zorgen ervoor dat kinderen betrokken blijven bij het leren. Speel en leer in je eigen tempo.",
+        "Leer stap voor stap: Numblop herhaalt hardere feiten vaker en begeleidt u naar meesterschap. De kaart houdt de voortgang bij elke tafel van vermenigvuldiging bij.",
+        "Elke fout helpt je te leren: na een fout krijg je het antwoord, niet alleen de oplossing. Numblop toont 3 × 5 = 15 als stippen die je zelf kunt tellen.",
+        "Motivatie die opwindt: bij elke stap verdien je beloningen, munten en nieuwe delen van de kaart. Voltooide rondes openen een schatkist en ontgrendelen nieuwe eilanden."
+      ]
+    },
+    "steps": {
+      "heading": "Ontdek → Oefen → Versterk → Ik heb het",
+      "subheading": "Vier stappen Numblop neemt elk vermenigvuldigingsfeit door.",
+      "items": [
+        {
+          "title": "Ontdekken",
+          "description": "Ontdek nieuwe feiten stap voor stap en in context – zonder in het onbekende te springen."
+        },
+        {
+          "title": "Oefening",
+          "description": "Korte, speelse rondes houden de aandacht vast en bouwen het eerste vertrouwen op."
+        },
+        {
+          "title": "Versterken",
+          "description": "Lastiger feiten komen precies terug wanneer het tijd is om ze opnieuw te bekijken."
+        },
+        {
+          "title": "Ik heb het",
+          "description": "Oproepen wordt direct en moeiteloos – vermenigvuldiging wordt automatisch."
+        }
+      ]
+    },
+    "why": {
+      "heading": "Slimmer oefenen gericht op vooruitgang",
+      "paragraphs": [
+        "Numblop is een adaptief leerspel waarmee kinderen de tafels van vermenigvuldiging kunnen oefenen, versterken en automatiseren. Het spel past zich aan de voortgang van elk kind aan, komt regelmatig terug op de moeilijkere feiten en leidt geleidelijk tot het zelfverzekerd herinneren van elk vermenigvuldigingsfeit.",
+        "Kinderen blijven gemotiveerd door te spelen: ze verzamelen beloningen, ontdekken nieuwe delen van de kaart en leren in hun eigen tempo. Korte, vriendschappelijke sessies reageren op fouten zonder straf: elke fout is gewoon een nieuwe kans om te oefenen."
+      ],
+      "quotes": [
+        "Elke fout helpt je te leren.",
+        "Leren is een reis – bekijk uw voortgang."
+      ],
+      "features": [
+        {
+          "title": "Past zich aan het kind aan",
+          "description": "Het spel houdt bij welke feiten een kind al kent en richt zich op de feiten die nog moeten worden geoefend."
+        },
+        {
+          "title": "Beloningen en ontdekking",
+          "description": "Elke voltooide sessie verdient een beloning en onthult nieuwe delen van de kaart om te verkennen."
+        },
+        {
+          "title": "Eigen tempo, geen stress",
+          "description": "Geen aftellingen, geen straf voor fouten – gewoon kalm en gestaag opbouwen van vertrouwen."
+        }
+      ]
+    },
+    "screenshots": {
+      "heading": "Een kijkje in het spel",
+      "subheading": "Een vriendelijke metgezel, een voortgangskaart en korte oefenrondes.",
+      "captions": [
+        "Startscherm",
+        "Voortgangskaart",
+        "Kies het antwoord",
+        "Voer het antwoord in",
+        "Beloning borst",
+        "Cosmetische artikelen"
+      ]
+    },
+    "footer": {
+      "privacy": "De voortgang blijft op dit apparaat staan. Geen accounts, geen advertenties, geen tracking.",
+      "privacyLink": "Privacybeleid",
+      "contactLink": "Contact",
+      "instagram": "Instagram",
+      "youtube": "YouTube",
+      "madeIn": "Numblop – tafels van vermenigvuldiging door te spelen"
+    }
+  },
+  "ja": {
+    "meta": {
+      "title": "Numblop – 遊びを通して九九を楽しむ",
+      "description": "九九を練習してマスターするための適応型ゲーム。"
+    },
+    "header": {
+      "getIt": "ナンブロップを入手"
+    },
+    "hero": {
+      "name": "Numblop",
+      "tagline": "遊びを通して掛け算を学びましょう",
+      "slogan": "学習は旅です – 進捗状況に注意してください",
+      "shortDescription": "九九を練習し自動化するための適応型ゲーム。それぞれの子どもの進歩に適応し、自信を持って瞬時に思い出すことができます。",
+      "badge": "Google Play で配信中",
+      "googlePlay": "Google Play で入手",
+      "playWeb": "ブラウザでプレイする",
+      "privacy": "進行状況はこのデバイスに残ります。"
+    },
+    "download": {
+      "heading": "Numblop をプレイできる場所",
+      "subheading": "Android の場合は、Google Play からダウンロードします。 iPhone、iPad、デスクトップでは、ブラウザで直接起動できます。無料、インストール、サインアップは不要です。",
+      "androidTitle": "アンドロイド",
+      "androidBody": "Google Play ストアからの完全版。無料、広告なし、アプリ内購入なし。",
+      "androidCta": "Google Play で入手",
+      "webTitle": "iPhone、iPad、デスクトップ",
+      "webBody": "Numblop はブラウザ内で直接実行されます。クリックしてプレイ – ダウンロードする必要も、サインアップする必要もありません。",
+      "webCta": "ブラウザでプレイする",
+      "iosNote": "個別の iOS アプリはまだありません。ブラウザ版は完全なゲームです。",
+      "bottomHeading": "今日から練習を始めましょう",
+      "bottomSubheading": "Google Play から Numblop をダウンロードするか、ブラウザで今すぐ試してみてください。"
+    },
+    "trailer": {
+      "heading": "トレーラーを見る",
+      "subheading": "Numblop で子供たちを待っているものを簡単に説明します。フレンドリーな仲間、島々の地図、そして一歩ごとにご褒美が与えられます。",
+      "play": "トレーラーを再生する",
+      "posterAlt": "宝箱の横にあるナンブロップ – トレーラーの静止画",
+      "privacyNote": "クリックした後でのみ、ビデオが YouTube から読み込まれます。それまでは、このページから YouTube に何も送信されません。",
+      "watchOnYoutube": "YouTubeで見る"
+    },
+    "contact": {
+      "heading": "連絡する",
+      "subheading": "質問、ゲームのアイデア、または遭遇したバグはありますか?私たちに手紙を書いてください – すべてのメッセージが読まれます。",
+      "nameLabel": "名前 (オプション)",
+      "namePlaceholder": "あなたを何と呼べばいいでしょうか？",
+      "emailLabel": "あなたのメールアドレス",
+      "emailPlaceholder": "your.email@example.com",
+      "messageLabel": "メッセージ",
+      "messagePlaceholder": "どうすれば助けられるでしょうか？",
+      "consent": "このお問い合わせに回答するために私のアドレスとメッセージが使用されることに同意します。詳細については、",
+      "consentLink": "プライバシーポリシー",
+      "submit": "メッセージを送信する",
+      "sending": "送信中…",
+      "successTitle": "メッセージが送信されました!",
+      "successBody": "ご連絡いただきありがとうございます。いただいたアドレスにできるだけ早く返信させていただきます。",
+      "error": "メッセージを送信できませんでした。もう一度お試しいただくか、直接メールでご連絡ください。",
+      "errorMailto": "メールを送信する",
+      "directEmail": "独自のメール アプリから書きたいですか?",
+      "backToHome": "ホームページに戻る",
+      "meta": {
+        "title": "お問い合わせ – ナンブロップ",
+        "description": "Numblop – 遊びを通して九九に関する質問、アイデア、バグレポートをお送りください。"
+      }
+    },
+    "highlights": {
+      "heading": "九九が楽しくなりました",
+      "subheading": "フレンドリーな仲間、島だらけのマップ、そして一歩一歩が重要な短いラウンド。",
+      "posters": [
+        "Numblop – 掛け算が楽しくなります。かわいい友達、クールな化粧品、遊び心のある環境により、子供たちは学習に集中できます。自分のペースで遊んで学びましょう。",
+        "ステップバイステップで学習: Numblop は難しい事実をより頻繁に繰り返し、習得へと導きます。マップは、すべての九九の進行状況を追跡します。",
+        "すべての間違いは学習に役立ちます。間違いの後には、修正だけでなく答えも得られます。 Numblop では、3 × 5 = 15 がドットとして表示され、自分で数えることができます。",
+        "ワクワクするようなモチベーション: ステップを踏むたびに、報酬、コイン、マップの新しい部分を獲得できます。ラウンドが完了すると宝箱が開き、新しい島のロックが解除されます。"
+      ]
+    },
+    "steps": {
+      "heading": "発見→練習→強化→できた",
+      "subheading": "Numblop は 4 つのステップであらゆる掛け算の事実を取り上げます。",
+      "items": [
+        {
+          "title": "発見する",
+          "description": "未知の世界に飛び込む必要はなく、状況に応じて段階的に新しい事実に遭遇します。"
+        },
+        {
+          "title": "練習する",
+          "description": "短くて遊び心のあるラウンドは注意を引き付け、最初の自信を築きます。"
+        },
+        {
+          "title": "補強する",
+          "description": "厄介な事実は、再検討するときが来たときに正確に戻ってきます。"
+        },
+        {
+          "title": "分かりました",
+          "description": "呼び出しは瞬時かつ簡単になり、乗算は自動的に行われます。"
+        }
+      ]
+    },
+    "why": {
+      "heading": "進歩を重視したよりスマートな実践",
+      "paragraphs": [
+        "Numblop は、子供たちが九九を練習、強化、自動化するのに役立つ適応学習ゲームです。ゲームはそれぞれの子どもの進歩に合わせて調整され、定期的に難しい事実を再確認し、徐々にすべての掛け算の事実を自信を持って思い出すようになります。",
+        "子どもたちは遊びを通じてモチベーションを維持し、報酬を集めたり、マップの新しい部分を発見したり、自分のペースで学習したりできます。短くてフレンドリーなセッションでは、間違いを罰することなく対処します。すべての間違いは、練習するための単なるチャンスです。"
+      ],
+      "quotes": [
+        "すべての間違いは学習に役立ちます。",
+        "学習は旅です - 進歩に注目してください。"
+      ],
+      "features": [
+        {
+          "title": "子どもに合わせて適応する",
+          "description": "このゲームは、子供がすでに知っている事実を追跡し、練習が必要な事実に焦点を当てます。"
+        },
+        {
+          "title": "報酬と発見",
+          "description": "終了したセッションごとに報酬が得られ、探索するマップの新しい部分が明らかになります。"
+        },
+        {
+          "title": "マイペースでストレスフリー",
+          "description": "カウントダウンも、間違いに対する罰もありません。ただ落ち着いて、着実に自信を築いてください。"
+        }
+      ]
+    },
+    "screenshots": {
+      "heading": "ゲーム内部の様子",
+      "subheading": "フレンドリーな仲間、進捗マップ、短い練習ラウンド。",
+      "captions": [
+        "ホーム画面",
+        "進捗マップ",
+        "答えを選んでください",
+        "答えを入力してください",
+        "報酬チェスト",
+        "化粧品"
+      ]
+    },
+    "footer": {
+      "privacy": "進行状況はこのデバイスに残ります。アカウントも広告も追跡もありません。",
+      "privacyLink": "プライバシーポリシー",
+      "contactLink": "接触",
+      "instagram": "インスタグラム",
+      "youtube": "YouTube",
+      "madeIn": "Numblop – 遊びを通して九九を楽しむ"
+    }
+  },
+  "ko": {
+    "meta": {
+      "title": "Numblop – 놀이를 통한 구구단",
+      "description": "구구단을 연습하고 익히기 위한 적응형 게임입니다."
+    },
+    "header": {
+      "getIt": "Numblop 받기"
+    },
+    "hero": {
+      "name": "Numblop",
+      "tagline": "놀이를 통해 곱셈을 배워보세요",
+      "slogan": "학습은 하나의 여정입니다. 진행 상황을 지켜보세요.",
+      "shortDescription": "구구단을 연습하고 자동화하기 위한 적응형 게임입니다. 이는 각 어린이의 발달에 맞춰 조정되며 자신감 있고 즉각적인 회상을 이끌어냅니다.",
+      "badge": "지금 Google Play에서",
+      "googlePlay": "Google Play에서 구매하세요",
+      "playWeb": "브라우저에서 플레이",
+      "privacy": "진행 상황은 이 기기에 유지됩니다."
+    },
+    "download": {
+      "heading": "Numblop을 플레이할 수 있는 곳",
+      "subheading": "Android의 경우 Google Play에서 다운로드하세요. iPhone, iPad, 데스크톱의 경우 브라우저에서 바로 시작할 수 있습니다. 무료이며, 설치도, 가입도 필요하지 않습니다.",
+      "androidTitle": "기계적 인조 인간",
+      "androidBody": "Google Play 스토어의 정식 버전입니다. 무료이며 광고나 인앱 구매가 없습니다.",
+      "androidCta": "Google Play에서 구매하세요",
+      "webTitle": "아이폰, 아이패드, 데스크탑",
+      "webBody": "Numblop은 브라우저에서 바로 실행됩니다. 클릭하여 플레이하세요. 다운로드할 것도, 가입할 것도 없습니다.",
+      "webCta": "브라우저에서 플레이",
+      "iosNote": "아직 별도의 iOS 앱은 없습니다. 브라우저 버전은 정식 게임입니다.",
+      "bottomHeading": "오늘부터 연습을 시작해 보세요",
+      "bottomSubheading": "Google Play에서 Numblop을 다운로드하거나 지금 바로 브라우저에서 사용해 보세요."
+    },
+    "trailer": {
+      "heading": "예고편 보기",
+      "subheading": "친절한 친구, 섬 지도, 모든 단계에 대한 보상 등 Numblop에서 아이들을 기다리는 것이 무엇인지 간략하게 살펴보세요.",
+      "play": "예고편 재생",
+      "posterAlt": "보물 상자 옆의 Numblop – 예고편의 스틸",
+      "privacyNote": "클릭한 후에만 YouTube에서 동영상이 로드됩니다. 그때까지는 이 페이지에서 YouTube로 아무 것도 보내지 않습니다.",
+      "watchOnYoutube": "YouTube에서 시청하기"
+    },
+    "contact": {
+      "heading": "연락하세요",
+      "subheading": "질문, 게임에 대한 아이디어 또는 발생한 버그가 있나요? 우리에게 편지를 보내세요 – 모든 메시지가 읽혀집니다.",
+      "nameLabel": "이름(선택사항)",
+      "namePlaceholder": "우리는 당신을 무엇이라고 불러야 할까요?",
+      "emailLabel": "귀하의 이메일",
+      "emailPlaceholder": "your.email@example.com",
+      "messageLabel": "메시지",
+      "messagePlaceholder": "어떻게 도와드릴까요?",
+      "consent": "내 주소와 메시지가 이 문의에 답변하는 데 사용될 수 있다는 데 동의합니다. 더 많은",
+      "consentLink": "개인 정보 보호 정책",
+      "submit": "메시지 보내기",
+      "sending": "배상…",
+      "successTitle": "메시지가 전송되었습니다!",
+      "successBody": "문의해 주셔서 감사합니다. 가능한 한 빨리 알려주신 주소로 답변해 드리겠습니다.",
+      "error": "메시지를 보낼 수 없습니다. 다시 시도하거나 직접 이메일을 보내주세요.",
+      "errorMailto": "이메일 보내기",
+      "directEmail": "자신의 메일 앱에서 글쓰기를 선호하시나요?",
+      "backToHome": "홈 페이지로 돌아가기",
+      "meta": {
+        "title": "연락처 – Numblop",
+        "description": "Numblop – 플레이를 통한 구구단에 대한 질문, 아이디어 또는 버그 보고서를 보내주세요."
+      }
+    },
+    "highlights": {
+      "heading": "구구단이 재미있어졌어요",
+      "subheading": "친절한 친구, 섬으로 가득한 지도, 모든 단계가 중요한 짧은 라운드.",
+      "posters": [
+        "Numblop – 재미있는 구구단: 귀여운 친구, 멋진 화장품, 재미있는 환경을 통해 아이들이 학습에 집중할 수 있습니다. 자신의 속도에 맞춰 놀고 배우세요.",
+        "단계별 학습: Numblop은 어려운 사실을 더 자주 반복하고 숙달하도록 안내합니다. 지도는 모든 구구단의 진행 상황을 추적합니다.",
+        "모든 실수는 학습에 도움이 됩니다. 실수 후에는 단지 해결책이 아닌 답을 얻게 됩니다. Numblop은 3 × 5 = 15를 직접 셀 수 있는 점으로 표시합니다.",
+        "흥미진진한 동기 부여: 매 단계마다 보상, 코인, 지도의 새로운 부분을 얻을 수 있습니다. 라운드를 마치면 보물 상자가 열리고 새로운 섬이 잠금 해제됩니다."
+      ]
+    },
+    "steps": {
+      "heading": "발견 → 실천 → 강화 → 해냈어요",
+      "subheading": "4단계 Numblop은 모든 곱셈을 처리합니다.",
+      "items": [
+        {
+          "title": "발견하다",
+          "description": "새로운 사실을 단계별로, 맥락에 맞게 만나보세요. 미지의 세계로 뛰어들 필요가 없습니다."
+        },
+        {
+          "title": "관행",
+          "description": "짧고 유쾌한 라운드는 주의를 끌고 첫 번째 자신감을 형성합니다."
+        },
+        {
+          "title": "강화하다",
+          "description": "더 까다로운 사실은 다시 방문할 때가 되면 정확히 다시 나타납니다."
+        },
+        {
+          "title": "나는 그것을 가지고있다",
+          "description": "기억은 즉각적이고 쉬워집니다. 곱셈은 자동으로 이루어집니다."
+        }
+      ]
+    },
+    "why": {
+      "heading": "발전에 초점을 맞춘 스마트한 실천",
+      "paragraphs": [
+        "Numblop은 어린이들이 구구단을 연습하고, 강화하고, 자동화하는 데 도움이 되는 적응형 학습 게임입니다. 이 게임은 각 어린이의 진행 상황에 맞춰 조정되고, 정기적으로 어려운 사실을 다시 살펴보며, 점차적으로 모든 곱셈 사실을 자신있게 기억할 수 있게 해줍니다.",
+        "아이들은 놀이를 통해 동기를 부여받습니다. 보상을 받고, 지도의 새로운 부분을 발견하고, 자신의 속도에 맞춰 학습합니다. 짧고 친근한 세션은 처벌 없이 실수에 응답합니다. 모든 실수는 연습할 수 있는 또 다른 기회일 뿐입니다."
+      ],
+      "quotes": [
+        "모든 실수는 배우는 데 도움이 됩니다.",
+        "학습은 하나의 여정입니다. 진행 상황을 지켜보세요."
+      ],
+      "features": [
+        {
+          "title": "아이에게 적응한다",
+          "description": "이 게임은 어린이가 이미 알고 있는 사실을 추적하고 연습이 필요한 사실에 집중합니다."
+        },
+        {
+          "title": "보상과 발견",
+          "description": "모든 세션이 완료되면 보상을 받고 탐험할 수 있는 지도의 새로운 부분이 드러납니다."
+        },
+        {
+          "title": "스트레스 없이 나만의 속도로",
+          "description": "카운트다운도 없고 실수에 대한 처벌도 없습니다. 단지 차분하고 꾸준하게 자신감을 키우는 것뿐입니다."
+        }
+      ]
+    },
+    "screenshots": {
+      "heading": "게임 내부 살펴보기",
+      "subheading": "친절한 동반자, 진행 상황 지도, 짧은 연습 라운드입니다.",
+      "captions": [
+        "홈 화면",
+        "진행 상황 지도",
+        "답을 선택하세요",
+        "답변을 입력하세요",
+        "보상 상자",
+        "화장품 아이템"
+      ]
+    },
+    "footer": {
+      "privacy": "진행 상황은 이 기기에 유지됩니다. 계정도 없고, 광고도 없고, 추적도 없습니다.",
+      "privacyLink": "개인 정보 보호 정책",
+      "contactLink": "연락하다",
+      "instagram": "인스타그램",
+      "youtube": "유튜브",
+      "madeIn": "Numblop – 놀이를 통한 구구단"
+    }
+  },
+  "tr": {
+    "meta": {
+      "title": "Numblop – oyun yoluyla çarpım tablosu",
+      "description": "Çarpım tablosunda pratik yapmak ve uzmanlaşmak için uyarlanabilir bir oyun."
+    },
+    "header": {
+      "getIt": "Numblop'u edinin"
+    },
+    "hero": {
+      "name": "Numblop",
+      "tagline": "Çarpma işlemini oyun yoluyla öğrenin",
+      "slogan": "Öğrenme bir yolculuktur; ilerlemenizi izleyin",
+      "shortDescription": "Çarpım tablosunu pratik etmek ve otomatikleştirmek için uyarlanabilir bir oyun. Her çocuğun gelişimine uyum sağlar ve kendinden emin, anında hatırlamayı sağlar.",
+      "badge": "Artık Google Play'de",
+      "googlePlay": "Google Play'den edinin",
+      "playWeb": "Tarayıcınızda oynayın",
+      "privacy": "İlerleme durumu bu cihazda kalır."
+    },
+    "download": {
+      "heading": "Numblop nerede oynanır?",
+      "subheading": "Android'de Google Play'den indirin. iPhone, iPad ve masaüstünde doğrudan tarayıcıdan başlatın; ücretsiz, yükleme yok, kaydolma yok.",
+      "androidTitle": "Android",
+      "androidBody": "Google Play mağazasından tam sürüm. Ücretsiz, reklamsız ve uygulama içi satın alma yok.",
+      "androidCta": "Google Play'den edinin",
+      "webTitle": "iPhone, iPad ve masaüstü",
+      "webBody": "Numblop doğrudan tarayıcıda çalışır. Tıklayın ve oynayın; indirilecek bir şey yok, kaydolacak bir şey yok.",
+      "webCta": "Tarayıcınızda oynayın",
+      "iosNote": "Henüz ayrı bir iOS uygulaması yok. Tarayıcı sürümü tam oyundur.",
+      "bottomHeading": "Bugün pratik yapmaya başlayın",
+      "bottomSubheading": "Numblop'u Google Play'den indirin veya hemen tarayıcınızda deneyin."
+    },
+    "trailer": {
+      "heading": "Fragmanı izle",
+      "subheading": "Numblop'ta çocukları nelerin beklediğine kısa bir bakış: arkadaş canlısı bir arkadaş, adalar haritası ve her adım için bir ödül.",
+      "play": "Fragmanı oynat",
+      "posterAlt": "Hazine sandığının yanında Numblop – karavandan bir kare",
+      "privacyNote": "Video yalnızca siz tıkladıktan sonra YouTube'dan yüklenir. O zamana kadar bu sayfa YouTube'a hiçbir şey göndermeyecektir.",
+      "watchOnYoutube": "YouTube'da izle"
+    },
+    "contact": {
+      "heading": "İletişime geçin",
+      "subheading": "Bir soru mu, oyunla ilgili bir fikir mi, yoksa karşılaştığınız bir hata mı? Bize yazın; her mesajınız okunur.",
+      "nameLabel": "Ad (isteğe bağlı)",
+      "namePlaceholder": "Size ne ad vermeliyiz?",
+      "emailLabel": "E-postanız",
+      "emailPlaceholder": "your.email@example.com",
+      "messageLabel": "Mesaj",
+      "messagePlaceholder": "Nasıl yardımcı olabiliriz?",
+      "consent": "Adresimin ve mesajımın bu soruyu yanıtlamak için kullanılabileceğini kabul ediyorum. Daha fazlası",
+      "consentLink": "gizlilik politikası",
+      "submit": "Mesaj gönder",
+      "sending": "Gönderiliyor…",
+      "successTitle": "Mesaj gönderildi!",
+      "successBody": "Ulaştığınız için teşekkürler. Bize verdiğiniz adrese mümkün olan en kısa sürede yanıt vereceğiz.",
+      "error": "Mesajınızı gönderemedik. Lütfen tekrar deneyin veya doğrudan bize e-posta gönderin:",
+      "errorMailto": "E-posta gönder",
+      "directEmail": "Kendi posta uygulamanızdan yazmayı mı tercih ediyorsunuz?",
+      "backToHome": "Ana sayfaya geri dön",
+      "meta": {
+        "title": "İletişim – Numblop",
+        "description": "Numblop – çarpım tablosu hakkında oyun yoluyla bize bir soru, bir fikir veya bir hata raporu gönderin."
+      }
+    },
+    "highlights": {
+      "heading": "çarpım tablosu eğlenceli hale geldi",
+      "subheading": "Dost canlısı bir dost, adalarla dolu bir harita ve her adımın önemli olduğu kısa turlar.",
+      "posters": [
+        "Numblop – Çarpma artık eğlenceli hale geldi: sevimli bir arkadaş, havalı kozmetikler ve eğlenceli bir ortam, çocukların öğrenmeye devam etmesini sağlıyor. Kendi hızınızda oynayın ve öğrenin.",
+        "Adım adım öğrenin: Numblop daha zor gerçekleri daha sık tekrarlar ve sizi ustalığa yönlendirir. Harita, her çarpım tablosundaki ilerlemeyi izler.",
+        "Her hata öğrenmenize yardımcı olur: Bir hatadan sonra sadece düzeltmeyi değil cevabı da alırsınız. Numblop sizin sayabileceğiniz noktalar olarak 3 × 5 = 15'i gösterir.",
+        "Heyecan verici motivasyon: Her adımda ödüller, paralar ve haritanın yeni bölümlerini kazanırsınız. Tamamlanan turlar bir hazine sandığını açar ve yeni adaların kilidini açar."
+      ]
+    },
+    "steps": {
+      "heading": "Keşfet → Alıştırma → Güçlendir → Anladım",
+      "subheading": "Dört adım Numblop her çarpma işlemini gerçekleştirir.",
+      "items": [
+        {
+          "title": "Keşfetmek",
+          "description": "Yeni gerçeklerle adım adım ve bağlam içinde tanışın; bilinmeyene atlamak yok."
+        },
+        {
+          "title": "Pratik",
+          "description": "Kısa, eğlenceli turlar dikkati çeker ve ilk güveni oluşturur."
+        },
+        {
+          "title": "Güçlendirmek",
+          "description": "Daha aldatıcı gerçekler tam da onları tekrar gözden geçirmenin zamanı geldiğinde ortaya çıkar."
+        },
+        {
+          "title": "bende var",
+          "description": "Geri çağırma anında ve zahmetsiz hale gelir; çarpma işlemi otomatik hale gelir."
+        }
+      ]
+    },
+    "why": {
+      "heading": "İlerlemeye odaklanan daha akıllı uygulama",
+      "paragraphs": [
+        "Numblop, çocukların çarpım tablosunu pratik etmesine, pekiştirmesine ve otomatikleştirmesine yardımcı olan uyarlanabilir bir öğrenme oyunudur. Oyun her çocuğun gelişimine uyum sağlar, daha zor gerçekleri düzenli olarak tekrar gözden geçirir ve yavaş yavaş her çarpma işleminin kendinden emin bir şekilde hatırlanmasına yol açar.",
+        "Çocuklar oyun yoluyla motivasyonlarını korurlar; ödüller toplarlar, haritanın yeni bölümlerini keşfederler ve kendi hızlarında öğrenirler. Kısa, dostane seanslar, hatalara ceza vermeden yanıt verir: her hata, pratik yapmak için başka bir şanstır."
+      ],
+      "quotes": [
+        "Her hata öğrenmenize yardımcı olur.",
+        "Öğrenmek bir yolculuktur; ilerlemenizi izleyin."
+      ],
+      "features": [
+        {
+          "title": "Çocuğa uyum sağlar",
+          "description": "Oyun, çocuğun zaten bildiği gerçekleri takip ediyor ve pratik yapılması gerekenlere odaklanıyor."
+        },
+        {
+          "title": "Ödüller ve keşif",
+          "description": "Tamamlanan her oturum bir ödül kazandırır ve haritanın keşfedilecek yeni bölümlerini ortaya çıkarır."
+        },
+        {
+          "title": "Kendi hızınızda, stres yok",
+          "description": "Geri sayım yok, hataların cezası yok; sadece sakin ve istikrarlı bir güven inşası var."
+        }
+      ]
+    },
+    "screenshots": {
+      "heading": "Oyunun içine bir bakış",
+      "subheading": "Dost canlısı bir arkadaş, bir ilerleme haritası ve kısa alıştırma turları.",
+      "captions": [
+        "Ana ekran",
+        "İlerleme haritası",
+        "Cevabı seç",
+        "Cevabı girin",
+        "Ödül sandığı",
+        "Kozmetik ürünler"
+      ]
+    },
+    "footer": {
+      "privacy": "İlerleme durumu bu cihazda kalır. Hesap yok, reklam yok, takip yok.",
+      "privacyLink": "Gizlilik Politikası",
+      "contactLink": "Temas etmek",
+      "instagram": "instagram",
+      "youtube": "YouTube",
+      "madeIn": "Numblop – oyun yoluyla çarpım tablosu"
+    }
+  },
+  "vi": {
+    "meta": {
+      "title": "Numblop – bảng cửu chương thông qua trò chơi",
+      "description": "Một trò chơi thích ứng để thực hành và thành thạo các bảng cửu chương."
+    },
+    "header": {
+      "getIt": "Nhận tê liệt"
+    },
+    "hero": {
+      "name": "Numblop",
+      "tagline": "Học phép nhân thông qua vui chơi",
+      "slogan": "Học tập là một cuộc hành trình - hãy theo dõi sự tiến bộ của bạn",
+      "shortDescription": "Một trò chơi thích ứng để thực hành và tự động hóa bảng cửu chương. Nó thích ứng với sự tiến bộ của mỗi đứa trẻ và giúp trẻ có thể nhớ lại ngay lập tức một cách tự tin.",
+      "badge": "Hiện có trên Google Play",
+      "googlePlay": "Tải nó trên Google Play",
+      "playWeb": "Chơi trong trình duyệt của bạn",
+      "privacy": "Tiến trình vẫn còn trên thiết bị này."
+    },
+    "download": {
+      "heading": "Chơi Numblop ở đâu",
+      "subheading": "Trên Android, tải xuống từ Google Play. Trên iPhone, iPad và máy tính để bàn, hãy khởi động ngay trong trình duyệt - miễn phí, không cần cài đặt, không cần đăng ký.",
+      "androidTitle": "Android",
+      "androidBody": "Phiên bản đầy đủ từ cửa hàng Google Play. Miễn phí, không có quảng cáo và không mua hàng trong ứng dụng.",
+      "androidCta": "Tải nó trên Google Play",
+      "webTitle": "iPhone, iPad và máy tính để bàn",
+      "webBody": "Numblop chạy ngay trong trình duyệt. Nhấp và chơi – không có gì để tải xuống, không có gì để đăng ký.",
+      "webCta": "Chơi trong trình duyệt của bạn",
+      "iosNote": "Hiện chưa có ứng dụng iOS riêng biệt. Phiên bản trình duyệt là trò chơi đầy đủ.",
+      "bottomHeading": "Bắt đầu luyện tập ngay hôm nay",
+      "bottomSubheading": "Tải xuống Numblop từ Google Play hoặc dùng thử ngay bây giờ trong trình duyệt của bạn."
+    },
+    "trailer": {
+      "heading": "Xem đoạn giới thiệu",
+      "subheading": "Một cái nhìn ngắn gọn về những gì đang chờ đợi trẻ em ở Numblop – một người bạn thân thiện, một bản đồ các hòn đảo và phần thưởng cho mỗi bước đi.",
+      "play": "Chơi đoạn giới thiệu",
+      "posterAlt": "Tê liệt bên cạnh rương kho báu – ảnh tĩnh từ xe kéo",
+      "privacyNote": "Video chỉ tải từ YouTube sau khi bạn nhấp vào. Cho đến lúc đó, trang này không gửi gì tới YouTube.",
+      "watchOnYoutube": "Xem trên YouTube"
+    },
+    "contact": {
+      "heading": "Hãy liên lạc",
+      "subheading": "Một câu hỏi, một ý tưởng cho trò chơi hay một lỗi bạn gặp phải? Viết thư cho chúng tôi - mọi tin nhắn đều được đọc.",
+      "nameLabel": "Tên (tùy chọn)",
+      "namePlaceholder": "Chúng tôi nên gọi bạn là gì?",
+      "emailLabel": "Email của bạn",
+      "emailPlaceholder": "your.email@example.com",
+      "messageLabel": "Tin nhắn",
+      "messagePlaceholder": "Chúng tôi có thể giúp gì?",
+      "consent": "Tôi đồng ý rằng địa chỉ và tin nhắn của tôi có thể được sử dụng để trả lời câu hỏi này. Thêm trong",
+      "consentLink": "chính sách bảo mật",
+      "submit": "Gửi tin nhắn",
+      "sending": "Đang gửi…",
+      "successTitle": "Đã gửi tin nhắn!",
+      "successBody": "Cảm ơn bạn đã liên hệ. Chúng tôi sẽ trả lời địa chỉ bạn đã cung cấp cho chúng tôi ngay khi có thể.",
+      "error": "Chúng tôi không thể gửi tin nhắn của bạn. Vui lòng thử lại hoặc gửi email trực tiếp cho chúng tôi:",
+      "errorMailto": "Gửi email",
+      "directEmail": "Thích viết từ ứng dụng thư của riêng bạn?",
+      "backToHome": "Quay lại trang chủ",
+      "meta": {
+        "title": "Liên hệ – Numblop",
+        "description": "Gửi cho chúng tôi câu hỏi, ý tưởng hoặc báo cáo lỗi về Numblop – bảng cửu chương thông qua trò chơi."
+      }
+    },
+    "highlights": {
+      "heading": "bảng cửu chương vui nhộn",
+      "subheading": "Một người bạn thân thiện, một bản đồ đầy những hòn đảo và những vòng đấu ngắn mà mỗi bước đều có giá trị.",
+      "posters": [
+        "Numblop – Phép nhân trở nên thú vị: một người bạn dễ thương, những món đồ trang điểm thú vị và một môi trường vui tươi giúp trẻ hứng thú học tập. Chơi và học theo tốc độ của riêng bạn.",
+        "Học từng bước: Numblop lặp lại những sự kiện khó hơn thường xuyên hơn và hướng dẫn bạn thành thạo. Bản đồ theo dõi tiến trình qua từng bảng cửu chương.",
+        "Mỗi sai lầm đều giúp bạn học hỏi: sau một sai lầm, bạn sẽ nhận được câu trả lời chứ không chỉ là cách khắc phục. Numblop hiển thị 3 × 5 = 15 dưới dạng các dấu chấm mà bạn có thể tự đếm.",
+        "Động lực phấn khích: với mỗi bước bạn kiếm được phần thưởng, tiền xu và các phần mới của bản đồ. Các vòng chơi kết thúc sẽ mở ra rương kho báu và mở khóa những hòn đảo mới."
+      ]
+    },
+    "steps": {
+      "heading": "Khám phá → Thực hành → Củng cố → Tôi hiểu rồi",
+      "subheading": "Bốn bước Numblop thực hiện mọi phép tính nhân.",
+      "items": [
+        {
+          "title": "Phát hiện",
+          "description": "Gặp gỡ các sự kiện mới từng bước và trong bối cảnh – không nhảy vào những điều chưa biết."
+        },
+        {
+          "title": "Luyện tập",
+          "description": "Các vòng chơi ngắn, vui tươi sẽ thu hút sự chú ý và tạo dựng sự tự tin ban đầu."
+        },
+        {
+          "title": "củng cố",
+          "description": "Những sự thật phức tạp hơn sẽ quay trở lại đúng lúc đến lúc phải xem lại chúng."
+        },
+        {
+          "title": "Tôi đã có nó",
+          "description": "Việc nhớ lại trở nên nhanh chóng và dễ dàng – phép nhân biến thành tự động."
+        }
+      ]
+    },
+    "why": {
+      "heading": "Thực hành thông minh hơn tập trung vào sự tiến bộ",
+      "paragraphs": [
+        "Numblop là một trò chơi học tập thích ứng giúp trẻ luyện tập, củng cố và tự động hóa bảng cửu chương. Trò chơi thích ứng với sự tiến bộ của mỗi đứa trẻ, thường xuyên xem lại các phép tính khó hơn và dần dần giúp trẻ tự tin nhớ lại mọi phép tính nhân.",
+        "Trẻ em luôn có động lực thông qua vui chơi – thu thập phần thưởng, khám phá những phần mới trên bản đồ và học theo tốc độ của riêng mình. Những buổi học ngắn, thân thiện sẽ giải quyết những sai lầm mà không bị trừng phạt: mỗi sai lầm chỉ là một cơ hội khác để thực hành."
+      ],
+      "quotes": [
+        "Mỗi sai lầm đều giúp bạn học hỏi.",
+        "Học tập là một cuộc hành trình - hãy theo dõi sự tiến bộ của bạn."
+      ],
+      "features": [
+        {
+          "title": "Thích ứng với con",
+          "description": "Trò chơi theo dõi những sự kiện mà trẻ đã biết và tập trung vào những sự kiện cần thực hành."
+        },
+        {
+          "title": "Phần thưởng và khám phá",
+          "description": "Mỗi phiên kết thúc sẽ nhận được phần thưởng và tiết lộ những phần mới của bản đồ để khám phá."
+        },
+        {
+          "title": "Nhịp độ riêng, không căng thẳng",
+          "description": "Không đếm ngược, không trừng phạt khi phạm sai lầm – chỉ cần bình tĩnh, vững vàng xây dựng sự tự tin."
+        }
+      ]
+    },
+    "screenshots": {
+      "heading": "Một cái nhìn bên trong trò chơi",
+      "subheading": "Người bạn đồng hành thân thiện, bản đồ tiến bộ và các vòng luyện tập ngắn.",
+      "captions": [
+        "Màn hình chính",
+        "Bản đồ tiến độ",
+        "Chọn câu trả lời",
+        "Nhập câu trả lời",
+        "Rương thưởng",
+        "Mặt hàng mỹ phẩm"
+      ]
+    },
+    "footer": {
+      "privacy": "Tiến trình vẫn còn trên thiết bị này. Không có tài khoản, không có quảng cáo, không theo dõi.",
+      "privacyLink": "Chính sách bảo mật",
+      "contactLink": "Liên hệ",
+      "instagram": "Instagram",
+      "youtube": "YouTube",
+      "madeIn": "Numblop – bảng cửu chương thông qua trò chơi"
+    }
+  },
+  "id": {
+    "meta": {
+      "title": "Numblop – tabel perkalian melalui permainan",
+      "description": "Sebuah permainan adaptif untuk berlatih dan menguasai tabel perkalian."
+    },
+    "header": {
+      "getIt": "Dapatkan Numblop"
+    },
+    "hero": {
+      "name": "Numblop",
+      "tagline": "Pelajari perkalian melalui bermain",
+      "slogan": "Belajar adalah sebuah perjalanan – perhatikan kemajuan Anda",
+      "shortDescription": "Sebuah permainan adaptif untuk berlatih dan mengotomatiskan tabel perkalian. Ini beradaptasi dengan kemajuan setiap anak dan mengarah pada ingatan instan dan percaya diri.",
+      "badge": "Sekarang di Google Play",
+      "googlePlay": "Dapatkan di Google Play",
+      "playWeb": "Mainkan di browser Anda",
+      "privacy": "Kemajuan tetap ada pada perangkat ini."
+    },
+    "download": {
+      "heading": "Tempat bermain Numblop",
+      "subheading": "Di Android, unduh dari Google Play. Di iPhone, iPad, dan desktop, mulai langsung di browser – gratis, tanpa instalasi, tanpa registrasi.",
+      "androidTitle": "Android",
+      "androidBody": "Versi lengkap dari Google Play Store. Gratis, tanpa iklan dan tanpa pembelian dalam aplikasi.",
+      "androidCta": "Dapatkan di Google Play",
+      "webTitle": "iPhone, iPad, dan desktop",
+      "webBody": "Numblop berjalan langsung di browser. Klik dan mainkan – tidak ada yang perlu diunduh, tidak ada yang perlu didaftarkan.",
+      "webCta": "Mainkan di browser Anda",
+      "iosNote": "Belum ada aplikasi iOS terpisah. Versi browser adalah permainan lengkap.",
+      "bottomHeading": "Mulailah berlatih hari ini",
+      "bottomSubheading": "Unduh Numblop dari Google Play, atau coba sekarang juga di browser Anda."
+    },
+    "trailer": {
+      "heading": "Tonton trailernya",
+      "subheading": "Sekilas tentang apa yang menanti anak-anak di Numblop – teman yang ramah, peta pulau, dan hadiah untuk setiap langkah.",
+      "play": "Putar trailernya",
+      "posterAlt": "Numblop di samping peti harta karun – potongan gambar dari trailer",
+      "privacyNote": "Video dimuat dari YouTube hanya setelah Anda mengeklik. Sampai saat itu, laman ini tidak mengirimkan apa pun ke YouTube.",
+      "watchOnYoutube": "Tonton di YouTube"
+    },
+    "contact": {
+      "heading": "Hubungi kami",
+      "subheading": "Sebuah pertanyaan, ide untuk game tersebut, atau bug yang Anda temui? Kirimkan surat kepada kami – setiap pesan dibaca.",
+      "nameLabel": "Nama (opsional)",
+      "namePlaceholder": "Kami harus memanggilmu apa?",
+      "emailLabel": "email Anda",
+      "emailPlaceholder": "your.email@example.com",
+      "messageLabel": "Pesan",
+      "messagePlaceholder": "Apa yang bisa kami bantu?",
+      "consent": "Saya setuju bahwa alamat dan pesan saya dapat digunakan untuk menjawab pertanyaan ini. Lebih lanjut di",
+      "consentLink": "kebijakan privasi",
+      "submit": "Kirim pesan",
+      "sending": "Mengirim…",
+      "successTitle": "Pesan terkirim!",
+      "successBody": "Terima kasih telah menghubungi kami. Kami akan membalas alamat yang Anda berikan kepada kami sesegera mungkin.",
+      "error": "Kami tidak dapat mengirimkan pesan Anda. Silakan coba lagi, atau kirim email langsung kepada kami:",
+      "errorMailto": "Kirim email",
+      "directEmail": "Lebih suka menulis dari aplikasi email Anda sendiri?",
+      "backToHome": "Kembali ke halaman beranda",
+      "meta": {
+        "title": "Kontak – Mati rasa",
+        "description": "Kirimi kami pertanyaan, ide, atau laporan bug tentang Numblop – tabel perkalian melalui permainan."
+      }
+    },
+    "highlights": {
+      "heading": "tabel perkalian menjadi menyenangkan",
+      "subheading": "Teman yang ramah, peta penuh pulau, dan putaran singkat di mana setiap langkah berarti.",
+      "posters": [
+        "Numblop – Perkalian menjadi menyenangkan: teman yang lucu, kosmetik yang keren, dan lingkungan yang menyenangkan membuat anak-anak tetap terlibat dalam pembelajaran. Mainkan dan pelajari dengan kecepatan Anda sendiri.",
+        "Pelajari langkah demi langkah: Numblop mengulangi fakta yang lebih sulit lebih sering dan memandu Anda menuju penguasaan. Peta melacak kemajuan melalui setiap tabel perkalian.",
+        "Setiap kesalahan membantu Anda belajar: setelah kesalahan Anda mendapatkan jawabannya, bukan hanya perbaikannya. Numblop menunjukkan 3 × 5 = 15 sebagai titik yang dapat Anda hitung sendiri.",
+        "Motivasi yang menggairahkan: dengan setiap langkah Anda mendapatkan hadiah, koin, dan bagian baru dari peta. Putaran yang selesai membuka peti harta karun dan membuka pulau-pulau baru."
+      ]
+    },
+    "steps": {
+      "heading": "Temukan → Latihan → Perkuat → Saya mengerti",
+      "subheading": "Empat langkah yang dilakukan Numblop dalam setiap fakta perkalian.",
+      "items": [
+        {
+          "title": "Menemukan",
+          "description": "Temukan fakta-fakta baru selangkah demi selangkah dan sesuai konteks – jangan melompat ke hal yang tidak diketahui."
+        },
+        {
+          "title": "Praktik",
+          "description": "Putaran singkat dan menyenangkan akan menarik perhatian dan membangun kepercayaan diri pertama."
+        },
+        {
+          "title": "Memperkuat",
+          "description": "Fakta-fakta yang lebih rumit muncul kembali tepat pada saat tiba waktunya untuk meninjaunya kembali."
+        },
+        {
+          "title": "Saya mengerti",
+          "description": "Pengulangan menjadi instan dan mudah – perkalian menjadi otomatis."
+        }
+      ]
+    },
+    "why": {
+      "heading": "Latihan yang lebih cerdas berfokus pada kemajuan",
+      "paragraphs": [
+        "Numblop adalah permainan pembelajaran adaptif yang membantu anak-anak berlatih, memperkuat, dan mengotomatiskan tabel perkalian. Permainan ini beradaptasi dengan kemajuan setiap anak, secara teratur meninjau kembali fakta-fakta yang lebih sulit, dan secara bertahap mengarah pada ingatan yang percaya diri tentang setiap fakta perkalian.",
+        "Anak-anak tetap termotivasi melalui permainan – mengumpulkan hadiah, mengungkap bagian baru dari peta, dan belajar sesuai kecepatan mereka sendiri. Sesi singkat dan bersahabat merespons kesalahan tanpa hukuman: setiap kesalahan hanyalah kesempatan untuk berlatih."
+      ],
+      "quotes": [
+        "Setiap kesalahan membantu Anda belajar.",
+        "Belajar adalah sebuah perjalanan – perhatikan kemajuan Anda."
+      ],
+      "features": [
+        {
+          "title": "Beradaptasi dengan anak",
+          "description": "Permainan ini melacak fakta mana yang sudah diketahui anak dan berfokus pada fakta yang memerlukan latihan."
+        },
+        {
+          "title": "Hadiah dan penemuan",
+          "description": "Setiap sesi yang selesai mendapatkan hadiah dan menampilkan bagian peta baru untuk dijelajahi."
+        },
+        {
+          "title": "Kecepatannya sendiri, tanpa stres",
+          "description": "Tidak ada hitungan mundur, tidak ada hukuman atas kesalahan – yang ada hanyalah membangun kepercayaan diri dengan tenang dan mantap."
+        }
+      ]
+    },
+    "screenshots": {
+      "heading": "Sekilas tentang permainan",
+      "subheading": "Pendamping yang ramah, peta kemajuan, dan putaran latihan singkat.",
+      "captions": [
+        "Layar beranda",
+        "Peta kemajuan",
+        "Pilih jawabannya",
+        "Masukkan jawabannya",
+        "Hadiahi peti",
+        "Barang kosmetik"
+      ]
+    },
+    "footer": {
+      "privacy": "Kemajuan tetap ada pada perangkat ini. Tanpa akun, tanpa iklan, tanpa pelacakan.",
+      "privacyLink": "Kebijakan Privasi",
+      "contactLink": "Kontak",
+      "instagram": "Instagram",
+      "youtube": "YouTube",
+      "madeIn": "Numblop – tabel perkalian melalui permainan"
+    }
   }
 }

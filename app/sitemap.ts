@@ -26,6 +26,13 @@ export const dynamic = 'force-static'
 type Entry = MetadataRoute.Sitemap[number]
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  const linksPage: Entry = {
+    url: `${SITE_URL}/links/`,
+    lastModified: revisions.links,
+    changeFrequency: 'monthly',
+    priority: 0.7,
+  }
+
   // Routes that share one path across every locale.
   const sharedPages = [
     {
@@ -92,5 +99,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   )
 
-  return [...shared, ...guides, ...blogIndexes, ...articles]
+  return [linksPage, ...shared, ...guides, ...blogIndexes, ...articles]
 }

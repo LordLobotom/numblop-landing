@@ -25,10 +25,41 @@ import { fr } from './locales/fr'
 import { nb } from './locales/nb'
 import { pl } from './locales/pl'
 import { sv } from './locales/sv'
+import ptBR from './locales/pt-BR.json'
+import ptPT from './locales/pt-PT.json'
+import it from './locales/it.json'
+import da from './locales/da.json'
+import nl from './locales/nl.json'
+import ja from './locales/ja.json'
+import ko from './locales/ko.json'
+import tr from './locales/tr.json'
+import vi from './locales/vi.json'
+import id from './locales/id.json'
 
 export * from './types'
 
-const catalog: ContentCatalog = { cs, en, sk, de, es, fi, fr, nb, pl, sv }
+const catalog: ContentCatalog = {
+  cs,
+  en,
+  sk,
+  de,
+  es,
+  fi,
+  fr,
+  nb,
+  pl,
+  sv,
+  'pt-BR': ptBR as LocaleContent,
+  'pt-PT': ptPT as LocaleContent,
+  it: it as LocaleContent,
+  da: da as LocaleContent,
+  nl: nl as LocaleContent,
+  ja: ja as LocaleContent,
+  ko: ko as LocaleContent,
+  tr: tr as LocaleContent,
+  vi: vi as LocaleContent,
+  id: id as LocaleContent,
+}
 
 export function getLocaleContent(locale: Locale): LocaleContent {
   return catalog[locale]

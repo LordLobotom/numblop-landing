@@ -1,7 +1,7 @@
 // Regenerates web-optimized assets from the Numblop game repo's source art.
 // Usage: node tools/prepare-assets.mjs [path-to-Numblop-repo]
 import sharp from 'sharp'
-import { mkdir } from 'node:fs/promises'
+import { access, mkdir } from 'node:fs/promises'
 import path from 'node:path'
 
 const numblopRepo = process.argv[2] ?? path.resolve(import.meta.dirname, '../../Numblop')
@@ -18,7 +18,8 @@ await mkdir(pub('posts'), { recursive: true })
 await mkdir(pub('languages'), { recursive: true })
 
 // Keep the website language picker visually identical to the game. Norwegian
-// uses the Bokmål locale code (`nb`), matching the game's locale catalog.
+// uses Bokmål (`nb`); Portuguese keeps its regional BCP 47 locale because the
+// Brazilian and Portuguese editions have separate copy and flag artwork.
 const languageFlags = {
   en: 'english',
   cs: 'czech',
@@ -30,10 +31,30 @@ const languageFlags = {
   nb: 'norway',
   pl: 'poland',
   sv: 'sweden',
+  'pt-BR': 'brazil',
+  'pt-PT': 'portugal',
+  it: 'italy',
+  da: 'denmark',
+  nl: 'netherlands',
+  ja: 'japan',
+  ko: 'south-korea',
+  tr: 'turkey',
+  vi: 'vietnam',
+  id: 'indonesia',
 }
 
 for (const [locale, source] of Object.entries(languageFlags)) {
-  await sharp(path.join(numblopRepo, 'ui/buttons', `button_language_${source}.png`))
+  let sourcePath = path.join(numblopRepo, 'ui/buttons', `button_language_${source}.png`)
+  if (locale === 'da') {
+    // Transitional fallback until the typo is renamed in the game repository.
+    // Prefer the corrected filename as soon as it exists.
+    try {
+      await access(sourcePath)
+    } catch {
+      sourcePath = path.join(numblopRepo, 'ui/buttons', 'button_languega_denmark.png')
+    }
+  }
+  await sharp(sourcePath)
     .resize({ width: 96, height: 96 })
     .png({ compressionLevel: 9 })
     .toFile(pub(path.join('languages', `${locale}.png`)))

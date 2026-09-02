@@ -11,7 +11,9 @@
 // in the source rather than an env var on purpose: deploy/update-landing.sh
 // builds on the server, where a missing .env.local would silently ship a dead
 // form.
-// Issued for emichalgut@gmail.com — that is where messages arrive.
+// The relay may intentionally deliver to a different private inbox than the
+// public CONTACT_EMAIL below. Changing the displayed address does not change
+// where Web3Forms delivers messages.
 export const WEB3FORMS_ACCESS_KEY = '7735b6f3-93ee-4bc9-9798-0ba91fd5518b'
 
 export const WEB3FORMS_ENDPOINT = 'https://api.web3forms.com/submit'
@@ -22,4 +24,4 @@ export const CONTACT_SUBJECT = 'Numblop – message from the website'
 
 // Fallback shown when the relay is unreachable, so nobody hits a dead end. Same
 // inbox the access key delivers to.
-export const CONTACT_EMAIL = 'emichalgut@gmail.com'
+export const CONTACT_EMAIL = 'numblop@gutcloud.cz'

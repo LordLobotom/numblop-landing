@@ -1,7 +1,8 @@
-import { Facebook, Instagram, ShieldCheck, Youtube } from 'lucide-react'
+import { Facebook, Instagram, Music2, ShieldCheck, Youtube } from 'lucide-react'
 import {
   FACEBOOK_URL,
   INSTAGRAM_URL,
+  TIKTOK_URL,
   YOUTUBE_CHANNEL_URL,
 } from '@/lib/links'
 import { blogPath, getLocaleContent, guideLinks } from '@/lib/content'
@@ -50,6 +51,15 @@ export function SiteFooter({
           >
             <Youtube className="h-5 w-5" aria-hidden="true" />
             {dict.footer.youtube}
+          </a>
+          <a
+            href={TIKTOK_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 font-medium text-accent hover:underline"
+          >
+            <Music2 className="h-5 w-5" aria-hidden="true" />
+            TikTok
           </a>
         </div>
         {/* Kept to the three guides plus the blog. Enough for a crawler to

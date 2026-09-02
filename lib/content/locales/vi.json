@@ -1,0 +1,597 @@
+{
+  "faq": {
+    "heading": "Câu hỏi thường gặp",
+    "subheading": "Numblop là gì, nó dành cho ai và bạn có thể chơi nó ở đâu.",
+    "items": [
+      {
+        "question": "Numblop là gì?",
+        "answer": "Numblop là một trò chơi học tập thích ứng miễn phí để thực hành bảng cửu chương. Trẻ em chơi các vòng ngắn, trò chơi theo dõi những sự kiện chúng đã biết và đưa những câu khó trở lại thường xuyên hơn cho đến khi việc nhớ lại trở nên tự động."
+      },
+      {
+        "question": "Numblop dành cho ai?",
+        "answer": "Chủ yếu là các em đang học hoặc củng cố bảng cửu chương, từ độ tuổi trở đi đã được đưa vào trường học phép nhân. Cha mẹ, giáo viên và các gia đình dạy học tại nhà cũng sử dụng nó như một cách để duy trì việc luyện tập trong thời gian ngắn và ít áp lực ở nhà."
+      },
+      {
+        "question": "Thực hành phép nhân thích ứng hoạt động như thế nào?",
+        "answer": "Thay vì hỏi mọi sự kiện thường xuyên như nhau, Numblop theo dõi diễn biến của từng sự việc và quay lại những sự thật vẫn cần tiếp tục làm việc. Những sự thật mà đứa trẻ trả lời một cách tự tin ít xuất hiện hơn; những cái chậm hoặc sai sẽ quay lại sớm hơn. Bản đồ tiến trình hiển thị vị trí hiện tại của mỗi bảng cửu chương."
+      },
+      {
+        "question": "Numblop có sẵn trên Android không?",
+        "answer": "Đúng. Numblop có trên Google Play, miễn phí, không có quảng cáo và không mua hàng trong ứng dụng."
+      },
+      {
+        "question": "Numblop có sẵn trên iOS không?",
+        "answer": "Chưa. Không có ứng dụng iPhone hoặc iPad riêng biệt. Thay vào đó, trò chơi đầy đủ chạy trên trình duyệt, vì vậy nó hoạt động trên iOS và trên máy tính để bàn mà không cần cài đặt cũng như không cần đăng ký."
+      },
+      {
+        "question": "Numblop chỉ là một bài kiểm tra?",
+        "answer": "Không. Trả lời các câu hỏi chỉ là một phần trong đó. Numblop kết hợp thực hành phép nhân với sự tiến triển trên bản đồ các hòn đảo, phần thưởng và tiền xu, vật phẩm mỹ phẩm để thu thập và cơ chế trò chơi khiến một phiên chơi trở nên đáng giá. Những sai lầm nhận được một lời giải thích hơn là một hình phạt."
+      }
+    ]
+  },
+  "ui": {
+    "blog": "Blog",
+    "guides": "Hướng dẫn",
+    "home": "Trang chủ",
+    "blogTitle": "Blog Numblop",
+    "blogIntro": "Bài viết thực tế về việc học phép nhân và làm toán ở nhà — dành cho phụ huynh, giáo viên và các gia đình dạy học tại nhà.",
+    "blogMetaTitle": "Blog: học phép nhân ở nhà – Numblop",
+    "blogMetaDescription": "Các bài viết thực tế về cách luyện bảng cửu chương, làm toán thông qua vui chơi và theo dõi sự tiến bộ của trẻ ở nhà.",
+    "relatedHeading": "Tiếp tục đọc",
+    "readMore": "Đọc bài viết",
+    "published": "Đã xuất bản",
+    "updated": "Đã cập nhật",
+    "readingTime": "{n} phút đọc",
+    "breadcrumbLabel": "vụn bánh mì",
+    "takeawaysHeading": "Phiên bản ngắn",
+    "backToBlog": "Quay lại blog"
+  },
+  "pages": [
+    {
+      "id": "practice",
+      "slug": "luyen-tap-bang-cuu-chuong",
+      "title": "Cách luyện bảng cửu chương để ghi nhớ lâu",
+      "metaTitle": "thực hành bảng cửu chương: một kế hoạch thực sự hiệu quả – Numblop",
+      "metaDescription": "Cách thực hành bảng cửu chương với con bạn: các buổi học ngắn hàng ngày, những sự kiện nào đáng được chú ý nhất và cách chuyển từ đếm sang nhớ lại ngay lập tức.",
+      "linkLabel": "luyện tập bảng cửu chương",
+      "excerpt": "Các buổi học ngắn hàng ngày, những sự thật thực sự cần nỗ lực và cách phân biệt việc đếm với việc nhớ lại thực tế.",
+      "updated": "2026-09-02",
+      "image": {
+        "src": "/posts/step-by-step-en.webp",
+        "alt": "Bản đồ tiến trình của Numblop, hiển thị từng bảng cửu chương tiến lên từng bước",
+        "width": 720,
+        "height": 900
+      },
+      "intro": [
+        "Hầu hết trẻ em gặp bảng cửu chương ở đâu đó vào khoảng năm thứ hai hoặc thứ ba ở trường, và hầu hết chúng đều đạt được điều đó cuối cùng. Điều khác biệt lớn nhất là phải mất bao lâu và mức độ khó chịu trong quá trình thực hiện.",
+        "Sự khác biệt thường không phải là tài năng. Đó là cách tổ chức việc thực hành: mỗi buổi học diễn ra trong bao lâu, tần suất diễn ra như thế nào, sự kiện nào thu hút sự chú ý và liệu trẻ có hiểu phép nhân nghĩa là gì hay không trước khi được yêu cầu nhớ lại nhanh chóng."
+      ],
+      "sections": [
+        {
+          "heading": "Tại sao bảng cửu chương thông thạo lại đáng nỗ lực",
+          "blocks": [
+            {
+              "p": "Các phép nhân không phải là mục đích của toán học, nhưng chúng nằm bên dưới rất nhiều vấn đề của toán học. Các phép nhân, chia, phân số, tỷ lệ, tỷ lệ phần trăm và đại số sau này đều cho rằng 7 × 8 xuất hiện mà không cần suy nghĩ về nó."
+            },
+            {
+              "p": "Khi khả năng nhớ lại chậm, trẻ sẽ dành sự chú ý vào số học thay vì vào bài toán trước mặt. Môn toán không quá khó đối với họ; đơn giản là không còn gì để suy nghĩ nữa. Làm cho sự thật trở nên tự động là cách giải phóng sự chú ý đó."
+            }
+          ]
+        },
+        {
+          "heading": "Sự hiểu biết đi trước tốc độ",
+          "blocks": [
+            {
+              "p": "Một đứa trẻ không biết 6 × 4 nghĩa là gì thì sẽ không có gì để dựa vào câu trả lời. Họ vẫn có thể ghi nhớ âm thanh của nó, nhưng trí nhớ rất mong manh và nó sẽ sụp đổ dưới áp lực hoặc sau kỳ nghỉ học."
+            },
+            {
+              "p": "Trước khi khoan một bảng, bạn nên dành một chút thời gian để tìm hiểu phép nhân thực sự là gì: các nhóm, hàng và cột bằng nhau, phép cộng lặp lại. Bốn hàng sáu quầy, sáu bậc bốn trên trục số, một dãy vẽ trên giấy hình vuông. Một khi một đứa trẻ có thể xây dựng lại một sự thật mà chúng đã quên, việc quên đó không còn là một cuộc khủng hoảng nữa."
+            },
+            {
+              "p": "Đây cũng là lý do tại sao việc giải thích một câu trả lời sai lại tốt hơn việc sửa nó. Bị nói “không, bây giờ là 24” chẳng có tác dụng gì. Việc nhìn thấy hình 6 × 4 được sắp xếp thành bốn nhóm sáu người sẽ giúp trẻ có cơ hội quay lại hình đó vào lần sau."
+            }
+          ]
+        },
+        {
+          "heading": "Nhịp ngắn và thường xuyên dài và hiếm",
+          "blocks": [
+            {
+              "p": "Một buổi tập 20 phút mỗi tuần một lần còn tệ hơn năm phút mỗi ngày, mặc dù tổng thời gian đó nhiều hơn. Khả năng nhớ lại được cải thiện nhờ số lần nhớ lại một sự kiện riêng biệt, chứ không phải theo số phút dành cho một lần ngồi. Việc giãn cách thời gian thực hành cũng tạo cơ hội cho việc quên xảy ra và việc lấy lại thứ gì đó mà bạn suýt quên là điều khiến trí nhớ bền bỉ."
+            },
+            {
+              "p": "Năm đến mười phút là đủ cho hầu hết trẻ em ở độ tuổi này. Nó đủ ngắn để bạn có thể tập trung xuyên suốt, đủ ngắn để không cần phải thương lượng và đủ ngắn để phù hợp với một ngày đã có bài tập về nhà."
+            },
+            {
+              "list": [
+                "Hãy đặt mục tiêu cho hầu hết các ngày thay vì mỗi ngày - một buổi học bị bỏ lỡ không có nghĩa là bạn thất bại.",
+                "Hãy dừng lại khi nó vẫn đang diễn ra tốt đẹp chứ không phải khi đã hết sự chú ý.",
+                "Giữ vị trí có thể đoán trước được để nó trở thành thói quen chứ không phải là một quyết định."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Những sự thật nào thực sự cần thực hành",
+          "blocks": [
+            {
+              "p": "Lưới nhân đầy đủ lên đến mười trông giống như một trăm sự kiện. Trong thực tế nó ít hơn nhiều. Bất cứ điều gì nhân với 1 hoặc 10 đều là quy luật hơn là thực tế. Những người 2, 5 và 4 có xu hướng đến sớm. Và bởi vì 7 × 8 và 8 × 7 là cùng một thực tế, nên một nửa lưới là bản sao của nửa còn lại."
+            },
+            {
+              "p": "Những gì còn lại là một nhóm nhỏ, bướng bỉnh mà hầu hết mọi đứa trẻ đều phải vật lộn - điển hình là ở giữa các bàn 6, 7, 8 và 12. Đó là những cái đáng để quay lại nhiều lần và chúng chính xác là những cái mà bạn xem xét từ đầu đến cuối các bảng đang thực hành."
+            },
+            {
+              "p": "Việc thực hành toàn bộ mạng lưới sẽ lãng phí phần lớn thời gian của buổi học vào những sự kiện mà trẻ đã biết. Chỉ luyện tập những cái yếu sẽ làm mất tinh thần và đánh mất những chiến thắng dễ dàng. Sự kết hợp hữu ích chủ yếu là những thông tin yếu kém với đủ những thông tin đã biết được khuấy động để giữ cho phiên giao dịch có cảm giác có thể thắng được."
+            }
+          ]
+        },
+        {
+          "heading": "Trộn các sự kiện mới với những sự kiện cũ",
+          "blocks": [
+            {
+              "p": "Học một bàn riêng biệt sẽ tạo ra một đứa trẻ có thể đọc số 7 theo thứ tự và vẫn dừng lại ở 7 × 6 khi nó tự xuất hiện. Thứ tự trở thành một phần của bộ nhớ và thứ tự không có sẵn trong các bài toán thực tế."
+            },
+            {
+              "p": "Khi một bảng đã được giới thiệu, hãy kết hợp nó ngay với mọi thứ đã học trước đó. Thực hành xáo trộn có vẻ khó hơn vào lúc này và tạo ra khả năng ghi nhớ tốt hơn sau đó - trẻ phải xác định sự việc trước khi trả lời, đó chính xác là kỹ năng cần thiết sau này."
+            }
+          ]
+        },
+        {
+          "heading": "Từ đếm đến thu hồi tức thì",
+          "blocks": [
+            {
+              "p": "Có một giai đoạn trẻ nhận được câu trả lời đúng nhưng vẫn đạt được bằng cách đếm, cộng từ một dữ kiện gần đó hoặc tính 6 × 7 bằng 6 × 6 cộng 6. Đó là sự tiến bộ thực sự và là dấu hiệu tốt của sự hiểu biết. Nó vẫn chưa trôi chảy."
+            },
+            {
+              "p": "Tín hiệu cần quan sát không phải là độ chính xác mà là sự do dự. Một sự thật thực sự tự động khi câu trả lời đến trong vài giây, không theo thứ tự, vào một ngày khi đứa trẻ mệt mỏi và không có sự tạm dừng rõ ràng để tính toán. Đến lúc đó nó vẫn trả bài tập dù đáp án đúng."
+            },
+            {
+              "p": "Đây là lúc mà việc xác định thời điểm sẽ có ích - nhưng như một thước đo chứ không phải là một mối đe dọa. Một chiếc đồng hồ bấm giờ trừng phạt sự chậm chạp sẽ tạo thêm áp lực ở đúng nơi mà trẻ đã cảm nhận được. Việc lặng lẽ chú ý đến những sự kiện nào đến từ từ và thực hành những điều đó nhiều hơn cũng có tác dụng tương tự mà không phải trả giá."
+            }
+          ]
+        },
+        {
+          "heading": "Một thói quen thực hành được duy trì",
+          "blocks": [
+            {
+              "p": "Không có gì ở đây là phức tạp. Khó khăn là việc duy trì nó trong nhiều tháng thực sự kéo dài, đây là vấn đề về động lực hơn là vấn đề giảng dạy."
+            },
+            {
+              "list": [
+                "Năm đến mười phút, hầu hết các ngày, vào thời điểm có thể dự đoán được.",
+                "Giới thiệu một bảng mới với các đối tượng hoặc một mảng trước khi truy sâu vào bảng đó.",
+                "Kết hợp những kiến ​​thức mới với những kiến ​​thức đã học trước đó thay vì chỉ luyện tập một bảng.",
+                "Dành phần lớn thời gian của buổi học để tìm hiểu những thông tin chậm hoặc sai.",
+                "Giải thích những sai lầm thay vì chỉ sửa chúng.",
+                "Theo dõi tiến trình ở nơi nào đó có thể nhìn thấy được, để trẻ có thể thấy đống thông tin chưa biết đang thu hẹp lại."
+              ]
+            }
+          ]
+        }
+      ],
+      "cta": {
+        "heading": "Thực hành tự chạy",
+        "body": "Numblop thực hiện phần việc ghi sổ của tất cả những điều này: nó theo dõi những thông tin mà một đứa trẻ có, trộn lẫn những thông tin mới với những thông tin cũ và quay lại những thông tin yếu kém thường xuyên hơn - trong các hiệp đấu ngắn, không tính giờ hoặc hình phạt."
+      }
+    },
+    {
+      "id": "play",
+      "slug": "tro-choi-toan-hoc-cho-tre-em",
+      "title": "Trò chơi toán học dành cho trẻ em: học thông qua chơi mà thực sự dạy",
+      "metaTitle": "Trò chơi toán học thực sự dạy trẻ em – Numblop",
+      "metaDescription": "Cách phân biệt một trò chơi toán học mang tính giáo dục với một câu đố có đồ họa hoạt hình, những gì cần tìm, những gì cần tránh và những trò chơi nào hoạt động xa màn hình.",
+      "linkLabel": "Trò chơi toán học cho trẻ em",
+      "excerpt": "Điều gì tạo nên sự khác biệt giữa một trò chơi dạy toán với một bài tập có hiệu ứng âm thanh — và cách chọn một trò chơi.",
+      "updated": "2026-09-02",
+      "image": {
+        "src": "/posts/multiplication-fun-en.webp",
+        "alt": "Nhân vật Numblop trong môi trường trò chơi vui nhộn với các vật phẩm có thể sưu tập được",
+        "width": 720,
+        "height": 900
+      },
+      "intro": [
+        "“Học thông qua chơi” bao gồm mọi thứ, từ trò chơi được thiết kế đẹp mắt đến bảng tính có đường viền hoạt hình. Cả hai đều được bán theo cùng một cách, vì vậy cần biết điều gì thực sự phân biệt chúng.",
+        "Câu hỏi hữu ích không phải là trò chơi có vui hay không. Đó là liệu niềm vui và môn toán có phải là một hoạt động giống nhau hay liệu môn toán có phải là một khoản phí mà đứa trẻ phải trả để quay lại với niềm vui hay không."
+      ],
+      "sections": [
+        {
+          "heading": "Điều gì khiến trò chơi toán học mang tính giáo dục",
+          "blocks": [
+            {
+              "p": "Trong trò chơi dạy học, suy nghĩ chính là trò chơi. Việc tìm ra câu trả lời là điều giúp bạn tiến về phía trước và việc giỏi toán hơn là điều giúp bạn chơi trò chơi tốt hơn. Sự tiến bộ trong trò chơi và sự tiến bộ trong đầu trẻ là cùng một đường thẳng."
+            },
+            {
+              "p": "Trong một trò chơi không có, toán học là một cánh cổng. Trả lời năm câu hỏi, sau đó chơi một trò chơi nhỏ trong 90 giây; trả lời thêm năm câu nữa, mở khóa một chiếc mũ. Các câu hỏi không thể phân biệt được với một bài tập và đứa trẻ biết rằng toán học là một phần khó khăn mà bạn phải vượt qua để đạt được thành tích tốt - đó là một bài học tệ hơn giá trị của phép tính số học."
+            },
+            {
+              "p": "Phần thưởng không phải là vấn đề. Một đứa trẻ muốn hoàn thành một vòng chơi vì điều gì đó tốt đẹp xảy ra ở cuối vòng chơi là một đứa trẻ đang luyện tập nhiều hơn bình thường. Vấn đề chỉ xảy ra khi phần thưởng thay thế suy nghĩ chứ không phải theo sau nó."
+            }
+          ]
+        },
+        {
+          "heading": "Chơi không phải là hối lộ để hoàn thành công việc",
+          "blocks": [
+            {
+              "p": "Chơi có tác dụng cụ thể cho việc học và nó không phải là vật trang trí tạo động lực. Nó làm giảm chi phí của việc sai lầm. Một đứa trẻ đang chơi sẽ thử làm một điều mà chúng không chắc chắn, bởi vì lỗi trong trò chơi chính là điều xảy ra tiếp theo. Cũng chính đứa trẻ đó đang làm bài tập sẽ dừng lại và chờ được nhắc nhở, bởi vì việc mắc lỗi trên giấy sẽ có cảm giác vĩnh viễn."
+            },
+            {
+              "p": "Sự sẵn lòng thử làm điều gì đó không chắc chắn chính là nơi diễn ra phần lớn quá trình học hỏi. Việc nhớ lại một thông tin mà bạn không chắc chắn có tác dụng tốt cho trí nhớ hơn là đọc câu trả lời đúng, nhưng chỉ khi trẻ sẵn sàng thử. Mọi thứ khiến việc thử cảm thấy rẻ tiền - không hình phạt, không đếm ngược, giải thích thay vì chữ thập đỏ - đều là công việc sư phạm chứ không chỉ giúp trẻ giải trí."
+            }
+          ]
+        },
+        {
+          "heading": "Cần tìm gì",
+          "blocks": [
+            {
+              "list": [
+                "Toán học là lối chơi, không phải là cánh cổng phía trước nó.",
+                "Khó khăn theo đuổi đứa trẻ: những sự thật chúng biết ít xuất hiện hơn, những sự thật chúng bỏ lỡ lại quay trở lại.",
+                "Sai lầm nhận được lời giải thích, không chỉ là một tiếng chuông.",
+                "Các buổi tập ngắn với thời gian dừng tự nhiên nên “thêm một hiệp nữa” không có nghĩa là hai mươi phút.",
+                "Trẻ có thể nhìn thấy sự tiến bộ dưới dạng chúng có thể đọc được trong nháy mắt.",
+                "Nó hoạt động mà không cần có tài khoản và rõ ràng điều gì sẽ xảy ra với bất kỳ dữ liệu nào."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Cần cảnh giác với điều gì",
+          "blocks": [
+            {
+              "list": [
+                "Đồng hồ đếm ngược cho mỗi câu hỏi, điều này chắc chắn sẽ khiến những đứa trẻ hay lo lắng học toán kém hơn và dạy chúng “chậm”.",
+                "Những vệt trừng phạt một ngày bị bỏ lỡ - áp lực nhắm vào cha mẹ cũng như con cái.",
+                "Quảng cáo giữa các vòng chơi, đặc biệt là những quảng cáo hấp dẫn hơn trò chơi.",
+                "Mua hàng trong ứng dụng có nội dung thú vị nằm sau tường phí.",
+                "Những câu hỏi giống nhau theo cùng một thứ tự trong mỗi buổi học, nhằm rèn luyện tính trật tự hơn là sự thật.",
+                "Một đường cong khó khăn không bao giờ thay đổi cho dù đứa trẻ có làm thế nào đi chăng nữa."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Trò chơi toán học cách xa màn hình",
+          "blocks": [
+            {
+              "p": "Không cần có màn hình và sự kết hợp của cả hai thường tốt hơn so với chỉ một màn hình. Một số cách thực hành phép nhân tốt nhất không tốn phí:"
+            },
+            {
+              "list": [
+                "Hai con xúc xắc và một cuộc đua để nói ra sản phẩm đầu tiên - với một người trưởng thành cố tình đánh bại.",
+                "Một bộ bài đã loại bỏ các lá bài hình: lật hai lá bài lại, nhân chúng lên.",
+                "Mảng trong thế giới thực - hộp đựng trứng, gạch lát, ô cửa sổ, khay bánh nướng xốp, ghế xếp thành hàng.",
+                "Đếm thành tiếng từng bước trên đường đến trường: bốn, sáu, bảy.",
+                "Nấu ăn, trong đó việc nhân đôi và nhân ba một công thức là phép nhân có lý do kèm theo."
+              ]
+            },
+            {
+              "p": "Những thứ này mạnh hơn một ứng dụng theo một cách cụ thể: chúng là những cuộc trò chuyện. Bạn nghe thấy đứa trẻ đi đến câu trả lời như thế nào, điều này cho bạn biết nhiều điều hơn là liệu câu trả lời đó có đúng hay không."
+            }
+          ]
+        },
+        {
+          "heading": "Nơi Numblop phù hợp",
+          "blocks": [
+            {
+              "p": "Numblop được xây dựng trên mẫu đầu tiên chứ không phải mẫu thứ hai. Phép nhân chính là trò chơi: việc trả lời các sự kiện là điều khiến bạn di chuyển dọc theo bản đồ và không có trò chơi nhỏ riêng biệt nào để bạn trốn vào. Phần thưởng, tiền xu, vật phẩm mỹ phẩm và các hòn đảo mới xuất phát từ thực tiễn thay vì thay thế nó."
+            },
+            {
+              "p": "Đó là sự chậm rãi có chủ ý - không đếm ngược, không bị phạt nếu trả lời sai và giải thích khi có sự cố xảy ra. Các phiên được thiết kế ngắn, tiến trình vẫn ở trên thiết bị và không có tài khoản, quảng cáo hoặc mua hàng trong ứng dụng."
+            }
+          ]
+        }
+      ],
+      "cta": {
+        "heading": "Hãy thử nó trong trình duyệt",
+        "body": "Numblop chạy trên Android và trực tiếp trong trình duyệt trên iPhone, iPad và máy tính để bàn — miễn phí, không cần cài đặt và không cần đăng ký."
+      }
+    },
+    {
+      "id": "progress",
+      "slug": "theo-doi-tien-bo-mon-toan",
+      "title": "Cách biết trẻ đã thực sự thuộc bảng cửu chương: theo dõi tiến bộ",
+      "metaTitle": "Theo dõi tiến độ học toán không cần kiểm soát – Numblop",
+      "metaDescription": "Đánh giá quá trình ở nhà: cách kiểm tra xem bảng cửu chương đã thực sự được học hay chưa, những điều cần chú ý và cách thực hiện tiến bộ mà không bị áp lực.",
+      "linkLabel": "Theo dõi tiến bộ môn toán",
+      "excerpt": "Làm thế nào để kiểm tra xem kết quả đã đạt được hay chưa mà không biến mỗi ngày thành một cuộc kiểm tra.",
+      "updated": "2026-09-02",
+      "image": {
+        "src": "/posts/rewards-en.webp",
+        "alt": "Rương thưởng và xu kiếm được sau khi hoàn thành phiên chơi Numblop",
+        "width": 720,
+        "height": 900
+      },
+      "intro": [
+        "Với bảng cửu chương, câu hỏi khó không phải là phải làm cái gì mà là cái gì không cần phải làm nữa. Tiếp tục ôn lại những gì đã học sẽ làm lãng phí sự chú ý hạn chế của trẻ. Hãy dừng lại quá sớm và kết quả sẽ không còn sau kỳ nghỉ lễ nữa.",
+        "Chúng ta có thể trả lời câu hỏi này mà không cần kiểm soát. Điều cần thiết được gọi là đánh giá quá trình: những kiểm tra nhỏ hướng dẫn phần còn lại của quá trình đào tạo và không gây hậu quả gì cho trẻ."
+      ],
+      "sections": [
+        {
+          "heading": "Tại sao chỉ riêng độ chính xác lại nói lên quá ít",
+          "blocks": [
+            {
+              "p": "Một đứa trẻ đếm từng bước hoặc bắt đầu từ một kết quả tương tự cũng sẽ đúng. Câu trả lời là đúng, kết quả không chắc chắn. Ai chỉ đếm những câu trả lời đúng sẽ không bao giờ thấy được sự khác biệt này."
+            },
+            {
+              "p": "Và chính sự khác biệt này sẽ được tính sau. Trong một phép chia đơn giản hoặc với các phân số, việc tính toán sẽ thu hút sự chú ý cần thiết cho bài toán. Do đó, tốt hơn là nên nhìn vào phần do dự hơn là nhìn vào dấu kiểm."
+            }
+          ]
+        },
+        {
+          "heading": "Ba tín hiệu có ý nghĩa hơn",
+          "blocks": [
+            {
+              "h3": "Câu trả lời đang đến hay nó đang được xây dựng?"
+            },
+            {
+              "p": "Quan sát sự tạm dừng. Kết quả được lưu trữ sẽ trả về sau một hoặc hai giây. Kết quả được xây dựng lại để lại một khoảng trống có thể nhìn thấy trong đó trẻ đếm hoặc bắt đầu từ phép tính lân cận. Cả hai đều đúng; chỉ có một là hoàn thành."
+            },
+            {
+              "h3": "Anh ta có tránh xa mệnh lệnh của mình không?"
+            },
+            {
+              "p": "Yêu cầu 8 × 7 ở giữa một bộ xáo trộn, vài ngày sau khi bàn 8 có chủ đề. Các kết quả chỉ hoạt động trong bảng của họ vẫn chưa tự chủ."
+            },
+            {
+              "h3": "Có phải anh ấy đang có một ngày tồi tệ?"
+            },
+            {
+              "p": "Một kết quả biến mất khi trẻ mệt mỏi hoặc mất tập trung vẫn còn mong manh. Không có gì đáng lo ngại, đó chỉ là lý do để nó được lưu hành lâu hơn một chút."
+            },
+            {
+              "p": "Câu hỏi giàu thông tin nhất lại không tốn một xu nào: “Làm sao bạn tìm thấy nó?” \". Một “chín nhân sáu là mười nhân sáu trừ sáu” biểu thị sự hiểu biết mà không cần tự động hóa. Một cái nhún vai với câu trả lời đúng thường có nghĩa là đó là câu trả lời đã cho."
+            }
+          ]
+        },
+        {
+          "heading": "Đặt câu hỏi mà không có sự kiểm soát",
+          "blocks": [
+            {
+              "p": "Ngay khi câu hỏi giống như một bài kiểm tra, hành vi sẽ thay đổi: trẻ cố gắng ít hơn, tránh những kết quả không chắc chắn và tập trung vào cảm giác của chúng hơn là môn toán. Sau đó, bạn sẽ mất chính xác thông tin bạn đang tìm kiếm."
+            },
+            {
+              "list": [
+                "Hỏi khi đi ngang qua: trong khi dọn bàn, trong xe, giữa hai đồ vật.",
+                "Phản ứng mà không phán xét; một tiếng thở dài ngay lập tức được nghe thấy.",
+                "Hãy hỏi con đường chứ không chỉ là kết quả.",
+                "Sử dụng những gì bạn thấy để thay đổi bài tập chứ không phải để chấm điểm."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Hiển thị tiến trình",
+          "blocks": [
+            {
+              "p": "Không cần bảng tính. Bạn cần biết kết quả nào vẫn ở mức thấp và mọi thứ đã thay đổi như thế nào trong một quý: điều gì đó cần lên kế hoạch và điều gì đó để cho trẻ thấy bằng chứng về sự tiến bộ vào ngày mà trẻ cảm thấy như không có gì tiến triển về phía trước."
+            },
+            {
+              "list": [
+                "Một tấm lưới trên tường để trẻ tự tô màu khi thu được kết quả.",
+                "Một lưu ý ngắn sau mỗi buổi tập với hai hoặc ba kết quả chậm.",
+                "Một mẫu công việc ghi ngày tháng cứ sau vài tuần.",
+                "Ứng dụng đào tạo đã ghi lại những gì, nếu nó hiển thị kết quả chứ không chỉ điểm số."
+              ]
+            },
+            {
+              "p": "Sự tiến bộ có thể nhìn thấy nặng hơn chúng ta nghĩ. Trẻ em đánh giá quá cao số lượng việc còn phải làm và việc thấy những kết quả chưa biết ngày càng thu hẹp lại sẽ giúp ích."
+            }
+          ]
+        },
+        {
+          "heading": "Trường hợp một công cụ đào tạo giúp",
+          "blocks": [
+            {
+              "p": "Phần mềm tệ ở chỗ nó quan trọng nhất: giải thích, phát hiện sự nhầm lẫn, thảo luận về con đường đã đi. Thật tốt khi nó thực sự tẻ nhạt: ghi nhớ kết quả nào trong số hàng trăm kết quả hiện tại là thấp đối với đứa trẻ cụ thể này và lên lịch các buổi tập cho phù hợp."
+            },
+            {
+              "p": "Đây chính là mục đích của Numblop. Anh ấy theo dõi từng kết quả riêng biệt, trộn lẫn cái mới và cái cũ, quay lại những cái yếu thường xuyên hơn và hiển thị trạng thái của mọi thứ trên bản đồ mà trẻ có thể đọc được. Nó hoạt động trên Android và trong trình duyệt trên iPhone, iPad và máy tính, tiến trình vẫn còn trên thiết bị và không cần có tài khoản."
+            }
+          ]
+        }
+      ],
+      "cta": {
+        "heading": "Thêm năm phút mỗi ngày",
+        "body": "Numblop miễn phí, hoạt động ngoại tuyến sau khi cài đặt và duy trì tiến trình trên thiết bị: không cần tài khoản, không quảng cáo và không mua hàng trong ứng dụng."
+      }
+    }
+  ],
+  "articles": [
+    {
+      "id": "without-rote",
+      "slug": "hoc-bang-cuu-chuong-khong-hoc-vet",
+      "title": "Cách giúp trẻ học bảng cửu chương mà không cần học thuộc lòng",
+      "metaTitle": "Học bảng cửu chương không cần học thuộc lòng – Numblop",
+      "metaDescription": "Tại sao việc tụng kinh các bảng thường thất bại và điều gì hiệu quả hơn: hiểu trước, thực hành ngắn gọn hàng ngày, trộn lẫn các sự kiện và xây dựng tốc độ mà không bị áp lực.",
+      "linkLabel": "bảng cửu chương không cần học thuộc lòng",
+      "excerpt": "Việc tụng kinh các bảng sẽ tạo ra một đứa trẻ có thể đọc thuộc lòng số 7 mà vẫn dừng lại ở 7 × 6. Đây là cách hiệu quả hơn.",
+      "published": "2026-08-30",
+      "updated": "2026-09-02",
+      "image": {
+        "src": "/posts/mistakes-help-en.webp",
+        "alt": "Numblop hiển thị 3 × 5 = 15 dưới dạng dấu chấm đếm được sau khi trả lời sai",
+        "width": 720,
+        "height": 900
+      },
+      "takeaways": [
+        "Việc hiểu ý nghĩa của phép nhân phải đến trước tốc độ, nếu không trí nhớ sẽ không còn gì để lưu giữ.",
+        "Năm phút trong hầu hết các ngày đều tốt hơn một phiên dài hàng tuần — khả năng nhớ lại tăng lên theo từng lần thử riêng biệt chứ không phải tổng số phút.",
+        "Trộn các sự kiện mới với những sự kiện cũ; thực hành một bảng theo thứ tự sẽ rèn luyện thứ tự hơn là sự kiện.",
+        "Dành phần lớn thời gian cho một nhóm nhỏ các sự kiện thực sự khó hiểu, không đồng đều trên toàn bộ lưới.",
+        "Tốc độ rất quan trọng, nhưng chỉ sau khi hiểu rõ và nó phải được đo lường thay vì ép buộc bằng đồng hồ bấm giờ.",
+        "Giải thích những sai lầm thay vì sửa chúng, để một sự thật đã quên có thể được xây dựng lại thay vì chỉ ghi nhớ lại."
+      ],
+      "intro": [
+        "Hầu như người lớn nào cũng nhớ tụng bảng cửu chương. Một số nhớ nó một cách trìu mến, hầu hết nhớ nó như tiếng ồn, và một số khá lớn nhớ lại nỗi sợ hãi đặc biệt khi bị hỏi 7 × 8 trước lớp. Đây là phương pháp mặc định vì nó dễ chạy chứ không phải vì đây là cách học tốt nhất.",
+        "Tụng kinh sẽ tạo ra điều gì đó. Nó chỉ tạo ra thứ sai: một chuỗi. Một đứa trẻ đã học số 7 dưới dạng một bài hát có thể đọc thuộc lòng chúng từ 7 × 1 và sẽ vẫn bị khựng lại khi 7 × 6 xuất hiện một mình trong một bài toán chia, vì lộ trình đi đến câu trả lời chạy xuyên suốt toàn bộ danh sách.",
+        "Những gì tiếp theo không phải là sự từ chối thực hành. Các phép nhân cần phải trở nên tự động và việc đó cần được lặp lại trong nhiều tháng. Câu hỏi đặt ra là sự lặp lại như thế nào và theo thứ tự nào."
+      ],
+      "sections": [
+        {
+          "heading": "Tại sao việc ghi nhớ một mình có xu hướng thất bại",
+          "blocks": [
+            {
+              "p": "Một sự thật được ghi nhớ không có ý nghĩa đằng sau nó là một vật dễ vỡ. Không có gì để kiểm tra, vì vậy một đứa trẻ không thể phân biệt 6 × 7 = 42 từ 6 × 7 = 45 ngoại trừ việc ghi nhớ kỹ hơn. Và không có đường quay lại: một khi nó đã qua rồi thì nó đã qua đi, và những kỳ nghỉ hè thường là đủ để tiếp nối nó."
+            },
+            {
+              "p": "Một đứa trẻ hiểu được phép nhân có thể rút lui. Quên 6 × 7 là một bất tiện nhỏ - nó gấp đôi 3 × 7, hoặc 5 × 7 cộng 7, hoặc sáu hàng bảy có thể được tính nếu nói đến điều đó. Họ đi đến câu trả lời một cách chậm rãi, nhưng họ đến, và mỗi lần tái tạo lại sẽ khiến việc nhớ lại trực tiếp có nhiều khả năng xảy ra hơn vào lần sau."
+            },
+            {
+              "p": "Đây là lý do tại sao sự hiểu biết không phải là con đường chậm hơn để thành thạo. Đó là điều làm cho sự trôi chảy ổn định."
+            }
+          ]
+        },
+        {
+          "heading": "Bắt đầu với phép nhân thực sự là gì",
+          "blocks": [
+            {
+              "p": "Trước khi thực hiện bất kỳ hoạt động luyện tập nào, trẻ cần có một hình ảnh trong đầu. Phép nhân là các nhóm bằng nhau: bốn túi, mỗi túi có sáu viên bi. Nó cũng là một mảng - các hàng và cột, là hình ảnh sẽ hiển thị sau này, vì nó cho thấy rõ tại sao 6 × 4 và 4 × 6 đều cho cùng một câu trả lời. Xoay mảng chín mươi độ và nó vẫn là mảng đó."
+            },
+            {
+              "p": "Cái nhìn sâu sắc duy nhất đó làm giảm một nửa công việc. Một mạng lưới một trăm sự kiện thực sự là khoảng năm mươi, và những đứa trẻ không chú ý đến nó sẽ lặng lẽ học mọi thứ hai lần."
+            },
+            {
+              "p": "Những điều hữu ích cần làm ở giai đoạn này, không có điều nào trong số đó yêu cầu những tài liệu mà bạn chưa có:"
+            },
+            {
+              "list": [
+                "Xếp các quầy, nút hoặc mì ống thành hàng và đếm chúng theo hai cách.",
+                "Tìm các mảng xung quanh nhà: hộp đựng trứng, gạch lát, khay làm bánh nướng xốp, ô cửa sổ, thanh sô cô la.",
+                "Vẽ sự thật trên giấy hình vuông và đếm các hình vuông.",
+                "Đếm bỏ qua thành tiếng trong khi đi bộ để mô hình diễn ra theo nhịp điệu cũng như các con số."
+              ]
+            },
+            {
+              "p": "Giai đoạn này ngắn. Đó không phải là công việc của một thuật ngữ. Nhưng bỏ qua nó sẽ tạo ra một đứa trẻ có thể đọc thuộc bảng nhưng không thể sử dụng chúng."
+            }
+          ]
+        },
+        {
+          "heading": "Ngắn và thường xuyên, không dài và hiếm",
+          "blocks": [
+            {
+              "p": "Sai lầm thực tế phổ biến nhất là tiết kiệm thực hành. Nửa giờ cuối tuần có vẻ hiệu quả nhưng lại làm việc tồi tệ. Năm phút trong hầu hết các ngày sẽ hiệu quả hơn nhiều, mặc dù tổng thời gian ít hơn."
+            },
+            {
+              "p": "Lý do là bộ nhớ phản ứng với số lần riêng biệt mà thứ gì đó được lấy ra, trải dài theo thời gian, thay vì theo độ dài của bất kỳ phiên nào. Để xảy ra một chút quên lãng giữa các phiên là một phần của cơ chế, không phải là sự thất bại của nó - việc lấy lại thứ mà bạn đã đánh mất một nửa chính là điều khiến nó dính chặt."
+            },
+            {
+              "p": "Năm đến mười phút là mục tiêu thực tế. Đủ ngắn để thu hút sự chú ý đến cuối cùng, đủ ngắn để nó không trở thành một cuộc tranh cãi hàng ngày và đủ ngắn để vượt qua một tuần bận rộn, đây là bài kiểm tra duy nhất quan trọng trong nhiều tháng."
+            }
+          ]
+        },
+        {
+          "heading": "Đi theo thứ tự hợp lý",
+          "blocks": [
+            {
+              "p": "Một số bàn gần như miễn phí và việc bắt đầu từ đó sẽ tạo dựng sự tự tin nhanh chóng. Số 2 tăng gấp đôi, điều mà hầu hết trẻ em đều có thể làm được. Số 10 và 5 có hình mẫu rõ ràng. Số 4 tăng gấp đôi hai lần. Số 9 có mẹo đánh ngón tay và kiểu tính tổng các chữ số mà trẻ em thích thú hơn rất nhiều so với tính hữu ích của nó."
+            },
+            {
+              "p": "Một khi những thứ đó đã vào đúng vị trí, phần lớn lưới đã được che phủ và phần còn lại là một lõi nhỏ cứng đầu ở giữa 6, 7 và 8 - 6 × 7, 7 × 8, 6 × 8 cổ điển. Hầu như mọi đứa trẻ đều thấy những điều này là khó nhất và chúng chính xác là những phần mà ít thực hành nhất từ ​​trước đến sau qua các bàn."
+            },
+            {
+              "p": "Gọi to tên đó cho trẻ nghe. Biết rằng có lẽ còn lại tám sự kiện thực sự khó khăn, thay vì một trăm, sẽ thay đổi cảm giác của nhiệm vụ."
+            }
+          ]
+        },
+        {
+          "heading": "Trộn lẫn những sự thật yếu kém với những sự thật đã biết",
+          "blocks": [
+            {
+              "p": "Ở đây có hai chế độ thất bại nằm ở hai bên của câu trả lời đúng. Việc thực hành toàn bộ mạng lưới đều dành phần lớn thời gian của buổi học cho những kiến ​​thức mà trẻ đã có. Việc chỉ thực hành những dữ kiện yếu là không ngừng nghỉ: mọi câu hỏi đều là một câu hỏi khó và buổi học trở thành một điều gì đó để chịu đựng."
+            },
+            {
+              "p": "Sự kết hợp chủ yếu là các sự kiện yếu với nguồn cung cấp ổn định các sự kiện đã biết giúp cho độ khó trở nên trung thực và phiên có thể tồn tại được. Những điều dễ dàng sẽ không bị lãng phí - chúng là điều khiến đứa trẻ sẵn sàng quay lại vào ngày mai."
+            },
+            {
+              "p": "Xáo trộn cũng có vấn đề. Các sự kiện sẽ xuất hiện không theo trật tự và cách xa khỏi bảng của chúng, bởi vì đó là hình thức duy nhất mà chúng cần đến. Lúc đó, việc luyện tập hỗn hợp sẽ khó hơn và mang lại khả năng nhớ lại tốt hơn sau đó."
+            }
+          ]
+        },
+        {
+          "heading": "Khi tốc độ bắt đầu quan trọng",
+          "blocks": [
+            {
+              "p": "Tốc độ bị mang tiếng xấu trong việc dạy toán, phần lớn là xứng đáng, bởi vì nó thường được coi là áp lực. Nhưng sự trôi chảy là một mục tiêu thực sự và lý do là thực tế hơn là cạnh tranh."
+            },
+            {
+              "p": "Khi một đứa trẻ tính toán 7 × 8 thay vì nhớ lại nó, công việc đó sẽ thu hút sự chú ý mà chúng cần cho bất kể vấn đề thực sự là gì. Trong một câu hỏi chia dài hoặc phân số, số học đòi hỏi tư duy. Tự động thu hồi là những gì giải phóng nó."
+            },
+            {
+              "p": "Vì vậy, tốc độ rất quan trọng - sau sự hiểu biết, không phải thay vì nó, và là thứ bạn quan sát hơn là thứ bạn áp đặt. Hãy chú ý đến những sự kiện nào cần tạm dừng và thực hành những sự kiện đó nhiều hơn. Điều đó đạt được mọi thứ mà đồng hồ đếm ngược đạt được mà không dạy một đứa trẻ đang lo lắng rằng chúng kém môn toán."
+            }
+          ]
+        },
+        {
+          "heading": "Chơi và tại sao nó hoạt động thực sự",
+          "blocks": [
+            {
+              "p": "Các trò chơi thường được coi là một cách khiến việc luyện tập trở nên dễ chịu. Điều đó đánh giá thấp họ. Trò chơi thay đổi những gì trẻ sẵn sàng làm và đặc biệt là nó khiến trẻ sẵn sàng đoán."
+            },
+            {
+              "p": "Một đứa trẻ đang chơi sẽ thử làm một điều mà chúng không chắc chắn, bởi vì việc mắc sai lầm trong trò chơi là điều bình thường. Đứa trẻ đó đang làm bài tập thường dừng lại và chờ được thông báo, bởi vì một câu trả lời sai trên giấy sẽ bị tính điểm. Vì cố gắng tìm hiểu một sự thật mà bạn chưa biết rõ sẽ củng cố trí nhớ nên đứa trẻ đoán sẽ học được còn đứa trẻ chờ đợi thì không."
+            },
+            {
+              "p": "Màn hình là tùy chọn ở đây. Hai con xúc xắc và một cuộc đua để nói sản phẩm, một bộ bài có hình ảnh bị loại bỏ hoặc các câu hỏi nhân trong một chuyến hành trình bằng ô tô đều có tác dụng. Một ứng dụng được xây dựng tốt cũng vậy, chủ yếu bổ sung thêm công việc ghi sổ."
+            }
+          ]
+        },
+        {
+          "heading": "Động lực mà không có áp lực",
+          "blocks": [
+            {
+              "p": "Việc này mất nhiều tháng và phần khó khăn là tính liên tục chứ không phải là phương pháp. Một số điều giúp ích nhiều hơn mức cần thiết:"
+            },
+            {
+              "list": [
+                "Làm cho sự tiến bộ có thể nhìn thấy được. Một khung lưới trên tường với các thông tin được tô màu chính xác sẽ cung cấp cho trẻ bằng chứng về một ngày mà trẻ cảm thấy như không có chuyện gì xảy ra.",
+                "Khen ngợi việc thực hành chứ không phải khả năng. “Bạn bị mắc kẹt với số bảy” có thể lặp lại; “bạn thật thông minh” là bằng chứng thực tế chắc chắn tiếp theo chống lại điều đó.",
+                "Giữ nó vào cùng một thời điểm mỗi ngày để nó trở thành thói quen và không còn là một quyết định gây tranh cãi nữa.",
+                "Hãy dừng lại khi nó đang diễn ra tốt đẹp. Kết thúc một hiệp đấu tốt là điều khiến ngày mai trở nên dễ dàng.",
+                "Hãy để phần thưởng theo sau nỗ lực thay vì đặt nó - một điều gì đó nhỏ nhặt vào cuối phiên, không phải là phí phải trả trước khi cuộc vui bắt đầu."
+              ]
+            },
+            {
+              "p": "Và giữ cho phản ứng của bạn đối với những sai lầm một cách thẳng thắn. Trẻ em đọc được một tiếng thở dài ngay lập tức, và một đứa trẻ nghĩ rằng mình làm sai khiến bạn thất vọng sẽ bắt đầu trốn tránh những sự thật mà chúng ít chắc chắn nhất - đó chính xác là những điều cần phải nỗ lực."
+            }
+          ]
+        },
+        {
+          "heading": "Làm thế nào để biết nó đã thực sự hạ cánh",
+          "blocks": [
+            {
+              "p": "Việc kiểm tra không phải là một cuộc kiểm tra và nó hoạt động tốt hơn nếu nó không giống như vậy. Những gì bạn đang tìm kiếm là thông tin về bài tập ngày mai, không phải điểm số."
+            },
+            {
+              "list": [
+                "Câu trả lời sẽ đến sau một hoặc hai giây và không có dấu hiệu tạm dừng để tính toán.",
+                "Nó vẫn tồn tại khi được yêu cầu không theo thứ tự, vài ngày sau khi cái bàn đó trở thành chủ đề.",
+                "Nó sống sót sau một ngày mệt mỏi.",
+                "Trẻ có thể giải thích cách làm lại nó nếu quên."
+              ]
+            },
+            {
+              "p": "Điều cuối cùng đó là điểm khác biệt giữa cách tiếp cận này và việc đọc thuộc lòng. Một đứa trẻ có thể nói “chín lần bảy bằng mười lần bảy trừ đi bảy” đã có một cách hiểu bền vững, ngay cả khi chưa thể nhớ ra đáp án ngay lập tức."
+            }
+          ]
+        },
+        {
+          "heading": "Nơi thực hành kỹ thuật số phù hợp",
+          "blocks": [
+            {
+              "p": "Một ứng dụng không thể làm được một nửa quan trọng. Nó sẽ không nhận thấy rằng một đứa trẻ đang bối rối về ý nghĩa của phép nhân, nó sẽ không trò chuyện về cách đạt được câu trả lời và nó không thể bày các quầy tính tiền lên bàn."
+            },
+            {
+              "p": "Những gì nó có thể làm là phần tẻ nhạt, và phần tẻ nhạt thực sự khó thực hiện bằng tay: theo dõi những sự kiện nào trong số hàng trăm sự kiện hiện còn yếu đối với đứa trẻ cụ thể này và đưa chúng ra trước mặt chúng thường xuyên hơn, vào đúng ngày, trộn lẫn với đủ tài liệu đã biết để giữ cho buổi học có thể chịu đựng được."
+            },
+            {
+              "p": "Numblop được xây dựng xung quanh công việc đó. Nó theo dõi từng sự kiện một cách riêng biệt, lấy lại những cái chậm hoặc sai, trộn tài liệu mới với tài liệu cũ và giải thích một lỗi - hiển thị 3 × 5 = 15 dưới dạng dấu chấm mà trẻ có thể đếm - thay vì đánh dấu sai và tiếp tục. Không có đếm ngược và không có hình phạt cho một câu trả lời sai, thời gian học ngắn và tiến trình được hiển thị trên bản đồ mà trẻ có thể đọc nhanh. Nó chạy trên Android và trong trình duyệt trên iPhone, iPad và máy tính để bàn; tiến trình vẫn còn trên thiết bị và không có tài khoản, quảng cáo hoặc mua hàng trong ứng dụng."
+            },
+            {
+              "p": "Nó là một công cụ cho một phần của vấn đề. Sự hiểu biết, cuộc trò chuyện và thói quen vẫn là của bạn - nhưng chúng là những phần đáng để bạn dành thời gian."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

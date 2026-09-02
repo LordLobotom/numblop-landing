@@ -18,6 +18,8 @@ export const FACEBOOK_URL =
 
 export const YOUTUBE_CHANNEL_URL = 'https://www.youtube.com/@Numblop'
 
+export const TIKTOK_URL = 'https://www.tiktok.com/@numblop_game'
+
 // Trailer. The page never contacts YouTube on load: the poster is a local copy
 // of the video thumbnail (public/trailer-poster.webp) and the embed is only
 // inserted after a click — see components/landing/trailer.tsx and section 3 of

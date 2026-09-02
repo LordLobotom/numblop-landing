@@ -1,0 +1,597 @@
+{
+  "faq": {
+    "heading": "Sık sorulan sorular",
+    "subheading": "Numblop nedir, kimin içindir ve onu nerede oynayabilirsiniz?",
+    "items": [
+      {
+        "question": "Numblop nedir?",
+        "answer": "Numblop, çarpım tablosunu alıştırmak için ücretsiz, uyarlanabilir bir öğrenme oyunudur. Çocuklar kısa turlar oynar, oyun hangi gerçekleri zaten bildiklerini takip eder ve hatırlama otomatik hale gelene kadar daha zor olanları daha sık geri getirir."
+      },
+      {
+        "question": "Numblop kimler içindir?",
+        "answer": "Çoğunlukla çarpım tablosunu öğrenen veya birleştirmeyi öğrenen çocuklar, yaklaşık yaştan itibaren okulda çarpma işlemiyle tanışırlar. Ebeveynler, öğretmenler ve evde eğitim gören aileler de evde pratik yapmayı kısa ve düşük baskı altında tutmanın bir yolu olarak bunu kullanıyor."
+      },
+      {
+        "question": "Uyarlanabilir çarpma uygulaması nasıl çalışır?",
+        "answer": "Numblop, her gerçeği eşit sıklıkta sormak yerine, her birinin nasıl gittiğini takip ediyor ve hala üzerinde çalışılması gereken gerçeklere geri dönüyor. Çocuğun güvenle yanıtladığı gerçekler daha az sıklıkla ortaya çıkar; yavaş veya yanlış olanlar daha çabuk geri gelir. İlerleme haritası her çarpım tablosunun şu anda nerede durduğunu gösterir."
+      },
+      {
+        "question": "Numblop Android'de mevcut mu?",
+        "answer": "Evet. Numblop Google Play'de ücretsiz, reklamsız ve uygulama içi satın alma yok."
+      },
+      {
+        "question": "Numblop iOS'ta mevcut mu?",
+        "answer": "Henüz değil. Ayrı bir iPhone veya iPad uygulaması yoktur. Oyunun tamamı tarayıcıda çalışır, dolayısıyla iOS'ta ve masaüstünde hiçbir yüklemeye veya kaydolmaya gerek kalmadan çalışır."
+      },
+      {
+        "question": "Numblop sadece bir sınav mı?",
+        "answer": "Hayır. Soruları yanıtlamak bunun yalnızca bir kısmıdır. Numblop, çarpma pratiğini adalar, ödüller ve madeni paralar, toplanacak kozmetik öğeler ve bir oturumu bitirmeye değer kılan oyun mekaniklerinden oluşan bir haritada ilerlemeyle birleştirir. Hatalar ceza yerine açıklama gerektirir."
+      }
+    ]
+  },
+  "ui": {
+    "blog": "Blog",
+    "guides": "Kılavuzlar",
+    "home": "Ev",
+    "blogTitle": "Numblop blogu",
+    "blogIntro": "Ebeveynler, öğretmenler ve evde eğitim gören aileler için evde çarpma işlemini öğrenme ve matematik yapma hakkında pratik yazılar.",
+    "blogMetaTitle": "Blog: Evde çarpma işlemini öğrenmek – Numblop",
+    "blogMetaDescription": "Çarpım tablosunu, oyun yoluyla matematiği pratik etmek ve bir çocuğun evde gelişimini takip etmek hakkında pratik makaleler.",
+    "relatedHeading": "Okumaya devam et",
+    "readMore": "Makaleyi okuyun",
+    "published": "Yayınlandı",
+    "updated": "Güncellendi",
+    "readingTime": "{n} dk. okuma",
+    "breadcrumbLabel": "Ekmek kırıntısı",
+    "takeawaysHeading": "Kısa versiyon",
+    "backToBlog": "Bloga geri dön"
+  },
+  "pages": [
+    {
+      "id": "practice",
+      "slug": "carpim-tablosu-alistirmalari",
+      "title": "Çarpım tablosunun kalıcı olması için nasıl alıştırma yapılır?",
+      "metaTitle": "Çarpım tablosu alıştırması: gerçekten işe yarayan bir plan – Numblop",
+      "metaDescription": "Çocuğunuzla çarpım tablosu alıştırmaları yapın: Günlük kısa oturumlar, hangi gerçeklerin en çok ilgiyi hak ettiği ve saymaktan anında hatırlamaya nasıl geçileceği.",
+      "linkLabel": "çarpım tablosu alıştırması",
+      "excerpt": "Kısa günlük oturumlar, gerçekten üzerinde çalışılması gereken gerçekler ve saymanın gerçek hatırlamadan nasıl ayrılacağı.",
+      "updated": "2026-09-02",
+      "image": {
+        "src": "/posts/step-by-step-en.webp",
+        "alt": "Numblop'un her çarpım tablosunun adım adım ilerlediğini gösteren ilerleme haritası",
+        "width": 720,
+        "height": 900
+      },
+      "intro": [
+        "Çoğu çocuk çarpım tablosuyla okulun ikinci veya üçüncü yılında tanışır ve çoğu da eninde sonunda bu noktaya ulaşır. Büyük ölçüde değişen şey, ne kadar süreceği ve yol boyunca ne kadar tatsız olacağıdır.",
+        "Fark genellikle yetenek değildir. Uygulamanın nasıl organize edildiği şu şekildedir: her bir seans ne kadar sürer, ne sıklıkta gerçekleşir, hangi gerçekler dikkat çeker ve çocuğun çarpmanın ne anlama geldiğini hızlı bir şekilde hatırlaması istenmeden önce anlayıp anlamadığı."
+      ],
+      "sections": [
+        {
+          "heading": "Akıcı çarpım tabloları neden çabaya değer?",
+          "blocks": [
+            {
+              "p": "Çarpma gerçekleri matematiğin amacı değildir, ancak çoğunun altında yatarlar. Uzun çarpma, bölme, kesirler, oranlar, yüzdeler ve daha sonra cebir, hepsi 7 × 8'in hiç düşünmeden geldiğini varsayar."
+            },
+            {
+              "p": "Hatırlama yavaş olduğunda çocuk dikkatini önündeki problem yerine aritmetiğe odaklar. Matematik onlar için çok zor değil; artık düşünecek hiçbir şey kalmadı. Gerçekleri otomatik hale getirmek dikkati serbest bırakan şeydir."
+            }
+          ]
+        },
+        {
+          "heading": "Anlamak hızdan önce gelir",
+          "blocks": [
+            {
+              "p": "6×4’ün ne anlama geldiğini bilmeyen bir çocuğun cevabını asacağı hiçbir şey yoktur. Sesini hala ezberleyebilirler ama hafıza hassastır ve baskı altında ya da okul tatilinden sonra çöker."
+            },
+            {
+              "p": "Bir tabloyu detaylandırmadan önce çarpma işleminin gerçekte ne olduğu üzerinde biraz zaman harcamak faydalı olacaktır: eşit gruplar, satırlar ve sütunlar, tekrarlanan toplama. Altı sayaçtan oluşan dört sıra, bir sayı doğrusu üzerinde dörtlü altı adım, kareli kağıda çizilmiş bir dizi. Bir çocuk unuttuğu bir gerçeği yeniden inşa edebildiğinde, unutmak bir kriz olmaktan çıkar."
+            },
+            {
+              "p": "Yanlış bir cevabı açıklamanın onu düzeltmekten daha üstün olmasının nedeni de budur. “Hayır, 24” denmesi hiçbir şey öğretmez. 6 × 4'ün altışarlı dört grup halinde düzenlendiğini görmek, çocuğa bir dahaki sefere ona geri dönmenin bir yolunu verir."
+            }
+          ]
+        },
+        {
+          "heading": "Kısa ve sık vuruşlar Uzun ve seyrek vuruşlar",
+          "blocks": [
+            {
+              "p": "Haftada bir kez yapılan yirmi dakikalık bir antrenman, toplam süreden daha uzun olmasına rağmen, günde beş dakikadan daha kötüdür. Hatırlama, bir oturuşta harcanan dakikaların sayısıyla değil, bir gerçeğin hatırlandığı ayrı durumların sayısıyla artar. Uygulamaya ara vermek aynı zamanda unutmanın gerçekleşmesine de bir şans verir ve yarı unuttuğunuz bir şeyi geri getirmek, hafızayı dayanıklı kılan şeydir."
+            },
+            {
+              "p": "Bu yaştaki çoğu çocuk için beş ila on dakika yeterlidir. Konsantrasyonun tüm yol boyunca devam edeceği kadar kısa, müzakere gerektirmeyecek kadar kısa ve içinde zaten ödev olan bir güne sığacak kadar kısa."
+            },
+            {
+              "list": [
+                "Her gün yerine çoğu günü hedefleyin; kaçırılan bir seans başarısızlık gibi hissettirmemelidir.",
+                "Dikkatiniz tükendiğinde değil, hala iyi giderken durun.",
+                "Slotu tahmin edilebilir tutun, böylece bir karardan ziyade rutin hale gelir."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Hangi gerçeklerin aslında uygulamaya ihtiyacı var?",
+          "blocks": [
+            {
+              "p": "Ona kadar tam çarpma tablosu yüz gerçek gibi görünüyor. Pratikte ise çok daha azdır. 1 veya 10 ile çarpılan herhangi bir şey bir olgudan ziyade bir kuraldır. 2'ler, 5'ler ve 4'ler erken gelme eğilimindedir. Ve 7 × 8 ve 8 × 7 aynı olgu olduğundan, tablonun yarısı diğer yarısının kopyasıdır."
+            },
+            {
+              "p": "Geriye kalan, hemen hemen her çocuğun mücadele ettiği küçük, inatçı bir gruptur; genellikle 6, 7, 8 ve 12'li masaların ortasında. Bunlar tekrar tekrar dönmeye değer olanlardır ve bunlar tam olarak antrenman sırasında masalarda önden arkaya koşanlardır."
+            },
+            {
+              "p": "Tablonun tamamını eşit şekilde uygulamak, oturumun çoğunu çocuğun zaten bildiği gerçeklerle boşa harcar. Yalnızca zayıf olanlarla çalışmak moral bozucudur ve kolay kazanımları kaybeder. Yararlı karışım çoğunlukla zayıf gerçeklerden oluşur ve oturumu kazanılabilir hissettirmek için yeterince bilinenlerin karıştırılması gerekir."
+            }
+          ]
+        },
+        {
+          "heading": "Yeni gerçekleri eskileriyle karıştırmak",
+          "blocks": [
+            {
+              "p": "Tek başına bir masayı öğrenmek, 7'leri sırayla söyleyebilen ve 7 × 6 tek başına göründüğünde hala oyalanabilen bir çocuk üretir. Düzen hafızanın bir parçası haline gelir ve gerçek problemlerde düzen mevcut değildir."
+            },
+            {
+              "p": "Bir tablo tanıtıldığında onu daha önce öğrenilen her şeye doğrudan karıştırın. Karışık alıştırma o anda daha zor hissettirir ve sonrasında daha iyi hatırlama sağlar; çocuğun cevaplamadan önce gerçeği tanımlaması gerekir ki bu da daha sonra ihtiyaç duyulan beceridir."
+            }
+          ]
+        },
+        {
+          "heading": "Saymaktan anında hatırlamaya",
+          "blocks": [
+            {
+              "p": "Çocuğun doğru cevabı aldığı ancak ona yukarı doğru sayarak, yakındaki bir olgudan ekleme yaparak veya 6 × 7'yi 6 × 6 artı 6 olarak hesaplayarak ulaştığı bir aşama vardır. Bu gerçek bir ilerlemedir ve iyi bir anlayış işaretidir. Henüz akıcı değil."
+            },
+            {
+              "p": "İzlenecek sinyal doğruluk değil tereddüttür. Yanıt birkaç saniye içinde, sıra dışı bir şekilde, çocuğun yorgun olduğu bir günde ve hesaplama için gözle görülür bir duraklama olmaksızın geldiğinde, bir olgu gerçekten otomatiktir. O zamana kadar cevaplar doğru olsa bile pratik yapmanın karşılığını veriyor."
+            },
+            {
+              "p": "Burası zamanlamanın yardımcı olduğu yerlerden biri; ancak bir tehditten ziyade bir ölçüm olarak. Yavaşlığı cezalandıran bir kronometre, çocukların zaten hissettiği noktada baskıyı artırır. Hangi gerçeklerin yavaşça geldiğini sessizce fark etmek ve bunları daha fazla uygulamak, aynı işi hiçbir maliyet olmadan yapar."
+            }
+          ]
+        },
+        {
+          "heading": "Kalıcı bir pratik rutini",
+          "blocks": [
+            {
+              "p": "Burada hiçbir şey karmaşık değil. Zorluk, bunu aylarca devam ettirmektir ki bu, bir öğretim sorunundan ziyade bir motivasyon sorunudur."
+            },
+            {
+              "list": [
+                "Çoğu gün, tahmin edilebilir bir zamanda, beş ila on dakika.",
+                "Detaylandırmadan önce nesneleri veya diziyi içeren yeni bir tabloyu tanıtın.",
+                "Tek bir tabloyu tek başına uygulamak yerine, yeni gerçekleri önceden öğrenilenlerle karıştırın.",
+                "Oturumun çoğunu yavaş veya yanlış olan gerçeklere ayırın.",
+                "Hataları düzeltmek yerine açıklayın.",
+                "İlerlemeyi görünür bir yerden takip edin, böylece çocuk bilinmeyen gerçekler yığınının küçüldüğünü görebilir."
+              ]
+            }
+          ]
+        }
+      ],
+      "cta": {
+        "heading": "Kendi kendine çalışan pratik",
+        "body": "Numblop tüm bunların muhasebe kısmını yapıyor: Bir çocuğun hangi gerçeklere sahip olduğunu takip ediyor, yenilerini eskileriyle karıştırıyor ve zayıf gerçeklere daha sık geri dönüyor - kısa turlarla, zamanlayıcı veya ceza olmadan."
+      }
+    },
+    {
+      "id": "play",
+      "slug": "cocuklar-icin-matematik-oyunlari",
+      "title": "Çocuklar için matematik oyunları: aslında öğreten oyun yoluyla öğrenme",
+      "metaTitle": "Çocuklara yönelik gerçekten öğreten matematik oyunları – Numblop",
+      "metaDescription": "Çizgi film grafikli bir testten eğitici bir matematik oyununun nasıl anlaşılacağı, nelere dikkat edilmesi gerektiği, nelerden kaçınılması gerektiği ve hangi oyunların ekrandan uzakta çalışacağı.",
+      "linkLabel": "Çocuklar için matematik oyunları",
+      "excerpt": "Matematik öğreten bir oyunu ses efektli bir çalışma sayfasından ayıran şey nedir ve nasıl seçileceği.",
+      "updated": "2026-09-02",
+      "image": {
+        "src": "/posts/multiplication-fun-en.webp",
+        "alt": "Koleksiyon öğeleriyle eğlenceli bir oyun ortamında bir Numblop karakteri",
+        "width": 720,
+        "height": 900
+      },
+      "intro": [
+        "“Oyun yoluyla öğrenme”, iyi tasarlanmış bir oyundan çizgi film kenarlı bir çalışma sayfasına kadar her şeyi kapsar. Her ikisi de aynı şekilde satılmaktadır, bu nedenle onları gerçekte neyin ayırt ettiğini bilmek önemlidir.",
+        "Yararlı soru bir oyunun eğlenceli olup olmadığı değildir. Eğlence ve matematiğin aynı etkinlik olup olmadığı ya da matematiğin çocuğun eğlenceye geri dönmek için ödediği bir ücret olup olmadığıdır."
+      ],
+      "sections": [
+        {
+          "heading": "Bir matematik oyununu eğitici kılan şey nedir?",
+          "blocks": [
+            {
+              "p": "Öğreten bir oyunda düşünmek oyundur. Cevabı bulmak sizi ileriye taşıyacak, matematikte daha iyi olmak ise oyunda daha iyi olmanızı sağlayacaktır. Oyundaki ilerleme ile çocuğun kafasındaki ilerleme aynı çizgidedir."
+            },
+            {
+              "p": "Böyle olmayan bir oyunda matematik bir kapıdır. Beş soruyu yanıtlayın, ardından doksan saniye boyunca bir mini oyun oynayın; beş tane daha cevapla, bir şapkanın kilidini aç. Sorular bir çalışma kağıdından ayırt edilemez ve çocuk, matematiğin, iyi kısma ulaşmak için atlattığınız tatsız kısım olduğunu öğrenir; bu, aritmetiğin değerinden daha kötü bir derstir."
+            },
+            {
+              "p": "Ödüller sorun değil. Sonunda iyi bir şey olduğu için turu bitirmek isteyen bir çocuk, normalde yapacağından daha fazla pratik yapan bir çocuktur. Sorun, ödülün düşünceyi takip etmek yerine düşüncenin yerini almasıdır."
+            }
+          ]
+        },
+        {
+          "heading": "Oyun işi bitirmek için verilen bir rüşvet değildir",
+          "blocks": [
+            {
+              "p": "Oyun öğrenmeye özel bir şey yapar ve motive edici bir dekorasyon değildir. Yanlış olmanın maliyetini azaltır. Oynayan bir çocuk, emin olmadığı bir gerçeği deneyecektir çünkü oyunun içindeki bir hata, daha sonra olacak olanın ta kendisidir. Bir çalışma sayfasındaki aynı çocuk sıklıkla durup kendisine söylenmeyi bekleyecektir çünkü kağıt üzerinde hatalı olmak kalıcı gibi gelir."
+            },
+            {
+              "p": "Belirsiz bir şeyi denemeye yönelik bu isteklilik, öğrenmenin çoğunun gerçekleştiği yerdir. Emin olmadığınız bir gerçeği hatırlamak, hafıza için doğru cevabı okumaktan daha fazlasını yapar, ancak bu yalnızca çocuğun denemeye istekli olması durumunda mümkündür. Denemeyi ucuz hissettiren her şey - ceza yok, geri sayım yok, kırmızı çarpı yerine açıklama - sadece çocuğu eğlendirmek değil, pedagojik bir çalışma yapmaktır."
+            }
+          ]
+        },
+        {
+          "heading": "Ne aranmalı?",
+          "blocks": [
+            {
+              "list": [
+                "Matematik oyundur, oyunun önündeki bir kapı değil.",
+                "Çocuğu zorluk takip eder: bildiği gerçekler daha az ortaya çıkar, gözden kaçırdığı gerçekler geri gelir.",
+                "Hataların yalnızca bir uyarı sesi değil, bir açıklaması da vardır.",
+                "Doğal bir durma noktasına sahip kısa seanslar, dolayısıyla “bir tur daha” yirmi dakika anlamına gelmez.",
+                "İlerleme, çocuk tarafından bir bakışta okuyabilecekleri bir biçimde görülebilir.",
+                "Hesap olmadan çalışır ve herhangi bir veriye ne olacağı açıktır."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Neye karşı dikkatli olmalıyız",
+          "blocks": [
+            {
+              "list": [
+                "Kaygılı çocukların matematikte daha da kötüleşmesine ve onlara \"yavaş\" olduklarını öğreten, her soru için geri sayım sayaçları.",
+                "Kaçırılan bir günü cezalandıran çizgiler, çocuğa olduğu kadar ebeveyne de yönelik baskıdır.",
+                "Turlar arasında reklamlar, özellikle de oyundan daha heyecan verici olanlar.",
+                "İlginç içeriğin ödeme duvarının arkasında yer aldığı uygulama içi satın alımlar.",
+                "Her oturumda aynı sorular, gerçeklerden ziyade düzeni eğitiyor.",
+                "Çocuk ne yaparsa yapsın asla değişmeyen bir zorluk eğrisi."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Ekrandan uzakta matematik oyunları",
+          "blocks": [
+            {
+              "p": "Bir ekran gerekli değildir ve her ikisinin karışımı genellikle tek başına kullanmaktan daha iyidir. En iyi çarpma uygulamalarından bazılarının hiçbir maliyeti yoktur:"
+            },
+            {
+              "list": [
+                "İki zar ve sonucu ilk söyleme yarışı - kasıtlı olarak yenilebilir bir yetişkinle.",
+                "Resim kartları çıkarılmış bir kart destesi: ikisini ters çevirin, çarpın.",
+                "Gerçek dünyadaki diziler; yumurta kutuları, fayanslar, pencere camları, çörek tepsileri, sıralı koltuklar.",
+                "Okula giderken yüksek sesle adım saymak: dörtler, altılar, yediler.",
+                "Bir tarifin iki katına ve üç katına çıkarılmasının, bir sebeple çarpılması olduğu yemek pişirme."
+              ]
+            },
+            {
+              "p": "Bunlar belirli bir açıdan bir uygulamadan daha güçlüdür: bunlar konuşmalardır. Çocuğun cevaba nasıl ulaştığını duyarsınız, bu size cevabın doğru olup olmadığından çok daha fazlasını anlatır."
+            }
+          ]
+        },
+        {
+          "heading": "Numblop'un sığdığı yer",
+          "blocks": [
+            {
+              "p": "Numblop ikinciden ziyade ilk model üzerine inşa edilmiştir. Çarpma oyundur: Gerçekleri yanıtlamak sizi haritada ilerletir ve kaçabileceğiniz ayrı bir mini oyun yoktur. Ödüller, madeni paralar, kozmetik öğeler ve yeni adalar, bunların yerine geçmek yerine pratikten kaynaklanır."
+            },
+            {
+              "p": "Kasıtlı olarak acelesizdir; geri sayım yoktur, yanlış cevap için ceza yoktur ve bir şeyler ters gittiğinde açıklama yapılmaz. Oturumlar tasarım gereği kısadır, ilerleme cihazda kalır ve hesap, reklam veya uygulama içi satın alma yoktur."
+            }
+          ]
+        }
+      ],
+      "cta": {
+        "heading": "Tarayıcıda deneyin",
+        "body": "Numblop, Android'de ve doğrudan iPhone, iPad ve masaüstündeki bir tarayıcıda çalışır; ücretsiz, hiçbir yüklemeye veya kaydolmaya gerek yoktur."
+      }
+    },
+    {
+      "id": "progress",
+      "slug": "matematik-ilerleme-takibi",
+      "title": "Çarpım tablosunun gerçekten öğrenildiğini anlamak: ilerlemeyi takip etme",
+      "metaTitle": "Matematikteki ilerlemeyi kontrol olmadan izleme – Numblop",
+      "metaDescription": "Evde biçimlendirici değerlendirme: Çarpım tablosunun gerçekten edinilip edinilmediği nasıl kontrol edilir, nelere dikkat edilmelidir ve baskı olmadan ilerlemenin nasıl görünür hale getirileceği.",
+      "linkLabel": "Matematikteki ilerlemeyi takip etme",
+      "excerpt": "Her günü kontrole çevirmeden bir sonuca ulaşılıp ulaşılmadığı nasıl kontrol edilir?",
+      "updated": "2026-09-02",
+      "image": {
+        "src": "/posts/rewards-en.webp",
+        "alt": "Numblop'ta tamamlanan bir oturumdan sonra kazanılan bir ödül sandığı ve paralar",
+        "width": 720,
+        "height": 900
+      },
+      "intro": [
+        "Çarpım tablosuyla ilgili zor soru, ne üzerinde çalışılacağı değil, artık ne üzerinde çalışılmasına gerek olmadığıdır. Öğrenilenleri gözden geçirmeye devam etmek çocuğun sınırlı dikkatini boşa harcar. Çok erken durursanız, sonuçlar tatilden sonra kaybolacaktır.",
+        "Bu soruyu kontrolsüz olarak cevaplayabiliriz. İhtiyaç duyulan şeye biçimlendirici değerlendirme denir: eğitimin geri kalanına rehberlik eden ve çocuk için hiçbir sonucu olmayan küçük kontroller."
+      ],
+      "sections": [
+        {
+          "heading": "Neden doğruluk tek başına çok az şey ifade ediyor?",
+          "blocks": [
+            {
+              "p": "Adım adım sayan veya benzer bir sonuçtan yola çıkan bir çocuk da haklı çıkar. Cevap doğru, sonuç kesin değil. Yalnızca doğru cevapları sayan kimse bu farkı asla göremez."
+            },
+            {
+              "p": "Ve daha sonra önemli olan da tam olarak bu farktır. Basit bir bölme veya kesirlerle hesaplama, problem için gereken dikkati tüketir. Bu nedenle onay işaretine bakmak yerine tereddüte bakmak daha iyidir."
+            }
+          ]
+        },
+        {
+          "heading": "Üç anlamlı sinyal daha",
+          "blocks": [
+            {
+              "h3": "Cevap geliyor mu yoksa inşa ediliyor mu?"
+            },
+            {
+              "p": "Duraklamayı gözlemleyin. Saklanan sonuç bir veya iki saniye içinde geri döner. Yeniden oluşturulan bir sonuç, çocuğun saydığı veya komşu bir hesaplamadan başladığı gözle görülür bir boşluk bırakır. İkisi de haklı; yalnızca biri tamamlandı."
+            },
+            {
+              "h3": "Emrinin dışına çıkıyor mu?"
+            },
+            {
+              "p": "Karışık bir setin ortasında 8×7 isteyin, birkaç gün sonra 8'li masa konusu oldu. Yalnızca kendi tablolarında çalışan sonuçlar henüz özerk değildir."
+            },
+            {
+              "h3": "Kötü bir gün mü geçiriyor?"
+            },
+            {
+              "p": "Çocuk yorulduğunda veya dikkati dağıldığında ortadan kaybolan sonuç, kırılgan kalır. Bu endişe verici değil, sadece onu biraz daha dolaşımda bırakmak için bir neden."
+            },
+            {
+              "p": "En bilgilendirici soru hiçbir maliyeti yoktur: \"Bunu nasıl buldun?\" \". \"Dokuz çarpı altı, on çarpı altı eksi altı\", otomasyon olmadan anlamayı gösterir. Doğru cevaba sahip bir omuz silkme, genellikle bunun kesin olduğu anlamına gelir."
+            }
+          ]
+        },
+        {
+          "heading": "Kontrol olmadan sorgulama",
+          "blocks": [
+            {
+              "p": "Soru bir teste benzediği anda davranış değişir: Çocuklar daha az dener, belirsiz sonuçlardan kaçınır ve matematik yerine nasıl hissettiklerine odaklanırlar. Daha sonra tam olarak aradığınız bilgiyi kaybedersiniz."
+            },
+            {
+              "list": [
+                "Geçerken sorun: Arabada, iki şeyin arasında masayı kurarken.",
+                "Yargılamadan tepki verin; anında bir iç çekiş duyulur.",
+                "Sadece sonucu değil, yolu da isteyin.",
+                "Antrenmanı değiştirmek için gördüklerinizi kullanın, not vermek için değil."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "İlerlemeyi görünür kılın",
+          "blocks": [
+            {
+              "p": "Elektronik tabloya gerek yok. Hangi sonuçların düşük kaldığını ve çeyrek boyunca işlerin nasıl değiştiğini bilmeniz gerekir: planlanacak bir şey ve çocuğa, hiçbir şeyin ilerlemediğini hissettiği gün, ilerlemenin kanıtını gösterecek bir şey."
+            },
+            {
+              "list": [
+                "Çocuğun sonuçları elde ederken kendisinin renklendirdiği duvardaki bir ızgara.",
+                "Her seanstan sonra iki veya üç yavaş sonucun yer aldığı kısa bir not.",
+                "Birkaç haftada bir tarihli bir çalışma örneği.",
+                "Yalnızca puanları değil sonuçları da gösteriyorsa, eğitim uygulamasının zaten kaydettiği veriler."
+              ]
+            },
+            {
+              "p": "Görünür ilerleme düşündüğümüzden daha ağırdır. Çocuklar yapılması gereken ne kadar çok şey kaldığını abartırlar ve bilinmeyen sonuç yığınının küçüldüğünü görmek yardımcı olur."
+            }
+          ]
+        },
+        {
+          "heading": "Bir eğitim aracının yardımcı olduğu yer",
+          "blocks": [
+            {
+              "p": "Yazılım en önemli olduğu yerde kötüdür: Açıklamak, kafa karışıklığını fark etmek, izlenen yolu tartışmak. Gerçekten sıkıcı olduğunda iyidir: Yüz sonuçtan hangisinin şu anda bu çocuk için düşük olduğunu hatırlamak ve provaları buna göre planlamak."
+            },
+            {
+              "p": "Numblop'un amacı budur. Her sonucu ayrı ayrı takip ediyor, yeni ile eskiyi karıştırıyor, zayıf olanlara daha sık dönüyor ve durumu çocuğun okuyabileceği bir harita üzerinde gösteriyor. Android'de ve iPhone, iPad ve bilgisayardaki tarayıcıda çalışır, ilerleme cihazda kalır ve herhangi bir hesaba gerek yoktur."
+            }
+          ]
+        }
+      ],
+      "cta": {
+        "heading": "Günde beş dakika ekleyin",
+        "body": "Numblop ücretsizdir, yüklendikten sonra çevrimdışı çalışır ve cihazdaki ilerlemeyi korur: hesap yok, reklam yok ve uygulama içi satın alma yok."
+      }
+    }
+  ],
+  "articles": [
+    {
+      "id": "without-rote",
+      "slug": "ezberlemeden-carpim-tablosu-ogrenme",
+      "title": "Bir çocuğun çarpım tablosunu ezberlemeden öğrenmesine nasıl yardımcı olunur?",
+      "metaTitle": "Ezberlemeden çarpım tablosunu öğrenin – Numblop",
+      "metaDescription": "Tabloları tekrarlamak neden sıklıkla başarısız oluyor ve neyin daha iyi işe yaradığı: önce anlamak, kısa günlük pratik, gerçekleri karıştırmak ve baskı olmadan hız oluşturmak.",
+      "linkLabel": "ezberlemeden çarpım tablosu",
+      "excerpt": "Tabloları söylemek, 7'leri okuyabilen ve yine de 7 × 6'da oyalanabilen bir çocuk üretir. İşte daha iyi işe yarayan şey.",
+      "published": "2026-08-30",
+      "updated": "2026-09-02",
+      "image": {
+        "src": "/posts/mistakes-help-en.webp",
+        "alt": "Yanlış cevaptan sonra sayılabilir noktalar olarak 3 × 5 = 15'i gösteren Numblop",
+        "width": 720,
+        "height": 900
+      },
+      "takeaways": [
+        "Çarpmanın ne anlama geldiğini anlamak hızdan önce gelmeli, yoksa hafızanın tutunacak hiçbir şeyi kalmaz.",
+        "Çoğu gün beş dakika, uzun bir haftalık oturumdan daha iyidir; hatırlama, toplam dakikalarla değil, ayrı denemelerle artar.",
+        "Yeni gerçekleri eskileriyle karıştırın; tek bir tabloyu sırayla uygulamak, gerçeklerden ziyade düzeni eğitir.",
+        "Zamanınızın çoğunu, tablonun her yerinde eşit olarak değil, gerçekten zor gerçeklerden oluşan küçük bir grup üzerinde geçirin.",
+        "Hız önemlidir, ancak yalnızca anlaşıldıktan sonra ve bir zamanlayıcıyla zorlanmak yerine ölçülmelidir.",
+        "Hataları düzeltmek yerine açıklayın, böylece unutulmuş bir gerçek yeniden ezberlenmek yerine yeniden oluşturulabilir."
+      ],
+      "intro": [
+        "Hemen hemen her yetişkin çarpım tablosunu tekrarlamayı hatırlar. Bazıları bunu sevgiyle hatırlıyor, çoğu gürültü olarak hatırlıyor ve çok sayıda kişi sınıfın önünde 7x8 sorulmasının yarattığı özel korkuyu hatırlıyor. Öğrenmenin en iyi yolu olduğu için değil, çalıştırılması kolay olduğu için varsayılan yöntemdir.",
+        "İlahi söylemek bir şeyler üretir. Sadece yanlış bir şey üretiyor: bir dizi. 7'leri bir şarkı olarak öğrenen bir çocuk, bunları 7 × 1'den okuyabilir ve bir bölme probleminde 7 × 6 tek başına ortaya çıktığında yine de oyalanır, çünkü cevaba giden yol tüm listeden geçer.",
+        "Aşağıda anlatılanlar uygulamanın reddedilmesi değildir. Çarpma işlemlerinin otomatik hale gelmesi gerekiyor ve bu da aylarca tekrarlanıyor. Soru, ne tür bir tekrarın ve hangi sırayla olduğudur."
+      ],
+      "sections": [
+        {
+          "heading": "Neden tek başına ezberlemek başarısız olma eğilimindedir?",
+          "blocks": [
+            {
+              "p": "Arkasında hiçbir anlam olmayan, ezberlenmiş bir gerçek, kırılgan bir nesnedir. Bunu kontrol edecek hiçbir şey yoktur, bu yüzden bir çocuk 6 × 7 = 42'yi 6 × 7 = 45'ten daha iyi hatırlama dışında anlayamaz. Ve geri dönüş yok: Bir kez gittiğinde gider ve genellikle yaz tatilleri onu almak için yeterlidir."
+            },
+            {
+              "p": "Çarpmayı anlayan bir çocuğun bir geri dönüşü vardır. 6 × 7'yi unutmak küçük bir rahatsızlıktır - iş buna gelirse sayılabilecek çift 3 × 7 veya 5 × 7 artı 7 veya yedili altı satırdır. Cevaba yavaş yavaş ulaşıyorlar ama ulaşıyorlar ve her yeniden yapılandırma, bir dahaki sefere doğrudan hatırlama olasılığını biraz daha artırıyor."
+            },
+            {
+              "p": "Bu nedenle anlamak akıcılığa giden daha yavaş bir yol değildir. Akıcılığı istikrarlı kılan şey budur."
+            }
+          ]
+        },
+        {
+          "heading": "Çarpmanın gerçekte ne olduğuyla başlayın",
+          "blocks": [
+            {
+              "p": "Herhangi bir alıştırmadan önce çocuğun zihinsel bir resme ihtiyacı vardır. Çarpma eşit gruplardır: her birinde altı bilye bulunan dört torba. Bu aynı zamanda bir dizidir - satırlar ve sütunlar, bu daha sonra karşılığını veren resimdir, çünkü 6 × 4 ve 4 × 6'nın neden aynı cevabı verdiğini açıkça ortaya koyar. Diziyi doksan derece çevirin, aynı dizi olur."
+            },
+            {
+              "p": "Bu tek içgörü işi yarıya indirir. Yüzlerce olgudan oluşan bir tablo gerçekte elli civarındadır ve bunu fark etmeyen çocuklar sessizce her şeyi iki kez öğrenmektedir."
+            },
+            {
+              "p": "Bu aşamada yapmanız gereken faydalı şeyler, bunların hiçbiri halihazırda sahip olmadığınız malzemeleri gerektirmez:"
+            },
+            {
+              "list": [
+                "Tezgahları, düğmeleri veya makarnaları sıralar halinde yerleştirin ve bunları iki şekilde sayın.",
+                "Evin etrafındaki dizileri bulun: yumurta kutuları, fayanslar, çörek tepsileri, pencere camları, çikolatalar.",
+                "Gerçeği kareli kağıda çizin ve kareleri sayın.",
+                "Yürürken yüksek sesle saymayı atlayın, böylece desen sayılar kadar ritim olarak da ortaya çıkar."
+              ]
+            },
+            {
+              "p": "Bu aşama kısadır. Bir dönem işi değil. Ancak bunu atlamak, tabloları okuyabilen ve kullanamayan bir çocuk doğurur."
+            }
+          ]
+        },
+        {
+          "heading": "Kısa ve sık, uzun ve nadir değil",
+          "blocks": [
+            {
+              "p": "En yaygın pratik hata pratikten tasarruf etmektir. Hafta sonları yarım saat verimli geliyor ve kötü çalışıyor. Çoğu gün beş dakika, toplam sürenin daha az olmasına rağmen çok daha iyi sonuç verir."
+            },
+            {
+              "p": "Bunun nedeni, hafızanın, herhangi bir oturumun uzunluğundan ziyade, zamana yayılan, bir şeyin geri getirildiği ayrı durumların sayısına yanıt vermesidir. Seanslar arasında biraz unutmanın gerçekleşmesine izin vermek mekanizmanın bir parçasıdır, bir başarısızlık değil; yarı kaybettiğiniz bir şeyi geri çekmek, onun kalıcı olmasını sağlayan şeydir."
+            },
+            {
+              "p": "Beş ila on dakika gerçekçi bir hedeftir. Dikkati sona erdirecek kadar kısa, günlük bir tartışmaya dönüşmeyecek kadar kısa ve aylarca süren tek sınav olan yoğun bir haftayı atlatabilecek kadar kısa."
+            }
+          ]
+        },
+        {
+          "heading": "Mantıklı bir sırayla gidin",
+          "blocks": [
+            {
+              "p": "Bazı masalar neredeyse ücretsizdir ve oradan başlamak hızlı bir şekilde güven oluşturur. 2'ler ikiye katlanıyor ki çoğu çocuk bunu zaten yapabilir. 10'lu ve 5'lilerin bariz kalıpları var. 4'ler iki kere ikiye katlanıyor. 9'lar, çocukların kullanışlılığıyla orantısız bir şekilde keyif aldığı parmak numarasına ve rakam toplamı modeline sahiptir."
+            },
+            {
+              "p": "Bunlar yerine oturduğunda, ızgaranın büyük kısmı kaplanır ve geriye 6'lı, 7'li ve 8'lilerin ortasında küçük, inatçı bir çekirdek kalır - klasik 6 × 7, 7 × 8, 6 × 8. Neredeyse her çocuk bunları en zor bulur ve bunlar tam olarak masalarda önden arkaya yürüyüşün en az çalıştığı çocuklardır."
+            },
+            {
+              "p": "Bunu çocuğa yüksek sesle söyleyin. Yüz işlem yerine belki sekiz gerçekten zor işlem kaldığını bilmek, görevin nasıl hissettirdiğini değiştirir."
+            }
+          ]
+        },
+        {
+          "heading": "Zayıf gerçekleri bilinenlerle karıştırın",
+          "blocks": [
+            {
+              "p": "Burada doğru cevabın her iki yanında iki başarısızlık modu yer alıyor. Tablonun tamamının uygulanması, oturumun çoğunu çocuğun zaten sahip olduğu gerçeklere eşit şekilde ayırır. Yalnızca zayıf gerçekleri uygulamak acımasızdır: her soru zor bir sorudur ve seans katlanılacak bir şey haline gelir."
+            },
+            {
+              "p": "Çoğunlukla zayıf gerçeklerden ve sürekli olarak bilinenlerden oluşan bir karışım, zorluğun dürüst olmasını ve oturumun yaşanabilir olmasını sağlar. Kolay olanlar boşa gitmez; çocuğun yarın geri dönmeye istekli olmasını sağlayan şeyler bunlardır."
+            },
+            {
+              "p": "Karıştırmak da önemlidir. Gerçekler sıra dışı ve kendi tablolarından uzakta görünmelidir çünkü onlara ihtiyaç duyulan tek biçim budur. Karma çalışma o anda daha zor geliyor ve sonrasında daha iyi hatırlama sağlıyor."
+            }
+          ]
+        },
+        {
+          "heading": "Hız önemli olmaya başladığında",
+          "blocks": [
+            {
+              "p": "Hız, matematik öğretiminde kötü bir üne sahiptir ve büyük ölçüde hak edilmiştir, çünkü genellikle baskı olarak tanıtılmaktadır. Ancak akıcılık gerçek bir hedeftir ve bunun nedeni rekabetten ziyade pratiktir."
+            },
+            {
+              "p": "Bir çocuk 7 × 8'i hatırlamak yerine hesapladığında, bu iş, asıl problem ne olursa olsun, ihtiyaç duyduğu dikkati çeker. Uzun bir bölme veya kesir sorusunda aritmetik, düşünmeyi yerle bir eder. Otomatik geri çağırma onu serbest bırakan şeydir."
+            },
+            {
+              "p": "Yani hız önemlidir; onun yerine değil, anladıktan sonra ve empoze ettiğiniz bir şey yerine gözlemlediğiniz bir şey olarak. Hangi gerçeklerin bir duraklamayla geldiğine dikkat edin ve bunları daha fazla uygulayın. Bu, kaygılı bir çocuğa matematikte kötü olduğunu öğretmeden, geri sayım sayacının başardığı her şeyi başarıyor."
+            }
+          ]
+        },
+        {
+          "heading": "Oynayın ve neden gerçekten işe yarıyor?",
+          "blocks": [
+            {
+              "p": "Oyunlar genellikle pratik yapmayı zevkli hale getirmenin bir yolu olarak meşrulaştırılır. Bu onları daha ucuza satıyor. Oyun, çocuğun yapmak istediği şeyi değiştirir ve özellikle onu tahmin etmeye istekli hale getirir."
+            },
+            {
+              "p": "Oynayan bir çocuk emin olmadığı bir gerçeği deneyecektir çünkü oyun içinde hatalı olmak dikkat çekici değildir. Aynı çocuk çalışma kağıdı üzerinde sıklıkla durur ve kendisine söylenmesini bekler, çünkü kağıt üzerindeki yanlış cevap bir işarettir. Yarı bilinen bir gerçeğe teşebbüs etmek hafızayı güçlendirdiğinden, tahmin eden çocuk öğreniyor, bekleyen çocuk öğrenmiyor."
+            },
+            {
+              "p": "Burada ekranlar isteğe bağlıdır. İki zar ve sonucu söylemek için yapılan bir yarış, resimlerin çıkarıldığı bir deste kart veya bir araba yolculuğu sırasında çarpma soruları, bunların hepsi işi yapar. Temel olarak muhasebeyi ekleyen iyi oluşturulmuş bir uygulama da öyle."
+            }
+          ]
+        },
+        {
+          "heading": "Baskı olmadan motivasyon",
+          "blocks": [
+            {
+              "p": "Bu aylar alır ve işin zor kısmı yöntemden çok sürekliliktir. Birkaç şey olması gerekenden daha fazla yardımcı olur:"
+            },
+            {
+              "list": [
+                "İlerlemeyi görünür kılın. Duvardaki ustalık gerektiren gerçeklerin renklendirildiği bir tablo, çocuğa hiçbir şey olmamış gibi hissettiği bir günde kanıt sağlar.",
+                "Yeteneği değil, uygulamayı övün. \"Yedilere takılıp kaldın\" tekrarlanabilir; \"Çok akıllısın\" bir sonraki kesin gerçeğin buna karşı olduğunu kanıtlıyor.",
+                "Bunu her gün aynı saatte yapın, böylece rutin hale gelir ve tartışılacak bir karar olmaktan çıkar.",
+                "İyi giderken durun. İyi bir turla bitirmek, yarını kolaylaştıran şeydir.",
+                "Ödüllerin çabayı sonuçlandırmak yerine çabanın ardından gelmesine izin verin; eğlence başlamadan önce ödenecek bir ücret değil, seansın sonunda küçük bir ödül olsun."
+              ]
+            },
+            {
+              "p": "Ve hatalara karşı kendi tepkinizi sabit tutun. Çocuklar anında bir iç çekişi okurlar ve yanlış anlamanın sizi hayal kırıklığına uğrattığını düşünen bir çocuk, en az emin oldukları gerçeklerden - tam da üzerinde çalışılması gereken gerçeklerden - kaçınmaya başlarsınız."
+            }
+          ]
+        },
+        {
+          "heading": "Gerçekten indiği nasıl anlaşılır?",
+          "blocks": [
+            {
+              "p": "Kontrol bir test değildir ve öyle görünmüyorsa daha iyi sonuç verir. Sizin peşinde olduğunuz şey not değil, yarınki antrenmanla ilgili bilgidir."
+            },
+            {
+              "list": [
+                "Cevap, hesaplama için gözle görülür bir duraklama olmadan bir veya iki saniye içinde gelir.",
+                "Sıra dışı sorulmaya devam ediyor, günler sonra o tablo konu oldu.",
+                "Yorgun bir günü atlatır.",
+                "Çocuk unutursa nasıl yeniden inşa edeceğini açıklayabilir."
+              ]
+            },
+            {
+              "p": "Bu sonuncusu, bu yaklaşımla ilahi söylemek arasındaki farktır. “Dokuz yedi, on yedi yediyi götürür” diyen bir çocuk, doğrudan hatırlamanın gelmediği bir günde bile kalıcı bir şeye sahiptir."
+            }
+          ]
+        },
+        {
+          "heading": "Dijital pratiğin uygun olduğu yer",
+          "blocks": [
+            {
+              "p": "Bir uygulama önemli olan yarısını yapamaz. Çocuğun çarpmanın ne anlama geldiği konusunda kafasının karıştığını fark etmeyecek, cevaba nasıl ulaşıldığını konuşamayacak, sayaçları masaya koyamayacaktır."
+            },
+            {
+              "p": "Yapabildiği şey sıkıcı kısmıdır ve sıkıcı kısmı elle yapmak gerçekten zordur: Yüzlerce olgudan hangisinin şu anda bu çocuk için zayıf olduğunu takip etmek ve bunları doğru günde daha sık önlerine koymak, oturumu katlanılabilir kılmak için yeterli bilinen materyalle karıştırmak."
+            },
+            {
+              "p": "Numblop bu işin etrafında inşa edildi. Her gerçeği ayrı ayrı takip eder, yavaş veya yanlış olanları geri getirir, yeni materyali eskiyle karıştırır ve bir yanlışı yanlış olarak işaretleyip devam etmek yerine, 3 × 5 = 15'i çocuğun sayabileceği noktalar olarak göstererek açıklar. Geri sayım yoktur ve yanlış cevap için ceza yoktur, oturumlar kısadır ve ilerleme, çocuğun bir bakışta okuyabileceği bir harita üzerinde gösterilir. Android'de ve iPhone, iPad ve masaüstündeki tarayıcıda çalışır; ilerleme cihazda kalır ve hesap, reklam veya uygulama içi satın alma yoktur."
+            },
+            {
+              "p": "Sorunun bir kısmı için bir araçtır. Anlayış, konuşma ve rutin hala size ait; ancak bunlar zaman ayırmaya değer kısımlardır."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # numblop-landing
 
-Ten-language marketing landing page for [Numblop](https://numblop.gutcloud.cz/) —
+Twenty-language marketing landing page for [Numblop](https://numblop.gutcloud.cz/) —
 an adaptive multiplication-practice game for children built in Godot
 (sibling repo `../Numblop`).
 
@@ -8,7 +8,9 @@ an adaptive multiplication-practice game for children built in Godot
 
 - Next.js App Router, **static export** (`output: 'export'`) — no server runtime.
 - English, Czech, Slovak, German, Spanish, Finnish, French, Norwegian Bokmål,
-  Polish, and Swedish are prebuilt locale routes (`app/[locale]/`).
+  Polish, Swedish, Brazilian Portuguese, European Portuguese, Italian, Danish,
+  Dutch, Japanese, Korean, Turkish, Vietnamese, and Indonesian are prebuilt
+  locale routes (`app/[locale]/`).
   `lib/i18n/locales.ts` is the shared locale/SEO catalog.
 - The root `/` is redirected **server-side**: nginx answers it with a 302 to the
   Accept-Language match (`deploy/nginx-locale-redirect.conf` — install it once,
@@ -22,7 +24,7 @@ an adaptive multiplication-practice game for children built in Godot
   privacy policy is kept separately in `lib/i18n/privacy.ts` plus
   `lib/i18n/generated/privacy.json` because it is long and rarely touched.
 - Imagery comes from the game repo via `tools/prepare-assets.mjs`: the language
-  picker reuses all ten game flags. Store posters (`store/posts/`) and in-game
+  picker reuses all twenty game flags. Store posters (`store/posts/`) and in-game
   screenshots (`store/screenshots/`) currently ship with baked-in copy only in
   Czech and English, so the other locale pages use English artwork with fully
   localized surrounding copy and alt text.
@@ -60,7 +62,7 @@ from `lib/i18n/` — `Dictionary` is mirrored by the generated
 `dictionaries.json`, and prose-sized fields would fight the generator on every
 regeneration.
 
-- `lib/content/locales/<locale>.ts` — per locale: the landing FAQ, three
+- `lib/content/locales/<locale>.ts` (or generated `.json`) — per locale: the landing FAQ, three
   evergreen guides, and the blog articles. `lib/content/types.ts` defines the
   block idiom (`{p} | {list} | {h3}`), the same one the privacy policy uses, and
   one renderer (`components/content/prose.tsx`) covers every long-form page.
@@ -71,12 +73,15 @@ regeneration.
   hreflang map; `localeAlternatesFromPaths` in `lib/seo.ts` turns it into
   metadata. `localeAlternates` in `lib/i18n/locales.ts` still covers the routes
   that do share one path across locales (home, contact, privacy, blog index).
+- `lib/i18n/generated/content-routes.json` is the small client-side counterpart
+  used by the language picker. It pairs translated guide and article slugs so a
+  language change stays on the equivalent page instead of producing a 404.
 - Three guides per locale, each targeting one search intent, framed for the
   local market rather than translated: practice, learning through play, and a
   third that is homeschooling where that is a real intent (cs, sk, en, pl) and
-  formative assessment / progress tracking where it is not (de, es, fi, fr, nb,
-  sv). Adding a fourth means adding an id to `seoPageIds` and an entry to all
-  ten locale files — the type will tell you which are missing.
+  formative assessment / progress tracking in the other sixteen markets.
+  Adding a fourth means adding an id to `seoPageIds` and an entry to all twenty
+  locale files — the type will tell you which are missing.
 - Blog at `/<locale>/blog/`, articles at `/<locale>/blog/<localized-slug>/`,
   with `BlogPosting` markup, breadcrumbs and publication dates. Add a post by
   extending `articleIds` and every locale file; routes, sitemap, hreflang and

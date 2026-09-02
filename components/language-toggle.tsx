@@ -6,6 +6,7 @@ import { usePathname } from 'next/navigation'
 import { Check, ChevronDown } from 'lucide-react'
 import { useEffect, useRef, useState } from 'react'
 import { LOCALE_STORAGE_KEY } from '@/lib/i18n/detect-locale'
+import contentRoutes from '@/lib/i18n/generated/content-routes.json'
 import {
   getLocaleInfo,
   isLocale,
@@ -19,6 +20,17 @@ function localisedPath(pathname: string | null, locale: Locale) {
   const segments = pathname?.split('/').filter(Boolean) ?? []
   if (!isLocale(segments[0])) {
     return `/${locale}/`
+  }
+
+  // Guides and articles have translated slugs. Find the stable page group
+  // before falling back to replacing only the locale segment for shared routes
+  // such as home, contact, privacy, and the blog index.
+  const normalizedPath = `/${segments.join('/')}/`
+  const localizedContentRoute = contentRoutes.find((routes) =>
+    Object.values(routes).includes(normalizedPath),
+  )
+  if (localizedContentRoute) {
+    return localizedContentRoute[locale as keyof typeof localizedContentRoute]
   }
   return `/${[locale, ...segments.slice(1)].join('/')}/`
 }

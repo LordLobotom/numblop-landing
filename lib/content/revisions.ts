@@ -7,6 +7,7 @@
 
 export const revisions = {
   /** Landing page — bumped when hero/section copy or the FAQ changes. */
-  home: '2026-08-30',
-  contact: '2026-08-13',
+  home: '2026-09-02',
+  contact: '2026-09-02',
+  links: '2026-09-01',
 } as const

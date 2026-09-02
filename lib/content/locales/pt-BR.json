@@ -1,0 +1,597 @@
+{
+  "faq": {
+    "heading": "Perguntas frequentes",
+    "subheading": "O que é Numblop, para quem se destina e onde você pode jogá-lo.",
+    "items": [
+      {
+        "question": "O que é Numblop?",
+        "answer": "Numblop é um jogo de aprendizagem adaptativo gratuito para praticar a tabuada. As crianças jogam rodadas curtas, o jogo registra quais fatos elas já conhecem e traz de volta os mais difíceis com mais frequência até que a lembrança se torne automática."
+      },
+      {
+        "question": "Para quem é o Numblop?",
+        "answer": "Principalmente crianças que estão aprendendo ou consolidando a tabuada, a partir da idade a multiplicação é introduzida na escola. Pais, professores e famílias que educam em casa também o utilizam, como forma de manter a prática curta e de baixa pressão em casa."
+      },
+      {
+        "question": "Como funciona a prática de multiplicação adaptativa?",
+        "answer": "Em vez de perguntar todos os fatos com a mesma frequência, Numblop acompanha o andamento de cada um e retorna aos fatos que ainda precisam ser trabalhados. Os fatos que uma criança responde com confiança aparecem com menos frequência; os lentos ou errados voltam mais cedo. O mapa de progresso mostra onde cada tabuada está atualmente."
+      },
+      {
+        "question": "O Numblop está disponível no Android?",
+        "answer": "Sim. Numblop está no Google Play, gratuitamente, sem anúncios e sem compras no aplicativo."
+      },
+      {
+        "question": "O Numblop está disponível no iOS?",
+        "answer": "Ainda não. Não existe um aplicativo separado para iPhone ou iPad. O jogo completo roda no navegador, então funciona no iOS e no desktop sem nada para instalar e sem inscrição."
+      },
+      {
+        "question": "Numblop é apenas um teste?",
+        "answer": "Não. Responder a perguntas é apenas uma parte. Numblop combina a prática de multiplicação com progressão em um mapa de ilhas, recompensas e moedas, itens cosméticos para coletar e mecânica de jogo que fazem valer a pena terminar uma sessão. Os erros recebem uma explicação e não uma penalidade."
+      }
+    ]
+  },
+  "ui": {
+    "blog": "Blogue",
+    "guides": "Guias",
+    "home": "Lar",
+    "blogTitle": "O blog Numblop",
+    "blogIntro": "Redação prática sobre como aprender multiplicação e fazer matemática em casa — para pais, professores e famílias que educam em casa.",
+    "blogMetaTitle": "Blog: aprendendo multiplicação em casa – Numblop",
+    "blogMetaDescription": "Artigos práticos sobre como praticar a tabuada, matemática brincando e acompanhar o progresso da criança em casa.",
+    "relatedHeading": "Continue lendo",
+    "readMore": "Leia o artigo",
+    "published": "Publicado",
+    "updated": "Atualizado",
+    "readingTime": "{n} minutos de leitura",
+    "breadcrumbLabel": "Pão ralado",
+    "takeawaysHeading": "A versão curta",
+    "backToBlog": "De volta ao blog"
+  },
+  "pages": [
+    {
+      "id": "practice",
+      "slug": "praticar-tabuada",
+      "title": "Como praticar a tabuada para fixá-la",
+      "metaTitle": "prática de tabuada de multiplicação: um plano que realmente funciona – Numblop",
+      "metaDescription": "Como praticar a tabuada com seu filho: sessões diárias curtas, quais fatos merecem mais atenção e como passar da contagem para a recordação instantânea.",
+      "linkLabel": "prática de tabuada de multiplicação",
+      "excerpt": "Sessões diárias curtas, os fatos que realmente precisam ser trabalhados e como diferenciar a contagem da recordação real.",
+      "updated": "2026-09-02",
+      "image": {
+        "src": "/posts/step-by-step-en.webp",
+        "alt": "Mapa de progresso do Numblop, mostrando cada tabuada avançando passo a passo",
+        "width": 720,
+        "height": 900
+      },
+      "intro": [
+        "A maioria das crianças conhece a tabuada por volta do segundo ou terceiro ano de escola, e a maioria delas chega lá eventualmente. O que varia enormemente é quanto tempo leva e quão desagradável é o caminho.",
+        "A diferença geralmente não é o talento. É a forma como a prática é organizada: quanto tempo dura cada sessão, com que frequência acontece, que factos chamam a atenção e se a criança compreende o que significa multiplicação antes de ser solicitada a recordá-la rapidamente."
+      ],
+      "sections": [
+        {
+          "heading": "Por que a tabuada fluente vale o esforço",
+          "blocks": [
+            {
+              "p": "Os fatos de multiplicação não são o objetivo da matemática, mas estão por trás de grande parte dela. Longas multiplicações, divisões, frações, proporções, porcentagens e, posteriormente, álgebra, todas assumem que 7 × 8 chega sem pensar nisso."
+            },
+            {
+              "p": "Quando a recordação é lenta, a criança concentra sua atenção na aritmética em vez de no problema que tem pela frente. A matemática não é muito difícil para eles; simplesmente não há mais nada em que pensar. Automatizar os fatos é o que libera essa atenção."
+            }
+          ]
+        },
+        {
+          "heading": "A compreensão vem antes da velocidade",
+          "blocks": [
+            {
+              "p": "Uma criança que não sabe o que significa 6 × 4 não tem onde se apoiar na resposta. Eles ainda conseguem memorizar o som, mas a memória é frágil e entra em colapso sob pressão ou após férias escolares."
+            },
+            {
+              "p": "Antes de perfurar uma tabela, vale a pena dedicar um pouco de tempo ao que realmente é a multiplicação: grupos iguais, linhas e colunas, adição repetida. Quatro fileiras de seis contadores, seis etapas de quatro em uma reta numérica, uma matriz desenhada em papel quadrado. Quando uma criança consegue reconstruir um fato que esqueceu, o esquecimento deixa de ser uma crise."
+            },
+            {
+              "p": "É também por isso que explicar uma resposta errada é melhor do que corrigi-la. Ouvir “não, são 24” não ensina nada. Ver 6 × 4 disposto em quatro grupos de seis dá à criança um caminho de volta na próxima vez."
+            }
+          ]
+        },
+        {
+          "heading": "Batidas curtas e frequentes, longas e raras",
+          "blocks": [
+            {
+              "p": "Uma sessão de prática de vinte minutos uma vez por semana é pior do que cinco minutos por dia, embora seja mais tempo total. A recordação melhora com o número de ocasiões distintas em que um fato é recuperado, e não com o número de minutos gastos em uma sessão. Espaçar a prática também dá ao esquecimento uma chance de acontecer, e recuperar algo que você quase esqueceu é o que torna a memória durável."
+            },
+            {
+              "p": "Cinco a dez minutos são suficientes para a maioria das crianças desta idade. É curto o suficiente para que a concentração se mantenha durante todo o tempo, curto o suficiente para não precisar de negociação e curto o suficiente para caber em um dia que já contém lição de casa."
+            },
+            {
+              "list": [
+                "Tenha como objetivo a maioria dos dias, e não todos os dias – uma sessão perdida não deve parecer um fracasso.",
+                "Pare enquanto tudo ainda está indo bem, não quando a atenção já tiver se esgotado.",
+                "Mantenha o horário previsível, para que se torne uma rotina e não uma decisão."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Quais fatos realmente precisam de prática",
+          "blocks": [
+            {
+              "p": "A grade de multiplicação completa até dez parece cem fatos. Na prática, é muito menos. Qualquer coisa multiplicada por 1 ou 10 é uma regra e não um fato. Os 2, 5 e 4 tendem a chegar mais cedo. E como 7 × 8 e 8 × 7 são o mesmo facto, metade da grelha é uma duplicata da outra metade."
+            },
+            {
+              "p": "O que resta é um grupo pequeno e difícil com o qual quase todas as crianças lutam – normalmente no meio das tabuadas do 6, 7, 8 e 12. Vale a pena voltar sempre a esses fatos, justamente os menos praticados quando se percorre a tabuada sempre na mesma ordem."
+            },
+            {
+              "p": "Praticar toda a grade uniformemente desperdiça a maior parte da sessão com fatos que a criança já conhece. Praticar exclusivamente os fracos é desmoralizante e perde as vitórias fáceis. A combinação útil consiste principalmente de fatos fracos, com fatos conhecidos o suficiente para manter a sensação de que a sessão pode ser vencida."
+            }
+          ]
+        },
+        {
+          "heading": "Misturando fatos novos com antigos",
+          "blocks": [
+            {
+              "p": "Aprender uma tabuada isoladamente produz uma criança que consegue cantar os 7 em ordem e ainda parar no 7 × 6 quando ele aparece sozinho. A ordem passa a fazer parte da memória e a ordem não está disponível em problemas reais."
+            },
+            {
+              "p": "Depois que uma tabela for introduzida, misture-a diretamente com tudo o que aprendeu antes. A prática embaralhada parece mais difícil no momento e produz melhor lembrança depois – a criança tem que identificar o fato antes de respondê-lo, que é precisamente a habilidade necessária mais tarde."
+            }
+          ]
+        },
+        {
+          "heading": "Da contagem à recuperação instantânea",
+          "blocks": [
+            {
+              "p": "Há um estágio em que a criança obtém a resposta certa, mas a alcança contando, adicionando a partir de um fato próximo ou calculando 6 × 7 como 6 × 6 mais 6. Isso é um progresso real e um bom sinal de compreensão. Ainda não é fluência."
+            },
+            {
+              "p": "O sinal a observar não é a precisão, mas a hesitação. Um fato é genuinamente automático quando a resposta chega em alguns segundos, fora de ordem, num dia em que a criança está cansada e sem uma pausa visível para cálculo. Até então, ainda vale a pena praticar, mesmo que as respostas estejam corretas."
+            },
+            {
+              "p": "Este é um lugar onde o tempo ajuda – mas como uma medida e não como uma ameaça. Um cronômetro que pune a lentidão adiciona pressão exatamente onde as crianças já a sentem. Perceber silenciosamente quais fatos chegam lentamente e praticá-los mais faz o mesmo trabalho sem nenhum custo."
+            }
+          ]
+        },
+        {
+          "heading": "Uma rotina de prática que se mantém",
+          "blocks": [
+            {
+              "p": "Nada aqui é complicado. A dificuldade é mantê-lo durante os meses que isso realmente leva, o que é mais um problema de motivação do que de ensino."
+            },
+            {
+              "list": [
+                "Cinco a dez minutos, na maioria dos dias, em um horário previsível.",
+                "Introduza uma nova tabela com objetos ou uma matriz antes de perfurá-la.",
+                "Misture fatos novos com os aprendidos anteriormente, em vez de praticar apenas uma tabela.",
+                "Passe a maior parte da sessão analisando fatos lentos ou errados.",
+                "Explique os erros em vez de apenas corrigi-los.",
+                "Acompanhe o progresso em algum lugar visível, para que a criança possa ver a pilha de fatos desconhecidos diminuindo."
+              ]
+            }
+          ]
+        }
+      ],
+      "cta": {
+        "heading": "Prática que funciona sozinha",
+        "body": "O Numblop faz parte da contabilidade de tudo isso: segue quais fatos a criança possui, mistura os novos com os antigos e retorna aos fatos fracos com mais frequência – em rodadas curtas, sem cronômetros ou penalidades."
+      }
+    },
+    {
+      "id": "play",
+      "slug": "jogos-de-matematica-para-criancas",
+      "title": "Jogos de matemática para crianças: aprender através de brincadeiras que realmente ensinam",
+      "metaTitle": "Jogos de matemática para crianças que realmente ensinam – Numblop",
+      "metaDescription": "Como diferenciar um jogo educacional de matemática de um quiz com gráficos de desenho animado, o que procurar, o que evitar e quais jogos funcionam fora da tela.",
+      "linkLabel": "Jogos de matemática para crianças",
+      "excerpt": "O que separa um jogo que ensina matemática de uma planilha com efeitos sonoros — e como escolher um.",
+      "updated": "2026-09-02",
+      "image": {
+        "src": "/posts/multiplication-fun-en.webp",
+        "alt": "Um personagem Numblop em um ambiente de jogo lúdico com itens colecionáveis",
+        "width": 720,
+        "height": 900
+      },
+      "intro": [
+        "“Aprender brincando” abrange tudo, desde um jogo bem projetado até uma planilha com borda de desenho animado. Ambos são vendidos da mesma forma, por isso vale a pena saber o que realmente os distingue.",
+        "A questão útil não é se um jogo é divertido. É se a diversão e a matemática são a mesma atividade, ou se a matemática é um pedágio que a criança paga para voltar à diversão."
+      ],
+      "sections": [
+        {
+          "heading": "O que torna um jogo de matemática educativo",
+          "blocks": [
+            {
+              "p": "Num jogo que ensina, o pensamento é a brincadeira. Descobrir a resposta é o que o move para frente, e melhorar em matemática é o que o torna melhor no jogo. O progresso no jogo e o progresso na cabeça da criança estão na mesma linha."
+            },
+            {
+              "p": "Num jogo que não o faz, a matemática é uma porta. Responda cinco perguntas e jogue um minijogo por noventa segundos; responda mais cinco, abra um chapéu. As perguntas são indistinguíveis de uma planilha, e a criança aprende que matemática é a parte desagradável que você passa para chegar à parte boa – o que é uma lição pior do que vale a pena a aritmética."
+            },
+            {
+              "p": "As recompensas não são o problema. Uma criança que quer terminar uma rodada porque algo de bom acontece no final é uma criança que está praticando mais do que faria de outra forma. O problema ocorre apenas quando a recompensa substitui o pensamento, em vez de ser consequência dele."
+            }
+          ]
+        },
+        {
+          "heading": "Brincar não é suborno para terminar o trabalho",
+          "blocks": [
+            {
+              "p": "A brincadeira faz algo específico para a aprendizagem e não é uma decoração motivacional. Reduz o custo de estar errado. Uma criança que está brincando tentará um fato sobre o qual não tem certeza, porque um erro dentro de um jogo é exatamente o que acontece a seguir. A mesma criança em uma planilha muitas vezes para e espera que lhe digam, porque errar no papel parece permanente."
+            },
+            {
+              "p": "Essa disposição de tentar algo incerto é onde acontece a maior parte do aprendizado. Recuperar um fato do qual você não tem certeza faz mais pela memória do que ler a resposta correta, mas apenas se a criança estiver disposta a tentar. Tudo o que faz com que a tentativa pareça barata – sem penalidades, sem contagem regressiva, uma explicação em vez de uma cruz vermelha – é um trabalho pedagógico, e não apenas manter a criança entretida."
+            }
+          ]
+        },
+        {
+          "heading": "O que procurar",
+          "blocks": [
+            {
+              "list": [
+                "A matemática é a jogabilidade, não um portão na frente dela.",
+                "A dificuldade segue a criança: os fatos que ela conhece aparecem com menos frequência, os fatos que ela não percebe voltam.",
+                "Os erros recebem uma explicação, não apenas uma campainha.",
+                "Sessões curtas com ponto de parada natural, portanto “mais uma rodada” não significa vinte minutos.",
+                "O progresso é visível para a criança, de uma forma que ela possa ler rapidamente.",
+                "Funciona sem conta e é claro o que acontece com qualquer dado."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Com o que ter cuidado",
+          "blocks": [
+            {
+              "list": [
+                "Cronômetros de contagem regressiva para cada questão, que de forma confiável tornam as crianças ansiosas piores em matemática e as ensinam que são “lentas”.",
+                "Listras que punem um dia perdido – pressão dirigida tanto aos pais quanto ao filho.",
+                "Anúncios entre as rodadas, especialmente aquelas que são mais emocionantes que o jogo.",
+                "Compras no aplicativo onde o conteúdo interessante fica atrás do acesso pago.",
+                "As mesmas perguntas na mesma ordem em todas as sessões, o que treina a ordem em vez dos fatos.",
+                "Uma curva de dificuldade que nunca muda, não importa como a criança se saia."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Jogos de matemática longe da tela",
+          "blocks": [
+            {
+              "p": "Não é necessária uma tela e uma combinação de ambos geralmente é melhor do que qualquer um deles sozinho. Algumas das melhores práticas de multiplicação não custam nada:"
+            },
+            {
+              "list": [
+                "Dois dados e uma corrida para dizer o produto primeiro – com um adulto que pode ser deliberadamente derrotado.",
+                "Um baralho de cartas com as figuras removidas: vire duas e multiplique-as.",
+                "Matrizes no mundo real – caixas de ovos, azulejos, vidraças, bandejas de muffins, assentos enfileirados.",
+                "Contando em passos em voz alta no caminho para a escola: quatro, seis, sete.",
+                "Cozinhar, onde duplicar e triplicar uma receita é multiplicar com um motivo anexado."
+              ]
+            },
+            {
+              "p": "Eles são mais fortes que um aplicativo em um aspecto específico: são conversas. Você ouve como a criança chegou à resposta, o que lhe diz muito mais do que se a resposta estava certa."
+            }
+          ]
+        },
+        {
+          "heading": "Onde o Numblop se encaixa",
+          "blocks": [
+            {
+              "p": "Numblop é baseado no primeiro padrão e não no segundo. A multiplicação é o jogo: responder aos fatos é o que o move ao longo do mapa, e não há um minijogo separado para o qual escapar. Recompensas, moedas, itens cosméticos e novas ilhas decorrem da prática, em vez de substituí-la."
+            },
+            {
+              "p": "É deliberadamente sem pressa – sem contagem regressiva, sem penalidade por uma resposta errada e com uma explicação quando algo dá errado. As sessões são curtas por definição, o progresso permanece no dispositivo e não há contas, anúncios ou compras no aplicativo."
+            }
+          ]
+        }
+      ],
+      "cta": {
+        "heading": "Experimente no navegador",
+        "body": "O Numblop roda no Android e diretamente em um navegador no iPhone, iPad e desktop – gratuito, sem nada para instalar e sem inscrição."
+      }
+    },
+    {
+      "id": "progress",
+      "slug": "progresso-na-matematica",
+      "title": "Como saber se uma tabuada foi realmente dominada: acompanhando o progresso",
+      "metaTitle": "Acompanhando o progresso em matemática sem controle – Numblop",
+      "metaDescription": "Avaliação formativa em casa: como verificar se a tabuada foi realmente adquirida, o que prestar atenção e como tornar o progresso visível sem pressão.",
+      "linkLabel": "Acompanhando o progresso em matemática",
+      "excerpt": "Como verificar se um resultado foi alcançado sem transformar cada dia em uma verificação.",
+      "updated": "2026-09-02",
+      "image": {
+        "src": "/posts/rewards-en.webp",
+        "alt": "Um baú de recompensa e moedas obtidas após uma sessão concluída no Numblop",
+        "width": 720,
+        "height": 900
+      },
+      "intro": [
+        "Com a tabuada, a questão difícil não é o que trabalhar, mas o que não precisa mais ser trabalhado. Continuar a revisar o que foi aprendido desperdiça a atenção limitada da criança. Pare cedo demais e os resultados desaparecerão após as férias.",
+        "Podemos responder a esta pergunta, e sem controle. O que é necessário chama-se avaliação formativa: pequenas verificações que orientam o resto da formação e que não têm consequências para a criança."
+      ],
+      "sections": [
+        {
+          "heading": "Por que a precisão por si só diz muito pouco",
+          "blocks": [
+            {
+              "p": "Uma criança que conta passo a passo ou que parte de um resultado semelhante também acaba acertando. A resposta está correta, o resultado não é certo. Quem conta apenas as respostas corretas nunca vê essa diferença."
+            },
+            {
+              "p": "E é justamente esta diferença que conta depois. Numa divisão simples ou com frações, o cálculo devora a atenção necessária ao problema. Portanto, é melhor olhar para a hesitação do que para a marca de seleção."
+            }
+          ]
+        },
+        {
+          "heading": "Mais três sinais significativos",
+          "blocks": [
+            {
+              "h3": "A resposta está chegando ou está sendo construída?"
+            },
+            {
+              "p": "Observe a pausa. Um resultado armazenado retorna em um ou dois segundos. Um resultado reconstruído deixa uma lacuna visível durante a qual a criança conta ou inicia um cálculo vizinho. Ambos estão certos; apenas um está concluído."
+            },
+            {
+              "h3": "Ele fica fora de sua ordem?"
+            },
+            {
+              "p": "Peça 8×7 no meio de um conjunto embaralhado, vários dias depois da tabuada de 8 ser o assunto. Os resultados que funcionam apenas dentro da sua tabela ainda não são autônomos."
+            },
+            {
+              "h3": "Ele está tendo um dia ruim?"
+            },
+            {
+              "p": "Um resultado que desaparece quando a criança está cansada ou distraída permanece frágil. Não é preocupante, é apenas um motivo para deixá-lo em circulação mais um pouco."
+            },
+            {
+              "p": "A pergunta mais informativa que existe não custa nada: “Como você descobriu?” \". Um “nove vezes seis é dez vezes seis menos seis” indica compreensão sem automação. Um encolher de ombros com a resposta correta geralmente significa que é um dado adquirido."
+            }
+          ]
+        },
+        {
+          "heading": "Questionar sem ser um controle",
+          "blocks": [
+            {
+              "p": "Assim que a questão se assemelha a um teste, o comportamento muda: as crianças tentam menos, evitam resultados incertos e concentram-se em como se sentem e não na matemática. Você então perde exatamente as informações que procurava."
+            },
+            {
+              "list": [
+                "Pergunte de passagem: enquanto põe a tabuada, no carro, entre duas coisas.",
+                "Reaja sem julgamento; um suspiro é ouvido instantaneamente.",
+                "Pergunte pelo caminho, não apenas pelo resultado.",
+                "Use o que você vê para mudar o treino, não para avaliar."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Torne o progresso visível",
+          "blocks": [
+            {
+              "p": "Nenhuma planilha é necessária. Você precisa saber quais resultados permanecem baixos e como as coisas mudaram ao longo de um trimestre: algo para planejar e algo para mostrar à criança uma prova de progresso no dia em que ela sentir que nada está avançando."
+            },
+            {
+              "list": [
+                "Uma grade na parede que a criança vai colorindo à medida que vai adquirindo os resultados.",
+                "Uma breve nota após cada sessão com dois ou três resultados lentos.",
+                "Uma amostra de trabalho datada a cada poucas semanas.",
+                "O que o app de treino já registra, se mostra resultados e não apenas pontuações."
+              ]
+            },
+            {
+              "p": "O progresso visível pesa mais do que pensamos. As crianças superestimam o quanto ainda precisa ser feito, e ver a pilha de resultados desconhecidos diminuir ajuda."
+            }
+          ]
+        },
+        {
+          "heading": "Onde uma ferramenta de treinamento ajuda",
+          "blocks": [
+            {
+              "p": "O software é ruim onde é mais importante: explicar, detectar confusão, discutir o caminho seguido. É bom quando é realmente tedioso: lembrar qual entre cem resultados é baixo no momento para essa criança em particular e agendar os ensaios de acordo."
+            },
+            {
+              "p": "É para isso que serve o Numblop. Ele acompanha cada resultado separadamente, mistura o novo e o antigo, retorna aos fracos com mais frequência e mostra a situação em um mapa que a criança pode ler. Funciona no Android e no navegador do iPhone, iPad e computador, o progresso permanece no dispositivo e nenhuma conta é necessária."
+            }
+          ]
+        }
+      ],
+      "cta": {
+        "heading": "Adicione cinco minutos por dia",
+        "body": "O Numblop é gratuito, funciona offline depois de instalado e mantém o progresso no dispositivo: sem conta, sem anúncios e sem compras no aplicativo."
+      }
+    }
+  ],
+  "articles": [
+    {
+      "id": "without-rote",
+      "slug": "aprender-tabuada-sem-decorar",
+      "title": "Como ajudar uma criança a aprender a tabuada sem memorizar mecanicamente",
+      "metaTitle": "Aprenda a tabuada sem memorizar – Numblop",
+      "metaDescription": "Por que cantar as tabelas muitas vezes falha e o que funciona melhor: entender primeiro, prática diária curta, misturar fatos e aumentar a velocidade sem pressão.",
+      "linkLabel": "tabuada de multiplicação sem memorização mecânica",
+      "excerpt": "Recitar a tabuada em sequência pode fazer a criança travar diante de 7 × 6. Veja o que funciona melhor.",
+      "published": "2026-08-30",
+      "updated": "2026-09-02",
+      "image": {
+        "src": "/posts/mistakes-help-en.webp",
+        "alt": "Numblop mostrando 3 × 5 = 15 como pontos contáveis ​​após uma resposta errada",
+        "width": 720,
+        "height": 900
+      },
+      "takeaways": [
+        "Compreender o que significa multiplicação tem que vir antes da velocidade, ou a memória não terá nada em que se agarrar.",
+        "Cinco minutos na maioria dos dias superam uma longa sessão semanal – a recordação aumenta com tentativas separadas, não com o total de minutos.",
+        "Misture fatos novos com antigos; praticar uma tabela em ordem treina a ordem e não os fatos.",
+        "Passe a maior parte do tempo no pequeno grupo de fatos genuinamente concretos, e não de maneira uniforme em toda a grade.",
+        "A velocidade é importante, mas somente após a compreensão, e deve ser medida em vez de imposta com um cronômetro.",
+        "Explique os erros em vez de corrigi-los, para que um fato esquecido possa ser reconstruído em vez de apenas memorizado novamente."
+      ],
+      "intro": [
+        "Quase todo adulto se lembra de cantar a tabuada. Alguns lembram-se disso com carinho, a maioria lembra-se disso como um ruído, e um bom número lembra-se do pavor específico de ser questionado 7 × 8 na frente da turma. É o método padrão porque é fácil de executar, não porque seja a melhor maneira de aprender.",
+        "Cantar produz alguma coisa. Apenas produz a coisa errada: uma sequência. Uma criança que aprendeu os 7 como uma canção pode recitá-los a partir de 7 × 1 e ainda assim irá parar quando 7 × 6 aparecer sozinho num problema de divisão, porque o caminho para a resposta percorre toda a lista.",
+        "O que se segue não é uma rejeição da prática. Os fatos de multiplicação precisam se tornar automáticos, e isso leva meses para serem repetidos. A questão é que tipo de repetição e em que ordem."
+      ],
+      "sections": [
+        {
+          "heading": "Por que memorizar sozinho tende a falhar",
+          "blocks": [
+            {
+              "p": "Um fato memorizado sem nenhum significado por trás dele é um objeto frágil. Não há nada com que comparar, então uma criança não consegue distinguir 6 × 7 = 42 de 6 × 7 = 45, exceto lembrando-se com mais atenção. E não há caminho de volta: uma vez que acabou, acabou, e as férias de verão geralmente são suficientes para aproveitá-lo."
+            },
+            {
+              "p": "Uma criança que entende de multiplicação tem um substituto. Esquecer 6 × 7 é um pequeno inconveniente – é o dobro de 3 × 7, ou 5 × 7 mais 7, ou seis linhas de sete que podem ser contadas se for o caso. Eles chegam à resposta lentamente, mas chegam, e cada reconstrução torna a recordação direta um pouco mais provável na próxima vez."
+            },
+            {
+              "p": "É por isso que a compreensão não é um caminho mais lento para a fluência. É o que torna a fluência estável."
+            }
+          ]
+        },
+        {
+          "heading": "Comece com o que realmente é a multiplicação",
+          "blocks": [
+            {
+              "p": "Antes de qualquer exercício, a criança precisa de uma imagem mental. A multiplicação é em grupos iguais: quatro sacos com seis bolinhas cada. É também uma matriz – linhas e colunas, que é a imagem que compensa mais tarde, porque torna óbvio por que 6 × 4 e 4 × 6 dão a mesma resposta. Gire a matriz noventa graus e ela terá a mesma matriz."
+            },
+            {
+              "p": "Esse único insight reduz pela metade o trabalho. Uma grade de cem fatos equivale, na verdade, a cinquenta, e as crianças que não perceberam isso estão aprendendo silenciosamente tudo duas vezes."
+            },
+            {
+              "p": "Coisas úteis para fazer nesta fase, nenhuma das quais requer materiais que você ainda não possui:"
+            },
+            {
+              "list": [
+                "Disponha balcões, botões ou massas em fileiras e conte-os de duas maneiras.",
+                "Encontre arranjos pela casa: caixas de ovos, azulejos, bandejas de muffin, vidraças, barras de chocolate.",
+                "Desenhe o fato em papel quadrado e conte os quadrados.",
+                "Conte em voz alta enquanto caminha, para que o padrão apareça tanto como ritmo quanto como números."
+              ]
+            },
+            {
+              "p": "Esta etapa é curta. Não é um trabalho de termo. Mas pular isso é o que produz uma criança que consegue recitar tabelas e não pode usá-las."
+            }
+          ]
+        },
+        {
+          "heading": "Curto e frequente, não longo e raro",
+          "blocks": [
+            {
+              "p": "O erro prático mais comum é economizar prática. Meia hora no fim de semana parece produtiva e funciona mal. Cinco minutos na maioria dos dias funcionam muito melhor, apesar de serem menos tempo total."
+            },
+            {
+              "p": "A razão é que a memória responde ao número de ocasiões separadas em que algo é recuperado, espalhadas ao longo do tempo, e não à duração de qualquer sessão. Deixar que um pequeno esquecimento aconteça entre as sessões é parte do mecanismo, não uma falha dele – retirar algo que você perdeu pela metade é o que o faz persistir."
+            },
+            {
+              "p": "Cinco a dez minutos é uma meta realista. Curto o suficiente para prender a atenção até o fim, curto o suficiente para não se tornar uma discussão diária e curto o suficiente para sobreviver a uma semana agitada, que é o único teste que importa ao longo dos meses que leva."
+            }
+          ]
+        },
+        {
+          "heading": "Vá em uma ordem sensata",
+          "blocks": [
+            {
+              "p": "Algumas tabuadas são quase gratuitas e começar por elas aumenta a confiança rapidamente. A do 2 é apenas duplicar, algo que a maioria das crianças já consegue fazer. As do 10 e do 5 têm padrões óbvios. A do 4 é duplicar duas vezes. A do 9 tem o truque dos dedos e o padrão da soma dos algarismos, que as crianças costumam adorar."
+            },
+            {
+              "p": "Depois disso, a maior parte da grade já está coberta, e resta apenas um pequeno núcleo difícil entre as tabuadas do 6, 7 e 8 – os clássicos 6 × 7, 7 × 8 e 6 × 8. Quase todas as crianças acham esses fatos mais difíceis, e eles são justamente os menos praticados quando se percorrem as tabuadas sempre na mesma ordem."
+            },
+            {
+              "p": "Diga isso em voz alta para a criança. Saber que talvez restem oito fatos genuinamente concretos, em vez de cem, muda a sensação da tarefa."
+            }
+          ]
+        },
+        {
+          "heading": "Misture os fatos fracos com os conhecidos",
+          "blocks": [
+            {
+              "p": "Dois modos de falha estão de cada lado da resposta certa aqui. Praticar toda a grade uniformemente gasta a maior parte da sessão em fatos que a criança já possui. Praticar apenas os factos fracos é incansável: cada questão é difícil e a sessão torna-se algo a suportar."
+            },
+            {
+              "p": "Uma mistura composta principalmente de fatos fracos com um suprimento constante de fatos conhecidos mantém a dificuldade honesta e a sessão passível de sobrevivência. Os fáceis não são desperdiçados - são eles que fazem a criança querer voltar amanhã."
+            },
+            {
+              "p": "Embaralhar também é importante. Os fatos deveriam aparecer fora de ordem e fora de sua própria tabuada, porque essa é a única forma na qual eles são necessários. A prática mista parece mais difícil no momento e produz melhor recordação depois."
+            }
+          ]
+        },
+        {
+          "heading": "Quando a velocidade começa a importar",
+          "blocks": [
+            {
+              "p": "A velocidade tem má reputação no ensino de matemática, em grande parte merecida, porque geralmente é apresentada como pressão. Mas a fluência é um objetivo real, e a razão é mais prática do que competitiva."
+            },
+            {
+              "p": "Quando uma criança calcula 7 × 8 em vez de lembrá-lo, esse trabalho ocupa a atenção necessária para qualquer que seja o problema real. Em uma questão de divisão longa ou de frações, a aritmética devora o pensamento. A recuperação automática é o que o libera."
+            },
+            {
+              "p": "Portanto, a velocidade é importante – depois da compreensão, não em vez dela, e como algo que você observa, e não como algo que você impõe. Observe quais fatos surgem com uma pausa e pratique-os mais. Isso alcança tudo o que um cronômetro de contagem regressiva consegue, sem ensinar a uma criança ansiosa que ela é ruim em matemática."
+            }
+          ]
+        },
+        {
+          "heading": "Jogue e por que funciona de verdade",
+          "blocks": [
+            {
+              "p": "Os jogos são geralmente justificados como uma forma de tornar a prática palatável. Isso os vende abaixo do preço. Brincar muda o que a criança está disposta a fazer e, especificamente, torna-a disposta a adivinhar."
+            },
+            {
+              "p": "Uma criança que está brincando tentará um fato do qual não tem certeza, porque errar dentro de um jogo não é digno de nota. A mesma criança em uma planilha muitas vezes para e espera que lhe digam, porque uma resposta errada no papel é uma marca. Como a tentativa de um fato semi-conhecido é o que fortalece a memória, a criança que adivinha está aprendendo e a criança que espera não."
+            },
+            {
+              "p": "As telas são opcionais aqui. Dois dados e uma corrida para dizer o produto, um baralho de cartas com as figuras removidas ou perguntas de multiplicação durante uma viagem de carro, tudo isso dá conta do recado. O mesmo acontece com um aplicativo bem construído, que agrega principalmente a escrituração contábil."
+            }
+          ]
+        },
+        {
+          "heading": "Motivação sem pressão",
+          "blocks": [
+            {
+              "p": "Isso leva meses, e a parte difícil é a continuidade e não o método. Algumas coisas ajudam mais do que deveriam:"
+            },
+            {
+              "list": [
+                "Torne o progresso visível. Uma grade na parede com fatos dominados coloridos dá evidências à criança em um dia em que parece que nada está acontecendo.",
+                "Elogie a prática, não a habilidade. “Você ficou com os setes” é repetível; “você é tão inteligente” torna o próximo fato concreto uma prova contra isso.",
+                "Mantenha o mesmo horário todos os dias para que se torne rotina e deixe de ser uma decisão para discutir.",
+                "Pare enquanto está indo bem. Terminar com uma boa rodada é o que torna o amanhã mais fácil.",
+                "Deixe que as recompensas sigam o esforço, em vez de bloqueá-lo – algo pequeno no final de uma sessão, não um pedágio a ser pago antes do início da diversão."
+              ]
+            },
+            {
+              "p": "E mantenha sua própria reação aos erros plana. As crianças leem um suspiro instantaneamente, e uma criança que pensa que errar o decepciona começará a evitar os fatos dos quais eles têm menos certeza - que são precisamente aqueles que precisam de trabalho."
+            }
+          ]
+        },
+        {
+          "heading": "Como saber se realmente pousou",
+          "blocks": [
+            {
+              "p": "A verificação não é um teste e funciona melhor se não se parecer com um. O que você procura são informações sobre o treino de amanhã, não uma nota."
+            },
+            {
+              "list": [
+                "A resposta chega em um ou dois segundos, sem nenhuma pausa visível para cálculo.",
+                "Sobrevive sendo questionado fora de ordem, dias depois daquela tabuada ser o assunto.",
+                "Sobrevive a um dia cansado.",
+                "A criança pode explicar como o reconstruiria caso se esquecesse."
+              ]
+            },
+            {
+              "p": "Essa última é a diferença entre esta abordagem e o canto. Uma criança que consegue dizer “nove setes são dez setes menos sete” tem algo durável, mesmo num dia em que a recordação direta não ocorre."
+            }
+          ]
+        },
+        {
+          "heading": "Onde a prática digital se encaixa",
+          "blocks": [
+            {
+              "p": "Um aplicativo não pode fazer a parte importante. Ele não notará que uma criança está confusa sobre o que significa multiplicação, não conversará sobre como uma resposta foi alcançada e não poderá colocar contadores sobre uma tabuada."
+            },
+            {
+              "p": "O que ele pode fazer é a metade tediosa, e a metade tediosa é genuinamente difícil de ser feita manualmente: manter o controle de quais entre uma centena de fatos são atualmente fracos para essa criança em particular e colocá-los diante deles com mais frequência, no dia certo, misturados com material conhecido suficiente para manter a sessão suportável."
+            },
+            {
+              "p": "Numblop é construído em torno desse trabalho. Ele segue cada fato separadamente, traz de volta aqueles que são lentos ou errados, mistura material novo com antigo e explica um erro – mostrando 3 × 5 = 15 como pontos que a criança pode contar – em vez de marcá-lo errado e seguir em frente. Não há contagem regressiva nem penalidade por resposta errada, as sessões são curtas e o progresso é mostrado em um mapa que a criança pode ler rapidamente. Funciona no Android e no navegador do iPhone, iPad e desktop; o progresso permanece no dispositivo e não há contas, anúncios ou compras no aplicativo."
+            },
+            {
+              "p": "É uma ferramenta para uma parte do problema. A compreensão, a conversa e a rotina ainda são suas – mas são as partes que valem o seu tempo."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

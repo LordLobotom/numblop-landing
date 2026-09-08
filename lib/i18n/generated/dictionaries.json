@@ -2536,5 +2536,146 @@
       "youtube": "YouTube",
       "madeIn": "Numblop – tabel perkalian melalui permainan"
     }
+  },
+  "hu": {
+    "meta": {
+      "title": "Numblop – Szorzótanulás játékkal",
+      "description": "Adaptív játék a szorzótábla gyakorlásához és biztos elsajátításához."
+    },
+    "header": {
+      "getIt": "Szerezd be a Numblopot"
+    },
+    "hero": {
+      "name": "Numblop",
+      "tagline": "Tanulj szorzást játékosan",
+      "slogan": "A tanulás egy utazás – kövesd a fejlődésedet",
+      "shortDescription": "Adaptív játék a szorzótábla gyakorlásához és automatizálásához. Alkalmazkodik minden gyermek fejlődéséhez, és segít, hogy a szorzások eredménye magabiztosan, azonnal eszébe jusson.",
+      "badge": "Már a Google Playen",
+      "googlePlay": "Letöltés a Google Playről",
+      "playWeb": "Játék a böngészőben",
+      "privacy": "A fejlődés ezen az eszközön marad."
+    },
+    "download": {
+      "heading": "Hol játszhatsz a Numbloppal?",
+      "subheading": "Androidon töltsd le a Google Playről. iPhone-on, iPaden és számítógépen indítsd el közvetlenül a böngészőben – ingyenesen, telepítés és regisztráció nélkül.",
+      "androidTitle": "Android",
+      "androidBody": "A teljes verzió a Google Play áruházból. Ingyenes, reklámok és alkalmazáson belüli vásárlások nélkül.",
+      "androidCta": "Letöltés a Google Playről",
+      "webTitle": "iPhone, iPad és számítógép",
+      "webBody": "A Numblop közvetlenül a böngészőben fut. Csak kattints és játssz – nincs letöltés és nincs regisztráció.",
+      "webCta": "Játék a böngészőben",
+      "iosNote": "Külön iOS-alkalmazás még nincs. A böngészős változat a teljes játékot kínálja.",
+      "bottomHeading": "Kezdd el a gyakorlást még ma",
+      "bottomSubheading": "Töltsd le a Numblopot a Google Playről, vagy próbáld ki most rögtön a böngészőben."
+    },
+    "trailer": {
+      "heading": "Nézd meg az előzetest",
+      "subheading": "Rövid ízelítő abból, ami a gyerekeket a Numblopban várja – egy kedves társ, szigetek térképe és jutalom minden lépésért.",
+      "play": "Előzetes lejátszása",
+      "posterAlt": "Numblop egy kincsesláda mellett – képkocka az előzetesből",
+      "privacyNote": "A videó csak kattintás után töltődik be a YouTube-ról. Addig ez az oldal semmit sem küld a YouTube-nak.",
+      "watchOnYoutube": "Megtekintés a YouTube-on"
+    },
+    "contact": {
+      "heading": "Lépj kapcsolatba velünk",
+      "subheading": "Kérdésed vagy ötleted van, esetleg hibát találtál? Írj nekünk – minden üzenetet elolvasunk.",
+      "nameLabel": "Név (nem kötelező)",
+      "namePlaceholder": "Hogyan szólíthatunk?",
+      "emailLabel": "E-mail-címed",
+      "emailPlaceholder": "email@example.com",
+      "messageLabel": "Üzenet",
+      "messagePlaceholder": "Miben segíthetünk?",
+      "consent": "Hozzájárulok, hogy az e-mail-címemet és az üzenetemet a megkeresésem megválaszolásához felhasználják. További részletek az ",
+      "consentLink": "adatvédelmi szabályzatban",
+      "submit": "Üzenet küldése",
+      "sending": "Küldés…",
+      "successTitle": "Az üzenetet elküldtük!",
+      "successBody": "Köszönjük, hogy írtál. Amint tudunk, válaszolunk a megadott e-mail-címre.",
+      "error": "Az üzenetet nem sikerült elküldeni. Próbáld újra, vagy írj nekünk közvetlenül:",
+      "errorMailto": "E-mail küldése",
+      "directEmail": "Inkább a saját levelezőprogramodból írnál?",
+      "backToHome": "Vissza a főoldalra",
+      "meta": {
+        "title": "Kapcsolat – Numblop",
+        "description": "Küldj kérdést, ötletet vagy hibajelentést a Numblop játékhoz."
+      }
+    },
+    "highlights": {
+      "heading": "Szorzótanulás, amit élvezni lehet",
+      "subheading": "Egy kedves társ, szigetekkel teli térkép és rövid körök, ahol minden lépés számít.",
+      "posters": [
+        "Numblop – játékos szorzótanulás: egy aranyos társ, különleges kiegészítők és játékos környezet tartja fenn a gyerekek érdeklődését. Játssz és tanulj a saját tempódban.",
+        "Tanulj lépésről lépésre: a Numblop gyakrabban ismétli a nehezebb szorzásokat, és segít biztos tudást szerezni. A térképen minden szorzótábla fejlődése külön követhető.",
+        "Minden hiba segít tanulni: egy téves válasz után magyarázatot kapsz, nem csak javítást. A Numblop a 3 × 5 = 15 műveletet megszámolható pontokkal mutatja meg.",
+        "Örömteli motiváció: minden lépéssel jutalmakat és érméket gyűjtesz, és a térkép új részeit fedezed fel. A befejezett kör végén kincsesláda és új szigetek várnak."
+      ]
+    },
+    "steps": {
+      "heading": "Fedezd fel → Gyakorolj → Erősítsd meg → Már tudom",
+      "subheading": "Négy lépés, amelyen a Numblop minden szorzást végigvezet.",
+      "items": [
+        {
+          "title": "Fedezd fel",
+          "description": "Az új szorzásokat lépésről lépésre, összefüggéseikben ismered meg – nincs ugrás az ismeretlenbe."
+        },
+        {
+          "title": "Gyakorolj",
+          "description": "A rövid, játékos körök fenntartják a figyelmet és megalapozzák a magabiztosságot."
+        },
+        {
+          "title": "Erősítsd meg",
+          "description": "A nehezebb szorzások pontosan akkor térnek vissza, amikor ideje újra átvenni őket."
+        },
+        {
+          "title": "Már tudom",
+          "description": "Az eredmény azonnal, számolás nélkül eszedbe jut – a szorzás automatikussá válik."
+        }
+      ]
+    },
+    "why": {
+      "heading": "Okosabb gyakorlás, a fejlődésre összpontosítva",
+      "paragraphs": [
+        "A Numblop egy adaptív oktatójáték, amely segít a gyerekeknek gyakorolni, megerősíteni és automatizálni a szorzótáblát. Alkalmazkodik a gyermek fejlődéséhez, rendszeresen visszahozza a nehezebb szorzásokat, és fokozatosan biztos tudáshoz vezet.",
+        "A gyerekeket a játék öröme motiválja: jutalmakat gyűjtenek, új térképrészeket fedeznek fel, és a saját tempójukban tanulnak. A rövid, barátságos körök büntetés nélkül reagálnak a hibákra: minden hiba egy újabb lehetőség a gyakorlásra."
+      ],
+      "quotes": [
+        "Minden hiba segít tanulni.",
+        "A tanulás egy utazás – kövesd a fejlődésedet."
+      ],
+      "features": [
+        {
+          "title": "Alkalmazkodik a gyermekhez",
+          "description": "A játék követi, mely szorzásokat tudja már a gyermek, és azokra összpontosít, amelyeket még gyakorolnia kell."
+        },
+        {
+          "title": "Jutalmak és felfedezés",
+          "description": "Minden befejezett gyakorlás jutalmat ad, és a térkép új részeit tárja fel."
+        },
+        {
+          "title": "Saját tempó, stressz nélkül",
+          "description": "Nincs visszaszámlálás és nincs büntetés a hibákért – csak nyugodt, fokozatos magabiztosság-építés."
+        }
+      ]
+    },
+    "screenshots": {
+      "heading": "Pillants be a játékba",
+      "subheading": "Egy barátságos társ, fejlődési térkép és rövid gyakorlókörök.",
+      "captions": [
+        "Kezdőképernyő",
+        "Fejlődési térkép",
+        "Válasz kiválasztása",
+        "Válasz beírása",
+        "Jutalomláda",
+        "Különleges kiegészítők"
+      ]
+    },
+    "footer": {
+      "privacy": "A fejlődés ezen az eszközön marad. Nincsenek fiókok, reklámok vagy követés.",
+      "privacyLink": "Adatvédelmi szabályzat",
+      "contactLink": "Kapcsolat",
+      "instagram": "Instagram",
+      "youtube": "YouTube",
+      "madeIn": "Numblop – Szorzótanulás játékkal"
+    }
   }
 }

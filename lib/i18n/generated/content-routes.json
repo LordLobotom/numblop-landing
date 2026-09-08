@@ -19,7 +19,8 @@
     "ko": "/ko/gugudan-yeonseup/",
     "tr": "/tr/carpim-tablosu-alistirmalari/",
     "vi": "/vi/luyen-tap-bang-cuu-chuong/",
-    "id": "/id/latihan-tabel-perkalian/"
+    "id": "/id/latihan-tabel-perkalian/",
+    "hu": "/hu/szorzotabla-gyakorlas/"
   },
   {
     "en": "/en/math-games-for-kids/",
@@ -41,7 +42,8 @@
     "ko": "/ko/eorini-suhak-game/",
     "tr": "/tr/cocuklar-icin-matematik-oyunlari/",
     "vi": "/vi/tro-choi-toan-hoc-cho-tre-em/",
-    "id": "/id/permainan-matematika-untuk-anak/"
+    "id": "/id/permainan-matematika-untuk-anak/",
+    "hu": "/hu/matematikai-jatekok-gyerekeknek/"
   },
   {
     "en": "/en/homeschool-math/",
@@ -63,7 +65,8 @@
     "ko": "/ko/suhak-hakseup-jindo/",
     "tr": "/tr/matematik-ilerleme-takibi/",
     "vi": "/vi/theo-doi-tien-bo-mon-toan/",
-    "id": "/id/kemajuan-belajar-matematika/"
+    "id": "/id/kemajuan-belajar-matematika/",
+    "hu": "/hu/szorzotabla-fejlodes-kovetese/"
   },
   {
     "en": "/en/blog/learn-times-tables-without-rote-memorising/",
@@ -85,6 +88,7 @@
     "ko": "/ko/blog/gugudan-amgi-eopsi-baeugi/",
     "tr": "/tr/blog/ezberlemeden-carpim-tablosu-ogrenme/",
     "vi": "/vi/blog/hoc-bang-cuu-chuong-khong-hoc-vet/",
-    "id": "/id/blog/belajar-tabel-perkalian-tanpa-menghafal/"
+    "id": "/id/blog/belajar-tabel-perkalian-tanpa-menghafal/",
+    "hu": "/hu/blog/szorzotabla-tanulas-magolas-nelkul/"
   }
 ]

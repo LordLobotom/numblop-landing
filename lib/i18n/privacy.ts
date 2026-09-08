@@ -2,7 +2,7 @@ import generatedPrivacy from './generated/privacy.json'
 import type { Locale } from './locales'
 
 // The privacy policy is kept apart from the main dictionary because it is long
-// and rarely touched. Czech and English are maintained below; the other eighteen
+// and rarely touched. Czech and English are maintained below; the other nineteen
 // complete locale versions live in generated/privacy.json.
 //
 // Scope note: the whole game is playable offline, signed out, with no Numblop

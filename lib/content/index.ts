@@ -35,6 +35,7 @@ import ko from './locales/ko.json'
 import tr from './locales/tr.json'
 import vi from './locales/vi.json'
 import id from './locales/id.json'
+import hu from './locales/hu.json'
 
 export * from './types'
 
@@ -59,6 +60,7 @@ const catalog: ContentCatalog = {
   tr: tr as LocaleContent,
   vi: vi as LocaleContent,
   id: id as LocaleContent,
+  hu: hu as LocaleContent,
 }
 
 export function getLocaleContent(locale: Locale): LocaleContent {

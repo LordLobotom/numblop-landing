@@ -24,8 +24,8 @@ an adaptive multiplication-practice game for children built in Godot
   privacy policy is kept separately in `lib/i18n/privacy.ts` plus
   `lib/i18n/generated/privacy.json` because it is long and rarely touched.
 - Imagery comes from the game repo via `tools/prepare-assets.mjs`: the language
-  picker reuses all twenty game flags. Store posters (`store/posts/`) and in-game
-  screenshots (`store/screenshots/`) currently ship with baked-in copy only in
+  picker uses all twenty-one language flags. Store posters (`store/posts/`) and
+  in-game screenshots (`store/screenshots/`) currently ship with baked-in copy only in
   Czech and English, so the other locale pages use English artwork with fully
   localized surrounding copy and alt text.
 - Brand: lime `#b9ef45` (solid fills only on light backgrounds — it fails
@@ -79,9 +79,9 @@ regeneration.
 - Three guides per locale, each targeting one search intent, framed for the
   local market rather than translated: practice, learning through play, and a
   third that is homeschooling where that is a real intent (cs, sk, en, pl) and
-  formative assessment / progress tracking in the other sixteen markets.
-  Adding a fourth means adding an id to `seoPageIds` and an entry to all twenty
-  locale files — the type will tell you which are missing.
+  formative assessment / progress tracking in the other seventeen markets.
+  Adding a fourth means adding an id to `seoPageIds` and an entry to all
+  twenty-one locale files — the type will tell you which are missing.
 - Blog at `/<locale>/blog/`, articles at `/<locale>/blog/<localized-slug>/`,
   with `BlogPosting` markup, breadcrumbs and publication dates. Add a post by
   extending `articleIds` and every locale file; routes, sitemap, hreflang and

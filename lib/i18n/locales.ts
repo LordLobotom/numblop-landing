@@ -19,6 +19,7 @@ export const locales = [
   'tr',
   'vi',
   'id',
+  'hu',
 ] as const
 
 export type Locale = (typeof locales)[number]
@@ -52,6 +53,7 @@ export const localeCatalog: readonly LocaleInfo[] = [
   { code: 'tr', name: 'Türkçe', languageLabel: 'Dil', flag: '/languages/tr.png', openGraph: 'tr_TR' },
   { code: 'vi', name: 'Tiếng Việt', languageLabel: 'Ngôn ngữ', flag: '/languages/vi.png', openGraph: 'vi_VN' },
   { code: 'id', name: 'Bahasa Indonesia', languageLabel: 'Bahasa', flag: '/languages/id.png', openGraph: 'id_ID' },
+  { code: 'hu', name: 'Magyar', languageLabel: 'Nyelv', flag: '/languages/hu.png', openGraph: 'hu_HU' },
 ]
 
 const localeInfo = Object.fromEntries(

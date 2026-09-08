@@ -6676,5 +6676,376 @@
         ]
       }
     ]
+  },
+  "hu": {
+    "title": "A Numblop adatvédelmi szabályzata",
+    "effectiveDateLabel": "Hatálybalépés",
+    "effectiveDate": "2026. augusztus 13.",
+    "intro": [
+      "A Numblop egy oktató matematikai játék, amely biztonságos és játékos környezetben segíti a gyerekeket a szorzás gyakorlásában.",
+      "Ez az adatvédelmi szabályzat ismerteti, milyen adatokat kezel a Numblop, hogyan használja fel őket, valamint milyen lehetőségeik vannak a felhasználóknak és szüleiknek vagy törvényes képviselőiknek.",
+      "Röviden: a teljes játék internetkapcsolat, bejelentkezés és Numblop-fiók nélkül is működik. Nincsenek benne reklámok vagy alkalmazáson belüli vásárlások, és saját analitikai szolgáltatást sem használunk.",
+      "Két funkció önkéntes, és Ön dönt róluk: a felhőalapú mentés, amely a játék előrehaladásának egy titkosított példányát elküldi a Google Play Játékoknak (2. szakasz), valamint minden, amit ezen a webhelyen önként tesz – üzenetet küld nekünk a kapcsolatfelvételi űrlapon, vagy kattintással elindítja a YouTube-előzetest (3. szakasz).",
+      "Egy dolog azonban nem választható. Az androidos változat tartalmazza a Google Play Játékok összetevőjét, amely a játékkal együtt akkor is elindul, ha a felhőalapú mentés ki van kapcsolva. Ez az összetevő diagnosztikai és teljesítményadatokat küldhet a Google-nak, amely ezeket analitikai célokra is felhasználhatja. A részleteket a 2. szakasz ismerteti."
+    ],
+    "meta": {
+      "title": "Adatvédelmi szabályzat – Numblop",
+      "description": "A Numblop egy reklámok és alkalmazáson belüli vásárlások nélküli gyermekjáték, amely teljes egészében játszható offline. Olvassa el a teljes adatvédelmi szabályzatot."
+    },
+    "backToHome": "Vissza a főoldalra",
+    "sections": [
+      {
+        "heading": "1. Fejlesztő és elérhetőségek",
+        "blocks": [
+          {
+            "p": "A Numblop fejlesztője és üzemeltetője:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Fejlesztő",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "Ország",
+                "value": "Csehország"
+              },
+              {
+                "label": "Kapcsolattartási e-mail-cím",
+                "value": "numblop@gutcloud.cz"
+              }
+            ]
+          },
+          {
+            "p": "Adatvédelemmel kapcsolatos kérdésével vagy kérelmével forduljon hozzánk a fenti e-mail-címen."
+          }
+        ]
+      },
+      {
+        "heading": "2. Az általunk kezelt adatok",
+        "blocks": [
+          {
+            "p": "A Numblop nem értékesít felhasználói adatokat, nem használja őket reklámozásra, és nem végez viselkedéselemzést. Ez a szakasz magát a játékot ismerteti; a webhely kapcsolatfelvételi űrlapján megadott adatokról a 3. szakasz szól."
+          },
+          {
+            "h": "Játékadatok az Ön eszközén"
+          },
+          {
+            "p": "A játék a játékmenetre vonatkozó adatokat kizárólag az alkalmazás saját, az Ön eszközén található tárhelyén tárolja. Ezek különösen a következők:"
+          },
+          {
+            "list": [
+              "a játékban elért előrehaladás,",
+              "a feloldott szorzótáblák,",
+              "az egyes szorzások elsajátítási szintje,",
+              "a megszerzett tapasztalati pontok,",
+              "az érmék és jutalmak,",
+              "a teljesítmények és trófeák,",
+              "a kiválasztott megjelenési kiegészítők,",
+              "az alkalmazás beállításai (nyelv, hang, rezgés, felhőalapú mentés),",
+              "a játékos által megadott, nem kötelező becenév,",
+              "a játék által létrehozott véletlenszerű, álneves profilazonosító."
+            ]
+          },
+          {
+            "p": "Kikapcsolt felhőalapú mentés esetén ezek az adatok az eszközön maradnak. Kivételt jelenthet az Android szokásos eszközmentése vagy az eszközök közötti átvitel, amelyet teljes egészében a saját Google-fiókjának beállításaival vezérelhet."
+          },
+          {
+            "p": "A becenév kizárólag arra szolgál, hogy a játék megszólítsa a játékost; soha nem tesszük közzé és más játékosoknak sem jelenítjük meg. Ennek ellenére azt javasoljuk, hogy becenévként ne használjon valódi nevet, e-mail-címet, telefonszámot, iskola nevét vagy lakcímet."
+          },
+          {
+            "h": "Google Play Játékok és felhőalapú mentés"
+          },
+          {
+            "p": "Androidon a Numblop a Google Play Játékszolgáltatásokat használja. A felhőalapú mentés alapértelmezés szerint be van kapcsolva, de csak akkor működik, ha a Google Play Játékok bejelentkezteti az eszközt. Azt, hogy létezik-e és használható-e Play Játékok-profil, a Google, felügyelt gyermekfiók esetén pedig a Family Link beállításai határozzák meg. A felhőalapú mentés a Numblop beállításaiban kikapcsolható; ezután a játék kizárólag a helyi mentést használja."
+          },
+          {
+            "p": "Bejelentkezés és bekapcsolt felhőalapú mentés esetén a Numblop egy titkosított Saved Games-pillanatképet küld a Google-nak. Ez a fent felsorolt előrehaladást, köztük a nem kötelező becenevet és a véletlenszerű profilazonosítót tartalmazza, hogy az előrehaladás visszaállítható vagy több eszköz között biztonságosan egyesíthető legyen. A Numblop megkapja továbbá a Play Játékok játékosazonosítóját, amely ahhoz szükséges, hogy a különböző fiókok mentései elkülönüljenek. A Numblop nem kapja meg a játékos e-mail-címét, és nem üzemeltet saját fiókszervert."
+          },
+          {
+            "p": "A Google Play Játékok a szolgáltatás nyújtása, biztonsága, hibaelhárítása és fejlesztése érdekében maga is kezelhet fiók- és profilazonosítókat, IP-címet és hozzávetőleges országot vagy régiót, játéktevékenységet és mentett előrehaladást, eszközazonosítókat, valamint diagnosztikai adatokat. A Google ezeket a Google adatvédelmi irányelvei és a felhasználó Play Játékok adatvédelmi beállításai szerint kezeli. Mi ezeket az adatokat nem értékesítjük és nem használjuk reklámozásra."
+          },
+          {
+            "h": "Műszaki és diagnosztikai adatok"
+          },
+          {
+            "p": "A Numblop nem tartalmaz hirdetési SDK-t, saját analitikai SDK-t, saját hibajelentő rendszert vagy távoli konfigurációt. Nem kapunk diagnosztikai adatokat az Ön eszközéről, és statisztikákat sem arról, hogyan használják a játékot."
+          },
+          {
+            "p": "A Google Play Játékok összetevője kivétel, és működésére nem vonatkozik a felhőalapú mentés kapcsolója. Androidon a játékkal együtt akkor is elindul, ha a felhőalapú mentés ki van kapcsolva, és eszközazonosítókat, diagnosztikai és teljesítményadatokat küldhet a Google-nak. A Google ezeket a Play Játékok elemzésére és fejlesztésére is felhasználhatja. A felhőalapú mentés kikapcsolása megakadályozza, hogy a Numblop bejelentkezzen vagy pillanatképet küldjön, de nem akadályozza meg, hogy maga a Play Játékok jelentsen a Google-nak. Ezt a Google Play Játékok saját beállításai és a szolgáltatás eszközön való elérhetősége szabályozza."
+          },
+          {
+            "h": "Online ranglisták"
+          },
+          {
+            "p": "A játék jelenlegi változata nem tartalmaz online ranglistát vagy nyilvános profilt. A felhőalapú mentés az egyetlen hálózati funkció. Ha a jövőben ranglistát vagy hasonló funkciót vezetünk be, a jelen adatvédelmi szabályzatot és a Google Play adatbiztonsági nyilatkozatát még az adott változat kiadása előtt frissítjük."
+          }
+        ]
+      },
+      {
+        "heading": "3. Ez a webhely (kapcsolatfelvételi űrlap és videó)",
+        "blocks": [
+          {
+            "p": "A webhely nem használ cookie-kat, nem végez analitikát vagy webhelyek közötti követést. Kapcsolatfelvételi űrlapján kérdést, ötletet vagy hibajelentést küldhet nekünk; ez az egyetlen hely, ahol adatot kapunk Öntől."
+          },
+          {
+            "h": "Milyen adatokat kezelünk?"
+          },
+          {
+            "p": "Csak azt, amit Ön megad: a nem kötelező nevet, a válaszadáshoz szükséges e-mail-címet, az üzenet szövegét és annak az oldalnak a nyelvét, amelyről elküldte. Semmi mást – nincsenek cookie-k, analitika vagy webhelyek közötti követés."
+          },
+          {
+            "h": "Miért kezeljük ezeket?"
+          },
+          {
+            "p": "Kizárólag azért, hogy elolvashassuk és megválaszolhassuk az üzenetét. Címét nem használjuk marketingre, nem vesszük fel levelezőlistára, és másnak sem adjuk át."
+          },
+          {
+            "h": "Jogalap"
+          },
+          {
+            "p": "Az adatkezelés jogalapja a GDPR 6. cikk (1) bekezdés a) pontja szerinti hozzájárulás, amelyet az űrlap jelölőnégyzetének bejelölésével ad meg. Hozzájárulását bármikor visszavonhatja a numblop@gutcloud.cz címre küldött e-mailben; ekkor töröljük a levelezést."
+          },
+          {
+            "h": "Kik kapják meg az adatokat?"
+          },
+          {
+            "p": "Az űrlapot a Web3Forms űrlap-továbbító szolgáltatás kézbesíti a Google által üzemeltetett Gmail-postafiókba. Más címzett nincs."
+          },
+          {
+            "h": "Meddig őrizzük meg az adatokat?"
+          },
+          {
+            "p": "Csak addig, ameddig a megkeresés megválaszolásához és az esetleges további egyeztetéshez szükséges. Ezután töröljük az üzenetet a postafiókból – vagy kérésére korábban."
+          },
+          {
+            "h": "Életkor"
+          },
+          {
+            "p": "Az űrlap szülőknek, tanároknak és felnőtt felhasználóknak szól. Kérjük, kizárólag saját e-mail-címéről írjon, és ne adja meg gyermek e-mail-címét vagy személyes adatait."
+          },
+          {
+            "h": "YouTube-videó"
+          },
+          {
+            "p": "A főoldalon a játék előzetese látható. Az előnézeti képet a saját szerverünk tárolja, ezért az oldal addig nem kapcsolódik a YouTube-hoz, amíg Ön el nem indítja a videót. A youtube-nocookie.com oldalról származó lejátszó csak kattintás után töltődik be; ettől kezdve a Google a saját adatvédelmi szabályzata szerint kezelheti az IP-címét és a lejátszási adatokat. A lábléc Instagram-, Facebook-, TikTok- és YouTube-hivatkozásai egyszerű linkek; azokból semmi sem töltődik be, amíg rájuk nem kattint."
+          },
+          {
+            "p": "Az üzenetküldés és a videó elindítása egyaránt teljesen önkéntes. A játékot bármilyen adat megadása nélkül letöltheti a Google Playről vagy játszhat vele a böngészőben."
+          }
+        ]
+      },
+      {
+        "heading": "4. Hogyan használjuk fel az adatokat?",
+        "blocks": [
+          {
+            "p": "Az eszközön tárolt játékadatokat az alkalmazás kizárólag a következő célokra használja:"
+          },
+          {
+            "list": [
+              "a játék működésének biztosítása és fenntartása,",
+              "az előrehaladás mentése és visszaállítása,",
+              "bekapcsolt felhőalapú mentés esetén az előrehaladás visszaállítása vagy biztonságos egyesítése több eszköz között,",
+              "a tapasztalat, jutalmak és teljesítmények kiszámítása,",
+              "a gyakorlás hozzáigazítása a gyermek fejlődéséhez,",
+              "a kiválasztott beállítások és megjelenési kiegészítők megőrzése."
+            ]
+          },
+          {
+            "p": "Semmilyen adatot nem használunk célzott reklámozásra, közvetlen üzletszerzésre vagy hirdetési profilok létrehozására."
+          }
+        ]
+      },
+      {
+        "heading": "5. Gyermekek adatainak védelme",
+        "blocks": [
+          {
+            "p": "A Numblop gyermekeknek és családoknak készült, ezért úgy terveztük, hogy egyáltalán ne gyűjtsön személyes adatokat."
+          },
+          {
+            "p": "A játék soha nem kéri a gyerekektől a következőket:"
+          },
+          {
+            "list": [
+              "valódi név,",
+              "lakcím,",
+              "e-mail-cím,",
+              "telefonszám,",
+              "iskola neve,",
+              "pontos helyadat,",
+              "fénykép,",
+              "névjegyek,",
+              "privát üzenetek."
+            ]
+          },
+          {
+            "p": "A játékban nincs csevegés, privát üzenetküldés, képmegosztás vagy a felhasználók közötti bármilyen más kommunikáció."
+          },
+          {
+            "p": "Nem működtetünk fiókrendszert, és nincs olyan adatbázisunk, amely a gyermek előrehaladásának másolatát tartalmazná. A játék által kezelt adatok körét szándékosan a lehető legkisebbre korlátoztuk: nincs reklám, követés, szabad szöveges kommunikáció vagy gyermek által megadott, nyilvánosan látható név."
+          }
+        ]
+      },
+      {
+        "heading": "6. Reklámok és vásárlások",
+        "blocks": [
+          {
+            "p": "A Numblop:"
+          },
+          {
+            "list": [
+              "nem jelenít meg harmadik féltől származó reklámokat,",
+              "nem használ felhasználói adatokat reklámozásra,",
+              "ingyenesen érhető el,",
+              "nem tartalmaz előfizetést vagy alkalmazáson belüli vásárlást."
+            ]
+          },
+          {
+            "p": "Ha ezek a gyakorlatok a jövőben megváltoznak, a jelen adatvédelmi szabályzatot és a Google Play adatbiztonsági nyilatkozatát az érintett funkció bevezetése előtt frissítjük."
+          }
+        ]
+      },
+      {
+        "heading": "7. Harmadik fél szolgáltatásai",
+        "blocks": [
+          {
+            "p": "Az alkalmazáson belül az egyetlen, felhasználói adatot kezelő harmadik féltől származó összetevő a Google Play Játékszolgáltatások, amelyet a 2. szakaszban ismertetett, nem kötelező felhőalapú mentéshez használunk. Nincs hirdetési vagy analitikai SDK."
+          },
+          {
+            "p": "Az alkalmazás terjesztésére a Google Play szolgál. Az áruház üzemeltetőjeként a Google a saját feltételei és adatvédelmi szabályzata szerint kezeli a letöltési és telepítési adatokat; mi ezeket nem kapjuk meg olyan formában, amelyből az egyes játékosok azonosíthatók lennének."
+          },
+          {
+            "p": "A harmadik fél szolgáltatásainak jelenlegi listája:"
+          },
+          {
+            "list": [
+              "Google Play Játékszolgáltatások (nem kötelező felhőalapú mentés; lásd a 2. szakaszt),",
+              "Google Play (az alkalmazás terjesztése),",
+              "Web3Forms (a webhely kapcsolatfelvételi űrlapjának e-mailben történő kézbesítése; lásd a 3. szakaszt),",
+              "Google Gmail (a postafiók, amelybe az üzenetek megérkeznek),",
+              "YouTube / Google (az előzetes lejátszója, amely csak kattintásra töltődik be; lásd a 3. szakaszt)."
+            ]
+          },
+          {
+            "p": "A Numblop nem értékesít személyes adatokat harmadik feleknek. Jelenleg más szolgáltatást nem használunk; ezt a listát a jelen adatvédelmi szabályzatban naprakészen tartjuk."
+          }
+        ]
+      },
+      {
+        "heading": "8. Adatok megosztása",
+        "blocks": [
+          {
+            "p": "Felhasználói adatokat nem értékesítünk, nem adunk bérbe és nem cserélünk."
+          },
+          {
+            "p": "A játék nem küld nekünk adatot, így abból nincs mit megosztanunk szolgáltatókkal vagy más harmadik féllel. A játékból kizárólag a felhőalapú mentés pillanatképe kerül továbbításra, mégpedig a játékos saját, bejelentkezett fiókjához tartozó Google Play Játékok szolgáltatásba (lásd a 2. szakaszt). A kapcsolatfelvételi űrlap üzeneteit csak a postafiókunkba történő kézbesítéshez szükséges szolgáltatások kapják meg (lásd a 3. és 7. szakaszt). Ezen túl adatot kizárólag az alkalmazandó jogszabályok által megkövetelt mértékben hoznánk nyilvánosságra."
+          }
+        ]
+      },
+      {
+        "heading": "9. Adatmegőrzés",
+        "blocks": [
+          {
+            "p": "A játékadatok addig maradnak az eszközön, amíg az alkalmazás adatait nem törlik vagy az alkalmazást el nem távolítják. Az alkalmazás eltávolítása törli ezeket az adatokat."
+          },
+          {
+            "p": "Nem üzemeltetünk olyan szervert, amelyen játékadatokat őriznénk. Az eszközön tárolt adatokat az Android rendszerbeállításaiban vagy az alkalmazás eltávolításával bármikor törölheti."
+          },
+          {
+            "p": "A felhőben tárolt pillanatkép a bejelentkezett játékos Play Játékok-adatai között marad, amíg egy új mentés le nem váltja, vagy a játékos a Google Play Játékok saját beállításaiban nem törli a játék adatait vagy a profilját. A felhőalapú mentés Numblopban történő kikapcsolása megakadályozza a további hozzáférést a Play Játékokhoz, de önmagában nem törli a korábban tárolt pillanatképet."
+          },
+          {
+            "p": "A kapcsolatfelvételi űrlapról érkező üzeneteket csak a megválaszolásukhoz szükséges ideig őrizzük meg, a 3. szakaszban leírtak szerint."
+          }
+        ]
+      },
+      {
+        "heading": "10. Adatbiztonság",
+        "blocks": [
+          {
+            "p": "A játékadatokat az alkalmazás saját tárhelyén tároljuk, amelyhez az Android védelme miatt más alkalmazások nem férhetnek hozzá."
+          },
+          {
+            "p": "A felhőalapú mentés pillanatképét titkosított kapcsolaton továbbítjuk a Google Play Játékoknak. Az elektronikus tárolás és adattovábbítás egyetlen módja sem teljesen biztonságos, ezért abszolút biztonság nem garantálható."
+          }
+        ]
+      },
+      {
+        "heading": "11. A felhasználók és szülők jogai",
+        "blocks": [
+          {
+            "p": "Az alkalmazandó jogtól függően a felhasználók, illetve szüleik vagy törvényes képviselőik jogosultak lehetnek a következőkre:"
+          },
+          {
+            "list": [
+              "hozzáférés kérése a tárolt személyes adatokhoz,",
+              "pontatlan adatok helyesbítésének kérése,",
+              "adatok törlésének kérése,",
+              "tiltakozás bizonyos adatkezelés ellen vagy annak korlátozása,",
+              "hozzájárulás visszavonása, ha az adatkezelés hozzájáruláson alapul,",
+              "panasz benyújtása az illetékes adatvédelmi hatóságnál (Csehországban az Adatvédelmi Hivatalnál)."
+            ]
+          },
+          {
+            "p": "A játékosokról nem vezetünk nyilvántartást, ezért nálunk nincs kiadható, helyesbíthető vagy törölhető játékadat. Az eszközön tárolt adatokat az Android beállításaiban, a felhőben tárolt pillanatképet pedig a játékos a Google Play Játékok adatkezelési beállításaiban vezérelheti (lásd a 2. és 9. szakaszt). Egyedül a kapcsolatfelvételi űrlapon küldött üzeneteket őrizzük mi; az ezekkel kapcsolatos jogai gyakorlásához írjon a kapcsolattartási címre, és töröljük a levelezést."
+          },
+          {
+            "p": "Kérdésével bármikor fordulhat hozzánk a numblop@gutcloud.cz címen."
+          }
+        ]
+      },
+      {
+        "heading": "12. Nemzetközi adatkezelés",
+        "blocks": [
+          {
+            "p": "A játékból nem kapunk adatot, ezért részünkről nem történik személyes adatok nemzetközi továbbítása. Bekapcsolt felhőalapú mentés esetén a pillanatkép a Google-hoz kerül, és a Google infrastruktúráján – amely az Európai Gazdasági Térségen kívül is elhelyezkedhet – a Google saját feltételei és garanciái szerint kezelik."
+          },
+          {
+            "p": "A kapcsolatfelvételi űrlapon elküldött üzenet a Web3Forms és a Google rendszerein halad át; ezek szerverei az Európai Gazdasági Térségen kívül is lehetnek. Ugyanez vonatkozik a YouTube-lejátszóra, ha elindítja az előzetest. Ezeket a továbbításokat az adott szolgáltatók feltételei és garanciái szabályozzák."
+          },
+          {
+            "p": "A Google Playen keresztüli terjesztésre a Google saját feltételei és szabályzatai, köztük a nemzetközi adattovábbításra vonatkozó rendelkezései irányadók."
+          }
+        ]
+      },
+      {
+        "heading": "13. Az adatvédelmi szabályzat módosításai",
+        "blocks": [
+          {
+            "p": "A jelen adatvédelmi szabályzatot frissíthetjük, ha az alkalmazás, annak funkciói vagy a jogi követelmények megváltoznak."
+          },
+          {
+            "p": "A frissített változatot ezen az oldalon, módosított hatálybalépési dátummal tesszük közzé."
+          },
+          {
+            "p": "A gyermekek adatait vagy az adatok felhasználását érintő lényeges változásokat hatálybalépésük előtt itt közzétesszük, és az áruházban megjelenő adatbiztonsági nyilatkozatot is ennek megfelelően frissítjük."
+          }
+        ]
+      },
+      {
+        "heading": "14. Kapcsolat",
+        "blocks": [
+          {
+            "p": "A jelen adatvédelmi szabályzattal kapcsolatos kérdésével, kérelmével vagy aggályával az alábbi elérhetőségeken fordulhat hozzánk:"
+          },
+          {
+            "fields": [
+              {
+                "label": "Fejlesztő",
+                "value": "Michal Gut (LordLobotom)"
+              },
+              {
+                "label": "E-mail",
+                "value": "numblop@gutcloud.cz"
+              },
+              {
+                "label": "Ország",
+                "value": "Csehország"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 }

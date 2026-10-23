@@ -1,7 +1,7 @@
 'use client'
 
 import Image from 'next/image'
-import { ArrowRight, Ghost, Globe, MoonStar, ShieldCheck, Smartphone } from 'lucide-react'
+import { ArrowRight, Ghost, Globe, ShieldCheck, Smartphone } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { Button } from '@/components/ui/button'
 import { GOOGLE_PLAY_URL, WEB_BUILD_URL } from '@/lib/links'
@@ -42,6 +42,12 @@ export function Hero({
           'border-b border-orange-300/50 bg-gradient-to-b from-orange-50/90 via-purple-50/40 to-background dark:border-orange-900/40 dark:from-[#211226] dark:via-[#18101f] dark:to-background',
       )}
     >
+      {showHalloween && (
+        <div
+          aria-hidden="true"
+          className="halloween-hero-background pointer-events-none absolute inset-0 bg-cover bg-center opacity-80"
+        />
+      )}
       <div
         aria-hidden="true"
         className={cn(
@@ -51,14 +57,6 @@ export function Hero({
             : 'bg-[radial-gradient(ellipse_at_top,_color-mix(in_srgb,var(--primary)_18%,transparent),transparent_60%)]',
         )}
       />
-      {showHalloween && (
-        <div aria-hidden="true" className="pointer-events-none absolute inset-0">
-          <span className="absolute -right-10 top-10 size-40 rounded-full bg-amber-200/35 shadow-[0_0_80px_rgba(251,191,36,0.24)] sm:right-[8%] sm:size-52" />
-          <MoonStar className="absolute right-[8%] top-16 size-10 text-amber-500/50 sm:right-[14%] sm:size-14" />
-          <Ghost className="absolute left-[7%] top-28 size-9 -rotate-12 text-purple-500/25 sm:size-12" />
-          <Ghost className="absolute bottom-28 right-[6%] size-7 rotate-12 text-orange-500/25 sm:size-10" />
-        </div>
-      )}
       <div className="relative mx-auto flex max-w-5xl flex-col items-center gap-6 px-4 py-20 text-center sm:py-28">
         {/* WebP, and the width/height are the real intrinsic sizes: the
             wordmark used to declare 320x213 against a 640x158 file, so the
@@ -73,10 +71,16 @@ export function Hero({
           width={showHalloween ? 768 : 440}
           height={showHalloween ? 768 : 463}
           priority
-          sizes="(min-width: 640px) 10rem, 8rem"
+          sizes={
+            showHalloween
+              ? '(min-width: 640px) 16.5rem, 13.5rem'
+              : '(min-width: 640px) 10rem, 8rem'
+          }
           className={cn(
             '-mb-2 h-auto drop-shadow-xl transition-all duration-500',
-            showHalloween ? 'w-36 sm:w-44' : 'w-32 sm:w-40',
+            showHalloween
+              ? 'w-[13.5rem] sm:w-[16.5rem]'
+              : 'w-32 sm:w-40',
           )}
         />
         <Image

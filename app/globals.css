@@ -85,3 +85,21 @@
     scroll-behavior: smooth;
   }
 }
+
+.halloween-hero-background {
+  background-image: url('/numblop-halloween-mobile-light.webp');
+}
+
+.dark .halloween-hero-background {
+  background-image: url('/numblop-halloween-mobile-dark.webp');
+}
+
+@media (min-width: 640px) {
+  .halloween-hero-background {
+    background-image: url('/numblop-halloween-desktop-light.webp');
+  }
+
+  .dark .halloween-hero-background {
+    background-image: url('/numblop-halloween-desktop-dark.webp');
+  }
+}

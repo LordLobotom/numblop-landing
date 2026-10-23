@@ -42,6 +42,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: revisions.home,
     },
     {
+      path: 'about/',
+      priority: 0.7,
+      changeFrequency: 'monthly' as const,
+      lastModified: revisions.about,
+    },
+    {
       path: 'contact/',
       priority: 0.5,
       changeFrequency: 'yearly' as const,

@@ -4,6 +4,7 @@ import { Button } from '@/components/ui/button'
 import { ThemeToggle } from '@/components/theme-toggle'
 import { LanguageToggle } from '@/components/language-toggle'
 import { blogPath, getLocaleContent } from '@/lib/content'
+import { getAboutContent } from '@/lib/i18n/about'
 import type { Dictionary, Locale } from '@/lib/i18n/dictionary'
 
 export function SiteHeader({
@@ -14,6 +15,7 @@ export function SiteHeader({
   dict: Dictionary
 }) {
   const { ui } = getLocaleContent(locale)
+  const about = getAboutContent(locale)
 
   return (
     <header className="sticky top-0 z-40 border-b border-border/60 bg-background/80 backdrop-blur">
@@ -32,15 +34,25 @@ export function SiteHeader({
           <span className="hidden text-lg font-semibold sm:inline">Numblop</span>
         </a>
         <div className="flex items-center gap-2 sm:gap-3">
-          {/* One persistent link into the editorial content, so the blog and
-              the guides are reachable from every page rather than only from
-              the home page. */}
-          <a
-            href={blogPath(locale)}
-            className="hidden text-sm font-medium text-muted-foreground hover:text-accent hover:underline sm:inline"
+          {/* Keep the project's story and editorial content reachable from
+              every page without turning the compact header into a menu bar. */}
+          <nav
+            className="hidden items-center gap-4 sm:flex"
+            aria-label={dict.hero.name}
           >
-            {ui.blog}
-          </a>
+            <a
+              href={`/${locale}/about/`}
+              className="text-sm font-medium text-muted-foreground hover:text-accent hover:underline"
+            >
+              {about.navLabel}
+            </a>
+            <a
+              href={blogPath(locale)}
+              className="text-sm font-medium text-muted-foreground hover:text-accent hover:underline"
+            >
+              {ui.blog}
+            </a>
+          </nav>
           <LanguageToggle current={locale} />
           <ThemeToggle />
           <Button asChild size="lg" className="rounded-full font-semibold">

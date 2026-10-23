@@ -1,0 +1,615 @@
+{
+  "sk": {
+    "navLabel": "O Numblop",
+    "meta": {
+      "title": "O Numblop | Vzdelávací prístup a adaptívne násobenie",
+      "description": "Zistite, ako Numblop spája skúsenosti z vyučovania, adaptívne učenie a herný dizajn, aby deťom pomohol precvičiť a zvládnuť násobenie."
+    },
+    "hero": {
+      "eyebrow": "O Numblop",
+      "title": "Vytvorený podľa toho, ako sa deti učia",
+      "tagline": "Hra na násobenie formovaná skúsenosťami z vyučovania.",
+      "intro": [
+        "Numblop je nezávislý vzdelávací projekt, ktorý spája praktické skúsenosti z triedy s modernými technológiami.",
+        "Začal vzdelávacími materiálmi a didaktickými pokynmi, ktoré pripravila učiteľka prvého stupňa. Z týchto myšlienok vznikli pravidlá učenia, podľa ktorých si deti v hre precvičujú násobenie."
+      ],
+      "imageAlt": "Numblop, priateľská postavička, ktorá deti sprevádza hrou"
+    },
+    "foundation": {
+      "heading": "Od učebných materiálov k systému učenia",
+      "paragraphs": [
+        "Numblop nezačal ako hotová hra. Začal opisom toho, čo deti pri učení násobenia potrebujú: postupnú náročnosť, užitočnú spätnú väzbu a pravidelné precvičovanie zamerané na príklady, ktoré ešte potrebujú pozornosť.",
+        "Tieto didaktické princípy sa zmenili na systém, ktorý sleduje pokrok pri každom príklade osobitne a rozhoduje, aký druh precvičovania bude užitočný ďalej."
+      ],
+      "steps": ["Učebné materiály", "Pravidlá učenia", "Adaptívna hra"]
+    },
+    "rightAnswer": {
+      "heading": "Viac než len správna odpoveď",
+      "paragraphs": [
+        "Vyriešiť príklad správne a vybaviť si výsledok automaticky sú dve odlišné veci.",
+        "Preto Numblop správne odpovede iba nepočíta. Každý násobilkový príklad sleduje samostatne a zohľadňuje presnosť aj čas odpovede.",
+        "Náročné príklady dostávajú viac pozornosti. Tie známe sa objavujú menej často, no zostávajú súčasťou pravidelného opakovania."
+      ],
+      "callout": "Cieľom nie je iba dokončiť všetky násobilky. Ide o postupné budovanie istoty, plynulosti a spoľahlivého vybavovania."
+    },
+    "adaptive": {
+      "eyebrow": "Učenie, ktoré sa prispôsobuje",
+      "heading": "S rastúcou istotou sa mení aj precvičovanie",
+      "intro": "Rovnaký príklad možno zadať rôznymi spôsobmi. Keď dieťa získava istotu, Numblop postupne vyžaduje samostatnejšie vybavenie výsledku.",
+      "stages": [
+        {"label": "1. fáza", "title": "Zoznamovanie", "description": "Štyri možné odpovede ponúkajú jednoduchší formát, kým sa dieťa príklad ešte učí."},
+        {"label": "2. fáza", "title": "Budovanie istoty", "description": "Šesť možných odpovedí robí úlohu s rastúcou znalosťou o niečo náročnejšou."},
+        {"label": "3. fáza", "title": "Samostatné vybavenie", "description": "Dieťa zadá výsledok bez ponuky odpovedí a smeruje k istému vybaveniu."}
+      ],
+      "principle": "Precvičuj, čo potrebuješ. Upevňuj, čo si sa naučil. Pokračuj ďalej.",
+      "note": "Precvičovanie sa prispôsobuje tomu, ako sa dieťa zlepšuje. Náročné príklady dostávajú viac pozornosti, zatiaľ čo známe zostávajú v pravidelnom opakovaní. Postup závisí od individuálneho výkonu, nie od pevného počtu pokusov."
+    },
+    "methodology": {
+      "heading": "Od vzdelávacej metodiky k hre",
+      "paragraphs": [
+        "Preniesť princípy vyučovania do fungujúcej hry znamenalo vytvoriť systém, ktorý sleduje jednotlivé násobilkové príklady, vyhodnocuje odpovede, upravuje formu otázky a vyberá, čo precvičovať ďalej.",
+        "K tomuto základu postupne pribudol herný postup, odmeny, úpravy vzhľadu a ďalšie prvky, vďaka ktorým je pravidelné precvičovanie pútavejšie.",
+        "Vzdelávacia metodika zostáva jadrom Numblop. Herné prvky ju podporujú."
+      ],
+      "imageAlt": "Obrazovka precvičovania v Numblop so samostatným zadaním výsledku"
+    },
+    "evolving": {
+      "heading": "Nezávislý projekt, ktorý sa ďalej vyvíja",
+      "paragraphs": [
+        "Numblop vyvíjame vo voľnom čase ako malý nezávislý rodinný projekt z Českej republiky.",
+        "Spája skúsenosti z triedy, vývoj softvéru, herný dizajn a moderné vývojové nástroje s podporou AI.",
+        "Z pôvodnej zbierky vzdelávacích dokumentov vyrástla viacjazyčná vzdelávacia hra. Nové funkcie, vylepšenia, jazyky a nápady pribúdajú s rovnakým cieľom: aby bolo precvičovanie násobenia účinnejšie, dostupnejšie a príjemnejšie."
+      ],
+      "location": "Vytvorené v Českej republike"
+    },
+    "homeEntry": {
+      "eyebrow": "Za hrou",
+      "heading": "Vychádza z princípov vyučovania, nie z náhodných otázok",
+      "body": "Pozrite sa, ako sa skúsenosti z triedy zmenili na adaptívny systém Numblop.",
+      "cta": "O Numblop"
+    },
+    "cta": {"heading": "Idete si precvičiť násobenie?", "body": "Objavujte násobenie vlastným tempom s Numblop.", "button": "Hrať Numblop"}
+  },
+  "de": {
+    "navLabel": "Über Numblop",
+    "meta": {
+      "title": "Über Numblop | Lernkonzept & adaptives Einmaleins",
+      "description": "Erfahre, wie Numblop Unterrichtserfahrung, adaptives Lernen und Spieldesign verbindet, um Kindern beim Üben und Beherrschen des Einmaleins zu helfen."
+    },
+    "hero": {
+      "eyebrow": "Über Numblop",
+      "title": "Entwickelt nach der Art, wie Kinder lernen",
+      "tagline": "Ein Einmaleins-Spiel, geprägt von Unterrichtserfahrung.",
+      "intro": [
+        "Numblop ist ein unabhängiges Bildungsprojekt, das praktische Unterrichtserfahrung mit moderner Technologie verbindet.",
+        "Am Anfang standen Lernmaterialien und didaktische Leitlinien einer Grundschullehrerin. Daraus entstanden die Lernregeln, die bestimmen, wie Kinder im Spiel das Einmaleins üben."
+      ],
+      "imageAlt": "Numblop, die freundliche Figur, die Kinder durch das Spiel begleitet"
+    },
+    "foundation": {
+      "heading": "Vom Unterrichtsmaterial zum Lernsystem",
+      "paragraphs": [
+        "Numblop begann nicht als fertiges Spiel. Ausgangspunkt war eine genaue Beschreibung dessen, was Kinder beim Einmaleinslernen brauchen: schrittweise steigende Anforderungen, hilfreiches Feedback und regelmäßiges Üben der Aufgaben, die noch Aufmerksamkeit benötigen.",
+        "Diese didaktischen Prinzipien wurden in ein System übersetzt, das den Fortschritt für jede einzelne Aufgabe verfolgt und entscheidet, welche Übung als Nächstes sinnvoll ist."
+      ],
+      "steps": ["Unterrichtsmaterial", "Lernregeln", "Adaptives Spiel"]
+    },
+    "rightAnswer": {
+      "heading": "Mehr als nur die richtige Antwort",
+      "paragraphs": [
+        "Eine Malaufgabe richtig zu lösen und die Antwort automatisch abzurufen, sind zwei verschiedene Dinge.",
+        "Deshalb zählt Numblop nicht einfach richtige Antworten. Jede Einmaleinsaufgabe wird einzeln verfolgt; dabei zählen sowohl Genauigkeit als auch Antwortzeit.",
+        "Schwierige Aufgaben erhalten mehr Aufmerksamkeit. Vertraute Aufgaben erscheinen seltener, bleiben aber Teil der regelmäßigen Wiederholung."
+      ],
+      "callout": "Das Ziel ist nicht nur, alle Einmaleinsreihen abzuschließen. Es geht darum, nach und nach Sicherheit, Flüssigkeit und zuverlässiges Abrufen aufzubauen."
+    },
+    "adaptive": {
+      "eyebrow": "Lernen, das sich anpasst",
+      "heading": "Mit wachsender Sicherheit verändert sich die Übung",
+      "intro": "Dieselbe Aufgabe kann unterschiedlich gestellt werden. Wenn ein Kind sicherer wird, fordert Numblop zunehmend eigenständiges Erinnern.",
+      "stages": [
+        {"label": "Stufe 1", "title": "Vertraut werden", "description": "Vier Antwortmöglichkeiten bieten ein einfacheres Format, solange die Aufgabe noch gelernt wird."},
+        {"label": "Stufe 2", "title": "Sicherheit aufbauen", "description": "Sechs Antwortmöglichkeiten machen die Übung mit wachsendem Können etwas anspruchsvoller."},
+        {"label": "Stufe 3", "title": "Selbstständiges Abrufen", "description": "Die Antwort wird ohne Auswahl eingegeben und fördert sicheres Erinnern."}
+      ],
+      "principle": "Übe, was Übung braucht. Festige, was du gelernt hast. Geh weiter.",
+      "note": "Die Übungen passen sich dem Fortschritt des Kindes an. Schwierige Aufgaben erhalten mehr Aufmerksamkeit, vertraute bleiben in der regelmäßigen Wiederholung. Der Fortschritt hängt von der individuellen Leistung ab, nicht von einer festen Zahl von Versuchen."
+    },
+    "methodology": {
+      "heading": "Von der Lernmethodik zum Spiel",
+      "paragraphs": [
+        "Unterrichtsprinzipien in ein funktionierendes Spiel zu übertragen bedeutete, ein System zu entwickeln, das einzelne Aufgaben verfolgt, Antworten bewertet, die Frageform anpasst und die nächste Übung auswählt.",
+        "Um dieses Fundament herum kamen nach und nach Fortschritt, Belohnungen, Anpassungen und weitere Elemente hinzu, die regelmäßiges Üben ansprechender machen.",
+        "Die Lernmethodik bleibt der Kern von Numblop. Die Spielelemente unterstützen sie."
+      ],
+      "imageAlt": "Eine Numblop-Übungsansicht, in der die Antwort selbstständig eingegeben wird"
+    },
+    "evolving": {
+      "heading": "Ein unabhängiges Projekt, das sich weiterentwickelt",
+      "paragraphs": [
+        "Numblop entsteht in unserer Freizeit als kleines unabhängiges Familienprojekt aus Tschechien.",
+        "Es verbindet Unterrichtserfahrung, Softwareentwicklung, Spieldesign und moderne KI-gestützte Entwicklungswerkzeuge.",
+        "Aus einer Sammlung pädagogischer Dokumente ist ein mehrsprachiges Lernspiel geworden. Neue Funktionen, Verbesserungen, Sprachen und Ideen kommen hinzu – immer mit demselben Ziel: das Üben des Einmaleins wirksamer, zugänglicher und angenehmer zu machen."
+      ],
+      "location": "Entwickelt in Tschechien"
+    },
+    "homeEntry": {
+      "eyebrow": "Hinter dem Spiel",
+      "heading": "Auf Lernprinzipien aufgebaut, nicht auf Zufallsfragen",
+      "body": "Erfahre, wie Unterrichtserfahrung zum adaptiven Übungssystem von Numblop wurde.",
+      "cta": "Über Numblop"
+    },
+    "cta": {"heading": "Bereit zum Üben?", "body": "Entdecke das Einmaleins in deinem eigenen Tempo mit Numblop.", "button": "Numblop spielen"}
+  },
+  "es": {
+    "navLabel": "Sobre Numblop",
+    "meta": {
+      "title": "Sobre Numblop | Enfoque educativo y multiplicación adaptativa",
+      "description": "Descubre cómo Numblop combina experiencia docente, aprendizaje adaptativo y diseño de juegos para ayudar a los niños a practicar y dominar la multiplicación."
+    },
+    "hero": {
+      "eyebrow": "Sobre Numblop",
+      "title": "Creado en torno a cómo aprenden los niños",
+      "tagline": "Un juego de multiplicación inspirado en la experiencia docente.",
+      "intro": [
+        "Numblop es un proyecto educativo independiente que une la experiencia práctica en el aula con la tecnología moderna.",
+        "Comenzó con materiales educativos y orientaciones didácticas preparados por una maestra de primaria. Esas ideas se convirtieron en las reglas de aprendizaje que guían la práctica de la multiplicación en el juego."
+      ],
+      "imageAlt": "Numblop, el personaje amistoso que guía a los niños por el juego"
+    },
+    "foundation": {
+      "heading": "De los materiales de aula a un sistema de aprendizaje",
+      "paragraphs": [
+        "Numblop no empezó como un juego terminado. Empezó con una descripción cuidadosa de lo que los niños necesitan al aprender a multiplicar: dificultad gradual, comentarios útiles y práctica regular centrada en las operaciones que aún necesitan atención.",
+        "Estos principios didácticos se transformaron en un sistema que sigue el progreso de cada operación y decide qué tipo de práctica será útil después."
+      ],
+      "steps": ["Materiales didácticos", "Reglas de aprendizaje", "Juego adaptativo"]
+    },
+    "rightAnswer": {
+      "heading": "Más que la respuesta correcta",
+      "paragraphs": [
+        "Resolver bien una multiplicación y recordar la respuesta de forma automática son dos cosas distintas.",
+        "Por eso Numblop no se limita a contar respuestas correctas. Sigue cada operación por separado y tiene en cuenta tanto la precisión como el tiempo de respuesta.",
+        "Las operaciones difíciles reciben más atención. Las conocidas aparecen con menos frecuencia, pero siguen formando parte del repaso habitual."
+      ],
+      "callout": "El objetivo no es solo completar todas las tablas. Es construir poco a poco confianza, fluidez y un recuerdo fiable."
+    },
+    "adaptive": {
+      "eyebrow": "Aprendizaje que se adapta",
+      "heading": "La práctica cambia a medida que crece la confianza",
+      "intro": "Una misma operación puede presentarse de distintas formas. Cuando el niño gana seguridad, Numblop pide cada vez más que recuerde la respuesta por sí mismo.",
+      "stages": [
+        {"label": "Etapa 1", "title": "Familiarización", "description": "Cuatro respuestas posibles ofrecen un formato más sencillo mientras se aprende la operación."},
+        {"label": "Etapa 2", "title": "Ganar confianza", "description": "Seis respuestas posibles hacen el ejercicio algo más exigente a medida que mejora el dominio."},
+        {"label": "Etapa 3", "title": "Recuerdo independiente", "description": "La respuesta se introduce sin opciones, favoreciendo un recuerdo seguro."}
+      ],
+      "principle": "Practica lo que lo necesita. Refuerza lo aprendido. Sigue avanzando.",
+      "note": "La práctica se ajusta a medida que los niños mejoran. Las operaciones difíciles reciben más atención y las conocidas siguen presentes en el repaso habitual. El progreso depende del rendimiento individual, no de un número fijo de intentos."
+    },
+    "methodology": {
+      "heading": "De la metodología educativa a un juego",
+      "paragraphs": [
+        "Convertir principios didácticos en un juego real exigió crear un sistema que siguiera cada operación, evaluara las respuestas, ajustara el formato de las preguntas y eligiera qué practicar después.",
+        "Alrededor de esa base, Numblop fue incorporando progresión, recompensas, personalización y otros elementos que hacen más atractiva la práctica regular.",
+        "La metodología educativa sigue siendo el núcleo de Numblop. Los elementos de juego están para apoyarla."
+      ],
+      "imageAlt": "Pantalla de práctica de Numblop donde la respuesta se introduce de forma independiente"
+    },
+    "evolving": {
+      "heading": "Un proyecto independiente que sigue evolucionando",
+      "paragraphs": [
+        "Numblop se desarrolla en nuestro tiempo libre como un pequeño proyecto familiar independiente de la República Checa.",
+        "Reúne experiencia en el aula, desarrollo de software, diseño de juegos y herramientas modernas de desarrollo asistido por IA.",
+        "Lo que empezó como una colección de documentos educativos se ha convertido en un juego de aprendizaje multilingüe. Seguimos añadiendo funciones, mejoras, idiomas e ideas con el mismo objetivo: hacer que practicar la multiplicación sea más eficaz, accesible y agradable."
+      ],
+      "location": "Creado en la República Checa"
+    },
+    "homeEntry": {
+      "eyebrow": "Detrás del juego",
+      "heading": "Basado en principios didácticos, no en preguntas al azar",
+      "body": "Descubre cómo la experiencia en el aula se convirtió en el sistema de práctica adaptativa de Numblop.",
+      "cta": "Sobre Numblop"
+    },
+    "cta": {"heading": "¿Listos para practicar?", "body": "Explora la multiplicación a tu ritmo con Numblop.", "button": "Jugar a Numblop"}
+  },
+  "fi": {
+    "navLabel": "Tietoa Numblopista",
+    "meta": {
+      "title": "Tietoa Numblopista | Pedagoginen lähestymistapa ja mukautuva kertolasku",
+      "description": "Tutustu siihen, miten Numblop yhdistää opetuskokemuksen, mukautuvan oppimisen ja pelisuunnittelun auttaakseen lapsia harjoittelemaan kertolaskuja."
+    },
+    "hero": {
+      "eyebrow": "Tietoa Numblopista",
+      "title": "Rakennettu lasten oppimistavan ympärille",
+      "tagline": "Opetuskokemukseen perustuva kertolaskupeli.",
+      "intro": [
+        "Numblop on itsenäinen opetushanke, joka yhdistää käytännön luokkahuonekokemuksen ja nykyaikaisen teknologian.",
+        "Kaikki alkoi alakoulunopettajan laatimista oppimateriaaleista ja didaktisista ohjeista. Niistä syntyivät oppimissäännöt, jotka ohjaavat kertolaskujen harjoittelua pelissä."
+      ],
+      "imageAlt": "Numblop, ystävällinen hahmo, joka opastaa lapsia pelissä"
+    },
+    "foundation": {
+      "heading": "Oppimateriaaleista oppimisjärjestelmäksi",
+      "paragraphs": [
+        "Numblop ei alkanut valmiina pelinä. Lähtökohtana oli tarkka kuvaus siitä, mitä lapset tarvitsevat kertolaskuja oppiessaan: asteittain kasvavaa haastetta, hyödyllistä palautetta ja säännöllistä harjoittelua juuri niissä laskuissa, jotka vaativat vielä huomiota.",
+        "Nämä opetuksen periaatteet muutettiin järjestelmäksi, joka seuraa kunkin laskun edistymistä erikseen ja valitsee seuraavaksi hyödyllisen harjoituksen."
+      ],
+      "steps": ["Oppimateriaalit", "Oppimissäännöt", "Mukautuva peli"]
+    },
+    "rightAnswer": {
+      "heading": "Enemmän kuin oikea vastaus",
+      "paragraphs": [
+        "Kertolaskun ratkaiseminen oikein ja vastauksen muistaminen automaattisesti ovat eri asioita.",
+        "Siksi Numblop ei vain laske oikeita vastauksia. Se seuraa jokaista kertolaskua erikseen ja huomioi sekä tarkkuuden että vastausajan.",
+        "Vaikeat laskut saavat enemmän huomiota. Tutut laskut näkyvät harvemmin, mutta pysyvät mukana säännöllisessä kertauksessa."
+      ],
+      "callout": "Tavoitteena ei ole vain suorittaa kaikki kertotaulut, vaan rakentaa vähitellen varmuutta, sujuvuutta ja luotettavaa muistamista."
+    },
+    "adaptive": {
+      "eyebrow": "Mukautuvaa oppimista",
+      "heading": "Harjoittelu muuttuu varmuuden kasvaessa",
+      "intro": "Sama lasku voidaan esittää eri tavoilla. Lapsen varmuuden kasvaessa Numblop ohjaa yhä itsenäisempään muistamiseen.",
+      "stages": [
+        {"label": "Vaihe 1", "title": "Tutuksi tuleminen", "description": "Neljä vastausvaihtoehtoa tarjoaa helpomman muodon, kun laskua vasta opetellaan."},
+        {"label": "Vaihe 2", "title": "Varmuuden rakentaminen", "description": "Kuusi vastausvaihtoehtoa tekee tehtävästä hieman vaativamman osaamisen kasvaessa."},
+        {"label": "Vaihe 3", "title": "Itsenäinen muistaminen", "description": "Vastaus kirjoitetaan ilman vaihtoehtoja, mikä tukee varmaa muistamista."}
+      ],
+      "principle": "Harjoittele sitä, mikä tarvitsee harjoitusta. Vahvista opittua. Jatka eteenpäin.",
+      "note": "Harjoittelu mukautuu lapsen edistymiseen. Vaikeat laskut saavat enemmän huomiota, ja tutut pysyvät mukana säännöllisessä kertauksessa. Edistyminen perustuu yksilölliseen suoriutumiseen, ei kiinteään yritysmäärään."
+    },
+    "methodology": {
+      "heading": "Opetusmenetelmästä peliksi",
+      "paragraphs": [
+        "Opetusperiaatteiden muuttaminen toimivaksi peliksi vaati järjestelmän, joka seuraa yksittäisiä laskuja, arvioi vastauksia, muuttaa kysymystapaa ja valitsee seuraavan harjoituksen.",
+        "Tämän perustan ympärille Numblopiin lisättiin vähitellen etenemistä, palkintoja, muokkausmahdollisuuksia ja muita säännöllistä harjoittelua innostavia ominaisuuksia.",
+        "Pedagoginen menetelmä on yhä Numblopin ytimessä. Pelilliset elementit tukevat sitä."
+      ],
+      "imageAlt": "Numblopin harjoitusnäkymä, jossa vastaus syötetään itsenäisesti"
+    },
+    "evolving": {
+      "heading": "Itsenäinen ja jatkuvasti kehittyvä projekti",
+      "paragraphs": [
+        "Numblopia kehitetään vapaa-ajallamme pienenä itsenäisenä perheprojektina Tšekissä.",
+        "Siinä yhdistyvät luokkahuonekokemus, ohjelmistokehitys, pelisuunnittelu ja nykyaikaiset tekoälyavusteiset kehitystyökalut.",
+        "Oppimateriaaleista alkanut työ on kasvanut monikieliseksi oppimispeliksi. Uusia ominaisuuksia, parannuksia, kieliä ja ideoita lisätään edelleen samalla tavoitteella: tehdä kertolaskujen harjoittelusta tehokkaampaa, saavutettavampaa ja miellyttävämpää."
+      ],
+      "location": "Tehty Tšekissä"
+    },
+    "homeEntry": {
+      "eyebrow": "Pelin taustalla",
+      "heading": "Opetusperiaatteisiin, ei satunnaisiin kysymyksiin perustuva",
+      "body": "Katso, miten luokkahuonekokemuksesta syntyi Numblopin mukautuva harjoittelujärjestelmä.",
+      "cta": "Tietoa Numblopista"
+    },
+    "cta": {"heading": "Valmiina harjoittelemaan?", "body": "Tutki kertolaskuja omaan tahtiisi Numblopin kanssa.", "button": "Pelaa Numblopia"}
+  },
+  "fr": {
+    "navLabel": "À propos",
+    "meta": {
+      "title": "À propos de Numblop | Approche pédagogique et multiplication adaptative",
+      "description": "Découvrez comment Numblop associe expérience de classe, apprentissage adaptatif et conception de jeu pour aider les enfants à maîtriser les multiplications."
+    },
+    "hero": {
+      "eyebrow": "À propos de Numblop",
+      "title": "Conçu autour de la façon dont les enfants apprennent",
+      "tagline": "Un jeu de multiplication façonné par l’expérience pédagogique.",
+      "intro": [
+        "Numblop est un projet éducatif indépendant qui réunit l’expérience pratique de la classe et les technologies modernes.",
+        "Il a commencé par des supports éducatifs et des directives didactiques préparés par une enseignante du primaire. Ces idées sont devenues les règles d’apprentissage qui guident l’entraînement dans le jeu."
+      ],
+      "imageAlt": "Numblop, le personnage amical qui guide les enfants dans le jeu"
+    },
+    "foundation": {
+      "heading": "Des supports de classe à un système d’apprentissage",
+      "paragraphs": [
+        "Numblop n’a pas commencé comme un jeu terminé. Le point de départ était une description précise de ce dont les enfants ont besoin pour apprendre les multiplications : une difficulté progressive, des retours utiles et un entraînement régulier centré sur les opérations qui demandent encore de l’attention.",
+        "Ces principes pédagogiques ont été transformés en un système qui suit chaque opération séparément et décide du type d’exercice utile ensuite."
+      ],
+      "steps": ["Supports pédagogiques", "Règles d’apprentissage", "Jeu adaptatif"]
+    },
+    "rightAnswer": {
+      "heading": "Plus qu’une bonne réponse",
+      "paragraphs": [
+        "Réussir une multiplication et retrouver automatiquement son résultat sont deux choses différentes.",
+        "C’est pourquoi Numblop ne se contente pas de compter les bonnes réponses. Chaque opération est suivie séparément, en tenant compte de la précision et du temps de réponse.",
+        "Les opérations difficiles reçoivent plus d’attention. Celles qui sont familières apparaissent moins souvent, mais restent dans les révisions régulières."
+      ],
+      "callout": "L’objectif n’est pas seulement de terminer toutes les tables. Il s’agit de développer progressivement confiance, fluidité et mémorisation fiable."
+    },
+    "adaptive": {
+      "eyebrow": "Un apprentissage qui s’adapte",
+      "heading": "L’entraînement évolue avec la confiance",
+      "intro": "Une même opération peut être présentée de plusieurs façons. À mesure que l’enfant gagne en assurance, Numblop demande un rappel plus autonome.",
+      "stages": [
+        {"label": "Étape 1", "title": "Se familiariser", "description": "Quatre réponses possibles offrent un format plus simple pendant l’apprentissage de l’opération."},
+        {"label": "Étape 2", "title": "Gagner en confiance", "description": "Six réponses possibles rendent l’exercice un peu plus exigeant lorsque la maîtrise progresse."},
+        {"label": "Étape 3", "title": "Rappel autonome", "description": "La réponse est saisie sans choix multiple afin d’encourager un rappel sûr."}
+      ],
+      "principle": "Entraîner ce qui en a besoin. Renforcer ce qui est acquis. Continuer d’avancer.",
+      "note": "L’entraînement s’adapte aux progrès de l’enfant. Les opérations difficiles reçoivent plus d’attention et les opérations familières restent dans les révisions. La progression dépend des résultats individuels, pas d’un nombre fixe d’essais."
+    },
+    "methodology": {
+      "heading": "De la méthodologie éducative au jeu",
+      "paragraphs": [
+        "Transformer des principes pédagogiques en jeu a nécessité un système capable de suivre chaque opération, d’évaluer les réponses, d’adapter la forme des questions et de choisir le prochain exercice.",
+        "Autour de cette base, Numblop a progressivement ajouté progression, récompenses, personnalisation et d’autres éléments qui rendent l’entraînement régulier plus motivant.",
+        "La méthodologie éducative reste au cœur de Numblop. Les éléments de jeu sont là pour la soutenir."
+      ],
+      "imageAlt": "Écran d’exercice Numblop où la réponse est saisie sans aide"
+    },
+    "evolving": {
+      "heading": "Un projet indépendant qui continue d’évoluer",
+      "paragraphs": [
+        "Numblop est développé pendant notre temps libre comme un petit projet familial indépendant en République tchèque.",
+        "Il réunit expérience de classe, développement logiciel, conception de jeux et outils modernes de développement assisté par l’IA.",
+        "Ce qui était au départ un ensemble de documents éducatifs est devenu un jeu d’apprentissage multilingue. Fonctionnalités, améliorations, langues et idées continuent de s’ajouter avec le même objectif : rendre l’entraînement aux multiplications plus efficace, accessible et agréable."
+      ],
+      "location": "Créé en République tchèque"
+    },
+    "homeEntry": {
+      "eyebrow": "Dans les coulisses",
+      "heading": "Fondé sur des principes pédagogiques, pas sur des questions aléatoires",
+      "body": "Découvrez comment l’expérience de classe est devenue le système d’entraînement adaptatif de Numblop.",
+      "cta": "À propos de Numblop"
+    },
+    "cta": {"heading": "Prêt à s’entraîner ?", "body": "Explorez les multiplications à votre rythme avec Numblop.", "button": "Jouer à Numblop"}
+  },
+  "nb": {
+    "navLabel": "Om Numblop",
+    "meta": {
+      "title": "Om Numblop | Pedagogisk tilnærming og adaptiv multiplikasjon",
+      "description": "Se hvordan Numblop kombinerer undervisningserfaring, adaptiv læring og spilldesign for å hjelpe barn med å øve på multiplikasjon."
+    },
+    "hero": {
+      "eyebrow": "Om Numblop",
+      "title": "Bygget rundt måten barn lærer på",
+      "tagline": "Et multiplikasjonsspill formet av undervisningserfaring.",
+      "intro": [
+        "Numblop er et uavhengig læringsprosjekt som kombinerer praktisk klasseromserfaring med moderne teknologi.",
+        "Det startet med læremateriell og didaktiske retningslinjer laget av en barneskolelærer. Ideene ble til læringsreglene som styrer hvordan barn øver på multiplikasjon i spillet."
+      ],
+      "imageAlt": "Numblop, den vennlige figuren som veileder barn gjennom spillet"
+    },
+    "foundation": {
+      "heading": "Fra læremateriell til et læringssystem",
+      "paragraphs": [
+        "Numblop startet ikke som et ferdig spill. Utgangspunktet var en nøye beskrivelse av hva barn trenger når de lærer multiplikasjon: gradvis utfordring, nyttige tilbakemeldinger og regelmessig øving på oppgavene som fortsatt trenger oppmerksomhet.",
+        "Disse undervisningsprinsippene ble gjort om til et system som følger fremgangen i hvert regnestykke og velger hva slags øving som er nyttig videre."
+      ],
+      "steps": ["Læremateriell", "Læringsregler", "Adaptivt spill"]
+    },
+    "rightAnswer": {
+      "heading": "Mer enn bare riktig svar",
+      "paragraphs": [
+        "Å løse et gangestykke riktig og å huske svaret automatisk er to forskjellige ting.",
+        "Derfor teller ikke Numblop bare riktige svar. Hvert gangestykke følges individuelt, og både nøyaktighet og svartid tas med.",
+        "Vanskelige oppgaver får mer oppmerksomhet. Kjente oppgaver vises sjeldnere, men forblir en del av regelmessig repetisjon."
+      ],
+      "callout": "Målet er ikke bare å fullføre alle gangetabellene, men å bygge trygghet, flyt og pålitelig gjenkalling over tid."
+    },
+    "adaptive": {
+      "eyebrow": "Læring som tilpasser seg",
+      "heading": "Øvingen endres når tryggheten vokser",
+      "intro": "Det samme regnestykket kan presenteres på ulike måter. Når barnet blir sikrere, ber Numblop gradvis om mer selvstendig gjenkalling.",
+      "stages": [
+        {"label": "Trinn 1", "title": "Bli kjent", "description": "Fire svaralternativer gir et enklere format mens regnestykket fortsatt læres."},
+        {"label": "Trinn 2", "title": "Bygge trygghet", "description": "Seks svaralternativer gjør oppgaven litt mer krevende etter hvert som ferdigheten øker."},
+        {"label": "Trinn 3", "title": "Selvstendig gjenkalling", "description": "Svaret skrives inn uten alternativer og oppmuntrer til sikker gjenkalling."}
+      ],
+      "principle": "Øv på det som trenger øving. Styrk det du har lært. Fortsett fremover.",
+      "note": "Øvingen tilpasses etter hvert som barnet blir bedre. Vanskelige oppgaver får mer oppmerksomhet, mens kjente oppgaver fortsatt inngår i repetisjonen. Fremgangen avhenger av individuell prestasjon, ikke et fast antall forsøk."
+    },
+    "methodology": {
+      "heading": "Fra pedagogisk metode til spill",
+      "paragraphs": [
+        "Å gjøre undervisningsprinsipper om til et fungerende spill krevde et system som følger enkeltoppgaver, vurderer svar, tilpasser spørsmålsformen og velger hva som skal øves på videre.",
+        "Rundt dette grunnlaget vokste Numblop gradvis med progresjon, belønninger, tilpasning og andre funksjoner som gjør regelmessig øving mer engasjerende.",
+        "Den pedagogiske metoden er fortsatt kjernen i Numblop. Spillelementene støtter den."
+      ],
+      "imageAlt": "En øvingsskjerm i Numblop der svaret skrives inn selvstendig"
+    },
+    "evolving": {
+      "heading": "Et uavhengig prosjekt som fortsetter å utvikle seg",
+      "paragraphs": [
+        "Numblop utvikles på fritiden vår som et lite, uavhengig familieprosjekt fra Tsjekkia.",
+        "Det kombinerer klasseromserfaring, programvareutvikling, spilldesign og moderne KI-assisterte utviklingsverktøy.",
+        "Det som startet som en samling pedagogiske dokumenter, har blitt et flerspråklig læringsspill. Nye funksjoner, forbedringer, språk og ideer legges fortsatt til med samme mål: å gjøre multiplikasjonsøving mer effektiv, tilgjengelig og morsom."
+      ],
+      "location": "Laget i Tsjekkia"
+    },
+    "homeEntry": {
+      "eyebrow": "Bak spillet",
+      "heading": "Bygget på undervisningsprinsipper, ikke tilfeldige spørsmål",
+      "body": "Se hvordan klasseromserfaring ble til Numblops adaptive øvingssystem.",
+      "cta": "Om Numblop"
+    },
+    "cta": {"heading": "Klar til å øve?", "body": "Utforsk multiplikasjon i ditt eget tempo med Numblop.", "button": "Spill Numblop"}
+  },
+  "pl": {
+    "navLabel": "O Numblop",
+    "meta": {"title": "O Numblop | Podejście edukacyjne i adaptacyjna nauka mnożenia", "description": "Dowiedz się, jak Numblop łączy doświadczenie nauczycielskie, adaptacyjną naukę i projektowanie gier, aby pomagać dzieciom ćwiczyć mnożenie."},
+    "hero": {
+      "eyebrow": "O Numblop",
+      "title": "Zbudowany wokół sposobu, w jaki uczą się dzieci",
+      "tagline": "Gra do nauki mnożenia oparta na doświadczeniu nauczycielskim.",
+      "intro": ["Numblop to niezależny projekt edukacyjny łączący praktyczne doświadczenie z klasy z nowoczesną technologią.", "Zaczął się od materiałów edukacyjnych i wskazówek dydaktycznych przygotowanych przez nauczycielkę szkoły podstawowej. Z tych pomysłów powstały zasady uczenia, które kierują ćwiczeniem mnożenia w grze."],
+      "imageAlt": "Numblop, przyjazna postać prowadząca dzieci przez grę"
+    },
+    "foundation": {
+      "heading": "Od materiałów szkolnych do systemu nauki",
+      "paragraphs": ["Numblop nie zaczął się od gotowej gry. Punktem wyjścia był dokładny opis tego, czego dzieci potrzebują podczas nauki mnożenia: stopniowo rosnących wyzwań, pomocnej informacji zwrotnej i regularnych ćwiczeń skupionych na działaniach, które nadal wymagają uwagi.", "Te zasady dydaktyczne zostały przełożone na system, który śledzi postępy dla każdego działania osobno i wybiera najbardziej przydatny kolejny rodzaj ćwiczenia."],
+      "steps": ["Materiały edukacyjne", "Zasady uczenia", "Gra adaptacyjna"]
+    },
+    "rightAnswer": {
+      "heading": "Więcej niż poprawna odpowiedź",
+      "paragraphs": ["Poprawne rozwiązanie działania i automatyczne przypomnienie sobie wyniku to dwie różne rzeczy.", "Dlatego Numblop nie tylko liczy poprawne odpowiedzi. Każde działanie jest śledzone osobno, z uwzględnieniem poprawności i czasu odpowiedzi.", "Trudne działania otrzymują więcej uwagi. Znane pojawiają się rzadziej, ale pozostają częścią regularnych powtórek."],
+      "callout": "Celem nie jest tylko ukończenie wszystkich tabliczek. Chodzi o stopniowe budowanie pewności, płynności i niezawodnego przypominania sobie wyników."
+    },
+    "adaptive": {
+      "eyebrow": "Nauka, która się dostosowuje", "heading": "Ćwiczenie zmienia się wraz ze wzrostem pewności", "intro": "To samo działanie można przedstawić na różne sposoby. Gdy dziecko nabiera pewności, Numblop stopniowo wymaga bardziej samodzielnego przypominania sobie wyniku.",
+      "stages": [
+        {"label": "Etap 1", "title": "Oswajanie działania", "description": "Cztery możliwe odpowiedzi ułatwiają zadanie, gdy działanie jest jeszcze poznawane."},
+        {"label": "Etap 2", "title": "Budowanie pewności", "description": "Sześć możliwych odpowiedzi zwiększa trudność wraz z rosnącą biegłością."},
+        {"label": "Etap 3", "title": "Samodzielne przypominanie", "description": "Dziecko wpisuje wynik bez podpowiedzi, rozwijając pewne przypominanie."}
+      ],
+      "principle": "Ćwicz to, co wymaga ćwiczenia. Utrwalaj to, czego się nauczyłeś. Idź dalej.",
+      "note": "Ćwiczenia dostosowują się do postępów dziecka. Trudne działania otrzymują więcej uwagi, a znane pozostają w regularnych powtórkach. Postęp zależy od indywidualnych wyników, a nie od stałej liczby prób."
+    },
+    "methodology": {
+      "heading": "Od metodyki edukacyjnej do gry",
+      "paragraphs": ["Przekształcenie zasad nauczania w działającą grę wymagało systemu, który śledzi poszczególne działania, ocenia odpowiedzi, dostosowuje formę pytania i wybiera, co ćwiczyć dalej.", "Wokół tej podstawy Numblop stopniowo wzbogacał się o postęp, nagrody, personalizację i inne elementy, które uatrakcyjniają regularne ćwiczenia.", "Metodyka edukacyjna pozostaje rdzeniem Numblop. Elementy gry mają ją wspierać."],
+      "imageAlt": "Ekran ćwiczenia Numblop, na którym odpowiedź wpisuje się samodzielnie"
+    },
+    "evolving": {
+      "heading": "Niezależny projekt, który wciąż się rozwija",
+      "paragraphs": ["Numblop rozwijamy w wolnym czasie jako mały, niezależny projekt rodzinny z Czech.", "Łączy doświadczenie z klasy, tworzenie oprogramowania, projektowanie gier i nowoczesne narzędzia programistyczne wspomagane przez AI.", "To, co zaczęło się od zbioru dokumentów edukacyjnych, stało się wielojęzyczną grą do nauki. Nadal dodajemy funkcje, ulepszenia, języki i pomysły z tym samym celem: aby ćwiczenie mnożenia było skuteczniejsze, bardziej dostępne i przyjemniejsze."],
+      "location": "Stworzone w Czechach"
+    },
+    "homeEntry": {"eyebrow": "Za kulisami gry", "heading": "Oparta na zasadach nauczania, nie na losowych pytaniach", "body": "Zobacz, jak doświadczenie z klasy stało się adaptacyjnym systemem ćwiczeń Numblop.", "cta": "O Numblop"},
+    "cta": {"heading": "Gotowi do ćwiczeń?", "body": "Odkrywaj mnożenie we własnym tempie z Numblop.", "button": "Zagraj w Numblop"}
+  },
+  "sv": {
+    "navLabel": "Om Numblop",
+    "meta": {"title": "Om Numblop | Pedagogiskt arbetssätt och adaptiv multiplikation", "description": "Upptäck hur Numblop förenar undervisningserfarenhet, adaptivt lärande och speldesign för att hjälpa barn att öva multiplikation."},
+    "hero": {"eyebrow": "Om Numblop", "title": "Byggt kring hur barn lär sig", "tagline": "Ett multiplikationsspel format av erfarenhet från undervisning.", "intro": ["Numblop är ett oberoende utbildningsprojekt som förenar praktisk erfarenhet från klassrummet med modern teknik.", "Det började med läromedel och didaktiska riktlinjer som tagits fram av en lågstadielärare. Idéerna blev de inlärningsregler som styr hur barn övar multiplikation i spelet."], "imageAlt": "Numblop, den vänliga figuren som vägleder barn genom spelet"},
+    "foundation": {"heading": "Från läromedel till ett lärsystem", "paragraphs": ["Numblop började inte som ett färdigt spel. Utgångspunkten var en noggrann beskrivning av vad barn behöver när de lär sig multiplikation: gradvis ökande utmaning, hjälpsam återkoppling och regelbunden övning på de tal som fortfarande behöver uppmärksamhet.", "Dessa undervisningsprinciper omvandlades till ett system som följer varje tal för sig och väljer vilken övning som är mest användbar härnäst."], "steps": ["Läromedel", "Inlärningsregler", "Adaptivt spel"]},
+    "rightAnswer": {"heading": "Mer än bara rätt svar", "paragraphs": ["Att lösa en multiplikation rätt och att minnas svaret automatiskt är två olika saker.", "Därför räknar Numblop inte bara rätta svar. Varje multiplikation följs individuellt och både noggrannhet och svarstid vägs in.", "Svåra tal får mer uppmärksamhet. Välbekanta tal visas mer sällan men finns kvar i den regelbundna repetitionen."], "callout": "Målet är inte bara att slutföra alla tabeller, utan att stegvis bygga säkerhet, flyt och pålitlig återkallning."},
+    "adaptive": {"eyebrow": "Lärande som anpassar sig", "heading": "Övningen förändras när säkerheten växer", "intro": "Samma tal kan presenteras på olika sätt. När barnet blir säkrare ber Numblop gradvis om mer självständig återkallning.", "stages": [{"label": "Steg 1", "title": "Bli bekant", "description": "Fyra svarsalternativ ger ett enklare format medan talet fortfarande lärs in."}, {"label": "Steg 2", "title": "Bygga säkerhet", "description": "Sex svarsalternativ gör uppgiften lite mer krävande när kunskapen ökar."}, {"label": "Steg 3", "title": "Självständig återkallning", "description": "Svaret skrivs in utan alternativ och uppmuntrar säker återkallning."}], "principle": "Öva på det som behöver övas. Befäst det du lärt dig. Fortsätt framåt.", "note": "Övningen anpassas när barnet utvecklas. Svåra tal får mer uppmärksamhet och välbekanta tal finns kvar i repetitionen. Framstegen beror på individuell prestation, inte på ett fast antal försök."},
+    "methodology": {"heading": "Från pedagogisk metod till spel", "paragraphs": ["Att omvandla undervisningsprinciper till ett fungerande spel krävde ett system som följer enskilda tal, bedömer svar, anpassar frågeformen och väljer vad som ska övas härnäst.", "Kring denna grund växte Numblop gradvis med framsteg, belöningar, anpassning och andra funktioner som gör regelbunden övning mer engagerande.", "Den pedagogiska metoden är fortfarande kärnan i Numblop. Spelelementen finns där för att stödja den."], "imageAlt": "En övningsskärm i Numblop där svaret skrivs in självständigt"},
+    "evolving": {"heading": "Ett oberoende projekt som fortsätter utvecklas", "paragraphs": ["Numblop utvecklas på vår fritid som ett litet, oberoende familjeprojekt från Tjeckien.", "Det förenar erfarenhet från klassrummet, programutveckling, speldesign och moderna AI-assisterade utvecklingsverktyg.", "Det som började som en samling utbildningsdokument har blivit ett flerspråkigt lärspel. Nya funktioner, förbättringar, språk och idéer tillkommer med samma mål: att göra multiplikationsövning effektivare, mer tillgänglig och roligare."], "location": "Skapat i Tjeckien"},
+    "homeEntry": {"eyebrow": "Bakom spelet", "heading": "Byggt på undervisningsprinciper, inte slumpfrågor", "body": "Se hur erfarenhet från klassrummet blev Numblops adaptiva övningssystem.", "cta": "Om Numblop"},
+    "cta": {"heading": "Redo att öva?", "body": "Utforska multiplikation i din egen takt med Numblop.", "button": "Spela Numblop"}
+  },
+  "pt-BR": {
+    "navLabel": "Sobre o Numblop",
+    "meta": {"title": "Sobre o Numblop | Abordagem educacional e multiplicação adaptativa", "description": "Descubra como o Numblop combina experiência em sala de aula, aprendizagem adaptativa e design de jogos para ajudar crianças a praticar multiplicação."},
+    "hero": {"eyebrow": "Sobre o Numblop", "title": "Criado em torno de como as crianças aprendem", "tagline": "Um jogo de multiplicação moldado pela experiência de ensino.", "intro": ["O Numblop é um projeto educacional independente que reúne experiência prática em sala de aula e tecnologia moderna.", "Ele começou com materiais educacionais e orientações didáticas preparados por uma professora do ensino fundamental. Essas ideias viraram as regras de aprendizagem que orientam a prática de multiplicação no jogo."], "imageAlt": "Numblop, o personagem amigável que guia as crianças pelo jogo"},
+    "foundation": {"heading": "Dos materiais de aula a um sistema de aprendizagem", "paragraphs": ["O Numblop não começou como um jogo pronto. Começou com uma descrição cuidadosa do que as crianças precisam para aprender multiplicação: desafios graduais, retorno útil e prática regular focada nas operações que ainda precisam de atenção.", "Esses princípios de ensino foram transformados em um sistema que acompanha cada operação separadamente e decide qual prática será mais útil depois."], "steps": ["Materiais didáticos", "Regras de aprendizagem", "Jogo adaptativo"]},
+    "rightAnswer": {"heading": "Mais do que a resposta certa", "paragraphs": ["Acertar uma multiplicação e lembrar a resposta automaticamente são duas coisas diferentes.", "Por isso, o Numblop não apenas conta respostas certas. Cada operação é acompanhada individualmente, considerando a precisão e o tempo de resposta.", "Operações difíceis recebem mais atenção. As conhecidas aparecem com menos frequência, mas continuam nas revisões regulares."], "callout": "O objetivo não é apenas concluir todas as tabuadas. É desenvolver aos poucos confiança, fluência e uma lembrança confiável."},
+    "adaptive": {"eyebrow": "Aprendizagem que se adapta", "heading": "A prática muda conforme a confiança cresce", "intro": "A mesma operação pode ser apresentada de formas diferentes. À medida que a criança ganha segurança, o Numblop pede uma lembrança mais independente.", "stages": [{"label": "Etapa 1", "title": "Criando familiaridade", "description": "Quatro respostas possíveis oferecem um formato mais simples enquanto a operação está sendo aprendida."}, {"label": "Etapa 2", "title": "Criando confiança", "description": "Seis respostas possíveis tornam o exercício um pouco mais exigente conforme a habilidade aumenta."}, {"label": "Etapa 3", "title": "Lembrança independente", "description": "A resposta é digitada sem alternativas, incentivando uma lembrança segura."}], "principle": "Pratique o que precisa de prática. Reforce o que aprendeu. Continue avançando.", "note": "A prática se ajusta conforme a criança melhora. Operações difíceis recebem mais atenção, enquanto as conhecidas continuam na revisão regular. O progresso depende do desempenho individual, não de um número fixo de tentativas."},
+    "methodology": {"heading": "Da metodologia educacional ao jogo", "paragraphs": ["Transformar princípios de ensino em um jogo de verdade exigiu um sistema que acompanhasse cada operação, avaliasse respostas, ajustasse o formato da pergunta e escolhesse o que praticar depois.", "Ao redor dessa base, o Numblop ganhou progressão, recompensas, personalização e outros recursos que tornam a prática regular mais envolvente.", "A metodologia educacional continua no centro do Numblop. Os elementos de jogo existem para apoiá-la."], "imageAlt": "Tela de prática do Numblop em que a resposta é digitada sem ajuda"},
+    "evolving": {"heading": "Um projeto independente que continua evoluindo", "paragraphs": ["O Numblop é desenvolvido em nosso tempo livre como um pequeno projeto familiar independente da República Tcheca.", "Ele reúne experiência em sala de aula, desenvolvimento de software, design de jogos e ferramentas modernas de desenvolvimento assistido por IA.", "O que começou como uma coleção de documentos educacionais virou um jogo de aprendizagem multilíngue. Novos recursos, melhorias, idiomas e ideias continuam sendo adicionados com o mesmo objetivo: tornar a prática de multiplicação mais eficaz, acessível e agradável."], "location": "Feito na República Tcheca"},
+    "homeEntry": {"eyebrow": "Por trás do jogo", "heading": "Baseado em princípios de ensino, não em perguntas aleatórias", "body": "Veja como a experiência de sala de aula se transformou no sistema de prática adaptativa do Numblop.", "cta": "Sobre o Numblop"},
+    "cta": {"heading": "Pronto para praticar?", "body": "Explore a multiplicação no seu ritmo com o Numblop.", "button": "Jogar Numblop"}
+  },
+  "pt-PT": {
+    "navLabel": "Sobre o Numblop",
+    "meta": {"title": "Sobre o Numblop | Abordagem educativa e multiplicação adaptativa", "description": "Descubra como o Numblop combina experiência de sala de aula, aprendizagem adaptativa e design de jogos para ajudar as crianças a praticar multiplicação."},
+    "hero": {"eyebrow": "Sobre o Numblop", "title": "Criado em torno da forma como as crianças aprendem", "tagline": "Um jogo de multiplicação moldado pela experiência de ensino.", "intro": ["O Numblop é um projeto educativo independente que reúne experiência prática de sala de aula e tecnologia moderna.", "Começou com materiais educativos e orientações didáticas preparados por uma professora do ensino básico. Essas ideias tornaram-se as regras de aprendizagem que orientam a prática da multiplicação no jogo."], "imageAlt": "Numblop, a personagem amigável que guia as crianças pelo jogo"},
+    "foundation": {"heading": "Dos materiais de aula a um sistema de aprendizagem", "paragraphs": ["O Numblop não começou como um jogo acabado. Começou com uma descrição cuidadosa do que as crianças precisam ao aprender multiplicação: dificuldade gradual, feedback útil e prática regular centrada nas operações que ainda precisam de atenção.", "Estes princípios de ensino foram transformados num sistema que acompanha cada operação separadamente e decide qual será a prática mais útil a seguir."], "steps": ["Materiais didáticos", "Regras de aprendizagem", "Jogo adaptativo"]},
+    "rightAnswer": {"heading": "Mais do que a resposta certa", "paragraphs": ["Resolver corretamente uma multiplicação e recordar a resposta automaticamente são duas coisas diferentes.", "Por isso, o Numblop não se limita a contar respostas certas. Cada operação é acompanhada individualmente, considerando a precisão e o tempo de resposta.", "As operações difíceis recebem mais atenção. As conhecidas aparecem menos vezes, mas continuam na revisão regular."], "callout": "O objetivo não é apenas terminar todas as tabuadas. É desenvolver gradualmente confiança, fluência e uma recordação fiável."},
+    "adaptive": {"eyebrow": "Aprendizagem que se adapta", "heading": "A prática muda à medida que a confiança cresce", "intro": "A mesma operação pode ser apresentada de formas diferentes. À medida que a criança ganha segurança, o Numblop pede uma recordação mais independente.", "stages": [{"label": "Etapa 1", "title": "Criar familiaridade", "description": "Quatro respostas possíveis oferecem um formato mais simples enquanto a operação ainda está a ser aprendida."}, {"label": "Etapa 2", "title": "Criar confiança", "description": "Seis respostas possíveis tornam o exercício um pouco mais exigente à medida que a competência aumenta."}, {"label": "Etapa 3", "title": "Recordação independente", "description": "A resposta é introduzida sem opções, incentivando uma recordação segura."}], "principle": "Pratica o que precisa de prática. Reforça o que aprendeste. Continua a avançar.", "note": "A prática ajusta-se à medida que a criança melhora. As operações difíceis recebem mais atenção e as conhecidas continuam na revisão regular. O progresso depende do desempenho individual, não de um número fixo de tentativas."},
+    "methodology": {"heading": "Da metodologia educativa ao jogo", "paragraphs": ["Transformar princípios de ensino num jogo funcional exigiu um sistema que acompanhasse cada operação, avaliasse respostas, ajustasse o formato da pergunta e escolhesse o que praticar a seguir.", "Em torno desta base, o Numblop ganhou progressão, recompensas, personalização e outros elementos que tornam a prática regular mais envolvente.", "A metodologia educativa continua no centro do Numblop. Os elementos de jogo existem para a apoiar."], "imageAlt": "Ecrã de prática do Numblop onde a resposta é introduzida sem ajuda"},
+    "evolving": {"heading": "Um projeto independente que continua a evoluir", "paragraphs": ["O Numblop é desenvolvido no nosso tempo livre como um pequeno projeto familiar independente da República Checa.", "Reúne experiência de sala de aula, desenvolvimento de software, design de jogos e ferramentas modernas de desenvolvimento assistido por IA.", "O que começou como uma coleção de documentos educativos tornou-se um jogo de aprendizagem multilingue. Continuamos a acrescentar funcionalidades, melhorias, idiomas e ideias com o mesmo objetivo: tornar a prática da multiplicação mais eficaz, acessível e agradável."], "location": "Criado na República Checa"},
+    "homeEntry": {"eyebrow": "Por trás do jogo", "heading": "Baseado em princípios de ensino, não em perguntas aleatórias", "body": "Descubra como a experiência de sala de aula se tornou o sistema de prática adaptativa do Numblop.", "cta": "Sobre o Numblop"},
+    "cta": {"heading": "Pronto para praticar?", "body": "Explora a multiplicação ao teu ritmo com o Numblop.", "button": "Jogar Numblop"}
+  },
+  "it": {
+    "navLabel": "Chi è Numblop",
+    "meta": {"title": "Chi è Numblop | Approccio educativo e moltiplicazione adattiva", "description": "Scopri come Numblop unisce esperienza in classe, apprendimento adattivo e game design per aiutare i bambini a esercitarsi con le moltiplicazioni."},
+    "hero": {"eyebrow": "Chi è Numblop", "title": "Costruito intorno al modo in cui imparano i bambini", "tagline": "Un gioco di moltiplicazione nato dall’esperienza didattica.", "intro": ["Numblop è un progetto educativo indipendente che unisce l’esperienza pratica in classe alla tecnologia moderna.", "È nato da materiali educativi e linee guida didattiche preparati da un’insegnante della scuola primaria. Da quelle idee sono nate le regole che guidano l’esercizio delle moltiplicazioni nel gioco."], "imageAlt": "Numblop, il personaggio amichevole che accompagna i bambini nel gioco"},
+    "foundation": {"heading": "Dai materiali scolastici a un sistema di apprendimento", "paragraphs": ["Numblop non è nato come un gioco finito. Il punto di partenza è stato descrivere con cura ciò che serve ai bambini per imparare le moltiplicazioni: difficoltà graduale, feedback utile e pratica regolare concentrata sui calcoli che richiedono ancora attenzione.", "Questi principi didattici sono stati trasformati in un sistema che segue ogni calcolo separatamente e decide quale esercizio è più utile proporre dopo."], "steps": ["Materiali didattici", "Regole di apprendimento", "Gioco adattivo"]},
+    "rightAnswer": {"heading": "Più della risposta giusta", "paragraphs": ["Risolvere correttamente una moltiplicazione e ricordarne automaticamente il risultato sono due cose diverse.", "Per questo Numblop non si limita a contare le risposte corrette. Ogni calcolo viene seguito singolarmente, considerando precisione e tempo di risposta.", "I calcoli difficili ricevono più attenzione. Quelli già familiari compaiono meno spesso, ma restano nel ripasso regolare."], "callout": "L’obiettivo non è soltanto completare tutte le tabelline, ma costruire gradualmente sicurezza, fluidità e un ricordo affidabile."},
+    "adaptive": {"eyebrow": "Apprendimento che si adatta", "heading": "L’esercizio cambia insieme alla sicurezza", "intro": "Lo stesso calcolo può essere presentato in modi diversi. Quando il bambino diventa più sicuro, Numblop richiede gradualmente un ricordo più autonomo.", "stages": [{"label": "Fase 1", "title": "Prendere familiarità", "description": "Quattro possibili risposte offrono un formato più semplice mentre il calcolo viene appreso."}, {"label": "Fase 2", "title": "Costruire sicurezza", "description": "Sei possibili risposte rendono l’esercizio un po’ più impegnativo con l’aumentare della competenza."}, {"label": "Fase 3", "title": "Ricordo autonomo", "description": "La risposta viene inserita senza scelta multipla, favorendo un ricordo sicuro."}], "principle": "Esercita ciò che ne ha bisogno. Consolida ciò che hai imparato. Continua ad avanzare.", "note": "L’esercizio si adatta ai progressi del bambino. I calcoli difficili ricevono più attenzione, mentre quelli familiari restano nel ripasso. I progressi dipendono dalla prestazione individuale, non da un numero fisso di tentativi."},
+    "methodology": {"heading": "Dalla metodologia educativa al gioco", "paragraphs": ["Trasformare principi didattici in un gioco funzionante ha richiesto un sistema che seguisse i singoli calcoli, valutasse le risposte, adattasse il formato delle domande e scegliesse cosa esercitare dopo.", "Intorno a questa base, Numblop è cresciuto con progressione, ricompense, personalizzazione e altri elementi che rendono più coinvolgente l’esercizio regolare.", "La metodologia educativa resta al centro di Numblop. Gli elementi di gioco servono a sostenerla."], "imageAlt": "Schermata di esercizio di Numblop in cui la risposta viene inserita in autonomia"},
+    "evolving": {"heading": "Un progetto indipendente che continua a evolversi", "paragraphs": ["Numblop viene sviluppato nel nostro tempo libero come piccolo progetto familiare indipendente della Repubblica Ceca.", "Unisce esperienza in classe, sviluppo software, game design e moderni strumenti di sviluppo assistiti dall’IA.", "Quello che era iniziato come una raccolta di documenti educativi è diventato un gioco didattico multilingue. Continuiamo ad aggiungere funzioni, miglioramenti, lingue e idee con lo stesso obiettivo: rendere l’esercizio delle moltiplicazioni più efficace, accessibile e piacevole."], "location": "Creato nella Repubblica Ceca"},
+    "homeEntry": {"eyebrow": "Dietro il gioco", "heading": "Basato su principi didattici, non su domande casuali", "body": "Scopri come l’esperienza in classe è diventata il sistema di esercizio adattivo di Numblop.", "cta": "Chi è Numblop"},
+    "cta": {"heading": "Pronti a esercitarsi?", "body": "Esplora le moltiplicazioni al tuo ritmo con Numblop.", "button": "Gioca a Numblop"}
+  },
+  "da": {
+    "navLabel": "Om Numblop",
+    "meta": {"title": "Om Numblop | Pædagogisk tilgang og adaptiv multiplikation", "description": "Se, hvordan Numblop kombinerer undervisningserfaring, adaptiv læring og spildesign for at hjælpe børn med at øve multiplikation."},
+    "hero": {"eyebrow": "Om Numblop", "title": "Bygget omkring den måde, børn lærer på", "tagline": "Et multiplikationsspil formet af undervisningserfaring.", "intro": ["Numblop er et uafhængigt læringsprojekt, der forener praktisk erfaring fra klasseværelset med moderne teknologi.", "Det begyndte med undervisningsmaterialer og didaktiske retningslinjer udarbejdet af en folkeskolelærer. Ideerne blev til de læringsregler, der styrer børnenes træning i spillet."], "imageAlt": "Numblop, den venlige figur, der guider børn gennem spillet"},
+    "foundation": {"heading": "Fra undervisningsmateriale til et læringssystem", "paragraphs": ["Numblop begyndte ikke som et færdigt spil. Udgangspunktet var en omhyggelig beskrivelse af, hvad børn har brug for, når de lærer multiplikation: gradvist sværere udfordringer, nyttig feedback og regelmæssig træning af de stykker, der stadig kræver opmærksomhed.", "Disse undervisningsprincipper blev omsat til et system, der følger hvert regnestykke for sig og vælger, hvilken træning der er mest nyttig som det næste."], "steps": ["Undervisningsmateriale", "Læringsregler", "Adaptivt spil"]},
+    "rightAnswer": {"heading": "Mere end bare det rigtige svar", "paragraphs": ["At løse et gangestykke rigtigt og at kunne huske svaret automatisk er to forskellige ting.", "Derfor tæller Numblop ikke bare rigtige svar. Hvert gangestykke følges individuelt, og både nøjagtighed og svartid indgår.", "Svære stykker får mere opmærksomhed. Kendte stykker vises sjældnere, men forbliver en del af den regelmæssige repetition."], "callout": "Målet er ikke blot at gennemføre alle tabellerne, men gradvist at opbygge sikkerhed, flydende kunnen og pålidelig genkaldelse."},
+    "adaptive": {"eyebrow": "Læring, der tilpasser sig", "heading": "Træningen ændrer sig, når sikkerheden vokser", "intro": "Det samme regnestykke kan præsenteres på forskellige måder. Når barnet bliver mere sikkert, beder Numblop gradvist om mere selvstændig genkaldelse.", "stages": [{"label": "Trin 1", "title": "Bliv fortrolig", "description": "Fire svarmuligheder giver et enklere format, mens regnestykket stadig læres."}, {"label": "Trin 2", "title": "Opbyg sikkerhed", "description": "Seks svarmuligheder gør øvelsen lidt mere krævende, efterhånden som færdigheden vokser."}, {"label": "Trin 3", "title": "Selvstændig genkaldelse", "description": "Svaret indtastes uden valgmuligheder og fremmer sikker genkaldelse."}], "principle": "Øv det, der har brug for øvelse. Styrk det, du har lært. Kom videre.", "note": "Træningen tilpasses barnets fremskridt. Svære stykker får mere opmærksomhed, mens kendte stykker bliver i den regelmæssige repetition. Fremskridt afhænger af den enkeltes præstation, ikke af et fast antal forsøg."},
+    "methodology": {"heading": "Fra pædagogisk metode til spil", "paragraphs": ["At omsætte undervisningsprincipper til et fungerende spil krævede et system, der følger de enkelte stykker, vurderer svar, tilpasser spørgsmålsformen og vælger, hvad der skal trænes næste gang.", "Omkring dette fundament voksede Numblop gradvist med fremskridt, belønninger, tilpasning og andre elementer, der gør regelmæssig træning mere engagerende.", "Den pædagogiske metode er stadig kernen i Numblop. Spilelementerne understøtter den."], "imageAlt": "En øvelsesskærm i Numblop, hvor svaret indtastes selvstændigt"},
+    "evolving": {"heading": "Et uafhængigt projekt i fortsat udvikling", "paragraphs": ["Numblop udvikles i vores fritid som et lille, uafhængigt familieprojekt fra Tjekkiet.", "Det forener erfaring fra klasseværelset, softwareudvikling, spildesign og moderne AI-assisterede udviklingsværktøjer.", "Det, der begyndte som en samling undervisningsdokumenter, er blevet til et flersproget læringsspil. Nye funktioner, forbedringer, sprog og ideer tilføjes fortsat med samme mål: at gøre multiplikationstræning mere effektiv, tilgængelig og fornøjelig."], "location": "Skabt i Tjekkiet"},
+    "homeEntry": {"eyebrow": "Bag spillet", "heading": "Bygget på undervisningsprincipper, ikke tilfældige spørgsmål", "body": "Se, hvordan erfaring fra klasseværelset blev til Numblops adaptive træningssystem.", "cta": "Om Numblop"},
+    "cta": {"heading": "Klar til at øve?", "body": "Udforsk multiplikation i dit eget tempo med Numblop.", "button": "Spil Numblop"}
+  },
+  "nl": {
+    "navLabel": "Over Numblop",
+    "meta": {"title": "Over Numblop | Onderwijsaanpak en adaptief vermenigvuldigen", "description": "Ontdek hoe Numblop onderwijservaring, adaptief leren en gamedesign combineert om kinderen te helpen vermenigvuldigen te oefenen."},
+    "hero": {"eyebrow": "Over Numblop", "title": "Gebouwd rond de manier waarop kinderen leren", "tagline": "Een vermenigvuldigspel gevormd door onderwijservaring.", "intro": ["Numblop is een onafhankelijk onderwijsproject dat praktijkervaring uit de klas samenbrengt met moderne technologie.", "Het begon met lesmateriaal en didactische richtlijnen van een leerkracht uit het basisonderwijs. Die ideeën werden de leerregels die bepalen hoe kinderen in het spel vermenigvuldigen oefenen."], "imageAlt": "Numblop, het vriendelijke personage dat kinderen door het spel begeleidt"},
+    "foundation": {"heading": "Van lesmateriaal naar een leersysteem", "paragraphs": ["Numblop begon niet als een voltooid spel. Het begon met een zorgvuldige beschrijving van wat kinderen nodig hebben bij het leren vermenigvuldigen: geleidelijk meer uitdaging, nuttige feedback en regelmatige oefening gericht op de sommen die nog aandacht vragen.", "Deze onderwijsprincipes werden vertaald naar een systeem dat de voortgang per som volgt en kiest welke oefening daarna het nuttigst is."], "steps": ["Lesmateriaal", "Leerregels", "Adaptief spel"]},
+    "rightAnswer": {"heading": "Meer dan alleen het juiste antwoord", "paragraphs": ["Een keersom goed oplossen en het antwoord automatisch herinneren zijn twee verschillende dingen.", "Daarom telt Numblop niet alleen goede antwoorden. Elke keersom wordt afzonderlijk gevolgd, waarbij zowel nauwkeurigheid als antwoordtijd meetellen.", "Moeilijke sommen krijgen meer aandacht. Bekende sommen verschijnen minder vaak, maar blijven deel van de regelmatige herhaling."], "callout": "Het doel is niet alleen alle tafels afronden, maar stap voor stap vertrouwen, vloeiendheid en betrouwbare herinnering opbouwen."},
+    "adaptive": {"eyebrow": "Leren dat zich aanpast", "heading": "De oefening verandert wanneer het vertrouwen groeit", "intro": "Dezelfde som kan op verschillende manieren worden aangeboden. Naarmate een kind zekerder wordt, vraagt Numblop geleidelijk om zelfstandiger herinneren.", "stages": [{"label": "Fase 1", "title": "Vertrouwd raken", "description": "Vier mogelijke antwoorden bieden een eenvoudiger vorm terwijl de som nog wordt geleerd."}, {"label": "Fase 2", "title": "Vertrouwen opbouwen", "description": "Zes mogelijke antwoorden maken de oefening iets uitdagender naarmate de vaardigheid groeit."}, {"label": "Fase 3", "title": "Zelfstandig herinneren", "description": "Het antwoord wordt zonder meerkeuze ingevoerd, wat zeker herinneren stimuleert."}], "principle": "Oefen wat oefening nodig heeft. Versterk wat je hebt geleerd. Blijf vooruitgaan.", "note": "De oefening past zich aan de vooruitgang van het kind aan. Moeilijke sommen krijgen meer aandacht en bekende sommen blijven in de regelmatige herhaling. Vooruitgang hangt af van individuele prestaties, niet van een vast aantal pogingen."},
+    "methodology": {"heading": "Van onderwijsmethode naar spel", "paragraphs": ["Onderwijsprincipes omzetten in een werkend spel vroeg om een systeem dat afzonderlijke sommen volgt, antwoorden beoordeelt, de vraagvorm aanpast en kiest wat daarna geoefend wordt.", "Rond die basis groeide Numblop geleidelijk met voortgang, beloningen, aanpassingen en andere elementen die regelmatig oefenen aantrekkelijker maken.", "De onderwijsmethode blijft de kern van Numblop. De spelelementen ondersteunen haar."], "imageAlt": "Een oefenscherm van Numblop waarop het antwoord zelfstandig wordt ingevoerd"},
+    "evolving": {"heading": "Een onafhankelijk project dat blijft groeien", "paragraphs": ["Numblop wordt in onze vrije tijd ontwikkeld als een klein, onafhankelijk familieproject uit Tsjechië.", "Het brengt ervaring uit de klas, softwareontwikkeling, gamedesign en moderne AI-ondersteunde ontwikkeltools samen.", "Wat begon als een verzameling onderwijsdocumenten is uitgegroeid tot een meertalig leerspel. Nieuwe functies, verbeteringen, talen en ideeën blijven erbij komen met hetzelfde doel: vermenigvuldigen effectiever, toegankelijker en prettiger oefenen."], "location": "Gemaakt in Tsjechië"},
+    "homeEntry": {"eyebrow": "Achter het spel", "heading": "Gebouwd op onderwijsprincipes, niet op willekeurige vragen", "body": "Bekijk hoe ervaring uit de klas het adaptieve oefensysteem van Numblop werd.", "cta": "Over Numblop"},
+    "cta": {"heading": "Klaar om te oefenen?", "body": "Ontdek vermenigvuldigen in je eigen tempo met Numblop.", "button": "Speel Numblop"}
+  },
+  "ja": {
+    "navLabel": "Numblopについて",
+    "meta": {"title": "Numblopについて｜教育的アプローチと適応型かけ算学習", "description": "Numblopが授業経験、適応型学習、ゲームデザインを組み合わせ、子どものかけ算練習をどのように支えるかをご紹介します。"},
+    "hero": {"eyebrow": "Numblopについて", "title": "子どもの学び方を中心に設計", "tagline": "教室での経験から生まれた、かけ算ゲーム。", "intro": ["Numblopは、実際の授業経験と現代のテクノロジーを結び付けた独立した教育プロジェクトです。", "出発点は、小学校教師が作成した教材と指導指針でした。その考えが、ゲーム内で子どもがかけ算を練習する方法を導く学習ルールになりました。"], "imageAlt": "ゲームを通して子どもを案内する親しみやすいキャラクター、Numblop"},
+    "foundation": {"heading": "教材から学習システムへ", "paragraphs": ["Numblopは完成したゲームから始まったわけではありません。かけ算を学ぶ子どもに必要なもの――段階的な難しさ、役立つフィードバック、まだ注意が必要な式に焦点を当てた定期的な練習――を丁寧に整理することから始まりました。", "こうした指導原則を、一つひとつの式の進歩を追い、次に役立つ練習を選ぶシステムへと変換しました。"], "steps": ["教材", "学習ルール", "適応型ゲーム"]},
+    "rightAnswer": {"heading": "正解するだけではなく", "paragraphs": ["かけ算に正解することと、答えを自動的に思い出せることは別のものです。", "そのためNumblopは、正解数を数えるだけではありません。各式を個別に追跡し、正確さと回答時間の両方を考慮します。", "難しい式にはより多くの練習機会を与えます。慣れた式は出題回数を減らしつつ、定期的な復習に残します。"], "callout": "目標はすべての九九を終えることだけではありません。自信、流ちょうさ、確かな想起を少しずつ育てることです。"},
+    "adaptive": {"eyebrow": "適応する学び", "heading": "自信がつくにつれて練習方法も変化", "intro": "同じ式でも、さまざまな形で出題できます。子どもの自信が高まるにつれ、Numblopはより自立した想起へ段階的に導きます。", "stages": [{"label": "ステージ1", "title": "慣れる", "description": "学び始めの間は、4つの選択肢から選ぶ、より取り組みやすい形式です。"}, {"label": "ステージ2", "title": "自信を育てる", "description": "習熟が進むと、6つの選択肢で少し難しくなります。"}, {"label": "ステージ3", "title": "自力で思い出す", "description": "選択肢なしで答えを入力し、自信を持って思い出す力を育てます。"}], "principle": "必要なことを練習する。学んだことを定着させる。そして前へ進む。", "note": "練習は子どもの上達に合わせて変わります。難しい式にはより多く取り組み、慣れた式も定期的に復習します。進み方は固定の試行回数ではなく、一人ひとりの結果によって決まります。"},
+    "methodology": {"heading": "教育方法からゲームへ", "paragraphs": ["指導原則を実際のゲームにするには、各式を追跡し、回答を評価し、問題形式を調整し、次に何を練習するかを選ぶシステムが必要でした。", "その土台の上に、進行、報酬、カスタマイズなど、定期的な練習を楽しくする要素を少しずつ加えてきました。", "教育方法は今もNumblopの中心です。ゲーム要素はそれを支えるためにあります。"], "imageAlt": "答えを自分で入力するNumblopの練習画面"},
+    "evolving": {"heading": "進化を続ける独立プロジェクト", "paragraphs": ["Numblopは、チェコ共和国の小さな独立した家族プロジェクトとして、余暇に開発しています。", "教室での経験、ソフトウェア開発、ゲームデザイン、現代のAI支援開発ツールを組み合わせています。", "教育文書の集まりから始まったものが、多言語の学習ゲームへ成長しました。かけ算練習をより効果的で、利用しやすく、楽しいものにするという同じ目標のもと、新機能、改善、言語、アイデアを追加し続けています。"], "location": "チェコ共和国で制作"},
+    "homeEntry": {"eyebrow": "ゲームの背景", "heading": "ランダムな問題ではなく、指導原則から設計", "body": "教室での経験がNumblopの適応型練習システムになった過程をご覧ください。", "cta": "Numblopについて"},
+    "cta": {"heading": "練習を始めませんか？", "body": "Numblopで、自分のペースでかけ算を学びましょう。", "button": "Numblopで遊ぶ"}
+  },
+  "ko": {
+    "navLabel": "Numblop 소개",
+    "meta": {"title": "Numblop 소개 | 교육적 접근과 맞춤형 곱셈 학습", "description": "Numblop이 교실 경험, 맞춤형 학습, 게임 디자인을 결합해 아이들의 곱셈 연습을 돕는 방법을 알아보세요."},
+    "hero": {"eyebrow": "Numblop 소개", "title": "아이들이 배우는 방식에 맞춰 설계", "tagline": "수업 경험에서 탄생한 곱셈 게임입니다.", "intro": ["Numblop은 실제 교실 경험과 현대 기술을 결합한 독립 교육 프로젝트입니다.", "초등학교 교사가 만든 교육 자료와 교수 지침에서 시작했습니다. 그 아이디어가 게임에서 아이들의 곱셈 연습을 이끄는 학습 규칙이 되었습니다."], "imageAlt": "게임 속에서 아이들을 안내하는 친근한 캐릭터 Numblop"},
+    "foundation": {"heading": "교실 자료에서 학습 시스템으로", "paragraphs": ["Numblop은 완성된 게임으로 시작하지 않았습니다. 곱셈을 배우는 아이들에게 필요한 것, 즉 단계적인 도전, 유용한 피드백, 아직 주의가 필요한 식에 집중한 규칙적인 연습을 세심하게 정리하는 데서 시작했습니다.", "이러한 교수 원칙을 각 식의 진도를 따로 추적하고 다음에 유용한 연습을 선택하는 시스템으로 옮겼습니다."], "steps": ["교육 자료", "학습 규칙", "맞춤형 게임"]},
+    "rightAnswer": {"heading": "정답 그 이상", "paragraphs": ["곱셈 문제를 맞히는 것과 답을 자동으로 떠올리는 것은 서로 다릅니다.", "그래서 Numblop은 정답 수만 세지 않습니다. 각 곱셈식을 개별적으로 추적하며 정확도와 응답 시간을 함께 고려합니다.", "어려운 식은 더 자주 다루고, 익숙한 식은 덜 자주 나오지만 꾸준한 복습에 남겨 둡니다."], "callout": "목표는 모든 구구단을 끝내는 것만이 아닙니다. 자신감, 유창함, 확실한 회상을 차근차근 키우는 것입니다."},
+    "adaptive": {"eyebrow": "적응하는 학습", "heading": "자신감이 자라면 연습 방식도 달라집니다", "intro": "같은 식도 여러 방식으로 제시할 수 있습니다. 아이가 자신감을 얻을수록 Numblop은 점차 스스로 답을 떠올리도록 이끕니다.", "stages": [{"label": "1단계", "title": "익숙해지기", "description": "식을 배우는 동안에는 네 개의 보기 중에서 고르는 쉬운 형식으로 시작합니다."}, {"label": "2단계", "title": "자신감 키우기", "description": "숙련도가 높아지면 여섯 개의 보기가 제시되어 조금 더 어려워집니다."}, {"label": "3단계", "title": "스스로 떠올리기", "description": "보기 없이 답을 직접 입력하며 확실한 회상을 기릅니다."}], "principle": "필요한 것을 연습하고, 배운 것을 다지고, 계속 앞으로 나아갑니다.", "note": "연습은 아이의 향상에 맞춰 조정됩니다. 어려운 식은 더 집중하고, 익숙한 식도 정기 복습에 포함합니다. 진도는 고정된 시도 횟수가 아니라 개인의 수행에 따라 달라집니다."},
+    "methodology": {"heading": "교육 방법론에서 게임으로", "paragraphs": ["교수 원칙을 실제 게임으로 만들기 위해 각 곱셈식을 추적하고, 답을 평가하고, 문제 형식을 조정하며, 다음 연습을 선택하는 시스템을 구축했습니다.", "그 기반 위에 진행, 보상, 꾸미기 등 규칙적인 연습을 더 흥미롭게 만드는 요소를 점차 더했습니다.", "교육 방법론은 여전히 Numblop의 중심입니다. 게임 요소는 이를 뒷받침합니다."], "imageAlt": "답을 직접 입력하는 Numblop 연습 화면"},
+    "evolving": {"heading": "계속 발전하는 독립 프로젝트", "paragraphs": ["Numblop은 체코 공화국의 작은 독립 가족 프로젝트로 여가 시간에 개발하고 있습니다.", "교실 경험, 소프트웨어 개발, 게임 디자인, 현대적인 AI 지원 개발 도구를 함께 활용합니다.", "교육 문서 모음으로 시작한 프로젝트가 다국어 학습 게임으로 성장했습니다. 곱셈 연습을 더 효과적이고 접근하기 쉬우며 즐겁게 만든다는 같은 목표로 새 기능, 개선, 언어와 아이디어를 계속 더하고 있습니다."], "location": "체코 공화국에서 제작"},
+    "homeEntry": {"eyebrow": "게임 이야기", "heading": "무작위 문제가 아닌 교수 원칙을 바탕으로", "body": "교실 경험이 Numblop의 맞춤형 연습 시스템이 된 과정을 알아보세요.", "cta": "Numblop 소개"},
+    "cta": {"heading": "연습할 준비가 되었나요?", "body": "Numblop과 함께 나만의 속도로 곱셈을 익혀 보세요.", "button": "Numblop 플레이"}
+  },
+  "tr": {
+    "navLabel": "Numblop Hakkında",
+    "meta": {"title": "Numblop Hakkında | Eğitim yaklaşımı ve uyarlanabilir çarpma", "description": "Numblop'un sınıf deneyimi, uyarlanabilir öğrenme ve oyun tasarımını birleştirerek çocukların çarpma alıştırmasına nasıl yardımcı olduğunu keşfedin."},
+    "hero": {"eyebrow": "Numblop Hakkında", "title": "Çocukların öğrenme biçimine göre tasarlandı", "tagline": "Öğretmenlik deneyimiyle şekillenen bir çarpma oyunu.", "intro": ["Numblop, pratik sınıf deneyimini modern teknolojiyle buluşturan bağımsız bir eğitim projesidir.", "Bir ilkokul öğretmeninin hazırladığı eğitim materyalleri ve didaktik yönergelerle başladı. Bu fikirler, çocukların oyunda çarpma işlemi çalışmasını yönlendiren öğrenme kurallarına dönüştü."], "imageAlt": "Çocuklara oyun boyunca rehberlik eden dost canlısı karakter Numblop"},
+    "foundation": {"heading": "Sınıf materyallerinden öğrenme sistemine", "paragraphs": ["Numblop tamamlanmış bir oyun olarak başlamadı. Çocukların çarpma öğrenirken nelere ihtiyaç duyduğunu dikkatle tanımlamakla başladı: kademeli zorluk, yararlı geri bildirim ve hâlâ ilgi gerektiren işlemlere odaklanan düzenli alıştırma.", "Bu öğretim ilkeleri, her işlemin ilerlemesini ayrı ayrı izleyen ve sırada hangi alıştırmanın yararlı olacağına karar veren bir sisteme dönüştürüldü."], "steps": ["Eğitim materyalleri", "Öğrenme kuralları", "Uyarlanabilir oyun"]},
+    "rightAnswer": {"heading": "Doğru cevaptan daha fazlası", "paragraphs": ["Bir çarpma işlemini doğru yapmakla cevabı otomatik olarak hatırlamak aynı şey değildir.", "Bu yüzden Numblop yalnızca doğru cevapları saymaz. Her işlemi ayrı ayrı takip eder; doğruluk ve cevap süresini birlikte değerlendirir.", "Zor işlemler daha fazla ilgi görür. Tanıdık işlemler daha seyrek çıkar, ancak düzenli tekrarın parçası olmaya devam eder."], "callout": "Amaç yalnızca tüm çarpım tablolarını bitirmek değil; zamanla güven, akıcılık ve sağlam hatırlama becerisi oluşturmaktır."},
+    "adaptive": {"eyebrow": "Uyum sağlayan öğrenme", "heading": "Güven arttıkça alıştırma değişir", "intro": "Aynı işlem farklı biçimlerde sunulabilir. Çocuk daha emin oldukça Numblop giderek daha bağımsız hatırlama ister.", "stages": [{"label": "Aşama 1", "title": "Aşinalık kazanma", "description": "İşlem henüz öğrenilirken dört seçenek daha kolay bir biçim sunar."}, {"label": "Aşama 2", "title": "Güven oluşturma", "description": "Yeterlilik arttıkça altı seçenek alıştırmayı biraz daha zorlaştırır."}, {"label": "Aşama 3", "title": "Bağımsız hatırlama", "description": "Cevap seçenek olmadan girilir ve güvenli hatırlama desteklenir."}], "principle": "Alıştırma gerekeni çalış. Öğrendiğini pekiştir. İlerlemeye devam et.", "note": "Alıştırma, çocuk geliştikçe uyarlanır. Zor işlemler daha fazla ilgi görürken tanıdık olanlar düzenli tekrarda kalır. İlerleme sabit bir deneme sayısına değil, bireysel performansa bağlıdır."},
+    "methodology": {"heading": "Eğitim yönteminden oyuna", "paragraphs": ["Öğretim ilkelerini çalışan bir oyuna dönüştürmek; tek tek işlemleri izleyen, cevapları değerlendiren, soru biçimini ayarlayan ve sırada neyin çalışılacağını seçen bir sistem kurmayı gerektirdi.", "Bu temelin çevresinde Numblop'a ilerleme, ödüller, kişiselleştirme ve düzenli alıştırmayı daha ilgi çekici kılan başka özellikler eklendi.", "Eğitim yöntemi Numblop'un merkezinde kalır. Oyun öğeleri onu destekler."], "imageAlt": "Cevabın bağımsız olarak girildiği bir Numblop alıştırma ekranı"},
+    "evolving": {"heading": "Gelişmeye devam eden bağımsız bir proje", "paragraphs": ["Numblop, Çekya'dan küçük ve bağımsız bir aile projesi olarak boş zamanlarımızda geliştiriliyor.", "Sınıf deneyimini, yazılım geliştirmeyi, oyun tasarımını ve modern yapay zekâ destekli geliştirme araçlarını bir araya getiriyor.", "Eğitim belgeleri koleksiyonu olarak başlayan çalışma çok dilli bir öğrenme oyununa dönüştü. Çarpma alıştırmasını daha etkili, erişilebilir ve keyifli kılma hedefiyle yeni özellikler, iyileştirmeler, diller ve fikirler eklemeye devam ediyoruz."], "location": "Çekya'da geliştirildi"},
+    "homeEntry": {"eyebrow": "Oyunun arkasında", "heading": "Rastgele sorulara değil, öğretim ilkelerine dayanır", "body": "Sınıf deneyiminin Numblop'un uyarlanabilir alıştırma sistemine nasıl dönüştüğünü görün.", "cta": "Numblop Hakkında"},
+    "cta": {"heading": "Alıştırmaya hazır mısınız?", "body": "Numblop ile çarpmayı kendi hızınızda keşfedin.", "button": "Numblop'u Oyna"}
+  },
+  "vi": {
+    "navLabel": "Giới thiệu Numblop",
+    "meta": {"title": "Giới thiệu Numblop | Phương pháp giáo dục và phép nhân thích ứng", "description": "Khám phá cách Numblop kết hợp kinh nghiệm giảng dạy, học tập thích ứng và thiết kế trò chơi để giúp trẻ luyện phép nhân."},
+    "hero": {"eyebrow": "Giới thiệu Numblop", "title": "Được xây dựng theo cách trẻ học", "tagline": "Trò chơi phép nhân được định hình từ kinh nghiệm giảng dạy.", "intro": ["Numblop là một dự án giáo dục độc lập, kết hợp kinh nghiệm thực tế trong lớp học với công nghệ hiện đại.", "Dự án bắt đầu từ tài liệu giáo dục và hướng dẫn sư phạm do một giáo viên tiểu học chuẩn bị. Những ý tưởng đó trở thành các quy tắc học tập định hướng cách trẻ luyện phép nhân trong trò chơi."], "imageAlt": "Numblop, nhân vật thân thiện hướng dẫn trẻ trong trò chơi"},
+    "foundation": {"heading": "Từ tài liệu lớp học đến hệ thống học tập", "paragraphs": ["Numblop không bắt đầu bằng một trò chơi hoàn chỉnh. Dự án bắt đầu từ việc mô tả cẩn thận những gì trẻ cần khi học phép nhân: thử thách tăng dần, phản hồi hữu ích và luyện tập thường xuyên tập trung vào những phép tính vẫn cần chú ý.", "Các nguyên tắc giảng dạy này được chuyển thành một hệ thống theo dõi tiến bộ của từng phép tính và chọn kiểu luyện tập hữu ích tiếp theo."], "steps": ["Tài liệu giảng dạy", "Quy tắc học tập", "Trò chơi thích ứng"]},
+    "rightAnswer": {"heading": "Không chỉ là câu trả lời đúng", "paragraphs": ["Làm đúng một phép nhân và tự động nhớ ra đáp án là hai điều khác nhau.", "Vì vậy Numblop không chỉ đếm câu trả lời đúng. Trò chơi theo dõi từng phép tính riêng biệt, xét cả độ chính xác và thời gian trả lời.", "Những phép tính khó được chú ý nhiều hơn. Những phép tính quen thuộc xuất hiện ít hơn nhưng vẫn nằm trong phần ôn tập thường xuyên."], "callout": "Mục tiêu không chỉ là hoàn thành mọi bảng cửu chương, mà là dần xây dựng sự tự tin, trôi chảy và khả năng nhớ lại đáng tin cậy."},
+    "adaptive": {"eyebrow": "Học tập biết thích ứng", "heading": "Cách luyện tập thay đổi khi sự tự tin tăng lên", "intro": "Cùng một phép tính có thể được trình bày theo nhiều cách. Khi trẻ tự tin hơn, Numblop dần yêu cầu trẻ tự nhớ đáp án nhiều hơn.", "stages": [{"label": "Giai đoạn 1", "title": "Làm quen", "description": "Bốn đáp án lựa chọn tạo hình thức đơn giản hơn khi trẻ còn đang học phép tính."}, {"label": "Giai đoạn 2", "title": "Xây dựng tự tin", "description": "Sáu đáp án lựa chọn khiến bài tập khó hơn một chút khi năng lực tăng lên."}, {"label": "Giai đoạn 3", "title": "Tự nhớ đáp án", "description": "Trẻ nhập đáp án mà không có lựa chọn, từ đó rèn khả năng nhớ chắc chắn."}], "principle": "Luyện điều cần luyện. Củng cố điều đã học. Tiếp tục tiến lên.", "note": "Bài tập điều chỉnh theo sự tiến bộ của trẻ. Các phép tính khó được chú ý nhiều hơn, còn phép tính quen thuộc vẫn được ôn đều đặn. Tiến độ phụ thuộc vào kết quả cá nhân, không phải số lần thử cố định."},
+    "methodology": {"heading": "Từ phương pháp giáo dục đến trò chơi", "paragraphs": ["Biến nguyên tắc giảng dạy thành một trò chơi hoạt động thực sự đòi hỏi hệ thống theo dõi từng phép tính, đánh giá câu trả lời, điều chỉnh dạng câu hỏi và chọn nội dung luyện tiếp theo.", "Trên nền tảng đó, Numblop dần bổ sung tiến trình, phần thưởng, tùy chỉnh và những yếu tố khác để việc luyện tập thường xuyên hấp dẫn hơn.", "Phương pháp giáo dục vẫn là cốt lõi của Numblop. Các yếu tố trò chơi tồn tại để hỗ trợ phương pháp ấy."], "imageAlt": "Màn hình luyện tập Numblop nơi trẻ tự nhập đáp án"},
+    "evolving": {"heading": "Một dự án độc lập luôn tiếp tục phát triển", "paragraphs": ["Numblop được phát triển trong thời gian rảnh như một dự án gia đình nhỏ, độc lập tại Cộng hòa Séc.", "Dự án kết hợp kinh nghiệm lớp học, phát triển phần mềm, thiết kế trò chơi và các công cụ phát triển hiện đại có AI hỗ trợ.", "Từ một tập tài liệu giáo dục, dự án đã trở thành trò chơi học tập đa ngôn ngữ. Các tính năng, cải tiến, ngôn ngữ và ý tưởng mới vẫn tiếp tục được thêm vào với cùng mục tiêu: giúp việc luyện phép nhân hiệu quả, dễ tiếp cận và thú vị hơn."], "location": "Được tạo tại Cộng hòa Séc"},
+    "homeEntry": {"eyebrow": "Phía sau trò chơi", "heading": "Dựa trên nguyên tắc giảng dạy, không phải câu hỏi ngẫu nhiên", "body": "Xem kinh nghiệm lớp học đã trở thành hệ thống luyện tập thích ứng của Numblop như thế nào.", "cta": "Giới thiệu Numblop"},
+    "cta": {"heading": "Sẵn sàng luyện tập?", "body": "Khám phá phép nhân theo tốc độ của riêng bạn cùng Numblop.", "button": "Chơi Numblop"}
+  },
+  "id": {
+    "navLabel": "Tentang Numblop",
+    "meta": {"title": "Tentang Numblop | Pendekatan pendidikan dan perkalian adaptif", "description": "Temukan cara Numblop memadukan pengalaman mengajar, pembelajaran adaptif, dan desain gim untuk membantu anak berlatih perkalian."},
+    "hero": {"eyebrow": "Tentang Numblop", "title": "Dibangun sesuai cara anak belajar", "tagline": "Gim perkalian yang dibentuk oleh pengalaman mengajar.", "intro": ["Numblop adalah proyek pendidikan independen yang menyatukan pengalaman nyata di kelas dengan teknologi modern.", "Proyek ini dimulai dari materi pendidikan dan pedoman didaktik yang disiapkan oleh seorang guru sekolah dasar. Gagasan tersebut menjadi aturan belajar yang memandu cara anak berlatih perkalian dalam gim."], "imageAlt": "Numblop, karakter ramah yang memandu anak di dalam gim"},
+    "foundation": {"heading": "Dari materi kelas menjadi sistem pembelajaran", "paragraphs": ["Numblop tidak bermula sebagai gim yang sudah jadi. Awalnya adalah uraian cermat tentang kebutuhan anak saat belajar perkalian: tantangan bertahap, umpan balik yang berguna, dan latihan rutin yang berfokus pada operasi yang masih memerlukan perhatian.", "Prinsip pengajaran tersebut diterjemahkan menjadi sistem yang mengikuti kemajuan setiap operasi secara terpisah dan memilih latihan yang paling berguna berikutnya."], "steps": ["Materi pengajaran", "Aturan belajar", "Gim adaptif"]},
+    "rightAnswer": {"heading": "Lebih dari sekadar jawaban benar", "paragraphs": ["Menjawab soal perkalian dengan benar dan mengingat jawabannya secara otomatis adalah dua hal yang berbeda.", "Karena itu Numblop tidak sekadar menghitung jawaban benar. Setiap operasi dilacak secara terpisah dengan mempertimbangkan ketepatan dan waktu menjawab.", "Operasi yang sulit mendapat perhatian lebih. Operasi yang sudah dikenal muncul lebih jarang, tetapi tetap menjadi bagian dari tinjauan rutin."], "callout": "Tujuannya bukan sekadar menuntaskan semua tabel perkalian, melainkan membangun kepercayaan diri, kelancaran, dan ingatan yang andal secara bertahap."},
+    "adaptive": {"eyebrow": "Pembelajaran yang menyesuaikan", "heading": "Latihan berubah seiring tumbuhnya kepercayaan diri", "intro": "Operasi yang sama dapat disajikan dengan cara berbeda. Saat anak semakin yakin, Numblop secara bertahap meminta mereka mengingat jawaban dengan lebih mandiri.", "stages": [{"label": "Tahap 1", "title": "Membangun keakraban", "description": "Empat pilihan jawaban memberi format yang lebih sederhana saat operasi masih dipelajari."}, {"label": "Tahap 2", "title": "Membangun keyakinan", "description": "Enam pilihan jawaban membuat latihan sedikit lebih menantang saat kemampuan meningkat."}, {"label": "Tahap 3", "title": "Mengingat secara mandiri", "description": "Jawaban dimasukkan tanpa pilihan ganda untuk mendorong ingatan yang yakin."}], "principle": "Latih yang perlu dilatih. Perkuat yang sudah dipelajari. Terus maju.", "note": "Latihan menyesuaikan seiring perkembangan anak. Operasi sulit mendapat perhatian lebih, sedangkan yang dikenal tetap dalam tinjauan rutin. Kemajuan bergantung pada kinerja individu, bukan jumlah percobaan tetap."},
+    "methodology": {"heading": "Dari metodologi pendidikan menjadi gim", "paragraphs": ["Mengubah prinsip pengajaran menjadi gim yang berfungsi memerlukan sistem yang melacak setiap operasi, menilai jawaban, menyesuaikan bentuk pertanyaan, dan memilih apa yang perlu dilatih berikutnya.", "Di atas fondasi itu, Numblop secara bertahap menambahkan progres, hadiah, penyesuaian, dan unsur lain yang membuat latihan rutin lebih menarik.", "Metodologi pendidikan tetap menjadi inti Numblop. Unsur gim hadir untuk mendukungnya."], "imageAlt": "Layar latihan Numblop tempat jawaban dimasukkan secara mandiri"},
+    "evolving": {"heading": "Proyek independen yang terus berkembang", "paragraphs": ["Numblop dikembangkan pada waktu luang kami sebagai proyek keluarga kecil dan independen dari Republik Ceko.", "Proyek ini memadukan pengalaman kelas, pengembangan perangkat lunak, desain gim, dan alat pengembangan modern berbantuan AI.", "Apa yang bermula sebagai kumpulan dokumen pendidikan telah berkembang menjadi gim belajar multibahasa. Fitur, penyempurnaan, bahasa, dan gagasan baru terus ditambahkan dengan tujuan yang sama: membuat latihan perkalian lebih efektif, mudah diakses, dan menyenangkan."], "location": "Dibuat di Republik Ceko"},
+    "homeEntry": {"eyebrow": "Di balik gim", "heading": "Dibangun dari prinsip pengajaran, bukan soal acak", "body": "Lihat bagaimana pengalaman kelas menjadi sistem latihan adaptif Numblop.", "cta": "Tentang Numblop"},
+    "cta": {"heading": "Siap berlatih?", "body": "Jelajahi perkalian dengan kecepatanmu sendiri bersama Numblop.", "button": "Mainkan Numblop"}
+  },
+  "hu": {
+    "navLabel": "A Numblopról",
+    "meta": {"title": "A Numblopról | Pedagógiai megközelítés és adaptív szorzás", "description": "Ismerd meg, hogyan ötvözi a Numblop a tanítási tapasztalatot, az adaptív tanulást és a játéktervezést a szorzás gyakorlásához."},
+    "hero": {"eyebrow": "A Numblopról", "title": "A gyermekek tanulási módjára építve", "tagline": "Tanítási tapasztalatból formált szorzójáték.", "intro": ["A Numblop független oktatási projekt, amely a gyakorlati tantermi tapasztalatot a modern technológiával kapcsolja össze.", "Egy alsó tagozatos tanító által készített oktatási anyagokkal és didaktikai irányelvekkel indult. Ezekből születtek a tanulási szabályok, amelyek meghatározzák a szorzás gyakorlását a játékban."], "imageAlt": "Numblop, a barátságos figura, aki végigkíséri a gyerekeket a játékon"},
+    "foundation": {"heading": "A tananyagoktól a tanulási rendszerig", "paragraphs": ["A Numblop nem kész játékként indult. Először pontosan leírtuk, mire van szükségük a gyerekeknek a szorzás tanulásakor: fokozatos kihívásra, hasznos visszajelzésre és rendszeres gyakorlásra, amely a még figyelmet igénylő műveletekre összpontosít.", "Ezeket a tanítási elveket olyan rendszerré alakítottuk, amely minden művelet fejlődését külön követi, és kiválasztja a következő hasznos gyakorlatot."], "steps": ["Oktatási anyagok", "Tanulási szabályok", "Adaptív játék"]},
+    "rightAnswer": {"heading": "Több mint a helyes válasz", "paragraphs": ["Egy szorzás helyes megoldása és a válasz automatikus felidézése két különböző dolog.", "Ezért a Numblop nem csupán a helyes válaszokat számolja. Minden műveletet külön követ, és a pontosságot, valamint a válaszidőt is figyelembe veszi.", "A nehéz műveletek több figyelmet kapnak. Az ismertek ritkábban jelennek meg, de a rendszeres ismétlés részei maradnak."], "callout": "A cél nem csupán minden szorzótábla befejezése, hanem a magabiztosság, a folyékonyság és a megbízható felidézés fokozatos felépítése."},
+    "adaptive": {"eyebrow": "Alkalmazkodó tanulás", "heading": "A gyakorlás a magabiztossággal együtt változik", "intro": "Ugyanaz a művelet többféleképpen is megjelenhet. Ahogy a gyermek egyre biztosabbá válik, a Numblop fokozatosan önállóbb felidézést kér.", "stages": [{"label": "1. szakasz", "title": "Ismerkedés", "description": "Négy válaszlehetőség egyszerűbb formát kínál, amíg a művelet tanulása tart."}, {"label": "2. szakasz", "title": "Magabiztosság építése", "description": "Hat válaszlehetőség a tudás növekedésével kissé nehezebbé teszi a feladatot."}, {"label": "3. szakasz", "title": "Önálló felidézés", "description": "A választ választási lehetőségek nélkül kell beírni, ami biztos felidézésre ösztönöz."}], "principle": "Azt gyakorold, amit kell. Erősítsd meg, amit megtanultál. Haladj tovább.", "note": "A gyakorlás alkalmazkodik a gyermek fejlődéséhez. A nehéz műveletek több figyelmet kapnak, az ismertek pedig a rendszeres ismétlésben maradnak. A haladás az egyéni teljesítménytől függ, nem rögzített próbálkozásszámtól."},
+    "methodology": {"heading": "Az oktatási módszertantól a játékig", "paragraphs": ["A tanítási elvek működő játékká alakításához olyan rendszer kellett, amely követi az egyes műveleteket, értékeli a válaszokat, módosítja a kérdés formáját, és kiválasztja a következő gyakorlást.", "Erre az alapra fokozatosan épültek rá a haladás, a jutalmak, a személyre szabás és más elemek, amelyek érdekesebbé teszik a rendszeres gyakorlást.", "Az oktatási módszertan továbbra is a Numblop magja. A játékelemek ezt támogatják."], "imageAlt": "Numblop gyakorlóképernyő, ahol a választ önállóan kell beírni"},
+    "evolving": {"heading": "Folyamatosan fejlődő független projekt", "paragraphs": ["A Numblopot szabadidőnkben fejlesztjük kis, független családi projektként a Cseh Köztársaságban.", "Egyesíti a tantermi tapasztalatot, a szoftverfejlesztést, a játéktervezést és a modern, mesterséges intelligenciával támogatott fejlesztőeszközöket.", "Az oktatási dokumentumok gyűjteményéből többnyelvű tanulójáték lett. Új funkciók, fejlesztések, nyelvek és ötletek kerülnek bele ugyanazzal a céllal: a szorzás gyakorlása legyen hatékonyabb, hozzáférhetőbb és élvezetesebb."], "location": "A Cseh Köztársaságban készült"},
+    "homeEntry": {"eyebrow": "A játék mögött", "heading": "Tanítási elvekre, nem véletlen kérdésekre épül", "body": "Nézd meg, hogyan lett a tantermi tapasztalatból a Numblop adaptív gyakorlórendszere.", "cta": "A Numblopról"},
+    "cta": {"heading": "Készen állsz a gyakorlásra?", "body": "Fedezd fel a szorzást a saját tempódban a Numbloppal.", "button": "Játssz a Numbloppal"}
+  }
+}

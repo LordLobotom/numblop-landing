@@ -7,6 +7,7 @@ import {
 } from '@/lib/links'
 import { blogPath, getLocaleContent, guideLinks } from '@/lib/content'
 import type { Dictionary, Locale } from '@/lib/i18n/dictionary'
+import { getAboutContent } from '@/lib/i18n/about'
 
 export function SiteFooter({
   dict,
@@ -16,6 +17,7 @@ export function SiteFooter({
   locale: Locale
 }) {
   const { ui } = getLocaleContent(locale)
+  const about = getAboutContent(locale)
 
   return (
     <footer className="border-t border-border/60 bg-muted/40">
@@ -86,6 +88,12 @@ export function SiteFooter({
           </a>
         </nav>
         <div className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2">
+          <a
+            href={`/${locale}/about/`}
+            className="text-sm font-medium text-muted-foreground hover:text-accent hover:underline"
+          >
+            {about.navLabel}
+          </a>
           <a
             href={`/${locale}/privacy/`}
             className="text-sm font-medium text-muted-foreground hover:text-accent hover:underline"

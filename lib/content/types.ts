@@ -20,7 +20,7 @@ export interface Section {
 export const seoPageIds = ['practice', 'play', 'progress'] as const
 export type SeoPageId = (typeof seoPageIds)[number]
 
-export const articleIds = ['without-rote'] as const
+export const articleIds = ['without-rote', 'halloween-cosmetics'] as const
 export type ArticleId = (typeof articleIds)[number]
 
 export interface ContentImage {
@@ -63,6 +63,14 @@ export interface Article extends ContentDoc {
   published: string
   /** Practical summary rendered as a highlighted list under the intro. */
   takeaways: string[]
+  /** Optional first-party video shown behind a privacy-preserving click facade. */
+  video?: {
+    youtubeId: string
+    title: string
+    playLabel: string
+    privacyNote: string
+    watchLabel: string
+  }
 }
 
 export interface FaqItem {

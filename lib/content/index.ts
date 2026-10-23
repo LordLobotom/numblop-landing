@@ -36,10 +36,11 @@ import tr from './locales/tr.json'
 import vi from './locales/vi.json'
 import id from './locales/id.json'
 import hu from './locales/hu.json'
+import { halloweenArticles } from './halloween'
 
 export * from './types'
 
-const catalog: ContentCatalog = {
+const baseCatalog: ContentCatalog = {
   cs,
   en,
   sk,
@@ -62,6 +63,16 @@ const catalog: ContentCatalog = {
   id: id as LocaleContent,
   hu: hu as LocaleContent,
 }
+
+const catalog = Object.fromEntries(
+  locales.map((locale) => [
+    locale,
+    {
+      ...baseCatalog[locale],
+      articles: [...baseCatalog[locale].articles, halloweenArticles[locale]],
+    },
+  ]),
+) as ContentCatalog
 
 export function getLocaleContent(locale: Locale): LocaleContent {
   return catalog[locale]

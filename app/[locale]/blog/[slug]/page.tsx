@@ -5,6 +5,7 @@ import { ArrowLeft, Globe, Smartphone } from 'lucide-react'
 import { Breadcrumbs } from '@/components/content/breadcrumbs'
 import { ProseIntro, ProseSections } from '@/components/content/prose'
 import { RelatedContent } from '@/components/content/related'
+import { ArticleVideo } from '@/components/content/video'
 import { ArticleJsonLd, BreadcrumbJsonLd } from '@/components/structured-data'
 import { Button } from '@/components/ui/button'
 import { getDictionary, isLocale } from '@/lib/i18n/dictionary'
@@ -141,6 +142,8 @@ export default async function ArticlePage({
             className="mt-8 w-full rounded-2xl border border-border shadow-md"
           />
         )}
+
+        {article.video && <ArticleVideo video={article.video} />}
 
         <section className="mt-10 rounded-2xl border border-border bg-muted/40 px-6 py-5">
           <h2 className="text-lg font-semibold">

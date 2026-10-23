@@ -36,12 +36,16 @@ export const TRAILER_WATCH_URL = `https://youtu.be/${TRAILER_VIDEO_ID}`
 // domain is embedding the player and refuses to start with "Error 153 – video
 // player configuration error". The iframe also carries its own referrerPolicy
 // for the same reason; see components/landing/trailer.tsx.
-export function trailerEmbedUrl(origin: string | undefined) {
+export function youtubeEmbedUrl(videoId: string, origin: string | undefined) {
   const params = new URLSearchParams({ autoplay: '1', rel: '0' })
   // On file:// the origin is the string "null", which YouTube rejects outright
   // — better to send nothing and let it fall back to the referrer.
   if (origin?.startsWith('http')) {
     params.set('origin', origin)
   }
-  return `https://www.youtube-nocookie.com/embed/${TRAILER_VIDEO_ID}?${params}`
+  return `https://www.youtube-nocookie.com/embed/${videoId}?${params}`
+}
+
+export function trailerEmbedUrl(origin: string | undefined) {
+  return youtubeEmbedUrl(TRAILER_VIDEO_ID, origin)
 }

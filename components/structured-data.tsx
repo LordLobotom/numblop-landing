@@ -193,7 +193,9 @@ export function ArticleJsonLd({
               '@type': 'VideoObject',
               name: article.video.title,
               description: article.metaDescription,
-              thumbnailUrl: `https://i.ytimg.com/vi/${article.video.youtubeId}/hqdefault.jpg`,
+              thumbnailUrl: article.image
+                ? absoluteUrl(article.image.src)
+                : `https://i.ytimg.com/vi/${article.video.youtubeId}/hqdefault.jpg`,
               uploadDate: article.published,
               contentUrl: `https://www.youtube.com/watch?v=${article.video.youtubeId}`,
               embedUrl: `https://www.youtube-nocookie.com/embed/${article.video.youtubeId}`,

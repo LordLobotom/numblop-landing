@@ -70,6 +70,7 @@ export interface Article extends ContentDoc {
     playLabel: string
     privacyNote: string
     watchLabel: string
+    poster?: ContentImage
   }
 }
 

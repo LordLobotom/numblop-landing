@@ -17,7 +17,22 @@ function article(copy: HalloweenCopy): Article {
     published: PUBLISHED,
     updated: PUBLISHED,
     ...copy,
-    video: { youtubeId: VIDEO_ID, ...copy.video },
+    image: {
+      src: '/posts/halloween-cosmetics.webp',
+      alt: copy.excerpt,
+      width: 1200,
+      height: 675,
+    },
+    video: {
+      youtubeId: VIDEO_ID,
+      ...copy.video,
+      poster: {
+        src: '/posts/halloween-numblop.webp',
+        alt: '',
+        width: 768,
+        height: 768,
+      },
+    },
   }
 }
 
